@@ -184,7 +184,9 @@ Overview of **I²EBench**, an automated system for evaluating the quality of edi
 
 ```
 
+# 🤔How to evaluate with my own editing model
 
+[Check how to evaluate with my own editing model](./HOW_TO_EVAL.md)
 
 
 
