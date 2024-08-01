@@ -1,0 +1,582 @@
+[
+    [
+        "BGReplacement",
+        {
+            "any2pix": {
+                "metrics": {
+                    "accuracy": 0.6403
+                }
+            },
+            "hive": {
+                "metrics": {
+                    "accuracy": 0.7429
+                }
+            },
+            "hqedit": {
+                "metrics": {
+                    "accuracy": 0.7122
+                }
+            },
+            "iedit": {
+                "metrics": {
+                    "accuracy": 0.5036
+                }
+            },
+            "instruct-diffusion": {
+                "metrics": {
+                    "accuracy": 0.6071
+                }
+            },
+            "instructpix2pix": {
+                "metrics": {
+                    "accuracy": 0.6571
+                }
+            },
+            "magicbrush": {
+                "metrics": {
+                    "accuracy": 0.7857
+                }
+            },
+            "mgie": {
+                "metrics": {
+                    "accuracy": 0.8286
+                }
+            }
+        }
+    ],
+    [
+        "ColorAlteration",
+        {
+            "any2pix": {
+                "metrics": {
+                    "accuracy": 0.1232
+                }
+            },
+            "hive": {
+                "metrics": {
+                    "accuracy": 0.3
+                }
+            },
+            "hqedit": {
+                "metrics": {
+                    "accuracy": 0.2754
+                }
+            },
+            "iedit": {
+                "metrics": {
+                    "accuracy": 0.0362
+                }
+            },
+            "instruct-diffusion": {
+                "metrics": {
+                    "accuracy": 0.5357
+                }
+            },
+            "instructpix2pix": {
+                "metrics": {
+                    "accuracy": 0.4929
+                }
+            },
+            "magicbrush": {
+                "metrics": {
+                    "accuracy": 0.5571
+                }
+            },
+            "mgie": {
+                "metrics": {
+                    "accuracy": 0.3286
+                }
+            }
+        }
+    ],
+    [
+        "Counting",
+        {
+            "any2pix": {
+                "metrics": {
+                    "accuracy": 0.2059
+                }
+            },
+            "hive": {
+                "metrics": {
+                    "accuracy": 0.1857
+                }
+            },
+            "hqedit": {
+                "metrics": {
+                    "accuracy": 0.1926
+                }
+            },
+            "iedit": {
+                "metrics": {
+                    "accuracy": 0.1176
+                }
+            },
+            "instruct-diffusion": {
+                "metrics": {
+                    "accuracy": 0.15
+                }
+            },
+            "instructpix2pix": {
+                "metrics": {
+                    "accuracy": 0.1357
+                }
+            },
+            "magicbrush": {
+                "metrics": {
+                    "accuracy": 0.3071
+                }
+            },
+            "mgie": {
+                "metrics": {
+                    "accuracy": 0.1714
+                }
+            }
+        }
+    ],
+    [
+        "Deblurring",
+        {
+            "EXP_MAX": 0.9194,
+            "EXP_MIN": 0.1379,
+            "any2pix": {
+                "SSIM": 0.3434
+            },
+            "hive": {
+                "SSIM": 0.4425
+            },
+            "hqedit": {
+                "SSIM": 0.3527
+            },
+            "iedit": {
+                "SSIM": 0.4077
+            },
+            "instruct-diffusion": {
+                "SSIM": 0.4248
+            },
+            "instructpix2pix": {
+                "SSIM": 0.4803
+            },
+            "magicbrush": {
+                "SSIM": 0.4838
+            },
+            "mgie": {
+                "SSIM": 0.603
+            }
+        }
+    ],
+    [
+        "DirectionPerception",
+        {
+            "any2pix": {
+                "metrics": {
+                    "accuracy": 0.4173
+                }
+            },
+            "hive": {
+                "metrics": {
+                    "accuracy": 0.4714
+                }
+            },
+            "hqedit": {
+                "metrics": {
+                    "accuracy": 0.4779
+                }
+            },
+            "iedit": {
+                "metrics": {
+                    "accuracy": 0.4173
+                }
+            },
+            "instruct-diffusion": {
+                "metrics": {
+                    "accuracy": 0.4429
+                }
+            },
+            "instructpix2pix": {
+                "metrics": {
+                    "accuracy": 0.3714
+                }
+            },
+            "magicbrush": {
+                "metrics": {
+                    "accuracy": 0.4929
+                }
+            },
+            "mgie": {
+                "metrics": {
+                    "accuracy": 0.4857
+                }
+            }
+        }
+    ],
+    [
+        "HazeRemoval",
+        {
+            "EXP_MAX": 0.927,
+            "EXP_MIN": 0.1266,
+            "any2pix": {
+                "SSIM": 0.4727
+            },
+            "hive": {
+                "SSIM": 0.5489
+            },
+            "hqedit": {
+                "SSIM": 0.3925
+            },
+            "iedit": {
+                "SSIM": 0.5885
+            },
+            "instruct-diffusion": {
+                "SSIM": 0.5845
+            },
+            "instructpix2pix": {
+                "SSIM": 0.5615
+            },
+            "magicbrush": {
+                "SSIM": 0.5946
+            },
+            "mgie": {
+                "SSIM": 0.5175
+            }
+        }
+    ],
+    [
+        "Lowlight",
+        {
+            "EXP_MAX": 0.896,
+            "EXP_MIN": 0.0009,
+            "any2pix": {
+                "SSIM": 0.1803
+            },
+            "hive": {
+                "SSIM": 0.3761
+            },
+            "hqedit": {
+                "SSIM": 0.4171
+            },
+            "iedit": {
+                "SSIM": 0.1383
+            },
+            "instruct-diffusion": {
+                "SSIM": 0.5661
+            },
+            "instructpix2pix": {
+                "SSIM": 0.4332
+            },
+            "magicbrush": {
+                "SSIM": 0.3771
+            },
+            "mgie": {
+                "SSIM": 0.3999
+            }
+        }
+    ],
+    [
+        "NoiseRemoval",
+        {
+            "EXP_MAX": 0.77,
+            "EXP_MIN": 0.0079,
+            "any2pix": {
+                "SSIM": 0.2289
+            },
+            "hive": {
+                "SSIM": 0.2459
+            },
+            "hqedit": {
+                "SSIM": 0.2213
+            },
+            "iedit": {
+                "SSIM": 0.154
+            },
+            "instruct-diffusion": {
+                "SSIM": 0.286
+            },
+            "instructpix2pix": {
+                "SSIM": 0.2011
+            },
+            "magicbrush": {
+                "SSIM": 0.2059
+            },
+            "mgie": {
+                "SSIM": 0.2325
+            }
+        }
+    ],
+    [
+        "ObjectRemoval",
+        {
+            "any2pix": {
+                "metrics": {
+                    "accuracy": 0.4676
+                }
+            },
+            "hive": {
+                "metrics": {
+                    "accuracy": 0.4214
+                }
+            },
+            "hqedit": {
+                "metrics": {
+                    "accuracy": 0.2374
+                }
+            },
+            "iedit": {
+                "metrics": {
+                    "accuracy": 0.0504
+                }
+            },
+            "instruct-diffusion": {
+                "metrics": {
+                    "accuracy": 0.6571
+                }
+            },
+            "instructpix2pix": {
+                "metrics": {
+                    "accuracy": 0.25
+                }
+            },
+            "magicbrush": {
+                "metrics": {
+                    "accuracy": 0.3214
+                }
+            },
+            "mgie": {
+                "metrics": {
+                    "accuracy": 0.3786
+                }
+            }
+        }
+    ],
+    [
+        "RainRemoval",
+        {
+            "EXP_MAX": 0.9611,
+            "EXP_MIN": 0.0738,
+            "any2pix": {
+                "SSIM": 0.4994
+            },
+            "hive": {
+                "SSIM": 0.4547
+            },
+            "hqedit": {
+                "SSIM": 0.3852
+            },
+            "iedit": {
+                "SSIM": 0.6444
+            },
+            "instruct-diffusion": {
+                "SSIM": 0.672
+            },
+            "instructpix2pix": {
+                "SSIM": 0.5664
+            },
+            "magicbrush": {
+                "SSIM": 0.606
+            },
+            "mgie": {
+                "SSIM": 0.56
+            }
+        }
+    ],
+    [
+        "RegionAccuracy",
+        {
+            "EXP_MAX": 0.987,
+            "EXP_MIN": 0.0641,
+            "any2pix": {
+                "RegionAccuracy": 0.5275
+            },
+            "hive": {
+                "RegionAccuracy": 0.5815
+            },
+            "hqedit": {
+                "RegionAccuracy": 0.4921
+            },
+            "iedit": {
+                "RegionAccuracy": 0.7708
+            },
+            "instruct-diffusion": {
+                "RegionAccuracy": 0.6618
+            },
+            "instructpix2pix": {
+                "RegionAccuracy": 0.6163
+            },
+            "magicbrush": {
+                "RegionAccuracy": 0.6634
+            },
+            "mgie": {
+                "RegionAccuracy": 0.696
+            }
+        }
+    ],
+    [
+        "Replacement",
+        {
+            "any2pix": {
+                "metrics": {
+                    "accuracy": 0.3824
+                }
+            },
+            "hive": {
+                "metrics": {
+                    "accuracy": 0.8643
+                }
+            },
+            "hqedit": {
+                "metrics": {
+                    "accuracy": 0.4706
+                }
+            },
+            "iedit": {
+                "metrics": {
+                    "accuracy": 0.0441
+                }
+            },
+            "instruct-diffusion": {
+                "metrics": {
+                    "accuracy": 0.4286
+                }
+            },
+            "instructpix2pix": {
+                "metrics": {
+                    "accuracy": 0.4429
+                }
+            },
+            "magicbrush": {
+                "metrics": {
+                    "accuracy": 0.5857
+                }
+            },
+            "mgie": {
+                "metrics": {
+                    "accuracy": 0.6571
+                }
+            }
+        }
+    ],
+    [
+        "ShadowRemoval",
+        {
+            "EXP_MAX": 0.8919,
+            "EXP_MIN": 0.0105,
+            "any2pix": {
+                "SSIM": 0.3584
+            },
+            "hive": {
+                "SSIM": 0.3761
+            },
+            "hqedit": {
+                "SSIM": 0.3313
+            },
+            "iedit": {
+                "SSIM": 0.3688
+            },
+            "instruct-diffusion": {
+                "SSIM": 0.3743
+            },
+            "instructpix2pix": {
+                "SSIM": 0.3419
+            },
+            "magicbrush": {
+                "SSIM": 0.4191
+            },
+            "mgie": {
+                "SSIM": 0.3691
+            }
+        }
+    ],
+    [
+        "SnowRemoval",
+        {
+            "EXP_MAX": 0.8926,
+            "EXP_MIN": 0.0218,
+            "any2pix": {
+                "SSIM": 0.4297
+            },
+            "hive": {
+                "SSIM": 0.5149
+            },
+            "hqedit": {
+                "SSIM": 0.3897
+            },
+            "iedit": {
+                "SSIM": 0.4345
+            },
+            "instruct-diffusion": {
+                "SSIM": 0.5565
+            },
+            "instructpix2pix": {
+                "SSIM": 0.5759
+            },
+            "magicbrush": {
+                "SSIM": 0.5781
+            },
+            "mgie": {
+                "SSIM": 0.3404
+            }
+        }
+    ],
+    [
+        "StyleAlteration",
+        {
+            "EXP_MAX": 33.84375,
+            "EXP_MIN": 12.9609375,
+            "any2pix": {
+                "clip_score": 26.7635
+            },
+            "hive": {
+                "clip_score": 25.3152
+            },
+            "hqedit": {
+                "clip_score": 15.9625
+            },
+            "iedit": {
+                "clip_score": 19.8297
+            },
+            "instruct-diffusion": {
+                "clip_score": 21.6889
+            },
+            "instructpix2pix": {
+                "clip_score": 23.7633
+            },
+            "magicbrush": {
+                "clip_score": 22.7811
+            },
+            "mgie": {
+                "clip_score": 23.6757
+            }
+        }
+    ],
+    [
+        "WatermarkRemoval",
+        {
+            "EXP_MAX": 0.9642,
+            "EXP_MIN": 0.0134,
+            "any2pix": {
+                "SSIM": 0.4728
+            },
+            "hive": {
+                "SSIM": 0.4999
+            },
+            "hqedit": {
+                "SSIM": 0.298
+            },
+            "iedit": {
+                "SSIM": 0.8268
+            },
+            "instruct-diffusion": {
+                "SSIM": 0.8549
+            },
+            "instructpix2pix": {
+                "SSIM": 0.5812
+            },
+            "magicbrush": {
+                "SSIM": 0.6333
+            },
+            "mgie": {
+                "SSIM": 0.5553
+            }
+        }
+    ]
+]
