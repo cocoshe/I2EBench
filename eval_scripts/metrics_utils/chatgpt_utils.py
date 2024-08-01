@@ -30,6 +30,7 @@ Is the machine's answer correct? Answer yes or no.
 
     model = "gpt-4-0125-preview"
 
+    # Use your own GPT4 API configuration
     openai.base_url = 'http://openai.infly.tech/v1/'
     openai.api_key = 'no-modify'
     extra = {}

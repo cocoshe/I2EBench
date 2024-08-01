@@ -31,7 +31,7 @@ def gpt4_run(edited_path, question):
     ]
 
     model = "gpt-4-vision-preview"
-
+    # Use your own GPT4 API configuration
     openai.base_url = 'http://openai.infly.tech/v1/'
     openai.api_key = 'no-modify'
     extra = {}
