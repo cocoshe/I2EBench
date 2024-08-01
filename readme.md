@@ -1,9 +1,8 @@
 # I²EBench
 
-[![Dataset Download](https://img.shields.io/badge/Dataset-Download-green?logo=googlechrome&logoColor=green)](https://drive.google.com/drive/folders/1W0sBksgtRTnzeucC0vp1eiU1jrlFMUim?usp=drive_link)
+[![Dataset Download](https://img.shields.io/badge/Dataset-Download-green?logo=googlechrome&logoColor=green)](https://drive.google.com/drive/folders/1RzeIaWjVHAofZAXmEPm3XcrfSdQCO5-q?usp=drive_link)
 
 > **I²EBench: A Comprehensive Benchmark for Instruction-based Image Editing**
-> Anonymous
 
 ## :mag:Overview
 
