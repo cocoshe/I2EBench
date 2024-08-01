@@ -1,0 +1,5742 @@
+{
+    "1": {
+        "image": "0001.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6627
+            ],
+            [
+                "magicbrush",
+                0.4564
+            ],
+            [
+                "hive",
+                0.4556
+            ],
+            [
+                "instructpix2pix",
+                0.4533
+            ],
+            [
+                "iedit",
+                0.4253
+            ],
+            [
+                "instruct-diffusion",
+                0.4022
+            ],
+            [
+                "hqedit",
+                0.3476
+            ],
+            [
+                "any2pix",
+                0.3278
+            ]
+        ]
+    },
+    "2": {
+        "image": "0002.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.8202
+            ],
+            [
+                "magicbrush",
+                0.5415
+            ],
+            [
+                "instructpix2pix",
+                0.5359
+            ],
+            [
+                "hqedit",
+                0.522
+            ],
+            [
+                "hive",
+                0.501
+            ],
+            [
+                "iedit",
+                0.4872
+            ],
+            [
+                "instruct-diffusion",
+                0.487
+            ],
+            [
+                "any2pix",
+                0.4536
+            ]
+        ]
+    },
+    "3": {
+        "image": "0003.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4365
+            ],
+            [
+                "magicbrush",
+                0.3221
+            ],
+            [
+                "instructpix2pix",
+                0.3185
+            ],
+            [
+                "hive",
+                0.2851
+            ],
+            [
+                "instruct-diffusion",
+                0.265
+            ],
+            [
+                "iedit",
+                0.2583
+            ],
+            [
+                "hqedit",
+                0.2514
+            ],
+            [
+                "any2pix",
+                0.1962
+            ]
+        ]
+    },
+    "4": {
+        "image": "0004.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7192
+            ],
+            [
+                "magicbrush",
+                0.4899
+            ],
+            [
+                "instructpix2pix",
+                0.4856
+            ],
+            [
+                "hqedit",
+                0.4469
+            ],
+            [
+                "iedit",
+                0.4468
+            ],
+            [
+                "any2pix",
+                0.439
+            ],
+            [
+                "hive",
+                0.4361
+            ],
+            [
+                "instruct-diffusion",
+                0.4275
+            ]
+        ]
+    },
+    "5": {
+        "image": "0005.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5462
+            ],
+            [
+                "instructpix2pix",
+                0.4446
+            ],
+            [
+                "magicbrush",
+                0.4084
+            ],
+            [
+                "hive",
+                0.4009
+            ],
+            [
+                "iedit",
+                0.3767
+            ],
+            [
+                "instruct-diffusion",
+                0.3734
+            ],
+            [
+                "any2pix",
+                0.307
+            ],
+            [
+                "hqedit",
+                0.2467
+            ]
+        ]
+    },
+    "6": {
+        "image": "0006.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5641
+            ],
+            [
+                "magicbrush",
+                0.4504
+            ],
+            [
+                "instructpix2pix",
+                0.423
+            ],
+            [
+                "instruct-diffusion",
+                0.3995
+            ],
+            [
+                "hive",
+                0.378
+            ],
+            [
+                "hqedit",
+                0.3602
+            ],
+            [
+                "iedit",
+                0.3592
+            ],
+            [
+                "any2pix",
+                0.3285
+            ]
+        ]
+    },
+    "7": {
+        "image": "0007.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7105
+            ],
+            [
+                "instructpix2pix",
+                0.7058
+            ],
+            [
+                "instruct-diffusion",
+                0.6762
+            ],
+            [
+                "iedit",
+                0.6712
+            ],
+            [
+                "hive",
+                0.6317
+            ],
+            [
+                "mgie",
+                0.5938
+            ],
+            [
+                "hqedit",
+                0.5585
+            ],
+            [
+                "any2pix",
+                0.4643
+            ]
+        ]
+    },
+    "8": {
+        "image": "0008.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6303
+            ],
+            [
+                "magicbrush",
+                0.6275
+            ],
+            [
+                "instructpix2pix",
+                0.5886
+            ],
+            [
+                "instruct-diffusion",
+                0.587
+            ],
+            [
+                "hive",
+                0.5709
+            ],
+            [
+                "iedit",
+                0.5662
+            ],
+            [
+                "any2pix",
+                0.5254
+            ],
+            [
+                "hqedit",
+                0.4693
+            ]
+        ]
+    },
+    "9": {
+        "image": "0009.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7101
+            ],
+            [
+                "magicbrush",
+                0.6199
+            ],
+            [
+                "instructpix2pix",
+                0.6045
+            ],
+            [
+                "hive",
+                0.5675
+            ],
+            [
+                "instruct-diffusion",
+                0.5624
+            ],
+            [
+                "iedit",
+                0.5113
+            ],
+            [
+                "hqedit",
+                0.5104
+            ],
+            [
+                "any2pix",
+                0.4836
+            ]
+        ]
+    },
+    "10": {
+        "image": "0010.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6256
+            ],
+            [
+                "instructpix2pix",
+                0.6204
+            ],
+            [
+                "mgie",
+                0.5929
+            ],
+            [
+                "instruct-diffusion",
+                0.5798
+            ],
+            [
+                "iedit",
+                0.575
+            ],
+            [
+                "hive",
+                0.5749
+            ],
+            [
+                "any2pix",
+                0.5338
+            ],
+            [
+                "hqedit",
+                0.4752
+            ]
+        ]
+    },
+    "11": {
+        "image": "0011.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.612
+            ],
+            [
+                "magicbrush",
+                0.4898
+            ],
+            [
+                "instructpix2pix",
+                0.4838
+            ],
+            [
+                "hive",
+                0.4313
+            ],
+            [
+                "iedit",
+                0.3338
+            ],
+            [
+                "instruct-diffusion",
+                0.3217
+            ],
+            [
+                "hqedit",
+                0.2736
+            ],
+            [
+                "any2pix",
+                0.2599
+            ]
+        ]
+    },
+    "12": {
+        "image": "0012.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5529
+            ],
+            [
+                "magicbrush",
+                0.4544
+            ],
+            [
+                "instructpix2pix",
+                0.4437
+            ],
+            [
+                "iedit",
+                0.3359
+            ],
+            [
+                "instruct-diffusion",
+                0.3357
+            ],
+            [
+                "hive",
+                0.3051
+            ],
+            [
+                "hqedit",
+                0.2924
+            ],
+            [
+                "any2pix",
+                0.2837
+            ]
+        ]
+    },
+    "13": {
+        "image": "0013.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5124
+            ],
+            [
+                "magicbrush",
+                0.3348
+            ],
+            [
+                "instructpix2pix",
+                0.3301
+            ],
+            [
+                "hive",
+                0.3032
+            ],
+            [
+                "instruct-diffusion",
+                0.2728
+            ],
+            [
+                "iedit",
+                0.2505
+            ],
+            [
+                "any2pix",
+                0.2396
+            ],
+            [
+                "hqedit",
+                0.223
+            ]
+        ]
+    },
+    "14": {
+        "image": "0014.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.593
+            ],
+            [
+                "hqedit",
+                0.4145
+            ],
+            [
+                "magicbrush",
+                0.4132
+            ],
+            [
+                "hive",
+                0.4024
+            ],
+            [
+                "instructpix2pix",
+                0.3974
+            ],
+            [
+                "instruct-diffusion",
+                0.3472
+            ],
+            [
+                "iedit",
+                0.3248
+            ],
+            [
+                "any2pix",
+                0.2534
+            ]
+        ]
+    },
+    "15": {
+        "image": "0015.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6743
+            ],
+            [
+                "hive",
+                0.3736
+            ],
+            [
+                "instruct-diffusion",
+                0.3517
+            ],
+            [
+                "iedit",
+                0.2958
+            ],
+            [
+                "instructpix2pix",
+                0.2841
+            ],
+            [
+                "magicbrush",
+                0.2745
+            ],
+            [
+                "any2pix",
+                0.2414
+            ],
+            [
+                "hqedit",
+                0.2238
+            ]
+        ]
+    },
+    "16": {
+        "image": "0016.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4382
+            ],
+            [
+                "instructpix2pix",
+                0.3481
+            ],
+            [
+                "instruct-diffusion",
+                0.3107
+            ],
+            [
+                "hive",
+                0.3101
+            ],
+            [
+                "magicbrush",
+                0.3065
+            ],
+            [
+                "iedit",
+                0.2414
+            ],
+            [
+                "hqedit",
+                0.2377
+            ],
+            [
+                "any2pix",
+                0.1989
+            ]
+        ]
+    },
+    "17": {
+        "image": "0017.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7171
+            ],
+            [
+                "mgie",
+                0.7161
+            ],
+            [
+                "instructpix2pix",
+                0.6998
+            ],
+            [
+                "instruct-diffusion",
+                0.6667
+            ],
+            [
+                "iedit",
+                0.6391
+            ],
+            [
+                "hive",
+                0.6181
+            ],
+            [
+                "hqedit",
+                0.568
+            ],
+            [
+                "any2pix",
+                0.5634
+            ]
+        ]
+    },
+    "18": {
+        "image": "0018.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7717
+            ],
+            [
+                "instructpix2pix",
+                0.6738
+            ],
+            [
+                "instruct-diffusion",
+                0.6528
+            ],
+            [
+                "hqedit",
+                0.6521
+            ],
+            [
+                "magicbrush",
+                0.6424
+            ],
+            [
+                "hive",
+                0.5919
+            ],
+            [
+                "iedit",
+                0.5891
+            ],
+            [
+                "any2pix",
+                0.5534
+            ]
+        ]
+    },
+    "19": {
+        "image": "0019.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5205
+            ],
+            [
+                "magicbrush",
+                0.5148
+            ],
+            [
+                "instructpix2pix",
+                0.503
+            ],
+            [
+                "hive",
+                0.4724
+            ],
+            [
+                "instruct-diffusion",
+                0.4521
+            ],
+            [
+                "iedit",
+                0.4398
+            ],
+            [
+                "any2pix",
+                0.4009
+            ],
+            [
+                "hqedit",
+                0.3504
+            ]
+        ]
+    },
+    "20": {
+        "image": "0020.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6331
+            ],
+            [
+                "magicbrush",
+                0.5279
+            ],
+            [
+                "hive",
+                0.5271
+            ],
+            [
+                "instructpix2pix",
+                0.523
+            ],
+            [
+                "iedit",
+                0.459
+            ],
+            [
+                "instruct-diffusion",
+                0.458
+            ],
+            [
+                "any2pix",
+                0.4044
+            ],
+            [
+                "hqedit",
+                0.2832
+            ]
+        ]
+    },
+    "21": {
+        "image": "0021.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7005
+            ],
+            [
+                "magicbrush",
+                0.515
+            ],
+            [
+                "instructpix2pix",
+                0.5097
+            ],
+            [
+                "instruct-diffusion",
+                0.4682
+            ],
+            [
+                "hive",
+                0.4472
+            ],
+            [
+                "iedit",
+                0.4446
+            ],
+            [
+                "hqedit",
+                0.426
+            ],
+            [
+                "any2pix",
+                0.3824
+            ]
+        ]
+    },
+    "22": {
+        "image": "0022.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5872
+            ],
+            [
+                "instruct-diffusion",
+                0.5098
+            ],
+            [
+                "hive",
+                0.4889
+            ],
+            [
+                "instructpix2pix",
+                0.4843
+            ],
+            [
+                "mgie",
+                0.4367
+            ],
+            [
+                "iedit",
+                0.4347
+            ],
+            [
+                "any2pix",
+                0.4031
+            ],
+            [
+                "hqedit",
+                0.3475
+            ]
+        ]
+    },
+    "23": {
+        "image": "0023.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5931
+            ],
+            [
+                "instruct-diffusion",
+                0.5396
+            ],
+            [
+                "hive",
+                0.5158
+            ],
+            [
+                "iedit",
+                0.4965
+            ],
+            [
+                "magicbrush",
+                0.4952
+            ],
+            [
+                "any2pix",
+                0.4788
+            ],
+            [
+                "instructpix2pix",
+                0.4609
+            ],
+            [
+                "hqedit",
+                0.3312
+            ]
+        ]
+    },
+    "24": {
+        "image": "0024.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5137
+            ],
+            [
+                "magicbrush",
+                0.4334
+            ],
+            [
+                "instructpix2pix",
+                0.4297
+            ],
+            [
+                "hive",
+                0.4016
+            ],
+            [
+                "iedit",
+                0.3408
+            ],
+            [
+                "instruct-diffusion",
+                0.3402
+            ],
+            [
+                "any2pix",
+                0.2749
+            ],
+            [
+                "hqedit",
+                0.2567
+            ]
+        ]
+    },
+    "25": {
+        "image": "0025.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6022
+            ],
+            [
+                "hqedit",
+                0.5283
+            ],
+            [
+                "instructpix2pix",
+                0.4804
+            ],
+            [
+                "magicbrush",
+                0.4648
+            ],
+            [
+                "hive",
+                0.4566
+            ],
+            [
+                "instruct-diffusion",
+                0.4436
+            ],
+            [
+                "iedit",
+                0.4208
+            ],
+            [
+                "any2pix",
+                0.3827
+            ]
+        ]
+    },
+    "26": {
+        "image": "0026.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.528
+            ],
+            [
+                "magicbrush",
+                0.3558
+            ],
+            [
+                "instructpix2pix",
+                0.3303
+            ],
+            [
+                "hive",
+                0.3182
+            ],
+            [
+                "instruct-diffusion",
+                0.2628
+            ],
+            [
+                "iedit",
+                0.2446
+            ],
+            [
+                "hqedit",
+                0.2263
+            ],
+            [
+                "any2pix",
+                0.2188
+            ]
+        ]
+    },
+    "27": {
+        "image": "0027.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5399
+            ],
+            [
+                "magicbrush",
+                0.336
+            ],
+            [
+                "instructpix2pix",
+                0.3313
+            ],
+            [
+                "instruct-diffusion",
+                0.2921
+            ],
+            [
+                "hive",
+                0.2756
+            ],
+            [
+                "iedit",
+                0.2676
+            ],
+            [
+                "any2pix",
+                0.2592
+            ],
+            [
+                "hqedit",
+                0.2392
+            ]
+        ]
+    },
+    "28": {
+        "image": "0028.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5076
+            ],
+            [
+                "hive",
+                0.3257
+            ],
+            [
+                "instruct-diffusion",
+                0.3126
+            ],
+            [
+                "magicbrush",
+                0.3103
+            ],
+            [
+                "instructpix2pix",
+                0.2884
+            ],
+            [
+                "hqedit",
+                0.253
+            ],
+            [
+                "iedit",
+                0.241
+            ],
+            [
+                "any2pix",
+                0.2245
+            ]
+        ]
+    },
+    "29": {
+        "image": "0029.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7364
+            ],
+            [
+                "instructpix2pix",
+                0.7321
+            ],
+            [
+                "instruct-diffusion",
+                0.7011
+            ],
+            [
+                "mgie",
+                0.6956
+            ],
+            [
+                "iedit",
+                0.6903
+            ],
+            [
+                "hive",
+                0.6489
+            ],
+            [
+                "hqedit",
+                0.5912
+            ],
+            [
+                "any2pix",
+                0.4571
+            ]
+        ]
+    },
+    "30": {
+        "image": "0030.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7211
+            ],
+            [
+                "magicbrush",
+                0.65
+            ],
+            [
+                "instructpix2pix",
+                0.6149
+            ],
+            [
+                "hive",
+                0.5961
+            ],
+            [
+                "instruct-diffusion",
+                0.5721
+            ],
+            [
+                "iedit",
+                0.5643
+            ],
+            [
+                "any2pix",
+                0.5084
+            ],
+            [
+                "hqedit",
+                0.497
+            ]
+        ]
+    },
+    "31": {
+        "image": "0031.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.702
+            ],
+            [
+                "instructpix2pix",
+                0.6477
+            ],
+            [
+                "magicbrush",
+                0.6449
+            ],
+            [
+                "instruct-diffusion",
+                0.621
+            ],
+            [
+                "hive",
+                0.6006
+            ],
+            [
+                "iedit",
+                0.5832
+            ],
+            [
+                "any2pix",
+                0.4614
+            ],
+            [
+                "hqedit",
+                0.3583
+            ]
+        ]
+    },
+    "32": {
+        "image": "0032.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6137
+            ],
+            [
+                "magicbrush",
+                0.4448
+            ],
+            [
+                "instructpix2pix",
+                0.3943
+            ],
+            [
+                "hive",
+                0.377
+            ],
+            [
+                "iedit",
+                0.3565
+            ],
+            [
+                "instruct-diffusion",
+                0.2905
+            ],
+            [
+                "hqedit",
+                0.2411
+            ],
+            [
+                "any2pix",
+                0.222
+            ]
+        ]
+    },
+    "33": {
+        "image": "0033.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6174
+            ],
+            [
+                "magicbrush",
+                0.4335
+            ],
+            [
+                "instructpix2pix",
+                0.4309
+            ],
+            [
+                "hive",
+                0.4195
+            ],
+            [
+                "instruct-diffusion",
+                0.3538
+            ],
+            [
+                "iedit",
+                0.3455
+            ],
+            [
+                "any2pix",
+                0.3148
+            ],
+            [
+                "hqedit",
+                0.2863
+            ]
+        ]
+    },
+    "34": {
+        "image": "0034.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6632
+            ],
+            [
+                "magicbrush",
+                0.6064
+            ],
+            [
+                "instructpix2pix",
+                0.5175
+            ],
+            [
+                "hive",
+                0.5169
+            ],
+            [
+                "iedit",
+                0.4533
+            ],
+            [
+                "instruct-diffusion",
+                0.4275
+            ],
+            [
+                "any2pix",
+                0.388
+            ],
+            [
+                "hqedit",
+                0.338
+            ]
+        ]
+    },
+    "35": {
+        "image": "0035.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6253
+            ],
+            [
+                "magicbrush",
+                0.5189
+            ],
+            [
+                "instructpix2pix",
+                0.5154
+            ],
+            [
+                "hive",
+                0.5019
+            ],
+            [
+                "iedit",
+                0.397
+            ],
+            [
+                "instruct-diffusion",
+                0.3514
+            ],
+            [
+                "hqedit",
+                0.351
+            ],
+            [
+                "any2pix",
+                0.3404
+            ]
+        ]
+    },
+    "36": {
+        "image": "0036.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5425
+            ],
+            [
+                "magicbrush",
+                0.41
+            ],
+            [
+                "instructpix2pix",
+                0.3835
+            ],
+            [
+                "hive",
+                0.3559
+            ],
+            [
+                "hqedit",
+                0.3367
+            ],
+            [
+                "instruct-diffusion",
+                0.3201
+            ],
+            [
+                "iedit",
+                0.3185
+            ],
+            [
+                "any2pix",
+                0.2302
+            ]
+        ]
+    },
+    "37": {
+        "image": "0037.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5309
+            ],
+            [
+                "magicbrush",
+                0.4386
+            ],
+            [
+                "instructpix2pix",
+                0.3865
+            ],
+            [
+                "hive",
+                0.3466
+            ],
+            [
+                "iedit",
+                0.3156
+            ],
+            [
+                "instruct-diffusion",
+                0.3133
+            ],
+            [
+                "any2pix",
+                0.2587
+            ],
+            [
+                "hqedit",
+                0.2115
+            ]
+        ]
+    },
+    "38": {
+        "image": "0038.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6574
+            ],
+            [
+                "instructpix2pix",
+                0.5158
+            ],
+            [
+                "instruct-diffusion",
+                0.4901
+            ],
+            [
+                "hive",
+                0.409
+            ],
+            [
+                "iedit",
+                0.4084
+            ],
+            [
+                "any2pix",
+                0.3829
+            ],
+            [
+                "hqedit",
+                0.3659
+            ],
+            [
+                "magicbrush",
+                0.2929
+            ]
+        ]
+    },
+    "39": {
+        "image": "0039.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.681
+            ],
+            [
+                "instructpix2pix",
+                0.6796
+            ],
+            [
+                "hive",
+                0.6118
+            ],
+            [
+                "instruct-diffusion",
+                0.5993
+            ],
+            [
+                "iedit",
+                0.5977
+            ],
+            [
+                "mgie",
+                0.5516
+            ],
+            [
+                "any2pix",
+                0.5493
+            ],
+            [
+                "hqedit",
+                0.472
+            ]
+        ]
+    },
+    "40": {
+        "image": "0040.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6417
+            ],
+            [
+                "magicbrush",
+                0.5685
+            ],
+            [
+                "instructpix2pix",
+                0.5581
+            ],
+            [
+                "hive",
+                0.5477
+            ],
+            [
+                "instruct-diffusion",
+                0.5384
+            ],
+            [
+                "iedit",
+                0.4825
+            ],
+            [
+                "hqedit",
+                0.4257
+            ],
+            [
+                "any2pix",
+                0.3365
+            ]
+        ]
+    },
+    "41": {
+        "image": "0041.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6038
+            ],
+            [
+                "magicbrush",
+                0.5426
+            ],
+            [
+                "instructpix2pix",
+                0.538
+            ],
+            [
+                "instruct-diffusion",
+                0.4842
+            ],
+            [
+                "iedit",
+                0.483
+            ],
+            [
+                "hive",
+                0.4733
+            ],
+            [
+                "any2pix",
+                0.4512
+            ],
+            [
+                "hqedit",
+                0.3623
+            ]
+        ]
+    },
+    "42": {
+        "image": "0042.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6443
+            ],
+            [
+                "magicbrush",
+                0.5277
+            ],
+            [
+                "instructpix2pix",
+                0.5208
+            ],
+            [
+                "hive",
+                0.5046
+            ],
+            [
+                "instruct-diffusion",
+                0.4859
+            ],
+            [
+                "iedit",
+                0.4563
+            ],
+            [
+                "hqedit",
+                0.4056
+            ],
+            [
+                "any2pix",
+                0.3848
+            ]
+        ]
+    },
+    "43": {
+        "image": "0043.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5798
+            ],
+            [
+                "magicbrush",
+                0.4894
+            ],
+            [
+                "instructpix2pix",
+                0.4431
+            ],
+            [
+                "hive",
+                0.4244
+            ],
+            [
+                "iedit",
+                0.4169
+            ],
+            [
+                "instruct-diffusion",
+                0.416
+            ],
+            [
+                "any2pix",
+                0.3339
+            ],
+            [
+                "hqedit",
+                0.3139
+            ]
+        ]
+    },
+    "44": {
+        "image": "0044.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6446
+            ],
+            [
+                "magicbrush",
+                0.4952
+            ],
+            [
+                "instructpix2pix",
+                0.4845
+            ],
+            [
+                "hive",
+                0.47
+            ],
+            [
+                "iedit",
+                0.3966
+            ],
+            [
+                "instruct-diffusion",
+                0.368
+            ],
+            [
+                "any2pix",
+                0.3665
+            ],
+            [
+                "hqedit",
+                0.3142
+            ]
+        ]
+    },
+    "45": {
+        "image": "0045.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5599
+            ],
+            [
+                "magicbrush",
+                0.534
+            ],
+            [
+                "instructpix2pix",
+                0.5333
+            ],
+            [
+                "instruct-diffusion",
+                0.5162
+            ],
+            [
+                "hive",
+                0.4736
+            ],
+            [
+                "iedit",
+                0.4548
+            ],
+            [
+                "hqedit",
+                0.4152
+            ],
+            [
+                "any2pix",
+                0.3955
+            ]
+        ]
+    },
+    "46": {
+        "image": "0046.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6469
+            ],
+            [
+                "instructpix2pix",
+                0.5977
+            ],
+            [
+                "hive",
+                0.5838
+            ],
+            [
+                "magicbrush",
+                0.5293
+            ],
+            [
+                "instruct-diffusion",
+                0.4913
+            ],
+            [
+                "iedit",
+                0.4832
+            ],
+            [
+                "any2pix",
+                0.3749
+            ],
+            [
+                "hqedit",
+                0.32
+            ]
+        ]
+    },
+    "47": {
+        "image": "0047.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6695
+            ],
+            [
+                "magicbrush",
+                0.5743
+            ],
+            [
+                "instructpix2pix",
+                0.5707
+            ],
+            [
+                "hive",
+                0.5226
+            ],
+            [
+                "iedit",
+                0.4924
+            ],
+            [
+                "instruct-diffusion",
+                0.4708
+            ],
+            [
+                "any2pix",
+                0.4699
+            ],
+            [
+                "hqedit",
+                0.4396
+            ]
+        ]
+    },
+    "48": {
+        "image": "0048.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3509
+            ],
+            [
+                "magicbrush",
+                0.2963
+            ],
+            [
+                "instructpix2pix",
+                0.2929
+            ],
+            [
+                "any2pix",
+                0.2675
+            ],
+            [
+                "instruct-diffusion",
+                0.26
+            ],
+            [
+                "hqedit",
+                0.2515
+            ],
+            [
+                "iedit",
+                0.2295
+            ],
+            [
+                "hive",
+                0.1711
+            ]
+        ]
+    },
+    "49": {
+        "image": "0049.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4837
+            ],
+            [
+                "hqedit",
+                0.3517
+            ],
+            [
+                "magicbrush",
+                0.3284
+            ],
+            [
+                "instructpix2pix",
+                0.3226
+            ],
+            [
+                "iedit",
+                0.2877
+            ],
+            [
+                "instruct-diffusion",
+                0.2799
+            ],
+            [
+                "hive",
+                0.273
+            ],
+            [
+                "any2pix",
+                0.1743
+            ]
+        ]
+    },
+    "50": {
+        "image": "0050.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4923
+            ],
+            [
+                "magicbrush",
+                0.4365
+            ],
+            [
+                "instructpix2pix",
+                0.4166
+            ],
+            [
+                "hqedit",
+                0.4069
+            ],
+            [
+                "iedit",
+                0.3866
+            ],
+            [
+                "instruct-diffusion",
+                0.3822
+            ],
+            [
+                "hive",
+                0.3377
+            ],
+            [
+                "any2pix",
+                0.3059
+            ]
+        ]
+    },
+    "51": {
+        "image": "0051.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.3857
+            ],
+            [
+                "magicbrush",
+                0.3759
+            ],
+            [
+                "mgie",
+                0.3747
+            ],
+            [
+                "instruct-diffusion",
+                0.3618
+            ],
+            [
+                "hive",
+                0.3472
+            ],
+            [
+                "iedit",
+                0.3177
+            ],
+            [
+                "any2pix",
+                0.3087
+            ],
+            [
+                "hqedit",
+                0.2741
+            ]
+        ]
+    },
+    "52": {
+        "image": "0052.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5825
+            ],
+            [
+                "magicbrush",
+                0.4408
+            ],
+            [
+                "instructpix2pix",
+                0.4345
+            ],
+            [
+                "hqedit",
+                0.3846
+            ],
+            [
+                "instruct-diffusion",
+                0.3839
+            ],
+            [
+                "hive",
+                0.3813
+            ],
+            [
+                "iedit",
+                0.3799
+            ],
+            [
+                "any2pix",
+                0.3202
+            ]
+        ]
+    },
+    "53": {
+        "image": "0053.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4186
+            ],
+            [
+                "magicbrush",
+                0.3487
+            ],
+            [
+                "instructpix2pix",
+                0.3438
+            ],
+            [
+                "hive",
+                0.3111
+            ],
+            [
+                "iedit",
+                0.26
+            ],
+            [
+                "hqedit",
+                0.2494
+            ],
+            [
+                "instruct-diffusion",
+                0.232
+            ],
+            [
+                "any2pix",
+                0.2285
+            ]
+        ]
+    },
+    "54": {
+        "image": "0054.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6598
+            ],
+            [
+                "hive",
+                0.4844
+            ],
+            [
+                "instructpix2pix",
+                0.4622
+            ],
+            [
+                "magicbrush",
+                0.4296
+            ],
+            [
+                "iedit",
+                0.4089
+            ],
+            [
+                "instruct-diffusion",
+                0.4083
+            ],
+            [
+                "any2pix",
+                0.3774
+            ],
+            [
+                "hqedit",
+                0.2912
+            ]
+        ]
+    },
+    "55": {
+        "image": "0055.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6078
+            ],
+            [
+                "hqedit",
+                0.6044
+            ],
+            [
+                "hive",
+                0.5587
+            ],
+            [
+                "instructpix2pix",
+                0.5497
+            ],
+            [
+                "instruct-diffusion",
+                0.5403
+            ],
+            [
+                "iedit",
+                0.5184
+            ],
+            [
+                "any2pix",
+                0.4081
+            ],
+            [
+                "mgie",
+                0.4053
+            ]
+        ]
+    },
+    "56": {
+        "image": "0056.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4755
+            ],
+            [
+                "magicbrush",
+                0.2856
+            ],
+            [
+                "hive",
+                0.2798
+            ],
+            [
+                "instructpix2pix",
+                0.2712
+            ],
+            [
+                "instruct-diffusion",
+                0.2139
+            ],
+            [
+                "any2pix",
+                0.1898
+            ],
+            [
+                "iedit",
+                0.1784
+            ],
+            [
+                "hqedit",
+                0.1584
+            ]
+        ]
+    },
+    "57": {
+        "image": "0057.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.8379
+            ],
+            [
+                "magicbrush",
+                0.5936
+            ],
+            [
+                "hive",
+                0.5914
+            ],
+            [
+                "instructpix2pix",
+                0.588
+            ],
+            [
+                "instruct-diffusion",
+                0.5583
+            ],
+            [
+                "hqedit",
+                0.5556
+            ],
+            [
+                "iedit",
+                0.5047
+            ],
+            [
+                "any2pix",
+                0.4192
+            ]
+        ]
+    },
+    "58": {
+        "image": "0058.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5222
+            ],
+            [
+                "instructpix2pix",
+                0.4048
+            ],
+            [
+                "hive",
+                0.3635
+            ],
+            [
+                "magicbrush",
+                0.3591
+            ],
+            [
+                "instruct-diffusion",
+                0.3492
+            ],
+            [
+                "any2pix",
+                0.3072
+            ],
+            [
+                "iedit",
+                0.2906
+            ],
+            [
+                "hqedit",
+                0.2842
+            ]
+        ]
+    },
+    "59": {
+        "image": "0059.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5089
+            ],
+            [
+                "magicbrush",
+                0.4409
+            ],
+            [
+                "instructpix2pix",
+                0.4372
+            ],
+            [
+                "hive",
+                0.3566
+            ],
+            [
+                "iedit",
+                0.3272
+            ],
+            [
+                "any2pix",
+                0.319
+            ],
+            [
+                "instruct-diffusion",
+                0.3161
+            ],
+            [
+                "hqedit",
+                0.2211
+            ]
+        ]
+    },
+    "60": {
+        "image": "0060.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7542
+            ],
+            [
+                "magicbrush",
+                0.6103
+            ],
+            [
+                "hive",
+                0.5828
+            ],
+            [
+                "instructpix2pix",
+                0.4585
+            ],
+            [
+                "instruct-diffusion",
+                0.4385
+            ],
+            [
+                "iedit",
+                0.4314
+            ],
+            [
+                "any2pix",
+                0.3612
+            ],
+            [
+                "hqedit",
+                0.237
+            ]
+        ]
+    },
+    "61": {
+        "image": "0061.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5692
+            ],
+            [
+                "magicbrush",
+                0.4917
+            ],
+            [
+                "instructpix2pix",
+                0.4864
+            ],
+            [
+                "hive",
+                0.4355
+            ],
+            [
+                "iedit",
+                0.4313
+            ],
+            [
+                "instruct-diffusion",
+                0.4181
+            ],
+            [
+                "hqedit",
+                0.3447
+            ],
+            [
+                "any2pix",
+                0.3126
+            ]
+        ]
+    },
+    "62": {
+        "image": "0062.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.744
+            ],
+            [
+                "magicbrush",
+                0.4706
+            ],
+            [
+                "hive",
+                0.443
+            ],
+            [
+                "instructpix2pix",
+                0.4131
+            ],
+            [
+                "iedit",
+                0.3853
+            ],
+            [
+                "instruct-diffusion",
+                0.3851
+            ],
+            [
+                "hqedit",
+                0.3217
+            ],
+            [
+                "any2pix",
+                0.3099
+            ]
+        ]
+    },
+    "63": {
+        "image": "0063.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5482
+            ],
+            [
+                "instructpix2pix",
+                0.5322
+            ],
+            [
+                "mgie",
+                0.5298
+            ],
+            [
+                "hive",
+                0.4887
+            ],
+            [
+                "iedit",
+                0.4647
+            ],
+            [
+                "instruct-diffusion",
+                0.4439
+            ],
+            [
+                "any2pix",
+                0.4345
+            ],
+            [
+                "hqedit",
+                0.4081
+            ]
+        ]
+    },
+    "64": {
+        "image": "0064.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5178
+            ],
+            [
+                "magicbrush",
+                0.4241
+            ],
+            [
+                "instructpix2pix",
+                0.4211
+            ],
+            [
+                "iedit",
+                0.3529
+            ],
+            [
+                "instruct-diffusion",
+                0.3338
+            ],
+            [
+                "hive",
+                0.327
+            ],
+            [
+                "any2pix",
+                0.2997
+            ],
+            [
+                "hqedit",
+                0.2476
+            ]
+        ]
+    },
+    "65": {
+        "image": "0065.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6363
+            ],
+            [
+                "instructpix2pix",
+                0.4711
+            ],
+            [
+                "instruct-diffusion",
+                0.4399
+            ],
+            [
+                "hive",
+                0.4209
+            ],
+            [
+                "magicbrush",
+                0.3822
+            ],
+            [
+                "any2pix",
+                0.3601
+            ],
+            [
+                "iedit",
+                0.3446
+            ],
+            [
+                "hqedit",
+                0.3299
+            ]
+        ]
+    },
+    "66": {
+        "image": "0066.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5851
+            ],
+            [
+                "magicbrush",
+                0.5804
+            ],
+            [
+                "instructpix2pix",
+                0.5451
+            ],
+            [
+                "instruct-diffusion",
+                0.5188
+            ],
+            [
+                "hive",
+                0.5148
+            ],
+            [
+                "iedit",
+                0.4865
+            ],
+            [
+                "hqedit",
+                0.448
+            ],
+            [
+                "any2pix",
+                0.39
+            ]
+        ]
+    },
+    "67": {
+        "image": "0067.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6825
+            ],
+            [
+                "hqedit",
+                0.4943
+            ],
+            [
+                "magicbrush",
+                0.3576
+            ],
+            [
+                "instructpix2pix",
+                0.3467
+            ],
+            [
+                "hive",
+                0.3417
+            ],
+            [
+                "instruct-diffusion",
+                0.2825
+            ],
+            [
+                "iedit",
+                0.2444
+            ],
+            [
+                "any2pix",
+                0.2042
+            ]
+        ]
+    },
+    "68": {
+        "image": "0068.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6318
+            ],
+            [
+                "instructpix2pix",
+                0.5691
+            ],
+            [
+                "magicbrush",
+                0.5235
+            ],
+            [
+                "instruct-diffusion",
+                0.5
+            ],
+            [
+                "hive",
+                0.4535
+            ],
+            [
+                "iedit",
+                0.4388
+            ],
+            [
+                "any2pix",
+                0.3407
+            ],
+            [
+                "hqedit",
+                0.3327
+            ]
+        ]
+    },
+    "69": {
+        "image": "0069.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6205
+            ],
+            [
+                "instructpix2pix",
+                0.5955
+            ],
+            [
+                "instruct-diffusion",
+                0.5922
+            ],
+            [
+                "mgie",
+                0.5892
+            ],
+            [
+                "iedit",
+                0.5412
+            ],
+            [
+                "hive",
+                0.5183
+            ],
+            [
+                "hqedit",
+                0.4778
+            ],
+            [
+                "any2pix",
+                0.3883
+            ]
+        ]
+    },
+    "70": {
+        "image": "0070.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4611
+            ],
+            [
+                "magicbrush",
+                0.4339
+            ],
+            [
+                "instructpix2pix",
+                0.432
+            ],
+            [
+                "instruct-diffusion",
+                0.4111
+            ],
+            [
+                "hive",
+                0.3963
+            ],
+            [
+                "iedit",
+                0.3608
+            ],
+            [
+                "hqedit",
+                0.2761
+            ],
+            [
+                "any2pix",
+                0.2524
+            ]
+        ]
+    },
+    "71": {
+        "image": "0071.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3816
+            ],
+            [
+                "magicbrush",
+                0.367
+            ],
+            [
+                "instructpix2pix",
+                0.3666
+            ],
+            [
+                "iedit",
+                0.3189
+            ],
+            [
+                "instruct-diffusion",
+                0.3082
+            ],
+            [
+                "hqedit",
+                0.2893
+            ],
+            [
+                "hive",
+                0.2433
+            ],
+            [
+                "any2pix",
+                0.2248
+            ]
+        ]
+    },
+    "72": {
+        "image": "0072.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5857
+            ],
+            [
+                "magicbrush",
+                0.5225
+            ],
+            [
+                "instructpix2pix",
+                0.5168
+            ],
+            [
+                "hive",
+                0.4573
+            ],
+            [
+                "instruct-diffusion",
+                0.3992
+            ],
+            [
+                "iedit",
+                0.3849
+            ],
+            [
+                "hqedit",
+                0.3192
+            ],
+            [
+                "any2pix",
+                0.3119
+            ]
+        ]
+    },
+    "73": {
+        "image": "0073.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6451
+            ],
+            [
+                "instructpix2pix",
+                0.5085
+            ],
+            [
+                "magicbrush",
+                0.5065
+            ],
+            [
+                "instruct-diffusion",
+                0.4823
+            ],
+            [
+                "iedit",
+                0.4794
+            ],
+            [
+                "hive",
+                0.4484
+            ],
+            [
+                "hqedit",
+                0.3731
+            ],
+            [
+                "any2pix",
+                0.2923
+            ]
+        ]
+    },
+    "74": {
+        "image": "0074.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6468
+            ],
+            [
+                "instructpix2pix",
+                0.6448
+            ],
+            [
+                "mgie",
+                0.6335
+            ],
+            [
+                "instruct-diffusion",
+                0.6062
+            ],
+            [
+                "iedit",
+                0.5657
+            ],
+            [
+                "any2pix",
+                0.5213
+            ],
+            [
+                "hive",
+                0.4997
+            ],
+            [
+                "hqedit",
+                0.4916
+            ]
+        ]
+    },
+    "75": {
+        "image": "0075.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4155
+            ],
+            [
+                "magicbrush",
+                0.3151
+            ],
+            [
+                "instructpix2pix",
+                0.3123
+            ],
+            [
+                "hive",
+                0.2862
+            ],
+            [
+                "instruct-diffusion",
+                0.2433
+            ],
+            [
+                "iedit",
+                0.2279
+            ],
+            [
+                "hqedit",
+                0.1895
+            ],
+            [
+                "any2pix",
+                0.1557
+            ]
+        ]
+    },
+    "76": {
+        "image": "0076.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6298
+            ],
+            [
+                "magicbrush",
+                0.5152
+            ],
+            [
+                "instructpix2pix",
+                0.5074
+            ],
+            [
+                "iedit",
+                0.4007
+            ],
+            [
+                "hive",
+                0.3939
+            ],
+            [
+                "instruct-diffusion",
+                0.3699
+            ],
+            [
+                "any2pix",
+                0.3263
+            ],
+            [
+                "hqedit",
+                0.2081
+            ]
+        ]
+    },
+    "77": {
+        "image": "0077.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5606
+            ],
+            [
+                "instructpix2pix",
+                0.5553
+            ],
+            [
+                "hive",
+                0.53
+            ],
+            [
+                "mgie",
+                0.4985
+            ],
+            [
+                "instruct-diffusion",
+                0.4945
+            ],
+            [
+                "iedit",
+                0.4768
+            ],
+            [
+                "hqedit",
+                0.3461
+            ],
+            [
+                "any2pix",
+                0.3458
+            ]
+        ]
+    },
+    "78": {
+        "image": "0078.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6149
+            ],
+            [
+                "magicbrush",
+                0.4559
+            ],
+            [
+                "instructpix2pix",
+                0.4421
+            ],
+            [
+                "hive",
+                0.4407
+            ],
+            [
+                "instruct-diffusion",
+                0.412
+            ],
+            [
+                "iedit",
+                0.3877
+            ],
+            [
+                "any2pix",
+                0.3037
+            ],
+            [
+                "hqedit",
+                0.2621
+            ]
+        ]
+    },
+    "79": {
+        "image": "0079.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6427
+            ],
+            [
+                "magicbrush",
+                0.5077
+            ],
+            [
+                "instructpix2pix",
+                0.5008
+            ],
+            [
+                "hive",
+                0.4621
+            ],
+            [
+                "iedit",
+                0.3769
+            ],
+            [
+                "instruct-diffusion",
+                0.3677
+            ],
+            [
+                "hqedit",
+                0.3266
+            ],
+            [
+                "any2pix",
+                0.3011
+            ]
+        ]
+    },
+    "80": {
+        "image": "0080.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4809
+            ],
+            [
+                "magicbrush",
+                0.3531
+            ],
+            [
+                "instructpix2pix",
+                0.3506
+            ],
+            [
+                "hive",
+                0.3213
+            ],
+            [
+                "instruct-diffusion",
+                0.2949
+            ],
+            [
+                "iedit",
+                0.2772
+            ],
+            [
+                "hqedit",
+                0.2375
+            ],
+            [
+                "any2pix",
+                0.2132
+            ]
+        ]
+    },
+    "81": {
+        "image": "0081.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5605
+            ],
+            [
+                "magicbrush",
+                0.4985
+            ],
+            [
+                "instructpix2pix",
+                0.4947
+            ],
+            [
+                "hive",
+                0.4569
+            ],
+            [
+                "iedit",
+                0.4287
+            ],
+            [
+                "instruct-diffusion",
+                0.4044
+            ],
+            [
+                "hqedit",
+                0.335
+            ],
+            [
+                "any2pix",
+                0.3185
+            ]
+        ]
+    },
+    "82": {
+        "image": "0082.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4578
+            ],
+            [
+                "magicbrush",
+                0.4283
+            ],
+            [
+                "instructpix2pix",
+                0.4209
+            ],
+            [
+                "hive",
+                0.3837
+            ],
+            [
+                "instruct-diffusion",
+                0.354
+            ],
+            [
+                "iedit",
+                0.3436
+            ],
+            [
+                "hqedit",
+                0.3239
+            ],
+            [
+                "any2pix",
+                0.2577
+            ]
+        ]
+    },
+    "83": {
+        "image": "0083.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.703
+            ],
+            [
+                "magicbrush",
+                0.5916
+            ],
+            [
+                "instructpix2pix",
+                0.589
+            ],
+            [
+                "instruct-diffusion",
+                0.5124
+            ],
+            [
+                "iedit",
+                0.4683
+            ],
+            [
+                "hive",
+                0.4652
+            ],
+            [
+                "any2pix",
+                0.3215
+            ],
+            [
+                "hqedit",
+                0.2963
+            ]
+        ]
+    },
+    "84": {
+        "image": "0084.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3851
+            ],
+            [
+                "magicbrush",
+                0.3648
+            ],
+            [
+                "instructpix2pix",
+                0.3609
+            ],
+            [
+                "iedit",
+                0.3496
+            ],
+            [
+                "instruct-diffusion",
+                0.3443
+            ],
+            [
+                "hive",
+                0.3387
+            ],
+            [
+                "any2pix",
+                0.2289
+            ],
+            [
+                "hqedit",
+                0.2043
+            ]
+        ]
+    },
+    "85": {
+        "image": "0085.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7737
+            ],
+            [
+                "magicbrush",
+                0.6086
+            ],
+            [
+                "instruct-diffusion",
+                0.5837
+            ],
+            [
+                "hive",
+                0.5526
+            ],
+            [
+                "instructpix2pix",
+                0.5487
+            ],
+            [
+                "iedit",
+                0.5438
+            ],
+            [
+                "any2pix",
+                0.4333
+            ],
+            [
+                "hqedit",
+                0.3955
+            ]
+        ]
+    },
+    "86": {
+        "image": "0086.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6693
+            ],
+            [
+                "magicbrush",
+                0.4953
+            ],
+            [
+                "instructpix2pix",
+                0.4896
+            ],
+            [
+                "hive",
+                0.4683
+            ],
+            [
+                "iedit",
+                0.4195
+            ],
+            [
+                "instruct-diffusion",
+                0.3953
+            ],
+            [
+                "hqedit",
+                0.3422
+            ],
+            [
+                "any2pix",
+                0.323
+            ]
+        ]
+    },
+    "87": {
+        "image": "0087.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6138
+            ],
+            [
+                "instructpix2pix",
+                0.5002
+            ],
+            [
+                "instruct-diffusion",
+                0.4445
+            ],
+            [
+                "hive",
+                0.4363
+            ],
+            [
+                "iedit",
+                0.4032
+            ],
+            [
+                "hqedit",
+                0.3983
+            ],
+            [
+                "magicbrush",
+                0.3965
+            ],
+            [
+                "any2pix",
+                0.2736
+            ]
+        ]
+    },
+    "88": {
+        "image": "0088.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7025
+            ],
+            [
+                "magicbrush",
+                0.4938
+            ],
+            [
+                "instructpix2pix",
+                0.481
+            ],
+            [
+                "hive",
+                0.4001
+            ],
+            [
+                "instruct-diffusion",
+                0.3636
+            ],
+            [
+                "iedit",
+                0.3602
+            ],
+            [
+                "hqedit",
+                0.3194
+            ],
+            [
+                "any2pix",
+                0.2523
+            ]
+        ]
+    },
+    "89": {
+        "image": "0089.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5705
+            ],
+            [
+                "instructpix2pix",
+                0.4741
+            ],
+            [
+                "magicbrush",
+                0.4688
+            ],
+            [
+                "any2pix",
+                0.4242
+            ],
+            [
+                "hive",
+                0.413
+            ],
+            [
+                "instruct-diffusion",
+                0.4055
+            ],
+            [
+                "iedit",
+                0.3987
+            ],
+            [
+                "hqedit",
+                0.3185
+            ]
+        ]
+    },
+    "90": {
+        "image": "0090.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6303
+            ],
+            [
+                "instructpix2pix",
+                0.6264
+            ],
+            [
+                "instruct-diffusion",
+                0.5888
+            ],
+            [
+                "mgie",
+                0.5819
+            ],
+            [
+                "hive",
+                0.53
+            ],
+            [
+                "iedit",
+                0.486
+            ],
+            [
+                "hqedit",
+                0.4783
+            ],
+            [
+                "any2pix",
+                0.3536
+            ]
+        ]
+    },
+    "91": {
+        "image": "0091.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7098
+            ],
+            [
+                "instructpix2pix",
+                0.6038
+            ],
+            [
+                "magicbrush",
+                0.599
+            ],
+            [
+                "hive",
+                0.5801
+            ],
+            [
+                "instruct-diffusion",
+                0.5756
+            ],
+            [
+                "iedit",
+                0.5733
+            ],
+            [
+                "any2pix",
+                0.499
+            ],
+            [
+                "hqedit",
+                0.4729
+            ]
+        ]
+    },
+    "92": {
+        "image": "0092.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4821
+            ],
+            [
+                "magicbrush",
+                0.342
+            ],
+            [
+                "instructpix2pix",
+                0.338
+            ],
+            [
+                "hive",
+                0.3309
+            ],
+            [
+                "iedit",
+                0.2511
+            ],
+            [
+                "instruct-diffusion",
+                0.2483
+            ],
+            [
+                "hqedit",
+                0.2377
+            ],
+            [
+                "any2pix",
+                0.2202
+            ]
+        ]
+    },
+    "93": {
+        "image": "0093.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7566
+            ],
+            [
+                "magicbrush",
+                0.6627
+            ],
+            [
+                "instructpix2pix",
+                0.6555
+            ],
+            [
+                "hive",
+                0.6317
+            ],
+            [
+                "instruct-diffusion",
+                0.6222
+            ],
+            [
+                "iedit",
+                0.5931
+            ],
+            [
+                "any2pix",
+                0.5688
+            ],
+            [
+                "hqedit",
+                0.5615
+            ]
+        ]
+    },
+    "94": {
+        "image": "0094.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.8097
+            ],
+            [
+                "magicbrush",
+                0.6277
+            ],
+            [
+                "instructpix2pix",
+                0.6249
+            ],
+            [
+                "hive",
+                0.6063
+            ],
+            [
+                "instruct-diffusion",
+                0.5584
+            ],
+            [
+                "iedit",
+                0.5358
+            ],
+            [
+                "any2pix",
+                0.5222
+            ],
+            [
+                "hqedit",
+                0.4389
+            ]
+        ]
+    },
+    "95": {
+        "image": "0095.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4479
+            ],
+            [
+                "magicbrush",
+                0.4079
+            ],
+            [
+                "instructpix2pix",
+                0.4033
+            ],
+            [
+                "instruct-diffusion",
+                0.3735
+            ],
+            [
+                "hive",
+                0.3671
+            ],
+            [
+                "iedit",
+                0.3634
+            ],
+            [
+                "hqedit",
+                0.3537
+            ],
+            [
+                "any2pix",
+                0.2432
+            ]
+        ]
+    },
+    "96": {
+        "image": "0096.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6401
+            ],
+            [
+                "instruct-diffusion",
+                0.6299
+            ],
+            [
+                "iedit",
+                0.6298
+            ],
+            [
+                "hive",
+                0.628
+            ],
+            [
+                "instructpix2pix",
+                0.6242
+            ],
+            [
+                "mgie",
+                0.6182
+            ],
+            [
+                "hqedit",
+                0.5812
+            ],
+            [
+                "any2pix",
+                0.551
+            ]
+        ]
+    },
+    "97": {
+        "image": "0097.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5912
+            ],
+            [
+                "instructpix2pix",
+                0.541
+            ],
+            [
+                "magicbrush",
+                0.5355
+            ],
+            [
+                "instruct-diffusion",
+                0.5164
+            ],
+            [
+                "hive",
+                0.5043
+            ],
+            [
+                "iedit",
+                0.4876
+            ],
+            [
+                "any2pix",
+                0.4696
+            ],
+            [
+                "hqedit",
+                0.4375
+            ]
+        ]
+    },
+    "98": {
+        "image": "0098.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4316
+            ],
+            [
+                "instructpix2pix",
+                0.4282
+            ],
+            [
+                "hive",
+                0.4099
+            ],
+            [
+                "mgie",
+                0.3942
+            ],
+            [
+                "any2pix",
+                0.3843
+            ],
+            [
+                "instruct-diffusion",
+                0.3804
+            ],
+            [
+                "iedit",
+                0.3629
+            ],
+            [
+                "hqedit",
+                0.2995
+            ]
+        ]
+    },
+    "99": {
+        "image": "0099.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6839
+            ],
+            [
+                "magicbrush",
+                0.6136
+            ],
+            [
+                "instructpix2pix",
+                0.6126
+            ],
+            [
+                "hive",
+                0.6111
+            ],
+            [
+                "iedit",
+                0.5641
+            ],
+            [
+                "instruct-diffusion",
+                0.5594
+            ],
+            [
+                "any2pix",
+                0.5435
+            ],
+            [
+                "hqedit",
+                0.4362
+            ]
+        ]
+    },
+    "100": {
+        "image": "0100.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.457
+            ],
+            [
+                "instructpix2pix",
+                0.452
+            ],
+            [
+                "magicbrush",
+                0.4177
+            ],
+            [
+                "instruct-diffusion",
+                0.3929
+            ],
+            [
+                "any2pix",
+                0.388
+            ],
+            [
+                "hive",
+                0.3653
+            ],
+            [
+                "iedit",
+                0.3595
+            ],
+            [
+                "hqedit",
+                0.3041
+            ]
+        ]
+    },
+    "101": {
+        "image": "0101.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6816
+            ],
+            [
+                "magicbrush",
+                0.6742
+            ],
+            [
+                "instructpix2pix",
+                0.6587
+            ],
+            [
+                "instruct-diffusion",
+                0.6465
+            ],
+            [
+                "hive",
+                0.6351
+            ],
+            [
+                "iedit",
+                0.5657
+            ],
+            [
+                "hqedit",
+                0.5367
+            ],
+            [
+                "any2pix",
+                0.493
+            ]
+        ]
+    },
+    "102": {
+        "image": "0102.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6743
+            ],
+            [
+                "instructpix2pix",
+                0.4466
+            ],
+            [
+                "hive",
+                0.391
+            ],
+            [
+                "magicbrush",
+                0.3777
+            ],
+            [
+                "iedit",
+                0.3026
+            ],
+            [
+                "any2pix",
+                0.2954
+            ],
+            [
+                "instruct-diffusion",
+                0.2941
+            ],
+            [
+                "hqedit",
+                0.233
+            ]
+        ]
+    },
+    "103": {
+        "image": "0103.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5543
+            ],
+            [
+                "instructpix2pix",
+                0.3658
+            ],
+            [
+                "magicbrush",
+                0.3399
+            ],
+            [
+                "hive",
+                0.3306
+            ],
+            [
+                "iedit",
+                0.2812
+            ],
+            [
+                "instruct-diffusion",
+                0.2549
+            ],
+            [
+                "any2pix",
+                0.2507
+            ],
+            [
+                "hqedit",
+                0.2214
+            ]
+        ]
+    },
+    "104": {
+        "image": "0104.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7264
+            ],
+            [
+                "magicbrush",
+                0.5607
+            ],
+            [
+                "instructpix2pix",
+                0.5437
+            ],
+            [
+                "instruct-diffusion",
+                0.4923
+            ],
+            [
+                "iedit",
+                0.4813
+            ],
+            [
+                "hive",
+                0.465
+            ],
+            [
+                "any2pix",
+                0.4529
+            ],
+            [
+                "hqedit",
+                0.3877
+            ]
+        ]
+    },
+    "105": {
+        "image": "0105.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7128
+            ],
+            [
+                "magicbrush",
+                0.4685
+            ],
+            [
+                "instructpix2pix",
+                0.4601
+            ],
+            [
+                "hqedit",
+                0.4236
+            ],
+            [
+                "instruct-diffusion",
+                0.4006
+            ],
+            [
+                "hive",
+                0.3925
+            ],
+            [
+                "iedit",
+                0.3705
+            ],
+            [
+                "any2pix",
+                0.3326
+            ]
+        ]
+    },
+    "106": {
+        "image": "0106.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6892
+            ],
+            [
+                "magicbrush",
+                0.3729
+            ],
+            [
+                "instructpix2pix",
+                0.3622
+            ],
+            [
+                "hive",
+                0.3134
+            ],
+            [
+                "instruct-diffusion",
+                0.2847
+            ],
+            [
+                "iedit",
+                0.2835
+            ],
+            [
+                "any2pix",
+                0.2412
+            ],
+            [
+                "hqedit",
+                0.2401
+            ]
+        ]
+    },
+    "107": {
+        "image": "0107.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5489
+            ],
+            [
+                "instructpix2pix",
+                0.377
+            ],
+            [
+                "instruct-diffusion",
+                0.3295
+            ],
+            [
+                "magicbrush",
+                0.3053
+            ],
+            [
+                "hive",
+                0.2996
+            ],
+            [
+                "iedit",
+                0.2417
+            ],
+            [
+                "hqedit",
+                0.209
+            ],
+            [
+                "any2pix",
+                0.1716
+            ]
+        ]
+    },
+    "108": {
+        "image": "0108.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6051
+            ],
+            [
+                "magicbrush",
+                0.4721
+            ],
+            [
+                "instructpix2pix",
+                0.4337
+            ],
+            [
+                "iedit",
+                0.4079
+            ],
+            [
+                "instruct-diffusion",
+                0.3906
+            ],
+            [
+                "hive",
+                0.3819
+            ],
+            [
+                "hqedit",
+                0.3242
+            ],
+            [
+                "any2pix",
+                0.2403
+            ]
+        ]
+    },
+    "109": {
+        "image": "0109.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7291
+            ],
+            [
+                "instructpix2pix",
+                0.3378
+            ],
+            [
+                "magicbrush",
+                0.3206
+            ],
+            [
+                "hive",
+                0.2892
+            ],
+            [
+                "instruct-diffusion",
+                0.2828
+            ],
+            [
+                "iedit",
+                0.2511
+            ],
+            [
+                "hqedit",
+                0.2415
+            ],
+            [
+                "any2pix",
+                0.1946
+            ]
+        ]
+    },
+    "110": {
+        "image": "0110.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6255
+            ],
+            [
+                "magicbrush",
+                0.5328
+            ],
+            [
+                "instructpix2pix",
+                0.5171
+            ],
+            [
+                "hive",
+                0.4915
+            ],
+            [
+                "instruct-diffusion",
+                0.4419
+            ],
+            [
+                "iedit",
+                0.4239
+            ],
+            [
+                "hqedit",
+                0.3641
+            ],
+            [
+                "any2pix",
+                0.321
+            ]
+        ]
+    },
+    "111": {
+        "image": "0111.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6826
+            ],
+            [
+                "instruct-diffusion",
+                0.6359
+            ],
+            [
+                "hive",
+                0.618
+            ],
+            [
+                "iedit",
+                0.5817
+            ],
+            [
+                "instructpix2pix",
+                0.5697
+            ],
+            [
+                "magicbrush",
+                0.5189
+            ],
+            [
+                "any2pix",
+                0.5011
+            ],
+            [
+                "hqedit",
+                0.3267
+            ]
+        ]
+    },
+    "112": {
+        "image": "0112.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7718
+            ],
+            [
+                "hive",
+                0.5686
+            ],
+            [
+                "magicbrush",
+                0.5642
+            ],
+            [
+                "instructpix2pix",
+                0.5544
+            ],
+            [
+                "hqedit",
+                0.5301
+            ],
+            [
+                "instruct-diffusion",
+                0.4644
+            ],
+            [
+                "iedit",
+                0.4475
+            ],
+            [
+                "any2pix",
+                0.4012
+            ]
+        ]
+    },
+    "113": {
+        "image": "0113.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6848
+            ],
+            [
+                "magicbrush",
+                0.4919
+            ],
+            [
+                "instructpix2pix",
+                0.4873
+            ],
+            [
+                "hive",
+                0.4832
+            ],
+            [
+                "instruct-diffusion",
+                0.4616
+            ],
+            [
+                "iedit",
+                0.4367
+            ],
+            [
+                "hqedit",
+                0.3534
+            ],
+            [
+                "any2pix",
+                0.2705
+            ]
+        ]
+    },
+    "114": {
+        "image": "0114.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6788
+            ],
+            [
+                "hive",
+                0.4969
+            ],
+            [
+                "magicbrush",
+                0.4939
+            ],
+            [
+                "instructpix2pix",
+                0.4878
+            ],
+            [
+                "instruct-diffusion",
+                0.4751
+            ],
+            [
+                "iedit",
+                0.4361
+            ],
+            [
+                "any2pix",
+                0.3641
+            ],
+            [
+                "hqedit",
+                0.3418
+            ]
+        ]
+    },
+    "115": {
+        "image": "0115.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6935
+            ],
+            [
+                "magicbrush",
+                0.3571
+            ],
+            [
+                "instructpix2pix",
+                0.356
+            ],
+            [
+                "hive",
+                0.3206
+            ],
+            [
+                "instruct-diffusion",
+                0.2925
+            ],
+            [
+                "iedit",
+                0.2254
+            ],
+            [
+                "hqedit",
+                0.2041
+            ],
+            [
+                "any2pix",
+                0.1692
+            ]
+        ]
+    },
+    "116": {
+        "image": "0116.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5873
+            ],
+            [
+                "magicbrush",
+                0.579
+            ],
+            [
+                "instructpix2pix",
+                0.5789
+            ],
+            [
+                "hive",
+                0.52
+            ],
+            [
+                "instruct-diffusion",
+                0.4865
+            ],
+            [
+                "iedit",
+                0.4083
+            ],
+            [
+                "any2pix",
+                0.3489
+            ],
+            [
+                "hqedit",
+                0.2551
+            ]
+        ]
+    },
+    "117": {
+        "image": "0117.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6908
+            ],
+            [
+                "magicbrush",
+                0.3576
+            ],
+            [
+                "instructpix2pix",
+                0.3568
+            ],
+            [
+                "hive",
+                0.2941
+            ],
+            [
+                "instruct-diffusion",
+                0.2555
+            ],
+            [
+                "iedit",
+                0.2431
+            ],
+            [
+                "any2pix",
+                0.2053
+            ],
+            [
+                "hqedit",
+                0.1771
+            ]
+        ]
+    },
+    "118": {
+        "image": "0118.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5497
+            ],
+            [
+                "magicbrush",
+                0.4541
+            ],
+            [
+                "instructpix2pix",
+                0.4475
+            ],
+            [
+                "hive",
+                0.4093
+            ],
+            [
+                "instruct-diffusion",
+                0.374
+            ],
+            [
+                "iedit",
+                0.3676
+            ],
+            [
+                "hqedit",
+                0.3222
+            ],
+            [
+                "any2pix",
+                0.2983
+            ]
+        ]
+    },
+    "119": {
+        "image": "0119.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5927
+            ],
+            [
+                "magicbrush",
+                0.4581
+            ],
+            [
+                "instructpix2pix",
+                0.4538
+            ],
+            [
+                "hive",
+                0.4269
+            ],
+            [
+                "iedit",
+                0.4053
+            ],
+            [
+                "instruct-diffusion",
+                0.3754
+            ],
+            [
+                "hqedit",
+                0.3403
+            ],
+            [
+                "any2pix",
+                0.336
+            ]
+        ]
+    },
+    "120": {
+        "image": "0120.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.741
+            ],
+            [
+                "magicbrush",
+                0.5774
+            ],
+            [
+                "instructpix2pix",
+                0.5703
+            ],
+            [
+                "hive",
+                0.5209
+            ],
+            [
+                "instruct-diffusion",
+                0.5001
+            ],
+            [
+                "iedit",
+                0.4598
+            ],
+            [
+                "any2pix",
+                0.4189
+            ],
+            [
+                "hqedit",
+                0.3491
+            ]
+        ]
+    },
+    "121": {
+        "image": "0121.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7175
+            ],
+            [
+                "magicbrush",
+                0.5538
+            ],
+            [
+                "instructpix2pix",
+                0.551
+            ],
+            [
+                "hive",
+                0.5079
+            ],
+            [
+                "instruct-diffusion",
+                0.4889
+            ],
+            [
+                "any2pix",
+                0.4728
+            ],
+            [
+                "iedit",
+                0.4708
+            ],
+            [
+                "hqedit",
+                0.4074
+            ]
+        ]
+    },
+    "122": {
+        "image": "0122.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6831
+            ],
+            [
+                "magicbrush",
+                0.571
+            ],
+            [
+                "instructpix2pix",
+                0.5588
+            ],
+            [
+                "hive",
+                0.5155
+            ],
+            [
+                "instruct-diffusion",
+                0.4817
+            ],
+            [
+                "iedit",
+                0.4808
+            ],
+            [
+                "hqedit",
+                0.4284
+            ],
+            [
+                "any2pix",
+                0.4118
+            ]
+        ]
+    },
+    "123": {
+        "image": "0123.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6537
+            ],
+            [
+                "magicbrush",
+                0.5177
+            ],
+            [
+                "instructpix2pix",
+                0.5064
+            ],
+            [
+                "hive",
+                0.4933
+            ],
+            [
+                "iedit",
+                0.4039
+            ],
+            [
+                "instruct-diffusion",
+                0.3715
+            ],
+            [
+                "any2pix",
+                0.3294
+            ],
+            [
+                "hqedit",
+                0.2932
+            ]
+        ]
+    },
+    "124": {
+        "image": "0124.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7194
+            ],
+            [
+                "instructpix2pix",
+                0.3571
+            ],
+            [
+                "magicbrush",
+                0.3491
+            ],
+            [
+                "hive",
+                0.3082
+            ],
+            [
+                "instruct-diffusion",
+                0.2894
+            ],
+            [
+                "iedit",
+                0.2539
+            ],
+            [
+                "hqedit",
+                0.2014
+            ],
+            [
+                "any2pix",
+                0.171
+            ]
+        ]
+    },
+    "125": {
+        "image": "0125.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.4692
+            ],
+            [
+                "mgie",
+                0.4682
+            ],
+            [
+                "magicbrush",
+                0.4624
+            ],
+            [
+                "hive",
+                0.4291
+            ],
+            [
+                "instruct-diffusion",
+                0.4121
+            ],
+            [
+                "iedit",
+                0.3988
+            ],
+            [
+                "any2pix",
+                0.3355
+            ],
+            [
+                "hqedit",
+                0.3182
+            ]
+        ]
+    },
+    "126": {
+        "image": "0126.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.685
+            ],
+            [
+                "instructpix2pix",
+                0.4422
+            ],
+            [
+                "instruct-diffusion",
+                0.4017
+            ],
+            [
+                "magicbrush",
+                0.3808
+            ],
+            [
+                "hive",
+                0.3628
+            ],
+            [
+                "iedit",
+                0.3267
+            ],
+            [
+                "hqedit",
+                0.303
+            ],
+            [
+                "any2pix",
+                0.2805
+            ]
+        ]
+    },
+    "127": {
+        "image": "0127.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5757
+            ],
+            [
+                "instructpix2pix",
+                0.5729
+            ],
+            [
+                "mgie",
+                0.5666
+            ],
+            [
+                "hive",
+                0.4744
+            ],
+            [
+                "instruct-diffusion",
+                0.4668
+            ],
+            [
+                "iedit",
+                0.4517
+            ],
+            [
+                "hqedit",
+                0.4
+            ],
+            [
+                "any2pix",
+                0.3847
+            ]
+        ]
+    },
+    "128": {
+        "image": "0128.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7154
+            ],
+            [
+                "hqedit",
+                0.4429
+            ],
+            [
+                "magicbrush",
+                0.3311
+            ],
+            [
+                "instructpix2pix",
+                0.3238
+            ],
+            [
+                "hive",
+                0.2946
+            ],
+            [
+                "instruct-diffusion",
+                0.242
+            ],
+            [
+                "iedit",
+                0.2413
+            ],
+            [
+                "any2pix",
+                0.191
+            ]
+        ]
+    },
+    "129": {
+        "image": "0129.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4954
+            ],
+            [
+                "hqedit",
+                0.1999
+            ],
+            [
+                "magicbrush",
+                0.1959
+            ],
+            [
+                "any2pix",
+                0.193
+            ],
+            [
+                "instructpix2pix",
+                0.1709
+            ],
+            [
+                "iedit",
+                0.1483
+            ],
+            [
+                "hive",
+                0.139
+            ],
+            [
+                "instruct-diffusion",
+                0.1379
+            ]
+        ]
+    },
+    "130": {
+        "image": "0130.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5242
+            ],
+            [
+                "magicbrush",
+                0.4148
+            ],
+            [
+                "instructpix2pix",
+                0.4108
+            ],
+            [
+                "hive",
+                0.3452
+            ],
+            [
+                "any2pix",
+                0.3336
+            ],
+            [
+                "iedit",
+                0.323
+            ],
+            [
+                "instruct-diffusion",
+                0.3144
+            ],
+            [
+                "hqedit",
+                0.26
+            ]
+        ]
+    },
+    "131": {
+        "image": "0131.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.432
+            ],
+            [
+                "magicbrush",
+                0.3923
+            ],
+            [
+                "instructpix2pix",
+                0.3854
+            ],
+            [
+                "hive",
+                0.3374
+            ],
+            [
+                "instruct-diffusion",
+                0.3347
+            ],
+            [
+                "iedit",
+                0.3121
+            ],
+            [
+                "any2pix",
+                0.3022
+            ],
+            [
+                "hqedit",
+                0.2583
+            ]
+        ]
+    },
+    "132": {
+        "image": "0132.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5402
+            ],
+            [
+                "hqedit",
+                0.3734
+            ],
+            [
+                "magicbrush",
+                0.368
+            ],
+            [
+                "instructpix2pix",
+                0.3547
+            ],
+            [
+                "hive",
+                0.3346
+            ],
+            [
+                "iedit",
+                0.3129
+            ],
+            [
+                "instruct-diffusion",
+                0.309
+            ],
+            [
+                "any2pix",
+                0.2172
+            ]
+        ]
+    },
+    "133": {
+        "image": "0133.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5576
+            ],
+            [
+                "magicbrush",
+                0.411
+            ],
+            [
+                "instructpix2pix",
+                0.4072
+            ],
+            [
+                "hive",
+                0.3739
+            ],
+            [
+                "iedit",
+                0.3461
+            ],
+            [
+                "instruct-diffusion",
+                0.3257
+            ],
+            [
+                "hqedit",
+                0.3081
+            ],
+            [
+                "any2pix",
+                0.2278
+            ]
+        ]
+    },
+    "134": {
+        "image": "0134.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5104
+            ],
+            [
+                "hive",
+                0.4973
+            ],
+            [
+                "instructpix2pix",
+                0.487
+            ],
+            [
+                "instruct-diffusion",
+                0.4858
+            ],
+            [
+                "iedit",
+                0.4455
+            ],
+            [
+                "mgie",
+                0.4191
+            ],
+            [
+                "hqedit",
+                0.4188
+            ],
+            [
+                "any2pix",
+                0.3402
+            ]
+        ]
+    },
+    "135": {
+        "image": "0135.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5829
+            ],
+            [
+                "magicbrush",
+                0.4925
+            ],
+            [
+                "instructpix2pix",
+                0.4908
+            ],
+            [
+                "hive",
+                0.4869
+            ],
+            [
+                "iedit",
+                0.3944
+            ],
+            [
+                "instruct-diffusion",
+                0.3929
+            ],
+            [
+                "any2pix",
+                0.3352
+            ],
+            [
+                "hqedit",
+                0.3337
+            ]
+        ]
+    },
+    "136": {
+        "image": "0136.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.9194
+            ],
+            [
+                "magicbrush",
+                0.8382
+            ],
+            [
+                "instructpix2pix",
+                0.8191
+            ],
+            [
+                "instruct-diffusion",
+                0.816
+            ],
+            [
+                "hive",
+                0.8025
+            ],
+            [
+                "iedit",
+                0.7994
+            ],
+            [
+                "hqedit",
+                0.7283
+            ],
+            [
+                "any2pix",
+                0.6749
+            ]
+        ]
+    },
+    "137": {
+        "image": "0137.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.8328
+            ],
+            [
+                "instruct-diffusion",
+                0.7646
+            ],
+            [
+                "instructpix2pix",
+                0.7643
+            ],
+            [
+                "magicbrush",
+                0.7524
+            ],
+            [
+                "hive",
+                0.7087
+            ],
+            [
+                "iedit",
+                0.6942
+            ],
+            [
+                "hqedit",
+                0.6725
+            ],
+            [
+                "any2pix",
+                0.5785
+            ]
+        ]
+    },
+    "138": {
+        "image": "0138.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4023
+            ],
+            [
+                "magicbrush",
+                0.3199
+            ],
+            [
+                "instructpix2pix",
+                0.314
+            ],
+            [
+                "iedit",
+                0.2447
+            ],
+            [
+                "hive",
+                0.2407
+            ],
+            [
+                "instruct-diffusion",
+                0.2159
+            ],
+            [
+                "any2pix",
+                0.1754
+            ],
+            [
+                "hqedit",
+                0.1433
+            ]
+        ]
+    },
+    "139": {
+        "image": "0139.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6527
+            ],
+            [
+                "magicbrush",
+                0.4701
+            ],
+            [
+                "instructpix2pix",
+                0.4668
+            ],
+            [
+                "hive",
+                0.3925
+            ],
+            [
+                "instruct-diffusion",
+                0.3709
+            ],
+            [
+                "iedit",
+                0.3578
+            ],
+            [
+                "hqedit",
+                0.3343
+            ],
+            [
+                "any2pix",
+                0.3219
+            ]
+        ]
+    },
+    "140": {
+        "image": "0140.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6876
+            ],
+            [
+                "instructpix2pix",
+                0.6245
+            ],
+            [
+                "magicbrush",
+                0.6065
+            ],
+            [
+                "hive",
+                0.5632
+            ],
+            [
+                "instruct-diffusion",
+                0.5147
+            ],
+            [
+                "iedit",
+                0.4851
+            ],
+            [
+                "any2pix",
+                0.3334
+            ],
+            [
+                "hqedit",
+                0.2837
+            ]
+        ]
+    }
+}

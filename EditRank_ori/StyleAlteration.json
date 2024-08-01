@@ -1,0 +1,5602 @@
+{
+    "1": {
+        "image": "0001.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                28.234375
+            ],
+            [
+                "mgie",
+                26.546875
+            ],
+            [
+                "instructpix2pix",
+                24.5625
+            ],
+            [
+                "hive",
+                24.453125
+            ],
+            [
+                "instruct-diffusion",
+                24.4375
+            ],
+            [
+                "iedit",
+                23.890625
+            ],
+            [
+                "magicbrush",
+                22.75
+            ],
+            [
+                "hqedit",
+                17.21875
+            ]
+        ]
+    },
+    "2": {
+        "image": "0002.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                24.359375
+            ],
+            [
+                "instructpix2pix",
+                22.09375
+            ],
+            [
+                "hive",
+                21.765625
+            ],
+            [
+                "mgie",
+                21.40625
+            ],
+            [
+                "instruct-diffusion",
+                20.03125
+            ],
+            [
+                "iedit",
+                18.109375
+            ],
+            [
+                "magicbrush",
+                16.375
+            ],
+            [
+                "hqedit",
+                15.296875
+            ]
+        ]
+    },
+    "3": {
+        "image": "0003.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.75
+            ],
+            [
+                "mgie",
+                28.484375
+            ],
+            [
+                "magicbrush",
+                24.765625
+            ],
+            [
+                "instructpix2pix",
+                24.359375
+            ],
+            [
+                "hive",
+                23.234375
+            ],
+            [
+                "instruct-diffusion",
+                22.390625
+            ],
+            [
+                "iedit",
+                21.671875
+            ],
+            [
+                "hqedit",
+                14.6953125
+            ]
+        ]
+    },
+    "4": {
+        "image": "0004.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                33.84375
+            ],
+            [
+                "hive",
+                31.59375
+            ],
+            [
+                "mgie",
+                27.953125
+            ],
+            [
+                "any2pix",
+                27.5625
+            ],
+            [
+                "instruct-diffusion",
+                22.21875
+            ],
+            [
+                "instructpix2pix",
+                21.53125
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "iedit",
+                17.0
+            ]
+        ]
+    },
+    "5": {
+        "image": "0005.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                27.0
+            ],
+            [
+                "hive",
+                24.40625
+            ],
+            [
+                "mgie",
+                22.390625
+            ],
+            [
+                "instruct-diffusion",
+                21.203125
+            ],
+            [
+                "iedit",
+                21.171875
+            ],
+            [
+                "instructpix2pix",
+                20.65625
+            ],
+            [
+                "magicbrush",
+                20.390625
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "6": {
+        "image": "0006.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                26.84375
+            ],
+            [
+                "hive",
+                25.34375
+            ],
+            [
+                "instructpix2pix",
+                25.203125
+            ],
+            [
+                "mgie",
+                25.140625
+            ],
+            [
+                "instruct-diffusion",
+                25.0625
+            ],
+            [
+                "magicbrush",
+                21.375
+            ],
+            [
+                "iedit",
+                20.625
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "7": {
+        "image": "0007.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                31.875
+            ],
+            [
+                "instructpix2pix",
+                30.609375
+            ],
+            [
+                "hive",
+                30.078125
+            ],
+            [
+                "mgie",
+                29.5625
+            ],
+            [
+                "magicbrush",
+                27.8125
+            ],
+            [
+                "iedit",
+                24.34375
+            ],
+            [
+                "instruct-diffusion",
+                23.953125
+            ],
+            [
+                "hqedit",
+                13.390625
+            ]
+        ]
+    },
+    "8": {
+        "image": "0008.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                33.75
+            ],
+            [
+                "hive",
+                32.5
+            ],
+            [
+                "instruct-diffusion",
+                31.484375
+            ],
+            [
+                "instructpix2pix",
+                31.296875
+            ],
+            [
+                "mgie",
+                24.53125
+            ],
+            [
+                "iedit",
+                19.65625
+            ],
+            [
+                "any2pix",
+                19.546875
+            ],
+            [
+                "hqedit",
+                19.0625
+            ]
+        ]
+    },
+    "9": {
+        "image": "0009.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.734375
+            ],
+            [
+                "hive",
+                26.546875
+            ],
+            [
+                "instructpix2pix",
+                21.78125
+            ],
+            [
+                "instruct-diffusion",
+                20.828125
+            ],
+            [
+                "mgie",
+                19.34375
+            ],
+            [
+                "magicbrush",
+                19.328125
+            ],
+            [
+                "iedit",
+                18.546875
+            ],
+            [
+                "hqedit",
+                14.78125
+            ]
+        ]
+    },
+    "10": {
+        "image": "0010.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                28.28125
+            ],
+            [
+                "mgie",
+                26.109375
+            ],
+            [
+                "instruct-diffusion",
+                26.015625
+            ],
+            [
+                "instructpix2pix",
+                25.46875
+            ],
+            [
+                "any2pix",
+                24.921875
+            ],
+            [
+                "iedit",
+                23.796875
+            ],
+            [
+                "magicbrush",
+                23.46875
+            ],
+            [
+                "hqedit",
+                16.890625
+            ]
+        ]
+    },
+    "11": {
+        "image": "0011.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                30.890625
+            ],
+            [
+                "hive",
+                28.484375
+            ],
+            [
+                "mgie",
+                23.015625
+            ],
+            [
+                "magicbrush",
+                22.53125
+            ],
+            [
+                "instructpix2pix",
+                21.328125
+            ],
+            [
+                "instruct-diffusion",
+                20.6875
+            ],
+            [
+                "iedit",
+                17.90625
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "12": {
+        "image": "0012.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                30.359375
+            ],
+            [
+                "any2pix",
+                27.359375
+            ],
+            [
+                "mgie",
+                19.921875
+            ],
+            [
+                "instructpix2pix",
+                18.71875
+            ],
+            [
+                "hqedit",
+                18.171875
+            ],
+            [
+                "iedit",
+                17.484375
+            ],
+            [
+                "magicbrush",
+                15.0859375
+            ],
+            [
+                "instruct-diffusion",
+                14.875
+            ]
+        ]
+    },
+    "13": {
+        "image": "0013.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.6875
+            ],
+            [
+                "hive",
+                27.96875
+            ],
+            [
+                "instructpix2pix",
+                22.53125
+            ],
+            [
+                "instruct-diffusion",
+                22.3125
+            ],
+            [
+                "magicbrush",
+                22.140625
+            ],
+            [
+                "mgie",
+                21.9375
+            ],
+            [
+                "iedit",
+                21.84375
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "14": {
+        "image": "0014.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                26.65625
+            ],
+            [
+                "magicbrush",
+                25.515625
+            ],
+            [
+                "hive",
+                25.125
+            ],
+            [
+                "instructpix2pix",
+                24.609375
+            ],
+            [
+                "mgie",
+                24.484375
+            ],
+            [
+                "instruct-diffusion",
+                19.921875
+            ],
+            [
+                "iedit",
+                19.25
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "15": {
+        "image": "0015.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.75
+            ],
+            [
+                "hive",
+                29.03125
+            ],
+            [
+                "instructpix2pix",
+                21.75
+            ],
+            [
+                "mgie",
+                20.46875
+            ],
+            [
+                "magicbrush",
+                19.0625
+            ],
+            [
+                "iedit",
+                19.046875
+            ],
+            [
+                "instruct-diffusion",
+                18.90625
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "16": {
+        "image": "0016.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                30.796875
+            ],
+            [
+                "instructpix2pix",
+                30.734375
+            ],
+            [
+                "any2pix",
+                26.03125
+            ],
+            [
+                "mgie",
+                21.21875
+            ],
+            [
+                "hive",
+                20.046875
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "instruct-diffusion",
+                18.484375
+            ],
+            [
+                "iedit",
+                15.1171875
+            ]
+        ]
+    },
+    "17": {
+        "image": "0017.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                27.25
+            ],
+            [
+                "hive",
+                25.578125
+            ],
+            [
+                "mgie",
+                24.984375
+            ],
+            [
+                "instruct-diffusion",
+                22.96875
+            ],
+            [
+                "iedit",
+                21.0
+            ],
+            [
+                "instructpix2pix",
+                16.015625
+            ],
+            [
+                "hqedit",
+                15.8828125
+            ],
+            [
+                "magicbrush",
+                15.5703125
+            ]
+        ]
+    },
+    "18": {
+        "image": "0018.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                25.84375
+            ],
+            [
+                "instruct-diffusion",
+                24.171875
+            ],
+            [
+                "any2pix",
+                24.03125
+            ],
+            [
+                "instructpix2pix",
+                19.390625
+            ],
+            [
+                "hqedit",
+                16.875
+            ],
+            [
+                "mgie",
+                16.78125
+            ],
+            [
+                "magicbrush",
+                15.5546875
+            ],
+            [
+                "iedit",
+                15.4609375
+            ]
+        ]
+    },
+    "19": {
+        "image": "0019.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                31.546875
+            ],
+            [
+                "any2pix",
+                29.578125
+            ],
+            [
+                "instructpix2pix",
+                28.015625
+            ],
+            [
+                "magicbrush",
+                25.796875
+            ],
+            [
+                "instruct-diffusion",
+                25.25
+            ],
+            [
+                "mgie",
+                23.296875
+            ],
+            [
+                "iedit",
+                22.890625
+            ],
+            [
+                "hqedit",
+                14.5234375
+            ]
+        ]
+    },
+    "20": {
+        "image": "0020.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                33.28125
+            ],
+            [
+                "hive",
+                26.15625
+            ],
+            [
+                "instructpix2pix",
+                26.015625
+            ],
+            [
+                "mgie",
+                25.453125
+            ],
+            [
+                "any2pix",
+                25.140625
+            ],
+            [
+                "iedit",
+                21.890625
+            ],
+            [
+                "instruct-diffusion",
+                19.453125
+            ],
+            [
+                "hqedit",
+                18.90625
+            ]
+        ]
+    },
+    "21": {
+        "image": "0021.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                27.171875
+            ],
+            [
+                "hive",
+                25.78125
+            ],
+            [
+                "iedit",
+                22.65625
+            ],
+            [
+                "instructpix2pix",
+                20.0
+            ],
+            [
+                "instruct-diffusion",
+                20.0
+            ],
+            [
+                "magicbrush",
+                19.078125
+            ],
+            [
+                "mgie",
+                18.265625
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "22": {
+        "image": "0022.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                26.09375
+            ],
+            [
+                "instruct-diffusion",
+                24.453125
+            ],
+            [
+                "mgie",
+                24.296875
+            ],
+            [
+                "hive",
+                23.53125
+            ],
+            [
+                "any2pix",
+                20.328125
+            ],
+            [
+                "magicbrush",
+                17.359375
+            ],
+            [
+                "hqedit",
+                16.875
+            ],
+            [
+                "iedit",
+                16.140625
+            ]
+        ]
+    },
+    "23": {
+        "image": "0023.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                28.890625
+            ],
+            [
+                "instruct-diffusion",
+                21.90625
+            ],
+            [
+                "mgie",
+                20.9375
+            ],
+            [
+                "instructpix2pix",
+                18.625
+            ],
+            [
+                "iedit",
+                18.25
+            ],
+            [
+                "magicbrush",
+                18.1875
+            ],
+            [
+                "hive",
+                17.046875
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "24": {
+        "image": "0024.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                28.578125
+            ],
+            [
+                "magicbrush",
+                28.5
+            ],
+            [
+                "hive",
+                26.1875
+            ],
+            [
+                "any2pix",
+                24.078125
+            ],
+            [
+                "mgie",
+                23.859375
+            ],
+            [
+                "iedit",
+                22.984375
+            ],
+            [
+                "instruct-diffusion",
+                22.828125
+            ],
+            [
+                "hqedit",
+                19.0625
+            ]
+        ]
+    },
+    "25": {
+        "image": "0025.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                30.328125
+            ],
+            [
+                "hive",
+                27.515625
+            ],
+            [
+                "iedit",
+                27.453125
+            ],
+            [
+                "mgie",
+                27.140625
+            ],
+            [
+                "instructpix2pix",
+                26.921875
+            ],
+            [
+                "instruct-diffusion",
+                26.84375
+            ],
+            [
+                "magicbrush",
+                26.609375
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "26": {
+        "image": "0026.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "mgie",
+                25.828125
+            ],
+            [
+                "any2pix",
+                25.25
+            ],
+            [
+                "instructpix2pix",
+                24.890625
+            ],
+            [
+                "magicbrush",
+                24.640625
+            ],
+            [
+                "hive",
+                23.515625
+            ],
+            [
+                "iedit",
+                22.09375
+            ],
+            [
+                "instruct-diffusion",
+                21.5
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "27": {
+        "image": "0027.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                28.578125
+            ],
+            [
+                "mgie",
+                26.984375
+            ],
+            [
+                "any2pix",
+                24.796875
+            ],
+            [
+                "instruct-diffusion",
+                21.15625
+            ],
+            [
+                "instructpix2pix",
+                19.078125
+            ],
+            [
+                "magicbrush",
+                19.078125
+            ],
+            [
+                "iedit",
+                18.53125
+            ],
+            [
+                "hqedit",
+                14.703125
+            ]
+        ]
+    },
+    "28": {
+        "image": "0028.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                32.0
+            ],
+            [
+                "instructpix2pix",
+                27.4375
+            ],
+            [
+                "mgie",
+                22.109375
+            ],
+            [
+                "any2pix",
+                21.953125
+            ],
+            [
+                "hive",
+                21.78125
+            ],
+            [
+                "instruct-diffusion",
+                21.359375
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "iedit",
+                18.609375
+            ]
+        ]
+    },
+    "29": {
+        "image": "0029.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                30.359375
+            ],
+            [
+                "mgie",
+                27.46875
+            ],
+            [
+                "hive",
+                25.875
+            ],
+            [
+                "iedit",
+                22.578125
+            ],
+            [
+                "instructpix2pix",
+                21.359375
+            ],
+            [
+                "magicbrush",
+                20.609375
+            ],
+            [
+                "instruct-diffusion",
+                18.953125
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "30": {
+        "image": "0030.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                28.1875
+            ],
+            [
+                "instructpix2pix",
+                25.953125
+            ],
+            [
+                "mgie",
+                25.28125
+            ],
+            [
+                "instruct-diffusion",
+                23.859375
+            ],
+            [
+                "any2pix",
+                19.9375
+            ],
+            [
+                "magicbrush",
+                18.265625
+            ],
+            [
+                "iedit",
+                17.8125
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "31": {
+        "image": "0031.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                25.96875
+            ],
+            [
+                "hive",
+                25.421875
+            ],
+            [
+                "magicbrush",
+                24.34375
+            ],
+            [
+                "mgie",
+                24.109375
+            ],
+            [
+                "instruct-diffusion",
+                23.6875
+            ],
+            [
+                "instructpix2pix",
+                22.5
+            ],
+            [
+                "iedit",
+                19.875
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "32": {
+        "image": "0032.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                27.515625
+            ],
+            [
+                "any2pix",
+                27.296875
+            ],
+            [
+                "mgie",
+                25.046875
+            ],
+            [
+                "instruct-diffusion",
+                23.671875
+            ],
+            [
+                "magicbrush",
+                21.109375
+            ],
+            [
+                "hive",
+                19.9375
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "iedit",
+                15.546875
+            ]
+        ]
+    },
+    "33": {
+        "image": "0033.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                28.375
+            ],
+            [
+                "hive",
+                26.1875
+            ],
+            [
+                "mgie",
+                25.109375
+            ],
+            [
+                "magicbrush",
+                19.546875
+            ],
+            [
+                "iedit",
+                18.09375
+            ],
+            [
+                "instructpix2pix",
+                17.984375
+            ],
+            [
+                "instruct-diffusion",
+                16.25
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "34": {
+        "image": "0034.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                26.546875
+            ],
+            [
+                "hive",
+                25.6875
+            ],
+            [
+                "any2pix",
+                24.625
+            ],
+            [
+                "mgie",
+                18.875
+            ],
+            [
+                "instruct-diffusion",
+                18.515625
+            ],
+            [
+                "iedit",
+                18.359375
+            ],
+            [
+                "magicbrush",
+                16.3125
+            ],
+            [
+                "hqedit",
+                15.0078125
+            ]
+        ]
+    },
+    "35": {
+        "image": "0035.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                27.84375
+            ],
+            [
+                "hive",
+                27.25
+            ],
+            [
+                "mgie",
+                25.328125
+            ],
+            [
+                "iedit",
+                20.609375
+            ],
+            [
+                "instructpix2pix",
+                20.15625
+            ],
+            [
+                "instruct-diffusion",
+                19.953125
+            ],
+            [
+                "magicbrush",
+                18.765625
+            ],
+            [
+                "hqedit",
+                13.3203125
+            ]
+        ]
+    },
+    "36": {
+        "image": "0036.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                32.25
+            ],
+            [
+                "any2pix",
+                24.453125
+            ],
+            [
+                "mgie",
+                24.25
+            ],
+            [
+                "hive",
+                22.296875
+            ],
+            [
+                "instructpix2pix",
+                20.109375
+            ],
+            [
+                "iedit",
+                17.921875
+            ],
+            [
+                "instruct-diffusion",
+                17.71875
+            ],
+            [
+                "hqedit",
+                16.9375
+            ]
+        ]
+    },
+    "37": {
+        "image": "0037.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                27.09375
+            ],
+            [
+                "hive",
+                27.03125
+            ],
+            [
+                "instruct-diffusion",
+                25.609375
+            ],
+            [
+                "mgie",
+                22.796875
+            ],
+            [
+                "instructpix2pix",
+                21.6875
+            ],
+            [
+                "iedit",
+                20.625
+            ],
+            [
+                "magicbrush",
+                19.515625
+            ],
+            [
+                "hqedit",
+                14.984375
+            ]
+        ]
+    },
+    "38": {
+        "image": "0038.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                24.96875
+            ],
+            [
+                "hive",
+                24.78125
+            ],
+            [
+                "mgie",
+                23.859375
+            ],
+            [
+                "instruct-diffusion",
+                22.21875
+            ],
+            [
+                "any2pix",
+                21.3125
+            ],
+            [
+                "iedit",
+                19.453125
+            ],
+            [
+                "magicbrush",
+                18.078125
+            ],
+            [
+                "hqedit",
+                15.8984375
+            ]
+        ]
+    },
+    "39": {
+        "image": "0039.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                33.71875
+            ],
+            [
+                "hive",
+                26.546875
+            ],
+            [
+                "mgie",
+                23.546875
+            ],
+            [
+                "instructpix2pix",
+                23.0625
+            ],
+            [
+                "instruct-diffusion",
+                21.671875
+            ],
+            [
+                "magicbrush",
+                20.1875
+            ],
+            [
+                "iedit",
+                18.546875
+            ],
+            [
+                "hqedit",
+                14.6484375
+            ]
+        ]
+    },
+    "40": {
+        "image": "0040.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                30.8125
+            ],
+            [
+                "magicbrush",
+                29.75
+            ],
+            [
+                "mgie",
+                28.71875
+            ],
+            [
+                "instruct-diffusion",
+                26.71875
+            ],
+            [
+                "instructpix2pix",
+                25.75
+            ],
+            [
+                "any2pix",
+                24.0
+            ],
+            [
+                "iedit",
+                20.0625
+            ],
+            [
+                "hqedit",
+                19.0625
+            ]
+        ]
+    },
+    "41": {
+        "image": "0041.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                28.5
+            ],
+            [
+                "hive",
+                26.59375
+            ],
+            [
+                "mgie",
+                26.1875
+            ],
+            [
+                "instruct-diffusion",
+                25.5
+            ],
+            [
+                "magicbrush",
+                24.53125
+            ],
+            [
+                "iedit",
+                23.765625
+            ],
+            [
+                "instructpix2pix",
+                19.5
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "42": {
+        "image": "0042.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                26.9375
+            ],
+            [
+                "mgie",
+                26.765625
+            ],
+            [
+                "any2pix",
+                24.953125
+            ],
+            [
+                "hive",
+                24.78125
+            ],
+            [
+                "instruct-diffusion",
+                24.0625
+            ],
+            [
+                "magicbrush",
+                21.65625
+            ],
+            [
+                "iedit",
+                21.203125
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "43": {
+        "image": "0043.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.1875
+            ],
+            [
+                "instructpix2pix",
+                28.25
+            ],
+            [
+                "hive",
+                26.484375
+            ],
+            [
+                "mgie",
+                25.125
+            ],
+            [
+                "instruct-diffusion",
+                22.953125
+            ],
+            [
+                "magicbrush",
+                22.84375
+            ],
+            [
+                "iedit",
+                18.5625
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "44": {
+        "image": "0044.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                26.1875
+            ],
+            [
+                "instructpix2pix",
+                24.0625
+            ],
+            [
+                "hive",
+                21.5
+            ],
+            [
+                "any2pix",
+                19.734375
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "mgie",
+                16.859375
+            ],
+            [
+                "iedit",
+                15.953125
+            ],
+            [
+                "instruct-diffusion",
+                14.4921875
+            ]
+        ]
+    },
+    "45": {
+        "image": "0045.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                28.78125
+            ],
+            [
+                "hive",
+                27.796875
+            ],
+            [
+                "iedit",
+                23.375
+            ],
+            [
+                "mgie",
+                19.109375
+            ],
+            [
+                "instruct-diffusion",
+                18.640625
+            ],
+            [
+                "magicbrush",
+                18.515625
+            ],
+            [
+                "instructpix2pix",
+                18.28125
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "46": {
+        "image": "0046.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                24.109375
+            ],
+            [
+                "hive",
+                23.9375
+            ],
+            [
+                "any2pix",
+                23.34375
+            ],
+            [
+                "instruct-diffusion",
+                23.25
+            ],
+            [
+                "mgie",
+                20.71875
+            ],
+            [
+                "magicbrush",
+                18.234375
+            ],
+            [
+                "iedit",
+                17.640625
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "47": {
+        "image": "0047.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                30.984375
+            ],
+            [
+                "hive",
+                26.375
+            ],
+            [
+                "magicbrush",
+                22.65625
+            ],
+            [
+                "mgie",
+                22.109375
+            ],
+            [
+                "iedit",
+                21.84375
+            ],
+            [
+                "instructpix2pix",
+                21.5625
+            ],
+            [
+                "instruct-diffusion",
+                21.3125
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "48": {
+        "image": "0048.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                30.09375
+            ],
+            [
+                "mgie",
+                27.40625
+            ],
+            [
+                "instruct-diffusion",
+                23.75
+            ],
+            [
+                "instructpix2pix",
+                22.203125
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "hive",
+                17.203125
+            ],
+            [
+                "magicbrush",
+                16.65625
+            ],
+            [
+                "iedit",
+                16.59375
+            ]
+        ]
+    },
+    "49": {
+        "image": "0049.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                27.390625
+            ],
+            [
+                "any2pix",
+                26.375
+            ],
+            [
+                "mgie",
+                22.296875
+            ],
+            [
+                "instruct-diffusion",
+                20.5625
+            ],
+            [
+                "iedit",
+                20.546875
+            ],
+            [
+                "instructpix2pix",
+                20.203125
+            ],
+            [
+                "magicbrush",
+                20.171875
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "50": {
+        "image": "0050.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                27.453125
+            ],
+            [
+                "any2pix",
+                26.53125
+            ],
+            [
+                "instruct-diffusion",
+                23.953125
+            ],
+            [
+                "instructpix2pix",
+                23.171875
+            ],
+            [
+                "magicbrush",
+                21.65625
+            ],
+            [
+                "iedit",
+                21.390625
+            ],
+            [
+                "mgie",
+                21.15625
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "51": {
+        "image": "0051.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                28.40625
+            ],
+            [
+                "any2pix",
+                28.015625
+            ],
+            [
+                "mgie",
+                24.03125
+            ],
+            [
+                "instructpix2pix",
+                21.46875
+            ],
+            [
+                "instruct-diffusion",
+                21.09375
+            ],
+            [
+                "magicbrush",
+                19.84375
+            ],
+            [
+                "iedit",
+                18.640625
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "52": {
+        "image": "0052.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                32.4375
+            ],
+            [
+                "hive",
+                29.0625
+            ],
+            [
+                "any2pix",
+                26.359375
+            ],
+            [
+                "instructpix2pix",
+                23.28125
+            ],
+            [
+                "iedit",
+                20.0625
+            ],
+            [
+                "mgie",
+                19.34375
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "instruct-diffusion",
+                17.4375
+            ]
+        ]
+    },
+    "53": {
+        "image": "0053.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.3125
+            ],
+            [
+                "instruct-diffusion",
+                24.5
+            ],
+            [
+                "hive",
+                24.34375
+            ],
+            [
+                "instructpix2pix",
+                23.625
+            ],
+            [
+                "magicbrush",
+                22.140625
+            ],
+            [
+                "mgie",
+                21.265625
+            ],
+            [
+                "iedit",
+                20.796875
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "54": {
+        "image": "0054.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                26.921875
+            ],
+            [
+                "instructpix2pix",
+                25.640625
+            ],
+            [
+                "mgie",
+                25.15625
+            ],
+            [
+                "hive",
+                25.109375
+            ],
+            [
+                "instruct-diffusion",
+                22.09375
+            ],
+            [
+                "magicbrush",
+                21.3125
+            ],
+            [
+                "iedit",
+                21.109375
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "55": {
+        "image": "0055.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                26.6875
+            ],
+            [
+                "instruct-diffusion",
+                25.796875
+            ],
+            [
+                "hive",
+                25.390625
+            ],
+            [
+                "mgie",
+                24.4375
+            ],
+            [
+                "instructpix2pix",
+                22.640625
+            ],
+            [
+                "magicbrush",
+                21.515625
+            ],
+            [
+                "iedit",
+                17.265625
+            ],
+            [
+                "hqedit",
+                14.2890625
+            ]
+        ]
+    },
+    "56": {
+        "image": "0056.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                30.875
+            ],
+            [
+                "any2pix",
+                22.546875
+            ],
+            [
+                "instructpix2pix",
+                22.5
+            ],
+            [
+                "mgie",
+                19.265625
+            ],
+            [
+                "hqedit",
+                17.796875
+            ],
+            [
+                "iedit",
+                14.953125
+            ],
+            [
+                "hive",
+                14.171875
+            ],
+            [
+                "instruct-diffusion",
+                13.09375
+            ]
+        ]
+    },
+    "57": {
+        "image": "0057.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                28.53125
+            ],
+            [
+                "any2pix",
+                28.0625
+            ],
+            [
+                "iedit",
+                20.9375
+            ],
+            [
+                "mgie",
+                20.828125
+            ],
+            [
+                "instruct-diffusion",
+                19.609375
+            ],
+            [
+                "instructpix2pix",
+                19.359375
+            ],
+            [
+                "magicbrush",
+                19.125
+            ],
+            [
+                "hqedit",
+                14.8828125
+            ]
+        ]
+    },
+    "58": {
+        "image": "0058.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                26.03125
+            ],
+            [
+                "any2pix",
+                25.875
+            ],
+            [
+                "instruct-diffusion",
+                24.15625
+            ],
+            [
+                "mgie",
+                23.203125
+            ],
+            [
+                "hive",
+                22.859375
+            ],
+            [
+                "magicbrush",
+                19.921875
+            ],
+            [
+                "iedit",
+                17.46875
+            ],
+            [
+                "hqedit",
+                16.234375
+            ]
+        ]
+    },
+    "59": {
+        "image": "0059.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                28.1875
+            ],
+            [
+                "hive",
+                26.875
+            ],
+            [
+                "iedit",
+                22.578125
+            ],
+            [
+                "mgie",
+                22.53125
+            ],
+            [
+                "instructpix2pix",
+                22.0625
+            ],
+            [
+                "magicbrush",
+                21.265625
+            ],
+            [
+                "instruct-diffusion",
+                20.578125
+            ],
+            [
+                "hqedit",
+                14.71875
+            ]
+        ]
+    },
+    "60": {
+        "image": "0060.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                31.484375
+            ],
+            [
+                "mgie",
+                28.625
+            ],
+            [
+                "any2pix",
+                22.71875
+            ],
+            [
+                "instruct-diffusion",
+                21.84375
+            ],
+            [
+                "hive",
+                20.796875
+            ],
+            [
+                "instructpix2pix",
+                18.3125
+            ],
+            [
+                "iedit",
+                17.46875
+            ],
+            [
+                "hqedit",
+                16.96875
+            ]
+        ]
+    },
+    "61": {
+        "image": "0061.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                28.15625
+            ],
+            [
+                "hive",
+                26.96875
+            ],
+            [
+                "instruct-diffusion",
+                19.859375
+            ],
+            [
+                "instructpix2pix",
+                19.609375
+            ],
+            [
+                "magicbrush",
+                18.96875
+            ],
+            [
+                "iedit",
+                18.671875
+            ],
+            [
+                "mgie",
+                18.015625
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "62": {
+        "image": "0062.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                29.0625
+            ],
+            [
+                "any2pix",
+                27.015625
+            ],
+            [
+                "mgie",
+                26.234375
+            ],
+            [
+                "instruct-diffusion",
+                25.03125
+            ],
+            [
+                "hive",
+                21.46875
+            ],
+            [
+                "magicbrush",
+                21.15625
+            ],
+            [
+                "iedit",
+                20.796875
+            ],
+            [
+                "hqedit",
+                16.375
+            ]
+        ]
+    },
+    "63": {
+        "image": "0063.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                33.03125
+            ],
+            [
+                "hive",
+                23.734375
+            ],
+            [
+                "instruct-diffusion",
+                22.234375
+            ],
+            [
+                "iedit",
+                21.8125
+            ],
+            [
+                "mgie",
+                21.703125
+            ],
+            [
+                "instructpix2pix",
+                21.5625
+            ],
+            [
+                "magicbrush",
+                21.203125
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "64": {
+        "image": "0064.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                30.0625
+            ],
+            [
+                "magicbrush",
+                29.765625
+            ],
+            [
+                "hive",
+                29.40625
+            ],
+            [
+                "mgie",
+                28.953125
+            ],
+            [
+                "instructpix2pix",
+                26.765625
+            ],
+            [
+                "instruct-diffusion",
+                22.71875
+            ],
+            [
+                "iedit",
+                21.65625
+            ],
+            [
+                "hqedit",
+                19.0625
+            ]
+        ]
+    },
+    "65": {
+        "image": "0065.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                28.234375
+            ],
+            [
+                "iedit",
+                23.265625
+            ],
+            [
+                "mgie",
+                21.515625
+            ],
+            [
+                "hive",
+                20.71875
+            ],
+            [
+                "magicbrush",
+                20.703125
+            ],
+            [
+                "instructpix2pix",
+                20.34375
+            ],
+            [
+                "instruct-diffusion",
+                19.578125
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "66": {
+        "image": "0066.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                27.671875
+            ],
+            [
+                "magicbrush",
+                25.453125
+            ],
+            [
+                "instructpix2pix",
+                25.359375
+            ],
+            [
+                "mgie",
+                24.46875
+            ],
+            [
+                "hive",
+                23.875
+            ],
+            [
+                "instruct-diffusion",
+                22.90625
+            ],
+            [
+                "iedit",
+                20.859375
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "67": {
+        "image": "0067.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.703125
+            ],
+            [
+                "hive",
+                27.234375
+            ],
+            [
+                "instructpix2pix",
+                26.328125
+            ],
+            [
+                "mgie",
+                25.15625
+            ],
+            [
+                "instruct-diffusion",
+                23.125
+            ],
+            [
+                "magicbrush",
+                22.671875
+            ],
+            [
+                "iedit",
+                17.703125
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "68": {
+        "image": "0068.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                31.28125
+            ],
+            [
+                "instructpix2pix",
+                25.59375
+            ],
+            [
+                "any2pix",
+                23.21875
+            ],
+            [
+                "hive",
+                22.34375
+            ],
+            [
+                "mgie",
+                19.421875
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "instruct-diffusion",
+                18.640625
+            ],
+            [
+                "iedit",
+                17.140625
+            ]
+        ]
+    },
+    "69": {
+        "image": "0069.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                28.15625
+            ],
+            [
+                "hive",
+                19.546875
+            ],
+            [
+                "iedit",
+                19.25
+            ],
+            [
+                "instructpix2pix",
+                18.703125
+            ],
+            [
+                "mgie",
+                18.703125
+            ],
+            [
+                "instruct-diffusion",
+                18.578125
+            ],
+            [
+                "magicbrush",
+                17.796875
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "70": {
+        "image": "0070.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                27.25
+            ],
+            [
+                "hive",
+                25.078125
+            ],
+            [
+                "any2pix",
+                24.109375
+            ],
+            [
+                "instruct-diffusion",
+                23.140625
+            ],
+            [
+                "mgie",
+                22.453125
+            ],
+            [
+                "magicbrush",
+                19.34375
+            ],
+            [
+                "iedit",
+                18.796875
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "71": {
+        "image": "0071.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                28.609375
+            ],
+            [
+                "mgie",
+                27.265625
+            ],
+            [
+                "hive",
+                26.9375
+            ],
+            [
+                "instruct-diffusion",
+                24.828125
+            ],
+            [
+                "instructpix2pix",
+                23.96875
+            ],
+            [
+                "magicbrush",
+                23.625
+            ],
+            [
+                "iedit",
+                21.046875
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "72": {
+        "image": "0072.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.546875
+            ],
+            [
+                "magicbrush",
+                29.40625
+            ],
+            [
+                "hive",
+                29.03125
+            ],
+            [
+                "mgie",
+                26.03125
+            ],
+            [
+                "instruct-diffusion",
+                24.515625
+            ],
+            [
+                "instructpix2pix",
+                22.859375
+            ],
+            [
+                "iedit",
+                18.546875
+            ],
+            [
+                "hqedit",
+                17.546875
+            ]
+        ]
+    },
+    "73": {
+        "image": "0073.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                30.609375
+            ],
+            [
+                "hive",
+                28.015625
+            ],
+            [
+                "iedit",
+                24.625
+            ],
+            [
+                "instructpix2pix",
+                22.78125
+            ],
+            [
+                "magicbrush",
+                22.703125
+            ],
+            [
+                "mgie",
+                22.296875
+            ],
+            [
+                "instruct-diffusion",
+                20.703125
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "74": {
+        "image": "0074.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                26.140625
+            ],
+            [
+                "instructpix2pix",
+                25.640625
+            ],
+            [
+                "mgie",
+                25.25
+            ],
+            [
+                "any2pix",
+                25.234375
+            ],
+            [
+                "instruct-diffusion",
+                21.15625
+            ],
+            [
+                "magicbrush",
+                21.078125
+            ],
+            [
+                "iedit",
+                17.515625
+            ],
+            [
+                "hqedit",
+                16.78125
+            ]
+        ]
+    },
+    "75": {
+        "image": "0075.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                27.390625
+            ],
+            [
+                "hive",
+                26.046875
+            ],
+            [
+                "instructpix2pix",
+                24.609375
+            ],
+            [
+                "instruct-diffusion",
+                24.390625
+            ],
+            [
+                "mgie",
+                21.875
+            ],
+            [
+                "magicbrush",
+                16.34375
+            ],
+            [
+                "iedit",
+                14.7734375
+            ],
+            [
+                "hqedit",
+                13.40625
+            ]
+        ]
+    },
+    "76": {
+        "image": "0076.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.359375
+            ],
+            [
+                "instructpix2pix",
+                28.1875
+            ],
+            [
+                "magicbrush",
+                26.546875
+            ],
+            [
+                "hive",
+                20.8125
+            ],
+            [
+                "instruct-diffusion",
+                19.484375
+            ],
+            [
+                "mgie",
+                19.265625
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "iedit",
+                17.6875
+            ]
+        ]
+    },
+    "77": {
+        "image": "0077.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                28.4375
+            ],
+            [
+                "hive",
+                26.546875
+            ],
+            [
+                "magicbrush",
+                23.59375
+            ],
+            [
+                "iedit",
+                21.71875
+            ],
+            [
+                "instruct-diffusion",
+                21.484375
+            ],
+            [
+                "mgie",
+                20.84375
+            ],
+            [
+                "instructpix2pix",
+                19.3125
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "78": {
+        "image": "0078.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                28.375
+            ],
+            [
+                "instructpix2pix",
+                26.6875
+            ],
+            [
+                "any2pix",
+                24.28125
+            ],
+            [
+                "mgie",
+                24.125
+            ],
+            [
+                "magicbrush",
+                20.421875
+            ],
+            [
+                "instruct-diffusion",
+                19.640625
+            ],
+            [
+                "iedit",
+                18.5625
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "79": {
+        "image": "0079.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                27.859375
+            ],
+            [
+                "mgie",
+                24.453125
+            ],
+            [
+                "iedit",
+                23.359375
+            ],
+            [
+                "instructpix2pix",
+                21.890625
+            ],
+            [
+                "hive",
+                19.21875
+            ],
+            [
+                "magicbrush",
+                19.078125
+            ],
+            [
+                "instruct-diffusion",
+                18.375
+            ],
+            [
+                "hqedit",
+                13.9921875
+            ]
+        ]
+    },
+    "80": {
+        "image": "0080.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                33.03125
+            ],
+            [
+                "magicbrush",
+                32.40625
+            ],
+            [
+                "any2pix",
+                25.078125
+            ],
+            [
+                "hive",
+                21.109375
+            ],
+            [
+                "mgie",
+                20.921875
+            ],
+            [
+                "instruct-diffusion",
+                20.59375
+            ],
+            [
+                "hqedit",
+                18.1875
+            ],
+            [
+                "iedit",
+                17.125
+            ]
+        ]
+    },
+    "81": {
+        "image": "0081.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "mgie",
+                29.96875
+            ],
+            [
+                "any2pix",
+                27.15625
+            ],
+            [
+                "magicbrush",
+                24.40625
+            ],
+            [
+                "hive",
+                23.71875
+            ],
+            [
+                "iedit",
+                20.0625
+            ],
+            [
+                "instructpix2pix",
+                19.984375
+            ],
+            [
+                "instruct-diffusion",
+                19.625
+            ],
+            [
+                "hqedit",
+                14.640625
+            ]
+        ]
+    },
+    "82": {
+        "image": "0082.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "mgie",
+                27.84375
+            ],
+            [
+                "instructpix2pix",
+                26.578125
+            ],
+            [
+                "magicbrush",
+                25.859375
+            ],
+            [
+                "instruct-diffusion",
+                25.4375
+            ],
+            [
+                "any2pix",
+                25.1875
+            ],
+            [
+                "iedit",
+                23.234375
+            ],
+            [
+                "hive",
+                20.0
+            ],
+            [
+                "hqedit",
+                16.453125
+            ]
+        ]
+    },
+    "83": {
+        "image": "0083.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                30.34375
+            ],
+            [
+                "hive",
+                25.0
+            ],
+            [
+                "instruct-diffusion",
+                23.609375
+            ],
+            [
+                "mgie",
+                23.59375
+            ],
+            [
+                "instructpix2pix",
+                22.375
+            ],
+            [
+                "magicbrush",
+                21.09375
+            ],
+            [
+                "iedit",
+                19.859375
+            ],
+            [
+                "hqedit",
+                12.9609375
+            ]
+        ]
+    },
+    "84": {
+        "image": "0084.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.40625
+            ],
+            [
+                "instructpix2pix",
+                18.109375
+            ],
+            [
+                "hqedit",
+                17.03125
+            ],
+            [
+                "mgie",
+                16.546875
+            ],
+            [
+                "hive",
+                16.4375
+            ],
+            [
+                "iedit",
+                16.1875
+            ],
+            [
+                "magicbrush",
+                15.140625
+            ],
+            [
+                "instruct-diffusion",
+                14.734375
+            ]
+        ]
+    },
+    "85": {
+        "image": "0085.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                29.25
+            ],
+            [
+                "any2pix",
+                28.1875
+            ],
+            [
+                "instructpix2pix",
+                23.5625
+            ],
+            [
+                "iedit",
+                22.0
+            ],
+            [
+                "instruct-diffusion",
+                21.78125
+            ],
+            [
+                "magicbrush",
+                21.578125
+            ],
+            [
+                "mgie",
+                19.125
+            ],
+            [
+                "hqedit",
+                14.796875
+            ]
+        ]
+    },
+    "86": {
+        "image": "0086.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                27.171875
+            ],
+            [
+                "hive",
+                25.328125
+            ],
+            [
+                "instructpix2pix",
+                25.03125
+            ],
+            [
+                "mgie",
+                24.03125
+            ],
+            [
+                "instruct-diffusion",
+                22.46875
+            ],
+            [
+                "iedit",
+                20.25
+            ],
+            [
+                "magicbrush",
+                19.546875
+            ],
+            [
+                "hqedit",
+                14.8984375
+            ]
+        ]
+    },
+    "87": {
+        "image": "0087.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                30.90625
+            ],
+            [
+                "hive",
+                28.40625
+            ],
+            [
+                "magicbrush",
+                28.09375
+            ],
+            [
+                "instructpix2pix",
+                26.484375
+            ],
+            [
+                "mgie",
+                23.15625
+            ],
+            [
+                "instruct-diffusion",
+                22.90625
+            ],
+            [
+                "iedit",
+                19.234375
+            ],
+            [
+                "hqedit",
+                13.5234375
+            ]
+        ]
+    },
+    "88": {
+        "image": "0088.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                28.125
+            ],
+            [
+                "mgie",
+                26.546875
+            ],
+            [
+                "instructpix2pix",
+                23.921875
+            ],
+            [
+                "any2pix",
+                23.71875
+            ],
+            [
+                "magicbrush",
+                23.28125
+            ],
+            [
+                "instruct-diffusion",
+                19.734375
+            ],
+            [
+                "hqedit",
+                17.296875
+            ],
+            [
+                "iedit",
+                17.203125
+            ]
+        ]
+    },
+    "89": {
+        "image": "0089.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                27.78125
+            ],
+            [
+                "hive",
+                27.75
+            ],
+            [
+                "instruct-diffusion",
+                25.03125
+            ],
+            [
+                "magicbrush",
+                23.84375
+            ],
+            [
+                "instructpix2pix",
+                22.515625
+            ],
+            [
+                "mgie",
+                21.625
+            ],
+            [
+                "iedit",
+                19.484375
+            ],
+            [
+                "hqedit",
+                14.296875
+            ]
+        ]
+    },
+    "90": {
+        "image": "0090.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                26.453125
+            ],
+            [
+                "any2pix",
+                26.34375
+            ],
+            [
+                "hive",
+                25.265625
+            ],
+            [
+                "mgie",
+                24.671875
+            ],
+            [
+                "magicbrush",
+                22.9375
+            ],
+            [
+                "instruct-diffusion",
+                22.015625
+            ],
+            [
+                "iedit",
+                19.71875
+            ],
+            [
+                "hqedit",
+                15.8125
+            ]
+        ]
+    },
+    "91": {
+        "image": "0091.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                27.34375
+            ],
+            [
+                "hive",
+                27.109375
+            ],
+            [
+                "magicbrush",
+                23.25
+            ],
+            [
+                "instruct-diffusion",
+                22.875
+            ],
+            [
+                "mgie",
+                22.71875
+            ],
+            [
+                "instructpix2pix",
+                20.5
+            ],
+            [
+                "iedit",
+                16.4375
+            ],
+            [
+                "hqedit",
+                13.5546875
+            ]
+        ]
+    },
+    "92": {
+        "image": "0092.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                31.0
+            ],
+            [
+                "any2pix",
+                25.9375
+            ],
+            [
+                "mgie",
+                21.765625
+            ],
+            [
+                "instructpix2pix",
+                20.140625
+            ],
+            [
+                "instruct-diffusion",
+                18.78125
+            ],
+            [
+                "magicbrush",
+                18.1875
+            ],
+            [
+                "hqedit",
+                17.0
+            ],
+            [
+                "iedit",
+                16.734375
+            ]
+        ]
+    },
+    "93": {
+        "image": "0093.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                28.25
+            ],
+            [
+                "magicbrush",
+                24.203125
+            ],
+            [
+                "hive",
+                23.71875
+            ],
+            [
+                "instructpix2pix",
+                23.390625
+            ],
+            [
+                "instruct-diffusion",
+                21.90625
+            ],
+            [
+                "mgie",
+                21.625
+            ],
+            [
+                "iedit",
+                20.859375
+            ],
+            [
+                "hqedit",
+                14.5625
+            ]
+        ]
+    },
+    "94": {
+        "image": "0094.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                26.71875
+            ],
+            [
+                "hive",
+                23.21875
+            ],
+            [
+                "instructpix2pix",
+                22.9375
+            ],
+            [
+                "mgie",
+                20.4375
+            ],
+            [
+                "iedit",
+                19.8125
+            ],
+            [
+                "magicbrush",
+                19.640625
+            ],
+            [
+                "instruct-diffusion",
+                18.46875
+            ],
+            [
+                "hqedit",
+                15.8046875
+            ]
+        ]
+    },
+    "95": {
+        "image": "0095.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.9375
+            ],
+            [
+                "hive",
+                29.109375
+            ],
+            [
+                "mgie",
+                24.65625
+            ],
+            [
+                "iedit",
+                23.84375
+            ],
+            [
+                "instructpix2pix",
+                23.625
+            ],
+            [
+                "instruct-diffusion",
+                21.984375
+            ],
+            [
+                "magicbrush",
+                21.953125
+            ],
+            [
+                "hqedit",
+                13.59375
+            ]
+        ]
+    },
+    "96": {
+        "image": "0096.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                30.96875
+            ],
+            [
+                "instructpix2pix",
+                27.171875
+            ],
+            [
+                "hive",
+                25.734375
+            ],
+            [
+                "any2pix",
+                25.296875
+            ],
+            [
+                "mgie",
+                23.96875
+            ],
+            [
+                "instruct-diffusion",
+                23.265625
+            ],
+            [
+                "iedit",
+                18.203125
+            ],
+            [
+                "hqedit",
+                16.96875
+            ]
+        ]
+    },
+    "97": {
+        "image": "0097.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                26.578125
+            ],
+            [
+                "magicbrush",
+                23.6875
+            ],
+            [
+                "mgie",
+                23.4375
+            ],
+            [
+                "iedit",
+                22.640625
+            ],
+            [
+                "instructpix2pix",
+                22.59375
+            ],
+            [
+                "instruct-diffusion",
+                21.921875
+            ],
+            [
+                "hive",
+                21.828125
+            ],
+            [
+                "hqedit",
+                15.0078125
+            ]
+        ]
+    },
+    "98": {
+        "image": "0098.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                27.515625
+            ],
+            [
+                "any2pix",
+                27.421875
+            ],
+            [
+                "iedit",
+                27.15625
+            ],
+            [
+                "instructpix2pix",
+                26.9375
+            ],
+            [
+                "hive",
+                26.734375
+            ],
+            [
+                "magicbrush",
+                26.03125
+            ],
+            [
+                "mgie",
+                25.625
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "99": {
+        "image": "0099.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                27.515625
+            ],
+            [
+                "instructpix2pix",
+                27.28125
+            ],
+            [
+                "magicbrush",
+                25.328125
+            ],
+            [
+                "any2pix",
+                24.875
+            ],
+            [
+                "instruct-diffusion",
+                24.65625
+            ],
+            [
+                "mgie",
+                24.609375
+            ],
+            [
+                "iedit",
+                19.421875
+            ],
+            [
+                "hqedit",
+                13.484375
+            ]
+        ]
+    },
+    "100": {
+        "image": "0100.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                28.921875
+            ],
+            [
+                "magicbrush",
+                26.5
+            ],
+            [
+                "any2pix",
+                25.40625
+            ],
+            [
+                "mgie",
+                23.921875
+            ],
+            [
+                "hive",
+                18.65625
+            ],
+            [
+                "hqedit",
+                17.0625
+            ],
+            [
+                "iedit",
+                14.125
+            ],
+            [
+                "instruct-diffusion",
+                13.6796875
+            ]
+        ]
+    },
+    "101": {
+        "image": "0101.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                29.234375
+            ],
+            [
+                "any2pix",
+                28.8125
+            ],
+            [
+                "mgie",
+                28.53125
+            ],
+            [
+                "instructpix2pix",
+                27.140625
+            ],
+            [
+                "hive",
+                27.0
+            ],
+            [
+                "magicbrush",
+                26.734375
+            ],
+            [
+                "iedit",
+                21.734375
+            ],
+            [
+                "hqedit",
+                15.7578125
+            ]
+        ]
+    },
+    "102": {
+        "image": "0102.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "mgie",
+                26.84375
+            ],
+            [
+                "instructpix2pix",
+                26.3125
+            ],
+            [
+                "hive",
+                26.15625
+            ],
+            [
+                "any2pix",
+                26.109375
+            ],
+            [
+                "instruct-diffusion",
+                22.703125
+            ],
+            [
+                "magicbrush",
+                21.65625
+            ],
+            [
+                "iedit",
+                19.5625
+            ],
+            [
+                "hqedit",
+                15.2734375
+            ]
+        ]
+    },
+    "103": {
+        "image": "0103.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.5
+            ],
+            [
+                "hive",
+                26.421875
+            ],
+            [
+                "mgie",
+                26.109375
+            ],
+            [
+                "instruct-diffusion",
+                24.328125
+            ],
+            [
+                "instructpix2pix",
+                23.0625
+            ],
+            [
+                "magicbrush",
+                20.921875
+            ],
+            [
+                "iedit",
+                20.59375
+            ],
+            [
+                "hqedit",
+                13.4140625
+            ]
+        ]
+    },
+    "104": {
+        "image": "0104.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                25.984375
+            ],
+            [
+                "mgie",
+                24.109375
+            ],
+            [
+                "magicbrush",
+                23.71875
+            ],
+            [
+                "any2pix",
+                21.8125
+            ],
+            [
+                "instruct-diffusion",
+                17.125
+            ],
+            [
+                "hqedit",
+                16.9375
+            ],
+            [
+                "iedit",
+                15.4765625
+            ],
+            [
+                "hive",
+                13.6796875
+            ]
+        ]
+    },
+    "105": {
+        "image": "0105.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "mgie",
+                29.796875
+            ],
+            [
+                "any2pix",
+                29.1875
+            ],
+            [
+                "iedit",
+                28.15625
+            ],
+            [
+                "hive",
+                27.046875
+            ],
+            [
+                "instruct-diffusion",
+                22.75
+            ],
+            [
+                "instructpix2pix",
+                22.625
+            ],
+            [
+                "magicbrush",
+                22.453125
+            ],
+            [
+                "hqedit",
+                14.65625
+            ]
+        ]
+    },
+    "106": {
+        "image": "0106.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                25.4375
+            ],
+            [
+                "any2pix",
+                24.875
+            ],
+            [
+                "instructpix2pix",
+                23.609375
+            ],
+            [
+                "mgie",
+                23.5
+            ],
+            [
+                "iedit",
+                18.578125
+            ],
+            [
+                "instruct-diffusion",
+                17.53125
+            ],
+            [
+                "magicbrush",
+                17.453125
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "107": {
+        "image": "0107.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                28.703125
+            ],
+            [
+                "hive",
+                28.234375
+            ],
+            [
+                "instruct-diffusion",
+                25.640625
+            ],
+            [
+                "instructpix2pix",
+                24.390625
+            ],
+            [
+                "mgie",
+                21.921875
+            ],
+            [
+                "magicbrush",
+                19.828125
+            ],
+            [
+                "iedit",
+                19.5625
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "108": {
+        "image": "0108.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                31.125
+            ],
+            [
+                "hive",
+                29.53125
+            ],
+            [
+                "mgie",
+                26.046875
+            ],
+            [
+                "instructpix2pix",
+                21.65625
+            ],
+            [
+                "magicbrush",
+                21.25
+            ],
+            [
+                "instruct-diffusion",
+                18.71875
+            ],
+            [
+                "iedit",
+                17.90625
+            ],
+            [
+                "hqedit",
+                17.21875
+            ]
+        ]
+    },
+    "109": {
+        "image": "0109.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.15625
+            ],
+            [
+                "iedit",
+                22.921875
+            ],
+            [
+                "mgie",
+                22.171875
+            ],
+            [
+                "hive",
+                21.625
+            ],
+            [
+                "instruct-diffusion",
+                20.953125
+            ],
+            [
+                "magicbrush",
+                20.921875
+            ],
+            [
+                "instructpix2pix",
+                20.390625
+            ],
+            [
+                "hqedit",
+                14.828125
+            ]
+        ]
+    },
+    "110": {
+        "image": "0110.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                27.546875
+            ],
+            [
+                "instructpix2pix",
+                24.625
+            ],
+            [
+                "mgie",
+                23.875
+            ],
+            [
+                "instruct-diffusion",
+                22.5
+            ],
+            [
+                "any2pix",
+                19.75
+            ],
+            [
+                "iedit",
+                17.921875
+            ],
+            [
+                "magicbrush",
+                17.71875
+            ],
+            [
+                "hqedit",
+                15.375
+            ]
+        ]
+    },
+    "111": {
+        "image": "0111.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                30.234375
+            ],
+            [
+                "mgie",
+                27.15625
+            ],
+            [
+                "hive",
+                23.984375
+            ],
+            [
+                "iedit",
+                23.671875
+            ],
+            [
+                "instructpix2pix",
+                22.96875
+            ],
+            [
+                "instruct-diffusion",
+                22.453125
+            ],
+            [
+                "magicbrush",
+                22.140625
+            ],
+            [
+                "hqedit",
+                13.3515625
+            ]
+        ]
+    },
+    "112": {
+        "image": "0112.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                28.578125
+            ],
+            [
+                "hive",
+                28.5625
+            ],
+            [
+                "mgie",
+                26.046875
+            ],
+            [
+                "any2pix",
+                21.390625
+            ],
+            [
+                "instructpix2pix",
+                20.359375
+            ],
+            [
+                "hqedit",
+                18.859375
+            ],
+            [
+                "iedit",
+                17.6875
+            ],
+            [
+                "instruct-diffusion",
+                15.6953125
+            ]
+        ]
+    },
+    "113": {
+        "image": "0113.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                27.25
+            ],
+            [
+                "hive",
+                23.640625
+            ],
+            [
+                "magicbrush",
+                20.625
+            ],
+            [
+                "instructpix2pix",
+                19.640625
+            ],
+            [
+                "instruct-diffusion",
+                18.984375
+            ],
+            [
+                "mgie",
+                17.4375
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ],
+            [
+                "iedit",
+                15.453125
+            ]
+        ]
+    },
+    "114": {
+        "image": "0114.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                27.84375
+            ],
+            [
+                "instructpix2pix",
+                25.859375
+            ],
+            [
+                "any2pix",
+                25.6875
+            ],
+            [
+                "mgie",
+                23.265625
+            ],
+            [
+                "instruct-diffusion",
+                23.140625
+            ],
+            [
+                "magicbrush",
+                19.9375
+            ],
+            [
+                "iedit",
+                19.828125
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "115": {
+        "image": "0115.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                31.0625
+            ],
+            [
+                "any2pix",
+                30.3125
+            ],
+            [
+                "mgie",
+                29.109375
+            ],
+            [
+                "instructpix2pix",
+                29.046875
+            ],
+            [
+                "magicbrush",
+                25.40625
+            ],
+            [
+                "instruct-diffusion",
+                23.65625
+            ],
+            [
+                "iedit",
+                22.5625
+            ],
+            [
+                "hqedit",
+                13.703125
+            ]
+        ]
+    },
+    "116": {
+        "image": "0116.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                32.03125
+            ],
+            [
+                "magicbrush",
+                29.796875
+            ],
+            [
+                "any2pix",
+                25.109375
+            ],
+            [
+                "mgie",
+                24.59375
+            ],
+            [
+                "instructpix2pix",
+                23.5
+            ],
+            [
+                "instruct-diffusion",
+                18.875
+            ],
+            [
+                "hqedit",
+                18.0625
+            ],
+            [
+                "iedit",
+                16.609375
+            ]
+        ]
+    },
+    "117": {
+        "image": "0117.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                28.359375
+            ],
+            [
+                "instruct-diffusion",
+                22.203125
+            ],
+            [
+                "hive",
+                22.015625
+            ],
+            [
+                "instructpix2pix",
+                21.703125
+            ],
+            [
+                "iedit",
+                21.703125
+            ],
+            [
+                "magicbrush",
+                21.65625
+            ],
+            [
+                "mgie",
+                20.34375
+            ],
+            [
+                "hqedit",
+                14.296875
+            ]
+        ]
+    },
+    "118": {
+        "image": "0118.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                25.625
+            ],
+            [
+                "instructpix2pix",
+                25.109375
+            ],
+            [
+                "any2pix",
+                24.234375
+            ],
+            [
+                "instruct-diffusion",
+                22.390625
+            ],
+            [
+                "magicbrush",
+                22.265625
+            ],
+            [
+                "mgie",
+                21.9375
+            ],
+            [
+                "iedit",
+                21.875
+            ],
+            [
+                "hqedit",
+                15.4609375
+            ]
+        ]
+    },
+    "119": {
+        "image": "0119.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                27.28125
+            ],
+            [
+                "mgie",
+                25.046875
+            ],
+            [
+                "hive",
+                21.75
+            ],
+            [
+                "instructpix2pix",
+                21.5
+            ],
+            [
+                "instruct-diffusion",
+                19.96875
+            ],
+            [
+                "magicbrush",
+                18.21875
+            ],
+            [
+                "iedit",
+                17.96875
+            ],
+            [
+                "hqedit",
+                13.234375
+            ]
+        ]
+    },
+    "120": {
+        "image": "0120.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                32.65625
+            ],
+            [
+                "magicbrush",
+                31.71875
+            ],
+            [
+                "mgie",
+                31.484375
+            ],
+            [
+                "hive",
+                30.890625
+            ],
+            [
+                "any2pix",
+                27.34375
+            ],
+            [
+                "iedit",
+                24.515625
+            ],
+            [
+                "instruct-diffusion",
+                21.984375
+            ],
+            [
+                "hqedit",
+                17.34375
+            ]
+        ]
+    },
+    "121": {
+        "image": "0121.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.765625
+            ],
+            [
+                "instructpix2pix",
+                28.03125
+            ],
+            [
+                "hive",
+                27.125
+            ],
+            [
+                "mgie",
+                22.03125
+            ],
+            [
+                "iedit",
+                20.75
+            ],
+            [
+                "magicbrush",
+                20.5
+            ],
+            [
+                "instruct-diffusion",
+                20.484375
+            ],
+            [
+                "hqedit",
+                14.375
+            ]
+        ]
+    },
+    "122": {
+        "image": "0122.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                27.296875
+            ],
+            [
+                "hive",
+                25.5625
+            ],
+            [
+                "instruct-diffusion",
+                25.5
+            ],
+            [
+                "any2pix",
+                24.609375
+            ],
+            [
+                "magicbrush",
+                24.484375
+            ],
+            [
+                "mgie",
+                24.09375
+            ],
+            [
+                "iedit",
+                21.671875
+            ],
+            [
+                "hqedit",
+                15.453125
+            ]
+        ]
+    },
+    "123": {
+        "image": "0123.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                28.296875
+            ],
+            [
+                "instructpix2pix",
+                26.640625
+            ],
+            [
+                "hive",
+                25.40625
+            ],
+            [
+                "mgie",
+                23.71875
+            ],
+            [
+                "magicbrush",
+                23.6875
+            ],
+            [
+                "instruct-diffusion",
+                23.0625
+            ],
+            [
+                "iedit",
+                21.796875
+            ],
+            [
+                "hqedit",
+                13.21875
+            ]
+        ]
+    },
+    "124": {
+        "image": "0124.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                27.09375
+            ],
+            [
+                "mgie",
+                22.71875
+            ],
+            [
+                "any2pix",
+                22.375
+            ],
+            [
+                "magicbrush",
+                21.921875
+            ],
+            [
+                "hive",
+                20.796875
+            ],
+            [
+                "instruct-diffusion",
+                20.34375
+            ],
+            [
+                "iedit",
+                18.546875
+            ],
+            [
+                "hqedit",
+                17.046875
+            ]
+        ]
+    },
+    "125": {
+        "image": "0125.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                27.296875
+            ],
+            [
+                "instruct-diffusion",
+                22.890625
+            ],
+            [
+                "hive",
+                22.828125
+            ],
+            [
+                "instructpix2pix",
+                21.984375
+            ],
+            [
+                "magicbrush",
+                20.546875
+            ],
+            [
+                "mgie",
+                20.46875
+            ],
+            [
+                "iedit",
+                18.9375
+            ],
+            [
+                "hqedit",
+                14.5546875
+            ]
+        ]
+    },
+    "126": {
+        "image": "0126.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "mgie",
+                25.96875
+            ],
+            [
+                "instructpix2pix",
+                25.640625
+            ],
+            [
+                "magicbrush",
+                22.359375
+            ],
+            [
+                "any2pix",
+                22.171875
+            ],
+            [
+                "hive",
+                20.109375
+            ],
+            [
+                "instruct-diffusion",
+                20.015625
+            ],
+            [
+                "iedit",
+                19.546875
+            ],
+            [
+                "hqedit",
+                15.34375
+            ]
+        ]
+    },
+    "127": {
+        "image": "0127.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                30.515625
+            ],
+            [
+                "any2pix",
+                28.6875
+            ],
+            [
+                "instructpix2pix",
+                27.0625
+            ],
+            [
+                "mgie",
+                26.671875
+            ],
+            [
+                "instruct-diffusion",
+                26.40625
+            ],
+            [
+                "iedit",
+                22.0
+            ],
+            [
+                "magicbrush",
+                21.34375
+            ],
+            [
+                "hqedit",
+                13.59375
+            ]
+        ]
+    },
+    "128": {
+        "image": "0128.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                30.9375
+            ],
+            [
+                "any2pix",
+                24.953125
+            ],
+            [
+                "hqedit",
+                22.171875
+            ],
+            [
+                "instruct-diffusion",
+                17.28125
+            ],
+            [
+                "instructpix2pix",
+                16.8125
+            ],
+            [
+                "mgie",
+                16.1875
+            ],
+            [
+                "hive",
+                16.171875
+            ],
+            [
+                "iedit",
+                15.8203125
+            ]
+        ]
+    },
+    "129": {
+        "image": "0129.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                28.375
+            ],
+            [
+                "instruct-diffusion",
+                23.125
+            ],
+            [
+                "hive",
+                22.59375
+            ],
+            [
+                "mgie",
+                21.8125
+            ],
+            [
+                "magicbrush",
+                20.984375
+            ],
+            [
+                "instructpix2pix",
+                20.828125
+            ],
+            [
+                "iedit",
+                20.75
+            ],
+            [
+                "hqedit",
+                14.375
+            ]
+        ]
+    },
+    "130": {
+        "image": "0130.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                25.421875
+            ],
+            [
+                "magicbrush",
+                21.96875
+            ],
+            [
+                "hive",
+                21.71875
+            ],
+            [
+                "instruct-diffusion",
+                20.65625
+            ],
+            [
+                "any2pix",
+                20.28125
+            ],
+            [
+                "iedit",
+                19.515625
+            ],
+            [
+                "mgie",
+                19.421875
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "131": {
+        "image": "0131.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.8125
+            ],
+            [
+                "hive",
+                28.34375
+            ],
+            [
+                "mgie",
+                22.140625
+            ],
+            [
+                "instructpix2pix",
+                19.21875
+            ],
+            [
+                "instruct-diffusion",
+                18.671875
+            ],
+            [
+                "magicbrush",
+                18.234375
+            ],
+            [
+                "iedit",
+                18.078125
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "132": {
+        "image": "0132.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                31.421875
+            ],
+            [
+                "magicbrush",
+                30.375
+            ],
+            [
+                "hive",
+                30.328125
+            ],
+            [
+                "instruct-diffusion",
+                27.484375
+            ],
+            [
+                "mgie",
+                27.4375
+            ],
+            [
+                "iedit",
+                26.078125
+            ],
+            [
+                "any2pix",
+                23.875
+            ],
+            [
+                "hqedit",
+                16.890625
+            ]
+        ]
+    },
+    "133": {
+        "image": "0133.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                30.484375
+            ],
+            [
+                "hive",
+                27.71875
+            ],
+            [
+                "mgie",
+                27.515625
+            ],
+            [
+                "iedit",
+                23.234375
+            ],
+            [
+                "instruct-diffusion",
+                22.1875
+            ],
+            [
+                "instructpix2pix",
+                21.25
+            ],
+            [
+                "magicbrush",
+                20.84375
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "134": {
+        "image": "0134.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                25.515625
+            ],
+            [
+                "hive",
+                25.359375
+            ],
+            [
+                "any2pix",
+                24.609375
+            ],
+            [
+                "mgie",
+                24.171875
+            ],
+            [
+                "instruct-diffusion",
+                23.296875
+            ],
+            [
+                "magicbrush",
+                21.78125
+            ],
+            [
+                "iedit",
+                20.5
+            ],
+            [
+                "hqedit",
+                15.171875
+            ]
+        ]
+    },
+    "135": {
+        "image": "0135.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                25.359375
+            ],
+            [
+                "mgie",
+                20.796875
+            ],
+            [
+                "instruct-diffusion",
+                19.390625
+            ],
+            [
+                "hive",
+                18.53125
+            ],
+            [
+                "instructpix2pix",
+                17.359375
+            ],
+            [
+                "iedit",
+                16.46875
+            ],
+            [
+                "magicbrush",
+                16.4375
+            ],
+            [
+                "hqedit",
+                13.3125
+            ]
+        ]
+    },
+    "136": {
+        "image": "0136.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                31.640625
+            ],
+            [
+                "mgie",
+                28.8125
+            ],
+            [
+                "instructpix2pix",
+                23.640625
+            ],
+            [
+                "instruct-diffusion",
+                20.765625
+            ],
+            [
+                "any2pix",
+                20.734375
+            ],
+            [
+                "hive",
+                19.21875
+            ],
+            [
+                "iedit",
+                17.296875
+            ],
+            [
+                "hqedit",
+                17.109375
+            ]
+        ]
+    },
+    "137": {
+        "image": "0137.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to oil painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                27.46875
+            ],
+            [
+                "hive",
+                27.078125
+            ],
+            [
+                "mgie",
+                21.140625
+            ],
+            [
+                "instructpix2pix",
+                19.734375
+            ],
+            [
+                "instruct-diffusion",
+                19.640625
+            ],
+            [
+                "magicbrush",
+                19.515625
+            ],
+            [
+                "iedit",
+                18.71875
+            ],
+            [
+                "hqedit",
+                14.4375
+            ]
+        ]
+    },
+    "138": {
+        "image": "0138.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to black and white style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                26.359375
+            ],
+            [
+                "instructpix2pix",
+                25.796875
+            ],
+            [
+                "mgie",
+                25.578125
+            ],
+            [
+                "any2pix",
+                20.96875
+            ],
+            [
+                "magicbrush",
+                18.640625
+            ],
+            [
+                "iedit",
+                17.9375
+            ],
+            [
+                "instruct-diffusion",
+                17.21875
+            ],
+            [
+                "hqedit",
+                15.7578125
+            ]
+        ]
+    },
+    "139": {
+        "image": "0139.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to watercolor painting style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                29.96875
+            ],
+            [
+                "any2pix",
+                28.0625
+            ],
+            [
+                "instructpix2pix",
+                26.515625
+            ],
+            [
+                "mgie",
+                24.484375
+            ],
+            [
+                "instruct-diffusion",
+                22.359375
+            ],
+            [
+                "iedit",
+                20.46875
+            ],
+            [
+                "magicbrush",
+                20.421875
+            ],
+            [
+                "hqedit",
+                13.3046875
+            ]
+        ]
+    },
+    "140": {
+        "image": "0140.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Change the image to cyberpunk style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "mgie",
+                28.0
+            ],
+            [
+                "any2pix",
+                25.578125
+            ],
+            [
+                "hive",
+                24.4375
+            ],
+            [
+                "instructpix2pix",
+                20.296875
+            ],
+            [
+                "instruct-diffusion",
+                19.234375
+            ],
+            [
+                "hqedit",
+                17.40625
+            ],
+            [
+                "magicbrush",
+                14.2421875
+            ],
+            [
+                "iedit",
+                13.3125
+            ]
+        ]
+    }
+}

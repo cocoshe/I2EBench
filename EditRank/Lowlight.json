@@ -1,0 +1,5742 @@
+{
+    "1": {
+        "image": "0000.png",
+        "dataset": "Lowlight",
+        "prompt": "Brightening the image",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6454
+            ],
+            [
+                "instruct-diffusion",
+                0.6421
+            ],
+            [
+                "mgie",
+                0.4827
+            ],
+            [
+                "hqedit",
+                0.3151
+            ],
+            [
+                "hive",
+                0.3038
+            ],
+            [
+                "any2pix",
+                0.2074
+            ],
+            [
+                "iedit",
+                0.1544
+            ],
+            [
+                "magicbrush",
+                0.1413
+            ]
+        ]
+    },
+    "2": {
+        "image": "0001.png",
+        "dataset": "Lowlight",
+        "prompt": "Boosting the luminosity",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.5773
+            ],
+            [
+                "instruct-diffusion",
+                0.5118
+            ],
+            [
+                "magicbrush",
+                0.4381
+            ],
+            [
+                "hqedit",
+                0.3758
+            ],
+            [
+                "hive",
+                0.2226
+            ],
+            [
+                "any2pix",
+                0.1268
+            ],
+            [
+                "mgie",
+                0.1262
+            ],
+            [
+                "iedit",
+                0.0881
+            ]
+        ]
+    },
+    "3": {
+        "image": "0002.png",
+        "dataset": "Lowlight",
+        "prompt": "Increasing the brightness",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.8424
+            ],
+            [
+                "instruct-diffusion",
+                0.8083
+            ],
+            [
+                "mgie",
+                0.4728
+            ],
+            [
+                "hqedit",
+                0.4508
+            ],
+            [
+                "any2pix",
+                0.2569
+            ],
+            [
+                "hive",
+                0.219
+            ],
+            [
+                "instructpix2pix",
+                0.1943
+            ],
+            [
+                "iedit",
+                0.1818
+            ]
+        ]
+    },
+    "4": {
+        "image": "0003.png",
+        "dataset": "Lowlight",
+        "prompt": "Elevating the light levels",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6641
+            ],
+            [
+                "magicbrush",
+                0.6144
+            ],
+            [
+                "mgie",
+                0.5154
+            ],
+            [
+                "hqedit",
+                0.5093
+            ],
+            [
+                "hive",
+                0.4396
+            ],
+            [
+                "any2pix",
+                0.2905
+            ],
+            [
+                "instruct-diffusion",
+                0.2683
+            ],
+            [
+                "iedit",
+                0.2605
+            ]
+        ]
+    },
+    "5": {
+        "image": "0004.png",
+        "dataset": "Lowlight",
+        "prompt": "Intensifying the illumination",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7478
+            ],
+            [
+                "hqedit",
+                0.4474
+            ],
+            [
+                "instructpix2pix",
+                0.4101
+            ],
+            [
+                "magicbrush",
+                0.2123
+            ],
+            [
+                "instruct-diffusion",
+                0.1879
+            ],
+            [
+                "any2pix",
+                0.1809
+            ],
+            [
+                "mgie",
+                0.1746
+            ],
+            [
+                "iedit",
+                0.0698
+            ]
+        ]
+    },
+    "6": {
+        "image": "0005.png",
+        "dataset": "Lowlight",
+        "prompt": "Amping up the lighting",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6865
+            ],
+            [
+                "hqedit",
+                0.5221
+            ],
+            [
+                "any2pix",
+                0.1223
+            ],
+            [
+                "mgie",
+                0.1154
+            ],
+            [
+                "instruct-diffusion",
+                0.0853
+            ],
+            [
+                "magicbrush",
+                0.0555
+            ],
+            [
+                "instructpix2pix",
+                0.0433
+            ],
+            [
+                "iedit",
+                0.0353
+            ]
+        ]
+    },
+    "7": {
+        "image": "0006.png",
+        "dataset": "Lowlight",
+        "prompt": "Enhancing the luminance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5192
+            ],
+            [
+                "instructpix2pix",
+                0.3991
+            ],
+            [
+                "hqedit",
+                0.3899
+            ],
+            [
+                "instruct-diffusion",
+                0.3548
+            ],
+            [
+                "hive",
+                0.2445
+            ],
+            [
+                "mgie",
+                0.2266
+            ],
+            [
+                "any2pix",
+                0.1064
+            ],
+            [
+                "iedit",
+                0.051
+            ]
+        ]
+    },
+    "8": {
+        "image": "0007.png",
+        "dataset": "Lowlight",
+        "prompt": "Augmenting the radiance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6112
+            ],
+            [
+                "hive",
+                0.4944
+            ],
+            [
+                "magicbrush",
+                0.431
+            ],
+            [
+                "hqedit",
+                0.3319
+            ],
+            [
+                "mgie",
+                0.2471
+            ],
+            [
+                "instruct-diffusion",
+                0.1441
+            ],
+            [
+                "any2pix",
+                0.1375
+            ],
+            [
+                "iedit",
+                0.0476
+            ]
+        ]
+    },
+    "9": {
+        "image": "0008.png",
+        "dataset": "Lowlight",
+        "prompt": "Improving the brilliance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.8051
+            ],
+            [
+                "instruct-diffusion",
+                0.3764
+            ],
+            [
+                "magicbrush",
+                0.239
+            ],
+            [
+                "any2pix",
+                0.2358
+            ],
+            [
+                "mgie",
+                0.2319
+            ],
+            [
+                "instructpix2pix",
+                0.1986
+            ],
+            [
+                "hqedit",
+                0.1943
+            ],
+            [
+                "iedit",
+                0.114
+            ]
+        ]
+    },
+    "10": {
+        "image": "0009.png",
+        "dataset": "Lowlight",
+        "prompt": "Lightening the picture",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5195
+            ],
+            [
+                "instructpix2pix",
+                0.479
+            ],
+            [
+                "hqedit",
+                0.413
+            ],
+            [
+                "hive",
+                0.3189
+            ],
+            [
+                "any2pix",
+                0.1984
+            ],
+            [
+                "magicbrush",
+                0.1562
+            ],
+            [
+                "iedit",
+                0.1484
+            ],
+            [
+                "instruct-diffusion",
+                0.1354
+            ]
+        ]
+    },
+    "11": {
+        "image": "0010.png",
+        "dataset": "Lowlight",
+        "prompt": "Heightening the luminosity",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5056
+            ],
+            [
+                "hive",
+                0.502
+            ],
+            [
+                "instructpix2pix",
+                0.4752
+            ],
+            [
+                "hqedit",
+                0.2571
+            ],
+            [
+                "mgie",
+                0.2042
+            ],
+            [
+                "any2pix",
+                0.166
+            ],
+            [
+                "instruct-diffusion",
+                0.1387
+            ],
+            [
+                "iedit",
+                0.0986
+            ]
+        ]
+    },
+    "12": {
+        "image": "0011.png",
+        "dataset": "Lowlight",
+        "prompt": "Enriching the brightness",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7585
+            ],
+            [
+                "hqedit",
+                0.3313
+            ],
+            [
+                "instruct-diffusion",
+                0.3174
+            ],
+            [
+                "mgie",
+                0.1725
+            ],
+            [
+                "any2pix",
+                0.1265
+            ],
+            [
+                "instructpix2pix",
+                0.0533
+            ],
+            [
+                "magicbrush",
+                0.0369
+            ],
+            [
+                "iedit",
+                0.0252
+            ]
+        ]
+    },
+    "13": {
+        "image": "0012.png",
+        "dataset": "Lowlight",
+        "prompt": "Accentuating the light",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7077
+            ],
+            [
+                "magicbrush",
+                0.5262
+            ],
+            [
+                "hqedit",
+                0.5204
+            ],
+            [
+                "mgie",
+                0.2446
+            ],
+            [
+                "any2pix",
+                0.1375
+            ],
+            [
+                "iedit",
+                0.0877
+            ],
+            [
+                "instruct-diffusion",
+                0.0742
+            ],
+            [
+                "hive",
+                0.0666
+            ]
+        ]
+    },
+    "14": {
+        "image": "0013.png",
+        "dataset": "Lowlight",
+        "prompt": "Intensifying the glow",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.9034
+            ],
+            [
+                "magicbrush",
+                0.7707
+            ],
+            [
+                "hive",
+                0.5688
+            ],
+            [
+                "hqedit",
+                0.4524
+            ],
+            [
+                "instruct-diffusion",
+                0.2321
+            ],
+            [
+                "any2pix",
+                0.1017
+            ],
+            [
+                "iedit",
+                0.0603
+            ],
+            [
+                "mgie",
+                0.0395
+            ]
+        ]
+    },
+    "15": {
+        "image": "0014.png",
+        "dataset": "Lowlight",
+        "prompt": "Illuminating the scene",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.4741
+            ],
+            [
+                "hqedit",
+                0.3402
+            ],
+            [
+                "mgie",
+                0.3002
+            ],
+            [
+                "magicbrush",
+                0.2388
+            ],
+            [
+                "instructpix2pix",
+                0.218
+            ],
+            [
+                "any2pix",
+                0.1562
+            ],
+            [
+                "instruct-diffusion",
+                0.0743
+            ],
+            [
+                "iedit",
+                0.0657
+            ]
+        ]
+    },
+    "16": {
+        "image": "0015.png",
+        "dataset": "Lowlight",
+        "prompt": "Sharpening the lighting",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5159
+            ],
+            [
+                "hqedit",
+                0.2636
+            ],
+            [
+                "mgie",
+                0.1661
+            ],
+            [
+                "any2pix",
+                0.1098
+            ],
+            [
+                "hive",
+                0.0734
+            ],
+            [
+                "iedit",
+                0.0732
+            ],
+            [
+                "instructpix2pix",
+                0.0729
+            ],
+            [
+                "magicbrush",
+                0.0518
+            ]
+        ]
+    },
+    "17": {
+        "image": "0016.png",
+        "dataset": "Lowlight",
+        "prompt": "Strengthening the luminosity",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6972
+            ],
+            [
+                "magicbrush",
+                0.6914
+            ],
+            [
+                "instructpix2pix",
+                0.6703
+            ],
+            [
+                "hqedit",
+                0.4553
+            ],
+            [
+                "mgie",
+                0.368
+            ],
+            [
+                "hive",
+                0.162
+            ],
+            [
+                "any2pix",
+                0.1154
+            ],
+            [
+                "iedit",
+                0.0951
+            ]
+        ]
+    },
+    "18": {
+        "image": "0017.png",
+        "dataset": "Lowlight",
+        "prompt": "Ameliorating the illumination",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7124
+            ],
+            [
+                "hive",
+                0.4735
+            ],
+            [
+                "hqedit",
+                0.4121
+            ],
+            [
+                "any2pix",
+                0.2253
+            ],
+            [
+                "instruct-diffusion",
+                0.2187
+            ],
+            [
+                "magicbrush",
+                0.0638
+            ],
+            [
+                "mgie",
+                0.0483
+            ],
+            [
+                "iedit",
+                0.0326
+            ]
+        ]
+    },
+    "19": {
+        "image": "0018.png",
+        "dataset": "Lowlight",
+        "prompt": "Enlivening the brightness",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7492
+            ],
+            [
+                "instruct-diffusion",
+                0.4839
+            ],
+            [
+                "hive",
+                0.413
+            ],
+            [
+                "mgie",
+                0.3819
+            ],
+            [
+                "hqedit",
+                0.3175
+            ],
+            [
+                "magicbrush",
+                0.1929
+            ],
+            [
+                "any2pix",
+                0.1619
+            ],
+            [
+                "iedit",
+                0.1465
+            ]
+        ]
+    },
+    "20": {
+        "image": "0019.png",
+        "dataset": "Lowlight",
+        "prompt": "Reinforcing the light levels",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.5894
+            ],
+            [
+                "hqedit",
+                0.3076
+            ],
+            [
+                "magicbrush",
+                0.2992
+            ],
+            [
+                "instruct-diffusion",
+                0.2644
+            ],
+            [
+                "mgie",
+                0.1629
+            ],
+            [
+                "any2pix",
+                0.1133
+            ],
+            [
+                "hive",
+                0.0418
+            ],
+            [
+                "iedit",
+                0.0361
+            ]
+        ]
+    },
+    "21": {
+        "image": "0020.png",
+        "dataset": "Lowlight",
+        "prompt": "Magnifying the radiance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5479
+            ],
+            [
+                "instruct-diffusion",
+                0.3554
+            ],
+            [
+                "hive",
+                0.2903
+            ],
+            [
+                "hqedit",
+                0.2882
+            ],
+            [
+                "mgie",
+                0.263
+            ],
+            [
+                "instructpix2pix",
+                0.1937
+            ],
+            [
+                "any2pix",
+                0.1542
+            ],
+            [
+                "iedit",
+                0.0792
+            ]
+        ]
+    },
+    "22": {
+        "image": "0021.png",
+        "dataset": "Lowlight",
+        "prompt": "Perfecting the luminance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.5154
+            ],
+            [
+                "mgie",
+                0.4661
+            ],
+            [
+                "hqedit",
+                0.412
+            ],
+            [
+                "hive",
+                0.3484
+            ],
+            [
+                "instruct-diffusion",
+                0.2282
+            ],
+            [
+                "any2pix",
+                0.2254
+            ],
+            [
+                "iedit",
+                0.2235
+            ],
+            [
+                "magicbrush",
+                0.2011
+            ]
+        ]
+    },
+    "23": {
+        "image": "0022.png",
+        "dataset": "Lowlight",
+        "prompt": "Fine-tuning the brightness",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7051
+            ],
+            [
+                "instruct-diffusion",
+                0.5878
+            ],
+            [
+                "mgie",
+                0.3831
+            ],
+            [
+                "hqedit",
+                0.331
+            ],
+            [
+                "hive",
+                0.3046
+            ],
+            [
+                "any2pix",
+                0.1531
+            ],
+            [
+                "magicbrush",
+                0.1383
+            ],
+            [
+                "iedit",
+                0.1125
+            ]
+        ]
+    },
+    "24": {
+        "image": "0023.png",
+        "dataset": "Lowlight",
+        "prompt": "Illuminating with precision",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3143
+            ],
+            [
+                "hqedit",
+                0.1955
+            ],
+            [
+                "instructpix2pix",
+                0.1853
+            ],
+            [
+                "hive",
+                0.1457
+            ],
+            [
+                "any2pix",
+                0.127
+            ],
+            [
+                "instruct-diffusion",
+                0.0949
+            ],
+            [
+                "iedit",
+                0.0864
+            ],
+            [
+                "magicbrush",
+                0.0853
+            ]
+        ]
+    },
+    "25": {
+        "image": "0024.png",
+        "dataset": "Lowlight",
+        "prompt": "Enhancing the visual appeal",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.688
+            ],
+            [
+                "magicbrush",
+                0.668
+            ],
+            [
+                "hive",
+                0.6138
+            ],
+            [
+                "hqedit",
+                0.5051
+            ],
+            [
+                "instruct-diffusion",
+                0.4903
+            ],
+            [
+                "any2pix",
+                0.1872
+            ],
+            [
+                "iedit",
+                0.0932
+            ],
+            [
+                "mgie",
+                0.0259
+            ]
+        ]
+    },
+    "26": {
+        "image": "0025.png",
+        "dataset": "Lowlight",
+        "prompt": "Optimizing the lighting",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6569
+            ],
+            [
+                "instruct-diffusion",
+                0.5291
+            ],
+            [
+                "hqedit",
+                0.4966
+            ],
+            [
+                "magicbrush",
+                0.4555
+            ],
+            [
+                "hive",
+                0.3376
+            ],
+            [
+                "mgie",
+                0.253
+            ],
+            [
+                "any2pix",
+                0.1652
+            ],
+            [
+                "iedit",
+                0.1117
+            ]
+        ]
+    },
+    "27": {
+        "image": "0026.png",
+        "dataset": "Lowlight",
+        "prompt": "Polishing the brightness",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.4726
+            ],
+            [
+                "hive",
+                0.4139
+            ],
+            [
+                "instruct-diffusion",
+                0.3897
+            ],
+            [
+                "hqedit",
+                0.3269
+            ],
+            [
+                "magicbrush",
+                0.228
+            ],
+            [
+                "any2pix",
+                0.126
+            ],
+            [
+                "mgie",
+                0.0299
+            ],
+            [
+                "iedit",
+                0.0292
+            ]
+        ]
+    },
+    "28": {
+        "image": "0027.png",
+        "dataset": "Lowlight",
+        "prompt": "Maximizing luminosity",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6583
+            ],
+            [
+                "instructpix2pix",
+                0.6494
+            ],
+            [
+                "hive",
+                0.6054
+            ],
+            [
+                "hqedit",
+                0.34
+            ],
+            [
+                "instruct-diffusion",
+                0.2808
+            ],
+            [
+                "mgie",
+                0.217
+            ],
+            [
+                "any2pix",
+                0.095
+            ],
+            [
+                "iedit",
+                0.0262
+            ]
+        ]
+    },
+    "29": {
+        "image": "0028.png",
+        "dataset": "Lowlight",
+        "prompt": "Enriching the radiance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.8116
+            ],
+            [
+                "magicbrush",
+                0.6852
+            ],
+            [
+                "instructpix2pix",
+                0.6043
+            ],
+            [
+                "hqedit",
+                0.5969
+            ],
+            [
+                "instruct-diffusion",
+                0.5374
+            ],
+            [
+                "mgie",
+                0.3293
+            ],
+            [
+                "any2pix",
+                0.177
+            ],
+            [
+                "iedit",
+                0.0936
+            ]
+        ]
+    },
+    "30": {
+        "image": "0029.png",
+        "dataset": "Lowlight",
+        "prompt": "Illuminating with finesse",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6253
+            ],
+            [
+                "instruct-diffusion",
+                0.6197
+            ],
+            [
+                "magicbrush",
+                0.3182
+            ],
+            [
+                "hqedit",
+                0.3027
+            ],
+            [
+                "mgie",
+                0.1536
+            ],
+            [
+                "any2pix",
+                0.1357
+            ],
+            [
+                "hive",
+                0.1306
+            ],
+            [
+                "iedit",
+                0.1111
+            ]
+        ]
+    },
+    "31": {
+        "image": "0030.png",
+        "dataset": "Lowlight",
+        "prompt": "Elevating the brightness quotient",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7309
+            ],
+            [
+                "instruct-diffusion",
+                0.6786
+            ],
+            [
+                "magicbrush",
+                0.6304
+            ],
+            [
+                "mgie",
+                0.5244
+            ],
+            [
+                "hqedit",
+                0.5108
+            ],
+            [
+                "hive",
+                0.3271
+            ],
+            [
+                "iedit",
+                0.2136
+            ],
+            [
+                "any2pix",
+                0.1873
+            ]
+        ]
+    },
+    "32": {
+        "image": "0031.png",
+        "dataset": "Lowlight",
+        "prompt": "Intensifying the brilliance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.8078
+            ],
+            [
+                "magicbrush",
+                0.7623
+            ],
+            [
+                "hqedit",
+                0.4509
+            ],
+            [
+                "instructpix2pix",
+                0.3911
+            ],
+            [
+                "instruct-diffusion",
+                0.3332
+            ],
+            [
+                "any2pix",
+                0.15
+            ],
+            [
+                "mgie",
+                0.1256
+            ],
+            [
+                "iedit",
+                0.0945
+            ]
+        ]
+    },
+    "33": {
+        "image": "0032.png",
+        "dataset": "Lowlight",
+        "prompt": "Refining the illumination",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6386
+            ],
+            [
+                "hive",
+                0.6246
+            ],
+            [
+                "magicbrush",
+                0.5073
+            ],
+            [
+                "hqedit",
+                0.4343
+            ],
+            [
+                "instruct-diffusion",
+                0.2394
+            ],
+            [
+                "mgie",
+                0.2255
+            ],
+            [
+                "any2pix",
+                0.1378
+            ],
+            [
+                "iedit",
+                0.0715
+            ]
+        ]
+    },
+    "34": {
+        "image": "0033.png",
+        "dataset": "Lowlight",
+        "prompt": "Brightening up the scene",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7388
+            ],
+            [
+                "hive",
+                0.7148
+            ],
+            [
+                "mgie",
+                0.6318
+            ],
+            [
+                "instruct-diffusion",
+                0.5691
+            ],
+            [
+                "magicbrush",
+                0.3686
+            ],
+            [
+                "hqedit",
+                0.282
+            ],
+            [
+                "any2pix",
+                0.1906
+            ],
+            [
+                "iedit",
+                0.1816
+            ]
+        ]
+    },
+    "35": {
+        "image": "0034.png",
+        "dataset": "Lowlight",
+        "prompt": "Accentuating the radiance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6167
+            ],
+            [
+                "hive",
+                0.5996
+            ],
+            [
+                "instructpix2pix",
+                0.5685
+            ],
+            [
+                "hqedit",
+                0.3403
+            ],
+            [
+                "mgie",
+                0.2769
+            ],
+            [
+                "magicbrush",
+                0.2298
+            ],
+            [
+                "iedit",
+                0.1752
+            ],
+            [
+                "any2pix",
+                0.1651
+            ]
+        ]
+    },
+    "36": {
+        "image": "0035.png",
+        "dataset": "Lowlight",
+        "prompt": "Boosting the luminous quality",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7021
+            ],
+            [
+                "magicbrush",
+                0.5794
+            ],
+            [
+                "hqedit",
+                0.4436
+            ],
+            [
+                "mgie",
+                0.3135
+            ],
+            [
+                "instruct-diffusion",
+                0.2005
+            ],
+            [
+                "any2pix",
+                0.1361
+            ],
+            [
+                "hive",
+                0.1197
+            ],
+            [
+                "iedit",
+                0.088
+            ]
+        ]
+    },
+    "37": {
+        "image": "0036.png",
+        "dataset": "Lowlight",
+        "prompt": "Advancing the brightness",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6054
+            ],
+            [
+                "magicbrush",
+                0.5819
+            ],
+            [
+                "instructpix2pix",
+                0.4698
+            ],
+            [
+                "instruct-diffusion",
+                0.4225
+            ],
+            [
+                "hqedit",
+                0.3244
+            ],
+            [
+                "mgie",
+                0.1766
+            ],
+            [
+                "any2pix",
+                0.1269
+            ],
+            [
+                "iedit",
+                0.0592
+            ]
+        ]
+    },
+    "38": {
+        "image": "0037.png",
+        "dataset": "Lowlight",
+        "prompt": "Heightening the glow",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6539
+            ],
+            [
+                "instructpix2pix",
+                0.6431
+            ],
+            [
+                "hive",
+                0.5611
+            ],
+            [
+                "hqedit",
+                0.4218
+            ],
+            [
+                "mgie",
+                0.3657
+            ],
+            [
+                "magicbrush",
+                0.2665
+            ],
+            [
+                "any2pix",
+                0.2253
+            ],
+            [
+                "iedit",
+                0.1753
+            ]
+        ]
+    },
+    "39": {
+        "image": "0038.png",
+        "dataset": "Lowlight",
+        "prompt": "Enriching the luminosity",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6798
+            ],
+            [
+                "instructpix2pix",
+                0.6111
+            ],
+            [
+                "hqedit",
+                0.4712
+            ],
+            [
+                "hive",
+                0.369
+            ],
+            [
+                "mgie",
+                0.2722
+            ],
+            [
+                "any2pix",
+                0.2171
+            ],
+            [
+                "iedit",
+                0.16
+            ],
+            [
+                "magicbrush",
+                0.1578
+            ]
+        ]
+    },
+    "40": {
+        "image": "0039.png",
+        "dataset": "Lowlight",
+        "prompt": "Amping up the radiance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7734
+            ],
+            [
+                "hqedit",
+                0.4627
+            ],
+            [
+                "magicbrush",
+                0.3247
+            ],
+            [
+                "mgie",
+                0.2017
+            ],
+            [
+                "any2pix",
+                0.1605
+            ],
+            [
+                "instruct-diffusion",
+                0.1574
+            ],
+            [
+                "iedit",
+                0.0948
+            ],
+            [
+                "instructpix2pix",
+                0.0811
+            ]
+        ]
+    },
+    "41": {
+        "image": "0040.png",
+        "dataset": "Lowlight",
+        "prompt": "Intensifying the brilliance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.8333
+            ],
+            [
+                "magicbrush",
+                0.5673
+            ],
+            [
+                "hqedit",
+                0.439
+            ],
+            [
+                "instructpix2pix",
+                0.1934
+            ],
+            [
+                "instruct-diffusion",
+                0.1635
+            ],
+            [
+                "any2pix",
+                0.1543
+            ],
+            [
+                "iedit",
+                0.1012
+            ],
+            [
+                "mgie",
+                0.0406
+            ]
+        ]
+    },
+    "42": {
+        "image": "0041.png",
+        "dataset": "Lowlight",
+        "prompt": "Strengthening the illumination",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7582
+            ],
+            [
+                "hqedit",
+                0.5214
+            ],
+            [
+                "mgie",
+                0.3302
+            ],
+            [
+                "magicbrush",
+                0.2232
+            ],
+            [
+                "any2pix",
+                0.1829
+            ],
+            [
+                "instruct-diffusion",
+                0.1274
+            ],
+            [
+                "iedit",
+                0.1038
+            ],
+            [
+                "hive",
+                0.0992
+            ]
+        ]
+    },
+    "43": {
+        "image": "0042.png",
+        "dataset": "Lowlight",
+        "prompt": "Enhancing the luminance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6198
+            ],
+            [
+                "mgie",
+                0.4526
+            ],
+            [
+                "instructpix2pix",
+                0.3846
+            ],
+            [
+                "hqedit",
+                0.3081
+            ],
+            [
+                "iedit",
+                0.2027
+            ],
+            [
+                "magicbrush",
+                0.2011
+            ],
+            [
+                "hive",
+                0.1946
+            ],
+            [
+                "any2pix",
+                0.183
+            ]
+        ]
+    },
+    "44": {
+        "image": "0043.png",
+        "dataset": "Lowlight",
+        "prompt": "Illuminating with precision",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hqedit",
+                0.6175
+            ],
+            [
+                "instruct-diffusion",
+                0.56
+            ],
+            [
+                "magicbrush",
+                0.4621
+            ],
+            [
+                "mgie",
+                0.3436
+            ],
+            [
+                "any2pix",
+                0.1869
+            ],
+            [
+                "iedit",
+                0.1479
+            ],
+            [
+                "hive",
+                0.1357
+            ],
+            [
+                "instructpix2pix",
+                0.0926
+            ]
+        ]
+    },
+    "45": {
+        "image": "0044.png",
+        "dataset": "Lowlight",
+        "prompt": "Perfecting the brightness",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7418
+            ],
+            [
+                "instruct-diffusion",
+                0.6756
+            ],
+            [
+                "hqedit",
+                0.6287
+            ],
+            [
+                "magicbrush",
+                0.5556
+            ],
+            [
+                "mgie",
+                0.4449
+            ],
+            [
+                "any2pix",
+                0.1878
+            ],
+            [
+                "iedit",
+                0.1771
+            ],
+            [
+                "instructpix2pix",
+                0.1569
+            ]
+        ]
+    },
+    "46": {
+        "image": "0045.png",
+        "dataset": "Lowlight",
+        "prompt": "Sharpening the lighting",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6215
+            ],
+            [
+                "instruct-diffusion",
+                0.6042
+            ],
+            [
+                "instructpix2pix",
+                0.4726
+            ],
+            [
+                "hqedit",
+                0.3166
+            ],
+            [
+                "iedit",
+                0.2652
+            ],
+            [
+                "any2pix",
+                0.2565
+            ],
+            [
+                "magicbrush",
+                0.1683
+            ],
+            [
+                "mgie",
+                0.1478
+            ]
+        ]
+    },
+    "47": {
+        "image": "0046.png",
+        "dataset": "Lowlight",
+        "prompt": "Fine-tuning the luminosity",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.497
+            ],
+            [
+                "instructpix2pix",
+                0.4674
+            ],
+            [
+                "hive",
+                0.3154
+            ],
+            [
+                "mgie",
+                0.1793
+            ],
+            [
+                "hqedit",
+                0.1559
+            ],
+            [
+                "magicbrush",
+                0.0799
+            ],
+            [
+                "any2pix",
+                0.0727
+            ],
+            [
+                "iedit",
+                0.0681
+            ]
+        ]
+    },
+    "48": {
+        "image": "0047.png",
+        "dataset": "Lowlight",
+        "prompt": "Polishing the radiance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7435
+            ],
+            [
+                "mgie",
+                0.3838
+            ],
+            [
+                "hqedit",
+                0.3748
+            ],
+            [
+                "hive",
+                0.1957
+            ],
+            [
+                "any2pix",
+                0.1851
+            ],
+            [
+                "magicbrush",
+                0.1792
+            ],
+            [
+                "instruct-diffusion",
+                0.1773
+            ],
+            [
+                "iedit",
+                0.167
+            ]
+        ]
+    },
+    "49": {
+        "image": "0048.png",
+        "dataset": "Lowlight",
+        "prompt": "Magnifying the brilliance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6598
+            ],
+            [
+                "hive",
+                0.5968
+            ],
+            [
+                "hqedit",
+                0.3998
+            ],
+            [
+                "any2pix",
+                0.2
+            ],
+            [
+                "instruct-diffusion",
+                0.1996
+            ],
+            [
+                "magicbrush",
+                0.1873
+            ],
+            [
+                "iedit",
+                0.1715
+            ],
+            [
+                "mgie",
+                0.1582
+            ]
+        ]
+    },
+    "50": {
+        "image": "0049.png",
+        "dataset": "Lowlight",
+        "prompt": "Elevating the glow",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5325
+            ],
+            [
+                "hqedit",
+                0.3462
+            ],
+            [
+                "mgie",
+                0.2853
+            ],
+            [
+                "hive",
+                0.1262
+            ],
+            [
+                "any2pix",
+                0.098
+            ],
+            [
+                "instructpix2pix",
+                0.0791
+            ],
+            [
+                "instruct-diffusion",
+                0.0685
+            ],
+            [
+                "iedit",
+                0.0625
+            ]
+        ]
+    },
+    "51": {
+        "image": "0050.png",
+        "dataset": "Lowlight",
+        "prompt": "Augmenting the brightness",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3848
+            ],
+            [
+                "hqedit",
+                0.379
+            ],
+            [
+                "hive",
+                0.343
+            ],
+            [
+                "instructpix2pix",
+                0.2802
+            ],
+            [
+                "any2pix",
+                0.1728
+            ],
+            [
+                "iedit",
+                0.0969
+            ],
+            [
+                "magicbrush",
+                0.0834
+            ],
+            [
+                "instruct-diffusion",
+                0.081
+            ]
+        ]
+    },
+    "52": {
+        "image": "0051.png",
+        "dataset": "Lowlight",
+        "prompt": "Increasing the luminosity",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hqedit",
+                0.4812
+            ],
+            [
+                "mgie",
+                0.4794
+            ],
+            [
+                "instructpix2pix",
+                0.3712
+            ],
+            [
+                "any2pix",
+                0.2848
+            ],
+            [
+                "instruct-diffusion",
+                0.2621
+            ],
+            [
+                "magicbrush",
+                0.2566
+            ],
+            [
+                "iedit",
+                0.2517
+            ],
+            [
+                "hive",
+                0.2507
+            ]
+        ]
+    },
+    "53": {
+        "image": "0052.png",
+        "dataset": "Lowlight",
+        "prompt": "Boosting the illumination",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7514
+            ],
+            [
+                "magicbrush",
+                0.7027
+            ],
+            [
+                "hive",
+                0.5551
+            ],
+            [
+                "hqedit",
+                0.5385
+            ],
+            [
+                "mgie",
+                0.5287
+            ],
+            [
+                "any2pix",
+                0.1199
+            ],
+            [
+                "iedit",
+                0.0877
+            ],
+            [
+                "instruct-diffusion",
+                0.07
+            ]
+        ]
+    },
+    "54": {
+        "image": "0053.png",
+        "dataset": "Lowlight",
+        "prompt": "Amplifying the radiance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6492
+            ],
+            [
+                "magicbrush",
+                0.6207
+            ],
+            [
+                "hive",
+                0.6004
+            ],
+            [
+                "mgie",
+                0.4624
+            ],
+            [
+                "hqedit",
+                0.4532
+            ],
+            [
+                "instructpix2pix",
+                0.242
+            ],
+            [
+                "any2pix",
+                0.1988
+            ],
+            [
+                "iedit",
+                0.167
+            ]
+        ]
+    },
+    "55": {
+        "image": "0054.png",
+        "dataset": "Lowlight",
+        "prompt": "Perfecting the light levels",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.74
+            ],
+            [
+                "instructpix2pix",
+                0.7122
+            ],
+            [
+                "magicbrush",
+                0.5289
+            ],
+            [
+                "instruct-diffusion",
+                0.4626
+            ],
+            [
+                "hqedit",
+                0.3636
+            ],
+            [
+                "mgie",
+                0.3596
+            ],
+            [
+                "any2pix",
+                0.1745
+            ],
+            [
+                "iedit",
+                0.09
+            ]
+        ]
+    },
+    "56": {
+        "image": "0055.png",
+        "dataset": "Lowlight",
+        "prompt": "Refining the brightness",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7735
+            ],
+            [
+                "magicbrush",
+                0.6339
+            ],
+            [
+                "instructpix2pix",
+                0.6026
+            ],
+            [
+                "instruct-diffusion",
+                0.4348
+            ],
+            [
+                "hqedit",
+                0.2982
+            ],
+            [
+                "mgie",
+                0.1689
+            ],
+            [
+                "any2pix",
+                0.1132
+            ],
+            [
+                "iedit",
+                0.0236
+            ]
+        ]
+    },
+    "57": {
+        "image": "0056.png",
+        "dataset": "Lowlight",
+        "prompt": "Enriching the luminance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7053
+            ],
+            [
+                "iedit",
+                0.6814
+            ],
+            [
+                "any2pix",
+                0.6144
+            ],
+            [
+                "mgie",
+                0.5663
+            ],
+            [
+                "instruct-diffusion",
+                0.5495
+            ],
+            [
+                "hqedit",
+                0.5371
+            ],
+            [
+                "instructpix2pix",
+                0.2328
+            ],
+            [
+                "hive",
+                0.2078
+            ]
+        ]
+    },
+    "58": {
+        "image": "0057.png",
+        "dataset": "Lowlight",
+        "prompt": "Intensifying the glow",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.5663
+            ],
+            [
+                "instruct-diffusion",
+                0.4209
+            ],
+            [
+                "hqedit",
+                0.3286
+            ],
+            [
+                "instructpix2pix",
+                0.2549
+            ],
+            [
+                "any2pix",
+                0.0781
+            ],
+            [
+                "iedit",
+                0.0656
+            ],
+            [
+                "magicbrush",
+                0.048
+            ],
+            [
+                "mgie",
+                0.037
+            ]
+        ]
+    },
+    "59": {
+        "image": "0058.png",
+        "dataset": "Lowlight",
+        "prompt": "Brightening the picture",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.599
+            ],
+            [
+                "hive",
+                0.527
+            ],
+            [
+                "mgie",
+                0.3829
+            ],
+            [
+                "magicbrush",
+                0.3656
+            ],
+            [
+                "hqedit",
+                0.2969
+            ],
+            [
+                "instructpix2pix",
+                0.241
+            ],
+            [
+                "any2pix",
+                0.1579
+            ],
+            [
+                "iedit",
+                0.1154
+            ]
+        ]
+    },
+    "60": {
+        "image": "0059.png",
+        "dataset": "Lowlight",
+        "prompt": "Elevating the radiance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5605
+            ],
+            [
+                "mgie",
+                0.4879
+            ],
+            [
+                "instructpix2pix",
+                0.4091
+            ],
+            [
+                "magicbrush",
+                0.3832
+            ],
+            [
+                "hqedit",
+                0.2478
+            ],
+            [
+                "hive",
+                0.2304
+            ],
+            [
+                "any2pix",
+                0.198
+            ],
+            [
+                "iedit",
+                0.1729
+            ]
+        ]
+    },
+    "61": {
+        "image": "0060.png",
+        "dataset": "Lowlight",
+        "prompt": "Strengthening the brilliance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.5034
+            ],
+            [
+                "mgie",
+                0.2725
+            ],
+            [
+                "hqedit",
+                0.2458
+            ],
+            [
+                "any2pix",
+                0.1499
+            ],
+            [
+                "instructpix2pix",
+                0.1065
+            ],
+            [
+                "instruct-diffusion",
+                0.0954
+            ],
+            [
+                "iedit",
+                0.0802
+            ],
+            [
+                "magicbrush",
+                0.0691
+            ]
+        ]
+    },
+    "62": {
+        "image": "0061.png",
+        "dataset": "Lowlight",
+        "prompt": "Enhancing the illumination",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.8023
+            ],
+            [
+                "magicbrush",
+                0.798
+            ],
+            [
+                "instruct-diffusion",
+                0.7921
+            ],
+            [
+                "hive",
+                0.7334
+            ],
+            [
+                "instructpix2pix",
+                0.7324
+            ],
+            [
+                "iedit",
+                0.6148
+            ],
+            [
+                "any2pix",
+                0.5215
+            ],
+            [
+                "hqedit",
+                0.5087
+            ]
+        ]
+    },
+    "63": {
+        "image": "0062.png",
+        "dataset": "Lowlight",
+        "prompt": "Improving the luminosity",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6991
+            ],
+            [
+                "magicbrush",
+                0.5344
+            ],
+            [
+                "hive",
+                0.5339
+            ],
+            [
+                "instruct-diffusion",
+                0.5254
+            ],
+            [
+                "hqedit",
+                0.3361
+            ],
+            [
+                "mgie",
+                0.2783
+            ],
+            [
+                "any2pix",
+                0.1451
+            ],
+            [
+                "iedit",
+                0.0831
+            ]
+        ]
+    },
+    "64": {
+        "image": "0063.png",
+        "dataset": "Lowlight",
+        "prompt": "Accentuating the light",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hqedit",
+                0.2688
+            ],
+            [
+                "mgie",
+                0.2102
+            ],
+            [
+                "instructpix2pix",
+                0.1638
+            ],
+            [
+                "any2pix",
+                0.0968
+            ],
+            [
+                "magicbrush",
+                0.0801
+            ],
+            [
+                "instruct-diffusion",
+                0.0794
+            ],
+            [
+                "hive",
+                0.0655
+            ],
+            [
+                "iedit",
+                0.0536
+            ]
+        ]
+    },
+    "65": {
+        "image": "0064.png",
+        "dataset": "Lowlight",
+        "prompt": "Intensifying the brightness",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7546
+            ],
+            [
+                "mgie",
+                0.6244
+            ],
+            [
+                "hqedit",
+                0.3767
+            ],
+            [
+                "any2pix",
+                0.2704
+            ],
+            [
+                "hive",
+                0.2635
+            ],
+            [
+                "magicbrush",
+                0.2429
+            ],
+            [
+                "iedit",
+                0.2301
+            ],
+            [
+                "instructpix2pix",
+                0.1714
+            ]
+        ]
+    },
+    "66": {
+        "image": "0065.png",
+        "dataset": "Lowlight",
+        "prompt": "Augmenting the glow",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hqedit",
+                0.3303
+            ],
+            [
+                "hive",
+                0.2368
+            ],
+            [
+                "instruct-diffusion",
+                0.2186
+            ],
+            [
+                "instructpix2pix",
+                0.2154
+            ],
+            [
+                "magicbrush",
+                0.2152
+            ],
+            [
+                "mgie",
+                0.19
+            ],
+            [
+                "iedit",
+                0.1728
+            ],
+            [
+                "any2pix",
+                0.1491
+            ]
+        ]
+    },
+    "67": {
+        "image": "0066.png",
+        "dataset": "Lowlight",
+        "prompt": "Boosting the radiance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.8896
+            ],
+            [
+                "magicbrush",
+                0.8671
+            ],
+            [
+                "mgie",
+                0.859
+            ],
+            [
+                "hive",
+                0.7212
+            ],
+            [
+                "instruct-diffusion",
+                0.6186
+            ],
+            [
+                "iedit",
+                0.544
+            ],
+            [
+                "any2pix",
+                0.4513
+            ],
+            [
+                "hqedit",
+                0.3904
+            ]
+        ]
+    },
+    "68": {
+        "image": "0067.png",
+        "dataset": "Lowlight",
+        "prompt": "Illuminating with precision",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8498
+            ],
+            [
+                "magicbrush",
+                0.849
+            ],
+            [
+                "mgie",
+                0.7845
+            ],
+            [
+                "hive",
+                0.6266
+            ],
+            [
+                "iedit",
+                0.5296
+            ],
+            [
+                "instructpix2pix",
+                0.4957
+            ],
+            [
+                "any2pix",
+                0.4684
+            ],
+            [
+                "hqedit",
+                0.4516
+            ]
+        ]
+    },
+    "69": {
+        "image": "0068.png",
+        "dataset": "Lowlight",
+        "prompt": "Maximizing luminosity",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.673
+            ],
+            [
+                "magicbrush",
+                0.6472
+            ],
+            [
+                "instruct-diffusion",
+                0.6171
+            ],
+            [
+                "hive",
+                0.5482
+            ],
+            [
+                "iedit",
+                0.436
+            ],
+            [
+                "any2pix",
+                0.4101
+            ],
+            [
+                "instructpix2pix",
+                0.407
+            ],
+            [
+                "hqedit",
+                0.331
+            ]
+        ]
+    },
+    "70": {
+        "image": "0069.png",
+        "dataset": "Lowlight",
+        "prompt": "Fine-tuning the brightness",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6358
+            ],
+            [
+                "instruct-diffusion",
+                0.5927
+            ],
+            [
+                "instructpix2pix",
+                0.5591
+            ],
+            [
+                "hqedit",
+                0.5004
+            ],
+            [
+                "mgie",
+                0.4498
+            ],
+            [
+                "any2pix",
+                0.1469
+            ],
+            [
+                "iedit",
+                0.1102
+            ],
+            [
+                "magicbrush",
+                0.0712
+            ]
+        ]
+    },
+    "71": {
+        "image": "0070.png",
+        "dataset": "Lowlight",
+        "prompt": "Polishing the radiance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7092
+            ],
+            [
+                "hqedit",
+                0.6029
+            ],
+            [
+                "mgie",
+                0.5694
+            ],
+            [
+                "magicbrush",
+                0.4533
+            ],
+            [
+                "instructpix2pix",
+                0.4008
+            ],
+            [
+                "hive",
+                0.2536
+            ],
+            [
+                "any2pix",
+                0.235
+            ],
+            [
+                "iedit",
+                0.161
+            ]
+        ]
+    },
+    "72": {
+        "image": "0071.png",
+        "dataset": "Lowlight",
+        "prompt": "Magnifying the brilliance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.5487
+            ],
+            [
+                "instruct-diffusion",
+                0.4872
+            ],
+            [
+                "instructpix2pix",
+                0.2855
+            ],
+            [
+                "hqedit",
+                0.2479
+            ],
+            [
+                "mgie",
+                0.214
+            ],
+            [
+                "any2pix",
+                0.1402
+            ],
+            [
+                "magicbrush",
+                0.0887
+            ],
+            [
+                "iedit",
+                0.0854
+            ]
+        ]
+    },
+    "73": {
+        "image": "0072.png",
+        "dataset": "Lowlight",
+        "prompt": "Elevating the illumination",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6004
+            ],
+            [
+                "instructpix2pix",
+                0.5431
+            ],
+            [
+                "mgie",
+                0.5018
+            ],
+            [
+                "magicbrush",
+                0.4514
+            ],
+            [
+                "hqedit",
+                0.4476
+            ],
+            [
+                "instruct-diffusion",
+                0.3453
+            ],
+            [
+                "any2pix",
+                0.1733
+            ],
+            [
+                "iedit",
+                0.1213
+            ]
+        ]
+    },
+    "74": {
+        "image": "0073.png",
+        "dataset": "Lowlight",
+        "prompt": "Enhancing the luminance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.637
+            ],
+            [
+                "hive",
+                0.6254
+            ],
+            [
+                "instructpix2pix",
+                0.4851
+            ],
+            [
+                "instruct-diffusion",
+                0.2535
+            ],
+            [
+                "iedit",
+                0.2454
+            ],
+            [
+                "magicbrush",
+                0.2412
+            ],
+            [
+                "any2pix",
+                0.1905
+            ],
+            [
+                "hqedit",
+                0.006
+            ]
+        ]
+    },
+    "75": {
+        "image": "0074.png",
+        "dataset": "Lowlight",
+        "prompt": "Intensifying the glow",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5497
+            ],
+            [
+                "hqedit",
+                0.3881
+            ],
+            [
+                "mgie",
+                0.3718
+            ],
+            [
+                "hive",
+                0.2667
+            ],
+            [
+                "iedit",
+                0.2345
+            ],
+            [
+                "magicbrush",
+                0.2317
+            ],
+            [
+                "any2pix",
+                0.2019
+            ],
+            [
+                "instructpix2pix",
+                0.1107
+            ]
+        ]
+    },
+    "76": {
+        "image": "0075.png",
+        "dataset": "Lowlight",
+        "prompt": "Perfecting the light levels",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7491
+            ],
+            [
+                "mgie",
+                0.6429
+            ],
+            [
+                "magicbrush",
+                0.4025
+            ],
+            [
+                "instruct-diffusion",
+                0.3668
+            ],
+            [
+                "hqedit",
+                0.3627
+            ],
+            [
+                "any2pix",
+                0.3161
+            ],
+            [
+                "hive",
+                0.291
+            ],
+            [
+                "iedit",
+                0.2885
+            ]
+        ]
+    },
+    "77": {
+        "image": "0076.png",
+        "dataset": "Lowlight",
+        "prompt": "Refining the brightness",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7115
+            ],
+            [
+                "hive",
+                0.4995
+            ],
+            [
+                "instructpix2pix",
+                0.4731
+            ],
+            [
+                "mgie",
+                0.3594
+            ],
+            [
+                "hqedit",
+                0.1942
+            ],
+            [
+                "any2pix",
+                0.1927
+            ],
+            [
+                "magicbrush",
+                0.1231
+            ],
+            [
+                "iedit",
+                0.0942
+            ]
+        ]
+    },
+    "78": {
+        "image": "0077.png",
+        "dataset": "Lowlight",
+        "prompt": "Amplifying the radiance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5492
+            ],
+            [
+                "hive",
+                0.5404
+            ],
+            [
+                "magicbrush",
+                0.5121
+            ],
+            [
+                "hqedit",
+                0.3346
+            ],
+            [
+                "mgie",
+                0.301
+            ],
+            [
+                "instructpix2pix",
+                0.1613
+            ],
+            [
+                "any2pix",
+                0.1255
+            ],
+            [
+                "iedit",
+                0.0636
+            ]
+        ]
+    },
+    "79": {
+        "image": "0078.png",
+        "dataset": "Lowlight",
+        "prompt": "Advancing the illumination",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4689
+            ],
+            [
+                "hive",
+                0.3828
+            ],
+            [
+                "instruct-diffusion",
+                0.3423
+            ],
+            [
+                "instructpix2pix",
+                0.3383
+            ],
+            [
+                "magicbrush",
+                0.2927
+            ],
+            [
+                "any2pix",
+                0.2408
+            ],
+            [
+                "hqedit",
+                0.2393
+            ],
+            [
+                "iedit",
+                0.1385
+            ]
+        ]
+    },
+    "80": {
+        "image": "0079.png",
+        "dataset": "Lowlight",
+        "prompt": "Heightening the brilliance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.4157
+            ],
+            [
+                "instructpix2pix",
+                0.3377
+            ],
+            [
+                "magicbrush",
+                0.3203
+            ],
+            [
+                "mgie",
+                0.2938
+            ],
+            [
+                "hqedit",
+                0.2925
+            ],
+            [
+                "any2pix",
+                0.1486
+            ],
+            [
+                "iedit",
+                0.0966
+            ],
+            [
+                "instruct-diffusion",
+                0.0897
+            ]
+        ]
+    },
+    "81": {
+        "image": "0080.png",
+        "dataset": "Lowlight",
+        "prompt": "Illuminating with finesse",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hqedit",
+                0.2167
+            ],
+            [
+                "instruct-diffusion",
+                0.2003
+            ],
+            [
+                "any2pix",
+                0.1278
+            ],
+            [
+                "hive",
+                0.1263
+            ],
+            [
+                "magicbrush",
+                0.1212
+            ],
+            [
+                "instructpix2pix",
+                0.1169
+            ],
+            [
+                "iedit",
+                0.1022
+            ],
+            [
+                "mgie",
+                0.0978
+            ]
+        ]
+    },
+    "82": {
+        "image": "0081.png",
+        "dataset": "Lowlight",
+        "prompt": "Enriching the luminosity",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.4964
+            ],
+            [
+                "hive",
+                0.3309
+            ],
+            [
+                "magicbrush",
+                0.2906
+            ],
+            [
+                "instructpix2pix",
+                0.2758
+            ],
+            [
+                "hqedit",
+                0.221
+            ],
+            [
+                "mgie",
+                0.1014
+            ],
+            [
+                "any2pix",
+                0.0884
+            ],
+            [
+                "iedit",
+                0.0798
+            ]
+        ]
+    },
+    "83": {
+        "image": "0082.png",
+        "dataset": "Lowlight",
+        "prompt": "Boosting the brightness",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5252
+            ],
+            [
+                "instructpix2pix",
+                0.4566
+            ],
+            [
+                "mgie",
+                0.4121
+            ],
+            [
+                "magicbrush",
+                0.3576
+            ],
+            [
+                "hqedit",
+                0.2688
+            ],
+            [
+                "hive",
+                0.2656
+            ],
+            [
+                "any2pix",
+                0.1787
+            ],
+            [
+                "iedit",
+                0.0939
+            ]
+        ]
+    },
+    "84": {
+        "image": "0083.png",
+        "dataset": "Lowlight",
+        "prompt": "Sharpening the lighting",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.4928
+            ],
+            [
+                "hive",
+                0.3913
+            ],
+            [
+                "mgie",
+                0.3813
+            ],
+            [
+                "hqedit",
+                0.2594
+            ],
+            [
+                "any2pix",
+                0.1475
+            ],
+            [
+                "iedit",
+                0.0971
+            ],
+            [
+                "magicbrush",
+                0.064
+            ],
+            [
+                "instructpix2pix",
+                0.0615
+            ]
+        ]
+    },
+    "85": {
+        "image": "0084.png",
+        "dataset": "Lowlight",
+        "prompt": "Brightening the scene",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7316
+            ],
+            [
+                "instruct-diffusion",
+                0.6092
+            ],
+            [
+                "mgie",
+                0.6019
+            ],
+            [
+                "instructpix2pix",
+                0.379
+            ],
+            [
+                "hqedit",
+                0.37
+            ],
+            [
+                "any2pix",
+                0.1922
+            ],
+            [
+                "magicbrush",
+                0.1673
+            ],
+            [
+                "iedit",
+                0.1619
+            ]
+        ]
+    },
+    "86": {
+        "image": "0085.png",
+        "dataset": "Lowlight",
+        "prompt": "Augmenting the radiance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.3821
+            ],
+            [
+                "instructpix2pix",
+                0.3747
+            ],
+            [
+                "magicbrush",
+                0.2292
+            ],
+            [
+                "hqedit",
+                0.2184
+            ],
+            [
+                "mgie",
+                0.2079
+            ],
+            [
+                "any2pix",
+                0.1839
+            ],
+            [
+                "iedit",
+                0.1042
+            ],
+            [
+                "instruct-diffusion",
+                0.0944
+            ]
+        ]
+    },
+    "87": {
+        "image": "0086.png",
+        "dataset": "Lowlight",
+        "prompt": "Intensifying the brilliance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4574
+            ],
+            [
+                "hive",
+                0.4163
+            ],
+            [
+                "hqedit",
+                0.3772
+            ],
+            [
+                "instruct-diffusion",
+                0.3661
+            ],
+            [
+                "mgie",
+                0.2722
+            ],
+            [
+                "any2pix",
+                0.1317
+            ],
+            [
+                "instructpix2pix",
+                0.1067
+            ],
+            [
+                "iedit",
+                0.0782
+            ]
+        ]
+    },
+    "88": {
+        "image": "0087.png",
+        "dataset": "Lowlight",
+        "prompt": "Elevating the light levels",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4285
+            ],
+            [
+                "instructpix2pix",
+                0.4234
+            ],
+            [
+                "instruct-diffusion",
+                0.366
+            ],
+            [
+                "hqedit",
+                0.2498
+            ],
+            [
+                "mgie",
+                0.2377
+            ],
+            [
+                "hive",
+                0.1646
+            ],
+            [
+                "any2pix",
+                0.1184
+            ],
+            [
+                "iedit",
+                0.1087
+            ]
+        ]
+    },
+    "89": {
+        "image": "0088.png",
+        "dataset": "Lowlight",
+        "prompt": "Improving the luminosity",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5406
+            ],
+            [
+                "instructpix2pix",
+                0.4993
+            ],
+            [
+                "hqedit",
+                0.3756
+            ],
+            [
+                "mgie",
+                0.2747
+            ],
+            [
+                "magicbrush",
+                0.2135
+            ],
+            [
+                "any2pix",
+                0.1874
+            ],
+            [
+                "iedit",
+                0.1249
+            ],
+            [
+                "hive",
+                0.0969
+            ]
+        ]
+    },
+    "90": {
+        "image": "0089.png",
+        "dataset": "Lowlight",
+        "prompt": "Accentuating the light",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6926
+            ],
+            [
+                "mgie",
+                0.4795
+            ],
+            [
+                "hqedit",
+                0.4501
+            ],
+            [
+                "any2pix",
+                0.2742
+            ],
+            [
+                "hive",
+                0.2437
+            ],
+            [
+                "instruct-diffusion",
+                0.212
+            ],
+            [
+                "magicbrush",
+                0.2073
+            ],
+            [
+                "iedit",
+                0.1891
+            ]
+        ]
+    },
+    "91": {
+        "image": "0090.png",
+        "dataset": "Lowlight",
+        "prompt": "Enriching the brightness",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7036
+            ],
+            [
+                "instruct-diffusion",
+                0.6432
+            ],
+            [
+                "hqedit",
+                0.4033
+            ],
+            [
+                "mgie",
+                0.2882
+            ],
+            [
+                "any2pix",
+                0.1731
+            ],
+            [
+                "iedit",
+                0.1151
+            ],
+            [
+                "magicbrush",
+                0.1013
+            ],
+            [
+                "instructpix2pix",
+                0.0877
+            ]
+        ]
+    },
+    "92": {
+        "image": "0091.png",
+        "dataset": "Lowlight",
+        "prompt": "Amplifying the illumination",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.5374
+            ],
+            [
+                "mgie",
+                0.3898
+            ],
+            [
+                "instructpix2pix",
+                0.317
+            ],
+            [
+                "hqedit",
+                0.2679
+            ],
+            [
+                "any2pix",
+                0.14
+            ],
+            [
+                "iedit",
+                0.1097
+            ],
+            [
+                "instruct-diffusion",
+                0.1018
+            ],
+            [
+                "magicbrush",
+                0.0954
+            ]
+        ]
+    },
+    "93": {
+        "image": "0092.png",
+        "dataset": "Lowlight",
+        "prompt": "Intensifying the radiance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6751
+            ],
+            [
+                "instruct-diffusion",
+                0.5558
+            ],
+            [
+                "mgie",
+                0.2757
+            ],
+            [
+                "hqedit",
+                0.2232
+            ],
+            [
+                "magicbrush",
+                0.2085
+            ],
+            [
+                "instructpix2pix",
+                0.1783
+            ],
+            [
+                "any2pix",
+                0.0872
+            ],
+            [
+                "iedit",
+                0.0731
+            ]
+        ]
+    },
+    "94": {
+        "image": "0093.png",
+        "dataset": "Lowlight",
+        "prompt": "Boosting the brilliance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.3204
+            ],
+            [
+                "magicbrush",
+                0.2598
+            ],
+            [
+                "hqedit",
+                0.2444
+            ],
+            [
+                "mgie",
+                0.1547
+            ],
+            [
+                "any2pix",
+                0.1355
+            ],
+            [
+                "instructpix2pix",
+                0.122
+            ],
+            [
+                "instruct-diffusion",
+                0.0769
+            ],
+            [
+                "iedit",
+                0.068
+            ]
+        ]
+    },
+    "95": {
+        "image": "0094.png",
+        "dataset": "Lowlight",
+        "prompt": "Enhancing the glow",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5886
+            ],
+            [
+                "hqedit",
+                0.5294
+            ],
+            [
+                "instructpix2pix",
+                0.5179
+            ],
+            [
+                "hive",
+                0.4118
+            ],
+            [
+                "any2pix",
+                0.1672
+            ],
+            [
+                "mgie",
+                0.1472
+            ],
+            [
+                "magicbrush",
+                0.1468
+            ],
+            [
+                "iedit",
+                0.13
+            ]
+        ]
+    },
+    "96": {
+        "image": "0095.png",
+        "dataset": "Lowlight",
+        "prompt": "Refining the brightness",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6745
+            ],
+            [
+                "instruct-diffusion",
+                0.6191
+            ],
+            [
+                "hqedit",
+                0.4349
+            ],
+            [
+                "mgie",
+                0.3735
+            ],
+            [
+                "any2pix",
+                0.2217
+            ],
+            [
+                "instructpix2pix",
+                0.1757
+            ],
+            [
+                "magicbrush",
+                0.145
+            ],
+            [
+                "iedit",
+                0.1155
+            ]
+        ]
+    },
+    "97": {
+        "image": "0096.png",
+        "dataset": "Lowlight",
+        "prompt": "Illuminating with precision",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5027
+            ],
+            [
+                "instructpix2pix",
+                0.3882
+            ],
+            [
+                "hqedit",
+                0.3338
+            ],
+            [
+                "instruct-diffusion",
+                0.2058
+            ],
+            [
+                "any2pix",
+                0.1642
+            ],
+            [
+                "iedit",
+                0.1408
+            ],
+            [
+                "magicbrush",
+                0.1252
+            ],
+            [
+                "hive",
+                0.053
+            ]
+        ]
+    },
+    "98": {
+        "image": "0097.png",
+        "dataset": "Lowlight",
+        "prompt": "Polishing the luminosity",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6968
+            ],
+            [
+                "hqedit",
+                0.4922
+            ],
+            [
+                "mgie",
+                0.4672
+            ],
+            [
+                "instructpix2pix",
+                0.4647
+            ],
+            [
+                "any2pix",
+                0.234
+            ],
+            [
+                "hive",
+                0.1649
+            ],
+            [
+                "iedit",
+                0.1491
+            ],
+            [
+                "magicbrush",
+                0.1276
+            ]
+        ]
+    },
+    "99": {
+        "image": "0098.png",
+        "dataset": "Lowlight",
+        "prompt": "Magnifying the radiance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.666
+            ],
+            [
+                "instructpix2pix",
+                0.6288
+            ],
+            [
+                "hqedit",
+                0.3579
+            ],
+            [
+                "mgie",
+                0.2554
+            ],
+            [
+                "magicbrush",
+                0.1382
+            ],
+            [
+                "any2pix",
+                0.1134
+            ],
+            [
+                "instruct-diffusion",
+                0.1065
+            ],
+            [
+                "iedit",
+                0.0885
+            ]
+        ]
+    },
+    "100": {
+        "image": "0099.png",
+        "dataset": "Lowlight",
+        "prompt": "Elevating the brightness",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6029
+            ],
+            [
+                "instructpix2pix",
+                0.5831
+            ],
+            [
+                "hqedit",
+                0.5776
+            ],
+            [
+                "instruct-diffusion",
+                0.5361
+            ],
+            [
+                "mgie",
+                0.3828
+            ],
+            [
+                "any2pix",
+                0.1429
+            ],
+            [
+                "iedit",
+                0.1306
+            ],
+            [
+                "hive",
+                0.0857
+            ]
+        ]
+    },
+    "101": {
+        "image": "0100.png",
+        "dataset": "Lowlight",
+        "prompt": "Fine-tuning the illumination",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7252
+            ],
+            [
+                "instructpix2pix",
+                0.446
+            ],
+            [
+                "hqedit",
+                0.3797
+            ],
+            [
+                "mgie",
+                0.2789
+            ],
+            [
+                "magicbrush",
+                0.2246
+            ],
+            [
+                "any2pix",
+                0.1926
+            ],
+            [
+                "iedit",
+                0.1035
+            ],
+            [
+                "instruct-diffusion",
+                0.073
+            ]
+        ]
+    },
+    "102": {
+        "image": "0101.png",
+        "dataset": "Lowlight",
+        "prompt": "Sharpening the glow",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7778
+            ],
+            [
+                "instruct-diffusion",
+                0.6295
+            ],
+            [
+                "hqedit",
+                0.5057
+            ],
+            [
+                "any2pix",
+                0.2509
+            ],
+            [
+                "iedit",
+                0.2494
+            ],
+            [
+                "magicbrush",
+                0.1732
+            ],
+            [
+                "mgie",
+                0.1684
+            ],
+            [
+                "instructpix2pix",
+                0.14
+            ]
+        ]
+    },
+    "103": {
+        "image": "0102.png",
+        "dataset": "Lowlight",
+        "prompt": "Strengthening the light levels",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2586
+            ],
+            [
+                "instructpix2pix",
+                0.2562
+            ],
+            [
+                "magicbrush",
+                0.2082
+            ],
+            [
+                "hqedit",
+                0.1179
+            ],
+            [
+                "any2pix",
+                0.0971
+            ],
+            [
+                "instruct-diffusion",
+                0.0796
+            ],
+            [
+                "hive",
+                0.0471
+            ],
+            [
+                "iedit",
+                0.047
+            ]
+        ]
+    },
+    "104": {
+        "image": "0103.png",
+        "dataset": "Lowlight",
+        "prompt": "Perfecting the radiance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.2844
+            ],
+            [
+                "mgie",
+                0.2222
+            ],
+            [
+                "hqedit",
+                0.1075
+            ],
+            [
+                "instructpix2pix",
+                0.0959
+            ],
+            [
+                "hive",
+                0.0905
+            ],
+            [
+                "magicbrush",
+                0.0731
+            ],
+            [
+                "any2pix",
+                0.0515
+            ],
+            [
+                "iedit",
+                0.0505
+            ]
+        ]
+    },
+    "105": {
+        "image": "0104.png",
+        "dataset": "Lowlight",
+        "prompt": "Brightening the picture",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.4564
+            ],
+            [
+                "mgie",
+                0.3839
+            ],
+            [
+                "instructpix2pix",
+                0.2184
+            ],
+            [
+                "hqedit",
+                0.173
+            ],
+            [
+                "instruct-diffusion",
+                0.1331
+            ],
+            [
+                "magicbrush",
+                0.1162
+            ],
+            [
+                "iedit",
+                0.094
+            ],
+            [
+                "any2pix",
+                0.0926
+            ]
+        ]
+    },
+    "106": {
+        "image": "0105.png",
+        "dataset": "Lowlight",
+        "prompt": "Improving the brilliance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6132
+            ],
+            [
+                "instruct-diffusion",
+                0.541
+            ],
+            [
+                "magicbrush",
+                0.3715
+            ],
+            [
+                "mgie",
+                0.353
+            ],
+            [
+                "instructpix2pix",
+                0.3497
+            ],
+            [
+                "hqedit",
+                0.3043
+            ],
+            [
+                "any2pix",
+                0.1694
+            ],
+            [
+                "iedit",
+                0.1357
+            ]
+        ]
+    },
+    "107": {
+        "image": "0106.png",
+        "dataset": "Lowlight",
+        "prompt": "Accentuating the light",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6333
+            ],
+            [
+                "mgie",
+                0.3489
+            ],
+            [
+                "hqedit",
+                0.2707
+            ],
+            [
+                "magicbrush",
+                0.2384
+            ],
+            [
+                "any2pix",
+                0.1811
+            ],
+            [
+                "instruct-diffusion",
+                0.1245
+            ],
+            [
+                "iedit",
+                0.11
+            ],
+            [
+                "hive",
+                0.0711
+            ]
+        ]
+    },
+    "108": {
+        "image": "0107.png",
+        "dataset": "Lowlight",
+        "prompt": "Intensifying the luminosity",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6399
+            ],
+            [
+                "instruct-diffusion",
+                0.6364
+            ],
+            [
+                "hqedit",
+                0.3204
+            ],
+            [
+                "magicbrush",
+                0.2076
+            ],
+            [
+                "iedit",
+                0.1688
+            ],
+            [
+                "any2pix",
+                0.1679
+            ],
+            [
+                "hive",
+                0.1296
+            ],
+            [
+                "mgie",
+                0.1123
+            ]
+        ]
+    },
+    "109": {
+        "image": "0108.png",
+        "dataset": "Lowlight",
+        "prompt": "Augmenting the radiance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hqedit",
+                0.4377
+            ],
+            [
+                "hive",
+                0.3416
+            ],
+            [
+                "instructpix2pix",
+                0.3237
+            ],
+            [
+                "instruct-diffusion",
+                0.2723
+            ],
+            [
+                "any2pix",
+                0.2666
+            ],
+            [
+                "mgie",
+                0.2648
+            ],
+            [
+                "magicbrush",
+                0.2628
+            ],
+            [
+                "iedit",
+                0.2616
+            ]
+        ]
+    },
+    "110": {
+        "image": "0109.png",
+        "dataset": "Lowlight",
+        "prompt": "Enhancing the brightness",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7869
+            ],
+            [
+                "mgie",
+                0.7259
+            ],
+            [
+                "instruct-diffusion",
+                0.6907
+            ],
+            [
+                "hqedit",
+                0.5495
+            ],
+            [
+                "magicbrush",
+                0.2839
+            ],
+            [
+                "any2pix",
+                0.2357
+            ],
+            [
+                "hive",
+                0.2349
+            ],
+            [
+                "iedit",
+                0.1636
+            ]
+        ]
+    },
+    "111": {
+        "image": "0110.png",
+        "dataset": "Lowlight",
+        "prompt": "Boosting the glow",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.8192
+            ],
+            [
+                "instruct-diffusion",
+                0.7725
+            ],
+            [
+                "hqedit",
+                0.5192
+            ],
+            [
+                "mgie",
+                0.4854
+            ],
+            [
+                "magicbrush",
+                0.3207
+            ],
+            [
+                "hive",
+                0.2245
+            ],
+            [
+                "any2pix",
+                0.2059
+            ],
+            [
+                "iedit",
+                0.1693
+            ]
+        ]
+    },
+    "112": {
+        "image": "0111.png",
+        "dataset": "Lowlight",
+        "prompt": "Illuminating with precision",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4843
+            ],
+            [
+                "hqedit",
+                0.4456
+            ],
+            [
+                "instruct-diffusion",
+                0.2178
+            ],
+            [
+                "magicbrush",
+                0.191
+            ],
+            [
+                "hive",
+                0.1804
+            ],
+            [
+                "iedit",
+                0.1693
+            ],
+            [
+                "any2pix",
+                0.1669
+            ],
+            [
+                "instructpix2pix",
+                0.0877
+            ]
+        ]
+    },
+    "113": {
+        "image": "0112.png",
+        "dataset": "Lowlight",
+        "prompt": "Fine-tuning the illumination",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7927
+            ],
+            [
+                "hqedit",
+                0.4857
+            ],
+            [
+                "instructpix2pix",
+                0.4851
+            ],
+            [
+                "mgie",
+                0.3117
+            ],
+            [
+                "magicbrush",
+                0.2833
+            ],
+            [
+                "iedit",
+                0.2393
+            ],
+            [
+                "instruct-diffusion",
+                0.225
+            ],
+            [
+                "any2pix",
+                0.2181
+            ]
+        ]
+    },
+    "114": {
+        "image": "0113.png",
+        "dataset": "Lowlight",
+        "prompt": "Polishing the brightness",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5723
+            ],
+            [
+                "mgie",
+                0.4246
+            ],
+            [
+                "hqedit",
+                0.3192
+            ],
+            [
+                "instructpix2pix",
+                0.2921
+            ],
+            [
+                "any2pix",
+                0.2722
+            ],
+            [
+                "hive",
+                0.2337
+            ],
+            [
+                "iedit",
+                0.1622
+            ],
+            [
+                "magicbrush",
+                0.0779
+            ]
+        ]
+    },
+    "115": {
+        "image": "0114.png",
+        "dataset": "Lowlight",
+        "prompt": "Magnifying the radiance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.5302
+            ],
+            [
+                "mgie",
+                0.4894
+            ],
+            [
+                "hive",
+                0.4834
+            ],
+            [
+                "magicbrush",
+                0.419
+            ],
+            [
+                "hqedit",
+                0.3305
+            ],
+            [
+                "instruct-diffusion",
+                0.2642
+            ],
+            [
+                "any2pix",
+                0.2627
+            ],
+            [
+                "iedit",
+                0.232
+            ]
+        ]
+    },
+    "116": {
+        "image": "0115.png",
+        "dataset": "Lowlight",
+        "prompt": "Elevating the brilliance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5764
+            ],
+            [
+                "magicbrush",
+                0.4722
+            ],
+            [
+                "mgie",
+                0.4183
+            ],
+            [
+                "hqedit",
+                0.4021
+            ],
+            [
+                "hive",
+                0.2674
+            ],
+            [
+                "any2pix",
+                0.1956
+            ],
+            [
+                "instructpix2pix",
+                0.1871
+            ],
+            [
+                "iedit",
+                0.1653
+            ]
+        ]
+    },
+    "117": {
+        "image": "0116.png",
+        "dataset": "Lowlight",
+        "prompt": "Strengthening the light levels",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6804
+            ],
+            [
+                "mgie",
+                0.5057
+            ],
+            [
+                "magicbrush",
+                0.476
+            ],
+            [
+                "hqedit",
+                0.341
+            ],
+            [
+                "hive",
+                0.2646
+            ],
+            [
+                "instruct-diffusion",
+                0.2184
+            ],
+            [
+                "any2pix",
+                0.1887
+            ],
+            [
+                "iedit",
+                0.1791
+            ]
+        ]
+    },
+    "118": {
+        "image": "0117.png",
+        "dataset": "Lowlight",
+        "prompt": "Perfecting the luminosity",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6346
+            ],
+            [
+                "magicbrush",
+                0.4289
+            ],
+            [
+                "hqedit",
+                0.3427
+            ],
+            [
+                "mgie",
+                0.2338
+            ],
+            [
+                "any2pix",
+                0.1586
+            ],
+            [
+                "hive",
+                0.0986
+            ],
+            [
+                "instruct-diffusion",
+                0.0883
+            ],
+            [
+                "iedit",
+                0.078
+            ]
+        ]
+    },
+    "119": {
+        "image": "0118.png",
+        "dataset": "Lowlight",
+        "prompt": "Refining the illumination",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7
+            ],
+            [
+                "mgie",
+                0.5693
+            ],
+            [
+                "hive",
+                0.488
+            ],
+            [
+                "instructpix2pix",
+                0.4039
+            ],
+            [
+                "hqedit",
+                0.2796
+            ],
+            [
+                "magicbrush",
+                0.189
+            ],
+            [
+                "any2pix",
+                0.1778
+            ],
+            [
+                "iedit",
+                0.1366
+            ]
+        ]
+    },
+    "120": {
+        "image": "0119.png",
+        "dataset": "Lowlight",
+        "prompt": "Brightening the scene",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.583
+            ],
+            [
+                "magicbrush",
+                0.538
+            ],
+            [
+                "hqedit",
+                0.4336
+            ],
+            [
+                "mgie",
+                0.4302
+            ],
+            [
+                "instructpix2pix",
+                0.336
+            ],
+            [
+                "any2pix",
+                0.245
+            ],
+            [
+                "hive",
+                0.2129
+            ],
+            [
+                "iedit",
+                0.1738
+            ]
+        ]
+    },
+    "121": {
+        "image": "0120.png",
+        "dataset": "Lowlight",
+        "prompt": "Accentuating the light",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.5248
+            ],
+            [
+                "instructpix2pix",
+                0.4312
+            ],
+            [
+                "magicbrush",
+                0.3596
+            ],
+            [
+                "mgie",
+                0.247
+            ],
+            [
+                "hqedit",
+                0.228
+            ],
+            [
+                "instruct-diffusion",
+                0.1337
+            ],
+            [
+                "iedit",
+                0.1257
+            ],
+            [
+                "any2pix",
+                0.1118
+            ]
+        ]
+    },
+    "122": {
+        "image": "0121.png",
+        "dataset": "Lowlight",
+        "prompt": "Boosting the radiance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.4554
+            ],
+            [
+                "hive",
+                0.4486
+            ],
+            [
+                "mgie",
+                0.4345
+            ],
+            [
+                "instructpix2pix",
+                0.3184
+            ],
+            [
+                "hqedit",
+                0.2745
+            ],
+            [
+                "magicbrush",
+                0.1847
+            ],
+            [
+                "any2pix",
+                0.1248
+            ],
+            [
+                "iedit",
+                0.1062
+            ]
+        ]
+    },
+    "123": {
+        "image": "0122.png",
+        "dataset": "Lowlight",
+        "prompt": "Intensifying the brilliance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7028
+            ],
+            [
+                "instruct-diffusion",
+                0.5498
+            ],
+            [
+                "hqedit",
+                0.4864
+            ],
+            [
+                "magicbrush",
+                0.2433
+            ],
+            [
+                "instructpix2pix",
+                0.2341
+            ],
+            [
+                "mgie",
+                0.1373
+            ],
+            [
+                "any2pix",
+                0.1162
+            ],
+            [
+                "iedit",
+                0.0619
+            ]
+        ]
+    },
+    "124": {
+        "image": "0123.png",
+        "dataset": "Lowlight",
+        "prompt": "Amplifying the brightness",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.658
+            ],
+            [
+                "hqedit",
+                0.5137
+            ],
+            [
+                "mgie",
+                0.2352
+            ],
+            [
+                "any2pix",
+                0.1967
+            ],
+            [
+                "instructpix2pix",
+                0.1245
+            ],
+            [
+                "iedit",
+                0.1119
+            ],
+            [
+                "instruct-diffusion",
+                0.0754
+            ],
+            [
+                "magicbrush",
+                0.066
+            ]
+        ]
+    },
+    "125": {
+        "image": "0124.png",
+        "dataset": "Lowlight",
+        "prompt": "Elevating the glow",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6666
+            ],
+            [
+                "magicbrush",
+                0.5547
+            ],
+            [
+                "hqedit",
+                0.4014
+            ],
+            [
+                "any2pix",
+                0.151
+            ],
+            [
+                "mgie",
+                0.1372
+            ],
+            [
+                "hive",
+                0.0981
+            ],
+            [
+                "instruct-diffusion",
+                0.0754
+            ],
+            [
+                "iedit",
+                0.0648
+            ]
+        ]
+    },
+    "126": {
+        "image": "0125.png",
+        "dataset": "Lowlight",
+        "prompt": "Improving the luminosity",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7695
+            ],
+            [
+                "instruct-diffusion",
+                0.4859
+            ],
+            [
+                "hqedit",
+                0.4071
+            ],
+            [
+                "magicbrush",
+                0.3505
+            ],
+            [
+                "mgie",
+                0.2747
+            ],
+            [
+                "hive",
+                0.228
+            ],
+            [
+                "any2pix",
+                0.1611
+            ],
+            [
+                "iedit",
+                0.1249
+            ]
+        ]
+    },
+    "127": {
+        "image": "0126.png",
+        "dataset": "Lowlight",
+        "prompt": "Enriching the radiance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.8224
+            ],
+            [
+                "instruct-diffusion",
+                0.6292
+            ],
+            [
+                "magicbrush",
+                0.6037
+            ],
+            [
+                "mgie",
+                0.3189
+            ],
+            [
+                "hqedit",
+                0.29
+            ],
+            [
+                "instructpix2pix",
+                0.1864
+            ],
+            [
+                "any2pix",
+                0.1672
+            ],
+            [
+                "iedit",
+                0.0911
+            ]
+        ]
+    },
+    "128": {
+        "image": "0127.png",
+        "dataset": "Lowlight",
+        "prompt": "Illuminating with finesse",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.4986
+            ],
+            [
+                "hqedit",
+                0.2397
+            ],
+            [
+                "magicbrush",
+                0.2323
+            ],
+            [
+                "hive",
+                0.0981
+            ],
+            [
+                "instructpix2pix",
+                0.0794
+            ],
+            [
+                "any2pix",
+                0.0682
+            ],
+            [
+                "iedit",
+                0.0632
+            ],
+            [
+                "mgie",
+                0.0452
+            ]
+        ]
+    },
+    "129": {
+        "image": "0128.png",
+        "dataset": "Lowlight",
+        "prompt": "Advancing the brightness",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7388
+            ],
+            [
+                "hive",
+                0.6533
+            ],
+            [
+                "instruct-diffusion",
+                0.5628
+            ],
+            [
+                "magicbrush",
+                0.4482
+            ],
+            [
+                "mgie",
+                0.274
+            ],
+            [
+                "hqedit",
+                0.2627
+            ],
+            [
+                "any2pix",
+                0.0752
+            ],
+            [
+                "iedit",
+                0.0735
+            ]
+        ]
+    },
+    "130": {
+        "image": "0129.png",
+        "dataset": "Lowlight",
+        "prompt": "Heightening the light levels",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.5922
+            ],
+            [
+                "magicbrush",
+                0.5797
+            ],
+            [
+                "instruct-diffusion",
+                0.4304
+            ],
+            [
+                "hqedit",
+                0.4281
+            ],
+            [
+                "hive",
+                0.3847
+            ],
+            [
+                "mgie",
+                0.3765
+            ],
+            [
+                "any2pix",
+                0.1739
+            ],
+            [
+                "iedit",
+                0.1208
+            ]
+        ]
+    },
+    "131": {
+        "image": "0130.png",
+        "dataset": "Lowlight",
+        "prompt": "Augmenting the illumination",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.4495
+            ],
+            [
+                "magicbrush",
+                0.3277
+            ],
+            [
+                "hive",
+                0.2788
+            ],
+            [
+                "mgie",
+                0.219
+            ],
+            [
+                "hqedit",
+                0.2056
+            ],
+            [
+                "any2pix",
+                0.145
+            ],
+            [
+                "instruct-diffusion",
+                0.1391
+            ],
+            [
+                "iedit",
+                0.1292
+            ]
+        ]
+    },
+    "132": {
+        "image": "0131.png",
+        "dataset": "Lowlight",
+        "prompt": "Intensifying the glow",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6737
+            ],
+            [
+                "instruct-diffusion",
+                0.4568
+            ],
+            [
+                "hqedit",
+                0.3461
+            ],
+            [
+                "instructpix2pix",
+                0.2928
+            ],
+            [
+                "mgie",
+                0.132
+            ],
+            [
+                "any2pix",
+                0.1158
+            ],
+            [
+                "iedit",
+                0.08
+            ],
+            [
+                "magicbrush",
+                0.0482
+            ]
+        ]
+    },
+    "133": {
+        "image": "0132.png",
+        "dataset": "Lowlight",
+        "prompt": "Enhancing the brilliance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.447
+            ],
+            [
+                "hqedit",
+                0.3886
+            ],
+            [
+                "mgie",
+                0.3722
+            ],
+            [
+                "instruct-diffusion",
+                0.197
+            ],
+            [
+                "any2pix",
+                0.1953
+            ],
+            [
+                "magicbrush",
+                0.1727
+            ],
+            [
+                "iedit",
+                0.1677
+            ],
+            [
+                "instructpix2pix",
+                0.1661
+            ]
+        ]
+    },
+    "134": {
+        "image": "0133.png",
+        "dataset": "Lowlight",
+        "prompt": "Perfecting the luminance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.8504
+            ],
+            [
+                "magicbrush",
+                0.7231
+            ],
+            [
+                "hive",
+                0.6527
+            ],
+            [
+                "hqedit",
+                0.4134
+            ],
+            [
+                "mgie",
+                0.4069
+            ],
+            [
+                "instruct-diffusion",
+                0.2404
+            ],
+            [
+                "any2pix",
+                0.2154
+            ],
+            [
+                "iedit",
+                0.212
+            ]
+        ]
+    },
+    "135": {
+        "image": "0134.png",
+        "dataset": "Lowlight",
+        "prompt": "Refining the brightness",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.5562
+            ],
+            [
+                "instruct-diffusion",
+                0.4137
+            ],
+            [
+                "hqedit",
+                0.3887
+            ],
+            [
+                "mgie",
+                0.3345
+            ],
+            [
+                "instructpix2pix",
+                0.2659
+            ],
+            [
+                "any2pix",
+                0.1886
+            ],
+            [
+                "magicbrush",
+                0.1439
+            ],
+            [
+                "iedit",
+                0.1075
+            ]
+        ]
+    },
+    "136": {
+        "image": "0135.png",
+        "dataset": "Lowlight",
+        "prompt": "Fine-tuning the radiance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6188
+            ],
+            [
+                "magicbrush",
+                0.6176
+            ],
+            [
+                "hive",
+                0.4017
+            ],
+            [
+                "mgie",
+                0.3576
+            ],
+            [
+                "any2pix",
+                0.2758
+            ],
+            [
+                "hqedit",
+                0.2286
+            ],
+            [
+                "iedit",
+                0.1547
+            ],
+            [
+                "instruct-diffusion",
+                0.1425
+            ]
+        ]
+    },
+    "137": {
+        "image": "0136.png",
+        "dataset": "Lowlight",
+        "prompt": "Sharpening the lighting",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hqedit",
+                0.709
+            ],
+            [
+                "hive",
+                0.7035
+            ],
+            [
+                "instruct-diffusion",
+                0.641
+            ],
+            [
+                "magicbrush",
+                0.2618
+            ],
+            [
+                "iedit",
+                0.2443
+            ],
+            [
+                "mgie",
+                0.2438
+            ],
+            [
+                "any2pix",
+                0.2163
+            ],
+            [
+                "instructpix2pix",
+                0.0912
+            ]
+        ]
+    },
+    "138": {
+        "image": "0137.png",
+        "dataset": "Lowlight",
+        "prompt": "Brightening the picture",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6231
+            ],
+            [
+                "mgie",
+                0.3705
+            ],
+            [
+                "instructpix2pix",
+                0.3097
+            ],
+            [
+                "hqedit",
+                0.2762
+            ],
+            [
+                "any2pix",
+                0.1613
+            ],
+            [
+                "magicbrush",
+                0.1275
+            ],
+            [
+                "instruct-diffusion",
+                0.1142
+            ],
+            [
+                "iedit",
+                0.1112
+            ]
+        ]
+    },
+    "139": {
+        "image": "0138.png",
+        "dataset": "Lowlight",
+        "prompt": "Amplifying the illumination",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.5865
+            ],
+            [
+                "instructpix2pix",
+                0.4728
+            ],
+            [
+                "magicbrush",
+                0.4127
+            ],
+            [
+                "mgie",
+                0.2288
+            ],
+            [
+                "hqedit",
+                0.2252
+            ],
+            [
+                "any2pix",
+                0.1508
+            ],
+            [
+                "iedit",
+                0.0976
+            ],
+            [
+                "instruct-diffusion",
+                0.0622
+            ]
+        ]
+    },
+    "140": {
+        "image": "0139.png",
+        "dataset": "Lowlight",
+        "prompt": "Boosting the radiance",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7177
+            ],
+            [
+                "hive",
+                0.7047
+            ],
+            [
+                "instructpix2pix",
+                0.4978
+            ],
+            [
+                "hqedit",
+                0.3757
+            ],
+            [
+                "mgie",
+                0.3501
+            ],
+            [
+                "magicbrush",
+                0.3341
+            ],
+            [
+                "any2pix",
+                0.1988
+            ],
+            [
+                "iedit",
+                0.1333
+            ]
+        ]
+    }
+}

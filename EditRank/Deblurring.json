@@ -1,0 +1,5742 @@
+{
+    "1": {
+        "image": "0001.png",
+        "dataset": "Deblurring",
+        "prompt": "Enhance the clarity of the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6852
+            ],
+            [
+                "instructpix2pix",
+                0.4762
+            ],
+            [
+                "magicbrush",
+                0.4538
+            ],
+            [
+                "hive",
+                0.4517
+            ],
+            [
+                "iedit",
+                0.4198
+            ],
+            [
+                "instruct-diffusion",
+                0.406
+            ],
+            [
+                "hqedit",
+                0.3585
+            ],
+            [
+                "any2pix",
+                0.3328
+            ]
+        ]
+    },
+    "2": {
+        "image": "0002.png",
+        "dataset": "Deblurring",
+        "prompt": "Clear up the blur in the picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.807
+            ],
+            [
+                "magicbrush",
+                0.5411
+            ],
+            [
+                "instructpix2pix",
+                0.537
+            ],
+            [
+                "hive",
+                0.4943
+            ],
+            [
+                "iedit",
+                0.4835
+            ],
+            [
+                "instruct-diffusion",
+                0.4829
+            ],
+            [
+                "hqedit",
+                0.4744
+            ],
+            [
+                "any2pix",
+                0.4537
+            ]
+        ]
+    },
+    "3": {
+        "image": "0003.png",
+        "dataset": "Deblurring",
+        "prompt": "Sharpen the image to remove blurriness.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4286
+            ],
+            [
+                "magicbrush",
+                0.3222
+            ],
+            [
+                "instructpix2pix",
+                0.3159
+            ],
+            [
+                "hive",
+                0.3064
+            ],
+            [
+                "instruct-diffusion",
+                0.2666
+            ],
+            [
+                "iedit",
+                0.258
+            ],
+            [
+                "hqedit",
+                0.2188
+            ],
+            [
+                "any2pix",
+                0.2087
+            ]
+        ]
+    },
+    "4": {
+        "image": "0004.png",
+        "dataset": "Deblurring",
+        "prompt": "Improve the focus of the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6986
+            ],
+            [
+                "magicbrush",
+                0.4881
+            ],
+            [
+                "hive",
+                0.4517
+            ],
+            [
+                "iedit",
+                0.4511
+            ],
+            [
+                "any2pix",
+                0.4278
+            ],
+            [
+                "instruct-diffusion",
+                0.4255
+            ],
+            [
+                "hqedit",
+                0.3996
+            ],
+            [
+                "instructpix2pix",
+                0.3897
+            ]
+        ]
+    },
+    "5": {
+        "image": "0005.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the fuzziness from the picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5561
+            ],
+            [
+                "magicbrush",
+                0.4603
+            ],
+            [
+                "instructpix2pix",
+                0.4079
+            ],
+            [
+                "hive",
+                0.3837
+            ],
+            [
+                "iedit",
+                0.3774
+            ],
+            [
+                "instruct-diffusion",
+                0.3688
+            ],
+            [
+                "any2pix",
+                0.3074
+            ],
+            [
+                "hqedit",
+                0.2741
+            ]
+        ]
+    },
+    "6": {
+        "image": "0006.png",
+        "dataset": "Deblurring",
+        "prompt": "Make the image crisp and clear.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5187
+            ],
+            [
+                "instructpix2pix",
+                0.4391
+            ],
+            [
+                "magicbrush",
+                0.432
+            ],
+            [
+                "hive",
+                0.4181
+            ],
+            [
+                "instruct-diffusion",
+                0.405
+            ],
+            [
+                "iedit",
+                0.3682
+            ],
+            [
+                "hqedit",
+                0.3541
+            ],
+            [
+                "any2pix",
+                0.3296
+            ]
+        ]
+    },
+    "7": {
+        "image": "0007.png",
+        "dataset": "Deblurring",
+        "prompt": "Eliminate the blur from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7094
+            ],
+            [
+                "instructpix2pix",
+                0.7077
+            ],
+            [
+                "instruct-diffusion",
+                0.6823
+            ],
+            [
+                "iedit",
+                0.6614
+            ],
+            [
+                "hive",
+                0.652
+            ],
+            [
+                "any2pix",
+                0.4658
+            ],
+            [
+                "hqedit",
+                0.4593
+            ],
+            [
+                "mgie",
+                0.3681
+            ]
+        ]
+    },
+    "8": {
+        "image": "0008.png",
+        "dataset": "Deblurring",
+        "prompt": "Enhance the sharpness of the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6099
+            ],
+            [
+                "instruct-diffusion",
+                0.5907
+            ],
+            [
+                "hive",
+                0.5677
+            ],
+            [
+                "iedit",
+                0.5673
+            ],
+            [
+                "hqedit",
+                0.5436
+            ],
+            [
+                "mgie",
+                0.5347
+            ],
+            [
+                "magicbrush",
+                0.5189
+            ],
+            [
+                "any2pix",
+                0.5078
+            ]
+        ]
+    },
+    "9": {
+        "image": "0009.png",
+        "dataset": "Deblurring",
+        "prompt": "Clarify the picture by removing blur.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6166
+            ],
+            [
+                "hive",
+                0.6096
+            ],
+            [
+                "instructpix2pix",
+                0.5642
+            ],
+            [
+                "instruct-diffusion",
+                0.56
+            ],
+            [
+                "iedit",
+                0.5142
+            ],
+            [
+                "any2pix",
+                0.4763
+            ],
+            [
+                "hqedit",
+                0.4518
+            ],
+            [
+                "mgie",
+                0.3538
+            ]
+        ]
+    },
+    "10": {
+        "image": "0010.png",
+        "dataset": "Deblurring",
+        "prompt": "Deblur the image for better quality.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.627
+            ],
+            [
+                "instructpix2pix",
+                0.6255
+            ],
+            [
+                "hive",
+                0.5994
+            ],
+            [
+                "iedit",
+                0.5694
+            ],
+            [
+                "instruct-diffusion",
+                0.5463
+            ],
+            [
+                "hqedit",
+                0.5205
+            ],
+            [
+                "mgie",
+                0.4997
+            ],
+            [
+                "any2pix",
+                0.499
+            ]
+        ]
+    },
+    "11": {
+        "image": "0011.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the haze from the picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.592
+            ],
+            [
+                "magicbrush",
+                0.4849
+            ],
+            [
+                "instructpix2pix",
+                0.469
+            ],
+            [
+                "hive",
+                0.3941
+            ],
+            [
+                "iedit",
+                0.3337
+            ],
+            [
+                "instruct-diffusion",
+                0.3298
+            ],
+            [
+                "any2pix",
+                0.3067
+            ],
+            [
+                "hqedit",
+                0.2701
+            ]
+        ]
+    },
+    "12": {
+        "image": "0012.png",
+        "dataset": "Deblurring",
+        "prompt": "Polish the image to remove blur.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5917
+            ],
+            [
+                "magicbrush",
+                0.4452
+            ],
+            [
+                "instructpix2pix",
+                0.4368
+            ],
+            [
+                "hive",
+                0.3588
+            ],
+            [
+                "iedit",
+                0.3351
+            ],
+            [
+                "instruct-diffusion",
+                0.3328
+            ],
+            [
+                "any2pix",
+                0.3125
+            ],
+            [
+                "hqedit",
+                0.243
+            ]
+        ]
+    },
+    "13": {
+        "image": "0013.png",
+        "dataset": "Deblurring",
+        "prompt": "Enhance the definition of the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4611
+            ],
+            [
+                "magicbrush",
+                0.3351
+            ],
+            [
+                "hive",
+                0.3134
+            ],
+            [
+                "instruct-diffusion",
+                0.2754
+            ],
+            [
+                "iedit",
+                0.2484
+            ],
+            [
+                "hqedit",
+                0.2396
+            ],
+            [
+                "instructpix2pix",
+                0.2245
+            ],
+            [
+                "any2pix",
+                0.2192
+            ]
+        ]
+    },
+    "14": {
+        "image": "0014.png",
+        "dataset": "Deblurring",
+        "prompt": "Make the image clearer by removing blur.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5812
+            ],
+            [
+                "magicbrush",
+                0.4251
+            ],
+            [
+                "instructpix2pix",
+                0.4236
+            ],
+            [
+                "hive",
+                0.3932
+            ],
+            [
+                "instruct-diffusion",
+                0.3495
+            ],
+            [
+                "iedit",
+                0.3248
+            ],
+            [
+                "hqedit",
+                0.272
+            ],
+            [
+                "any2pix",
+                0.2562
+            ]
+        ]
+    },
+    "15": {
+        "image": "0015.png",
+        "dataset": "Deblurring",
+        "prompt": "Eliminate the distortion from the picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4037
+            ],
+            [
+                "instructpix2pix",
+                0.3961
+            ],
+            [
+                "instruct-diffusion",
+                0.3568
+            ],
+            [
+                "iedit",
+                0.2907
+            ],
+            [
+                "hive",
+                0.28
+            ],
+            [
+                "any2pix",
+                0.265
+            ],
+            [
+                "hqedit",
+                0.2058
+            ],
+            [
+                "mgie",
+                0.0874
+            ]
+        ]
+    },
+    "16": {
+        "image": "0016.png",
+        "dataset": "Deblurring",
+        "prompt": "Enhance the image's focus.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4016
+            ],
+            [
+                "hive",
+                0.3365
+            ],
+            [
+                "instructpix2pix",
+                0.33
+            ],
+            [
+                "instruct-diffusion",
+                0.3144
+            ],
+            [
+                "iedit",
+                0.2399
+            ],
+            [
+                "magicbrush",
+                0.2283
+            ],
+            [
+                "any2pix",
+                0.2065
+            ],
+            [
+                "hqedit",
+                0.1894
+            ]
+        ]
+    },
+    "17": {
+        "image": "0017.png",
+        "dataset": "Deblurring",
+        "prompt": "Clean up the blurry sections of the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7233
+            ],
+            [
+                "instructpix2pix",
+                0.6949
+            ],
+            [
+                "instruct-diffusion",
+                0.6721
+            ],
+            [
+                "iedit",
+                0.6274
+            ],
+            [
+                "hive",
+                0.5884
+            ],
+            [
+                "any2pix",
+                0.5773
+            ],
+            [
+                "hqedit",
+                0.5145
+            ],
+            [
+                "mgie",
+                0.3498
+            ]
+        ]
+    },
+    "18": {
+        "image": "0018.png",
+        "dataset": "Deblurring",
+        "prompt": "Improve the resolution of the picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7548
+            ],
+            [
+                "magicbrush",
+                0.6818
+            ],
+            [
+                "instructpix2pix",
+                0.6762
+            ],
+            [
+                "instruct-diffusion",
+                0.6583
+            ],
+            [
+                "iedit",
+                0.5827
+            ],
+            [
+                "any2pix",
+                0.556
+            ],
+            [
+                "hive",
+                0.5415
+            ],
+            [
+                "hqedit",
+                0.5039
+            ]
+        ]
+    },
+    "19": {
+        "image": "0019.png",
+        "dataset": "Deblurring",
+        "prompt": "Clear the image of any blurriness.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.5244
+            ],
+            [
+                "magicbrush",
+                0.5153
+            ],
+            [
+                "instructpix2pix",
+                0.5072
+            ],
+            [
+                "instruct-diffusion",
+                0.4502
+            ],
+            [
+                "mgie",
+                0.4357
+            ],
+            [
+                "hqedit",
+                0.4317
+            ],
+            [
+                "iedit",
+                0.4309
+            ],
+            [
+                "any2pix",
+                0.401
+            ]
+        ]
+    },
+    "20": {
+        "image": "0020.png",
+        "dataset": "Deblurring",
+        "prompt": "Restore clarity to the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6095
+            ],
+            [
+                "hive",
+                0.5291
+            ],
+            [
+                "magicbrush",
+                0.5291
+            ],
+            [
+                "instruct-diffusion",
+                0.4607
+            ],
+            [
+                "iedit",
+                0.4527
+            ],
+            [
+                "any2pix",
+                0.416
+            ],
+            [
+                "instructpix2pix",
+                0.4144
+            ],
+            [
+                "hqedit",
+                0.3366
+            ]
+        ]
+    },
+    "21": {
+        "image": "0021.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the fuzzy appearance from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7073
+            ],
+            [
+                "instructpix2pix",
+                0.5167
+            ],
+            [
+                "magicbrush",
+                0.5112
+            ],
+            [
+                "hive",
+                0.474
+            ],
+            [
+                "instruct-diffusion",
+                0.4698
+            ],
+            [
+                "iedit",
+                0.4444
+            ],
+            [
+                "hqedit",
+                0.3846
+            ],
+            [
+                "any2pix",
+                0.3834
+            ]
+        ]
+    },
+    "22": {
+        "image": "0022.png",
+        "dataset": "Deblurring",
+        "prompt": "Fix the blurriness in the picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.5769
+            ],
+            [
+                "magicbrush",
+                0.5629
+            ],
+            [
+                "hive",
+                0.5453
+            ],
+            [
+                "instruct-diffusion",
+                0.5058
+            ],
+            [
+                "iedit",
+                0.4344
+            ],
+            [
+                "mgie",
+                0.4107
+            ],
+            [
+                "any2pix",
+                0.4028
+            ],
+            [
+                "hqedit",
+                0.3544
+            ]
+        ]
+    },
+    "23": {
+        "image": "0023.png",
+        "dataset": "Deblurring",
+        "prompt": "Enhance the image for better visibility.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5432
+            ],
+            [
+                "mgie",
+                0.5311
+            ],
+            [
+                "iedit",
+                0.4967
+            ],
+            [
+                "hqedit",
+                0.4316
+            ],
+            [
+                "instructpix2pix",
+                0.4164
+            ],
+            [
+                "any2pix",
+                0.4112
+            ],
+            [
+                "hive",
+                0.4111
+            ],
+            [
+                "magicbrush",
+                0.2775
+            ]
+        ]
+    },
+    "24": {
+        "image": "0024.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the out-of-focus areas from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5491
+            ],
+            [
+                "magicbrush",
+                0.4326
+            ],
+            [
+                "instructpix2pix",
+                0.4283
+            ],
+            [
+                "instruct-diffusion",
+                0.347
+            ],
+            [
+                "iedit",
+                0.3391
+            ],
+            [
+                "hive",
+                0.3313
+            ],
+            [
+                "hqedit",
+                0.2947
+            ],
+            [
+                "any2pix",
+                0.2706
+            ]
+        ]
+    },
+    "25": {
+        "image": "0025.png",
+        "dataset": "Deblurring",
+        "prompt": "Enhance the image's sharpness and clarity.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5477
+            ],
+            [
+                "hqedit",
+                0.47
+            ],
+            [
+                "hive",
+                0.4573
+            ],
+            [
+                "instructpix2pix",
+                0.4536
+            ],
+            [
+                "instruct-diffusion",
+                0.4481
+            ],
+            [
+                "magicbrush",
+                0.427
+            ],
+            [
+                "iedit",
+                0.423
+            ],
+            [
+                "any2pix",
+                0.3556
+            ]
+        ]
+    },
+    "26": {
+        "image": "0026.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the smudges from the picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6251
+            ],
+            [
+                "magicbrush",
+                0.3267
+            ],
+            [
+                "instructpix2pix",
+                0.3088
+            ],
+            [
+                "hive",
+                0.303
+            ],
+            [
+                "instruct-diffusion",
+                0.2677
+            ],
+            [
+                "iedit",
+                0.2375
+            ],
+            [
+                "any2pix",
+                0.2298
+            ],
+            [
+                "hqedit",
+                0.2142
+            ]
+        ]
+    },
+    "27": {
+        "image": "0027.png",
+        "dataset": "Deblurring",
+        "prompt": "Improve the image quality by reducing blur.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4439
+            ],
+            [
+                "magicbrush",
+                0.3488
+            ],
+            [
+                "instructpix2pix",
+                0.3344
+            ],
+            [
+                "hive",
+                0.3031
+            ],
+            [
+                "instruct-diffusion",
+                0.2981
+            ],
+            [
+                "hqedit",
+                0.2974
+            ],
+            [
+                "iedit",
+                0.2694
+            ],
+            [
+                "any2pix",
+                0.265
+            ]
+        ]
+    },
+    "28": {
+        "image": "0028.png",
+        "dataset": "Deblurring",
+        "prompt": "Make the image sharper and clearer.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4746
+            ],
+            [
+                "hive",
+                0.3535
+            ],
+            [
+                "instructpix2pix",
+                0.3228
+            ],
+            [
+                "instruct-diffusion",
+                0.3171
+            ],
+            [
+                "magicbrush",
+                0.2874
+            ],
+            [
+                "iedit",
+                0.242
+            ],
+            [
+                "any2pix",
+                0.2352
+            ],
+            [
+                "hqedit",
+                0.2261
+            ]
+        ]
+    },
+    "29": {
+        "image": "0029.png",
+        "dataset": "Deblurring",
+        "prompt": "Dehaze the picture for better visibility.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7347
+            ],
+            [
+                "instructpix2pix",
+                0.7274
+            ],
+            [
+                "iedit",
+                0.6979
+            ],
+            [
+                "instruct-diffusion",
+                0.6941
+            ],
+            [
+                "hive",
+                0.6809
+            ],
+            [
+                "mgie",
+                0.659
+            ],
+            [
+                "hqedit",
+                0.5298
+            ],
+            [
+                "any2pix",
+                0.4793
+            ]
+        ]
+    },
+    "30": {
+        "image": "0030.png",
+        "dataset": "Deblurring",
+        "prompt": "Enhance the image by reducing blur.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7209
+            ],
+            [
+                "hive",
+                0.6602
+            ],
+            [
+                "instructpix2pix",
+                0.6417
+            ],
+            [
+                "magicbrush",
+                0.6351
+            ],
+            [
+                "iedit",
+                0.5647
+            ],
+            [
+                "instruct-diffusion",
+                0.5479
+            ],
+            [
+                "any2pix",
+                0.5283
+            ],
+            [
+                "hqedit",
+                0.4308
+            ]
+        ]
+    },
+    "31": {
+        "image": "0031.png",
+        "dataset": "Deblurring",
+        "prompt": "Bring the image into focus.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6373
+            ],
+            [
+                "magicbrush",
+                0.6282
+            ],
+            [
+                "instruct-diffusion",
+                0.6234
+            ],
+            [
+                "iedit",
+                0.5851
+            ],
+            [
+                "hive",
+                0.5356
+            ],
+            [
+                "mgie",
+                0.4981
+            ],
+            [
+                "any2pix",
+                0.4571
+            ],
+            [
+                "hqedit",
+                0.4387
+            ]
+        ]
+    },
+    "32": {
+        "image": "0032.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the obscured details from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.777
+            ],
+            [
+                "magicbrush",
+                0.4436
+            ],
+            [
+                "instructpix2pix",
+                0.4292
+            ],
+            [
+                "instruct-diffusion",
+                0.3682
+            ],
+            [
+                "hive",
+                0.3605
+            ],
+            [
+                "iedit",
+                0.3466
+            ],
+            [
+                "hqedit",
+                0.2718
+            ],
+            [
+                "any2pix",
+                0.2517
+            ]
+        ]
+    },
+    "33": {
+        "image": "0033.png",
+        "dataset": "Deblurring",
+        "prompt": "Clarify the image by reducing blurriness.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6173
+            ],
+            [
+                "magicbrush",
+                0.4395
+            ],
+            [
+                "instructpix2pix",
+                0.4308
+            ],
+            [
+                "hive",
+                0.4213
+            ],
+            [
+                "instruct-diffusion",
+                0.351
+            ],
+            [
+                "iedit",
+                0.3452
+            ],
+            [
+                "hqedit",
+                0.3248
+            ],
+            [
+                "any2pix",
+                0.2935
+            ]
+        ]
+    },
+    "34": {
+        "image": "0034.png",
+        "dataset": "Deblurring",
+        "prompt": "Cleanse the image of any blurring effects.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6565
+            ],
+            [
+                "instructpix2pix",
+                0.5677
+            ],
+            [
+                "hive",
+                0.5413
+            ],
+            [
+                "iedit",
+                0.4515
+            ],
+            [
+                "instruct-diffusion",
+                0.426
+            ],
+            [
+                "magicbrush",
+                0.4079
+            ],
+            [
+                "any2pix",
+                0.3748
+            ],
+            [
+                "hqedit",
+                0.3204
+            ]
+        ]
+    },
+    "35": {
+        "image": "0035.png",
+        "dataset": "Deblurring",
+        "prompt": "Refine the image's focus and clarity.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6386
+            ],
+            [
+                "hive",
+                0.4815
+            ],
+            [
+                "iedit",
+                0.3975
+            ],
+            [
+                "magicbrush",
+                0.3782
+            ],
+            [
+                "instruct-diffusion",
+                0.3549
+            ],
+            [
+                "any2pix",
+                0.3503
+            ],
+            [
+                "hqedit",
+                0.3327
+            ],
+            [
+                "instructpix2pix",
+                0.2431
+            ]
+        ]
+    },
+    "36": {
+        "image": "0036.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the haziness from the picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5235
+            ],
+            [
+                "magicbrush",
+                0.4035
+            ],
+            [
+                "instructpix2pix",
+                0.3758
+            ],
+            [
+                "hive",
+                0.3685
+            ],
+            [
+                "instruct-diffusion",
+                0.3209
+            ],
+            [
+                "iedit",
+                0.3173
+            ],
+            [
+                "hqedit",
+                0.2571
+            ],
+            [
+                "any2pix",
+                0.2433
+            ]
+        ]
+    },
+    "37": {
+        "image": "0037.png",
+        "dataset": "Deblurring",
+        "prompt": "Polish the image to eliminate blur.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5393
+            ],
+            [
+                "magicbrush",
+                0.4385
+            ],
+            [
+                "instructpix2pix",
+                0.4141
+            ],
+            [
+                "hive",
+                0.3597
+            ],
+            [
+                "iedit",
+                0.3227
+            ],
+            [
+                "instruct-diffusion",
+                0.3146
+            ],
+            [
+                "any2pix",
+                0.2506
+            ],
+            [
+                "hqedit",
+                0.2312
+            ]
+        ]
+    },
+    "38": {
+        "image": "0038.png",
+        "dataset": "Deblurring",
+        "prompt": "Improve the image's sharpness and definition.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5717
+            ],
+            [
+                "magicbrush",
+                0.5226
+            ],
+            [
+                "instructpix2pix",
+                0.4976
+            ],
+            [
+                "instruct-diffusion",
+                0.4905
+            ],
+            [
+                "iedit",
+                0.4046
+            ],
+            [
+                "hqedit",
+                0.3919
+            ],
+            [
+                "hive",
+                0.378
+            ],
+            [
+                "any2pix",
+                0.3697
+            ]
+        ]
+    },
+    "39": {
+        "image": "0039.png",
+        "dataset": "Deblurring",
+        "prompt": "Restore the image to its original clarity.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6236
+            ],
+            [
+                "hive",
+                0.6229
+            ],
+            [
+                "iedit",
+                0.6082
+            ],
+            [
+                "mgie",
+                0.5778
+            ],
+            [
+                "magicbrush",
+                0.5229
+            ],
+            [
+                "hqedit",
+                0.4735
+            ],
+            [
+                "any2pix",
+                0.4636
+            ],
+            [
+                "instruct-diffusion",
+                0.4542
+            ]
+        ]
+    },
+    "40": {
+        "image": "0040.png",
+        "dataset": "Deblurring",
+        "prompt": "Deblur the picture for improved quality.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6488
+            ],
+            [
+                "magicbrush",
+                0.5807
+            ],
+            [
+                "instructpix2pix",
+                0.5627
+            ],
+            [
+                "instruct-diffusion",
+                0.5247
+            ],
+            [
+                "hive",
+                0.5239
+            ],
+            [
+                "iedit",
+                0.4859
+            ],
+            [
+                "hqedit",
+                0.4226
+            ],
+            [
+                "any2pix",
+                0.3436
+            ]
+        ]
+    },
+    "41": {
+        "image": "0041.png",
+        "dataset": "Deblurring",
+        "prompt": "Enhance the image's definition by removing blur.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5561
+            ],
+            [
+                "magicbrush",
+                0.5423
+            ],
+            [
+                "instructpix2pix",
+                0.5385
+            ],
+            [
+                "hive",
+                0.5289
+            ],
+            [
+                "iedit",
+                0.4852
+            ],
+            [
+                "instruct-diffusion",
+                0.4849
+            ],
+            [
+                "any2pix",
+                0.4572
+            ],
+            [
+                "hqedit",
+                0.3313
+            ]
+        ]
+    },
+    "42": {
+        "image": "0042.png",
+        "dataset": "Deblurring",
+        "prompt": "Clear the image of any distortions.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5358
+            ],
+            [
+                "hive",
+                0.5304
+            ],
+            [
+                "instructpix2pix",
+                0.5113
+            ],
+            [
+                "instruct-diffusion",
+                0.4915
+            ],
+            [
+                "iedit",
+                0.4587
+            ],
+            [
+                "any2pix",
+                0.4558
+            ],
+            [
+                "mgie",
+                0.4396
+            ],
+            [
+                "hqedit",
+                0.384
+            ]
+        ]
+    },
+    "43": {
+        "image": "0043.png",
+        "dataset": "Deblurring",
+        "prompt": "Refine the focus of the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.4814
+            ],
+            [
+                "magicbrush",
+                0.4757
+            ],
+            [
+                "instructpix2pix",
+                0.4734
+            ],
+            [
+                "instruct-diffusion",
+                0.4207
+            ],
+            [
+                "iedit",
+                0.4143
+            ],
+            [
+                "mgie",
+                0.3659
+            ],
+            [
+                "any2pix",
+                0.3294
+            ],
+            [
+                "hqedit",
+                0.295
+            ]
+        ]
+    },
+    "44": {
+        "image": "0044.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the fuzzy edges from the picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6325
+            ],
+            [
+                "instructpix2pix",
+                0.4929
+            ],
+            [
+                "magicbrush",
+                0.4859
+            ],
+            [
+                "hive",
+                0.3971
+            ],
+            [
+                "iedit",
+                0.3931
+            ],
+            [
+                "any2pix",
+                0.3818
+            ],
+            [
+                "instruct-diffusion",
+                0.372
+            ],
+            [
+                "hqedit",
+                0.3277
+            ]
+        ]
+    },
+    "45": {
+        "image": "0045.png",
+        "dataset": "Deblurring",
+        "prompt": "Enhance the image's crispness.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5363
+            ],
+            [
+                "instruct-diffusion",
+                0.5226
+            ],
+            [
+                "hive",
+                0.5006
+            ],
+            [
+                "iedit",
+                0.4669
+            ],
+            [
+                "any2pix",
+                0.464
+            ],
+            [
+                "instructpix2pix",
+                0.3649
+            ],
+            [
+                "hqedit",
+                0.355
+            ],
+            [
+                "magicbrush",
+                0.3521
+            ]
+        ]
+    },
+    "46": {
+        "image": "0046.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the smearing from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.8039
+            ],
+            [
+                "magicbrush",
+                0.5982
+            ],
+            [
+                "instructpix2pix",
+                0.5949
+            ],
+            [
+                "hive",
+                0.577
+            ],
+            [
+                "instruct-diffusion",
+                0.4935
+            ],
+            [
+                "iedit",
+                0.4756
+            ],
+            [
+                "any2pix",
+                0.3787
+            ],
+            [
+                "hqedit",
+                0.3032
+            ]
+        ]
+    },
+    "47": {
+        "image": "0047.png",
+        "dataset": "Deblurring",
+        "prompt": "Enhance the image's details by removing blur.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.687
+            ],
+            [
+                "magicbrush",
+                0.5722
+            ],
+            [
+                "hive",
+                0.5146
+            ],
+            [
+                "instructpix2pix",
+                0.511
+            ],
+            [
+                "iedit",
+                0.4973
+            ],
+            [
+                "hqedit",
+                0.4491
+            ],
+            [
+                "any2pix",
+                0.447
+            ],
+            [
+                "instruct-diffusion",
+                0.4182
+            ]
+        ]
+    },
+    "48": {
+        "image": "0048.png",
+        "dataset": "Deblurring",
+        "prompt": "Improve the image's clarity and sharpness.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3382
+            ],
+            [
+                "hive",
+                0.2811
+            ],
+            [
+                "instruct-diffusion",
+                0.2652
+            ],
+            [
+                "any2pix",
+                0.2607
+            ],
+            [
+                "magicbrush",
+                0.2316
+            ],
+            [
+                "iedit",
+                0.2296
+            ],
+            [
+                "hqedit",
+                0.2067
+            ],
+            [
+                "instructpix2pix",
+                0.1265
+            ]
+        ]
+    },
+    "49": {
+        "image": "0049.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the mistiness from the picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4801
+            ],
+            [
+                "hive",
+                0.3264
+            ],
+            [
+                "hqedit",
+                0.3049
+            ],
+            [
+                "iedit",
+                0.2913
+            ],
+            [
+                "instruct-diffusion",
+                0.284
+            ],
+            [
+                "instructpix2pix",
+                0.241
+            ],
+            [
+                "magicbrush",
+                0.2084
+            ],
+            [
+                "any2pix",
+                0.1821
+            ]
+        ]
+    },
+    "50": {
+        "image": "0050.png",
+        "dataset": "Deblurring",
+        "prompt": "Refine the image to remove any blurring.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4584
+            ],
+            [
+                "magicbrush",
+                0.42
+            ],
+            [
+                "instructpix2pix",
+                0.4159
+            ],
+            [
+                "hive",
+                0.4099
+            ],
+            [
+                "instruct-diffusion",
+                0.3909
+            ],
+            [
+                "iedit",
+                0.3832
+            ],
+            [
+                "hqedit",
+                0.322
+            ],
+            [
+                "any2pix",
+                0.3068
+            ]
+        ]
+    },
+    "51": {
+        "image": "0051.png",
+        "dataset": "Deblurring",
+        "prompt": "Improve the image's focus and clarity.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4299
+            ],
+            [
+                "instructpix2pix",
+                0.4212
+            ],
+            [
+                "magicbrush",
+                0.3933
+            ],
+            [
+                "instruct-diffusion",
+                0.3665
+            ],
+            [
+                "hqedit",
+                0.3597
+            ],
+            [
+                "hive",
+                0.3341
+            ],
+            [
+                "iedit",
+                0.3198
+            ],
+            [
+                "any2pix",
+                0.3097
+            ]
+        ]
+    },
+    "52": {
+        "image": "0052.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the soft focus effect from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6451
+            ],
+            [
+                "magicbrush",
+                0.4393
+            ],
+            [
+                "instructpix2pix",
+                0.4354
+            ],
+            [
+                "instruct-diffusion",
+                0.3876
+            ],
+            [
+                "any2pix",
+                0.3863
+            ],
+            [
+                "iedit",
+                0.3763
+            ],
+            [
+                "hqedit",
+                0.3541
+            ],
+            [
+                "hive",
+                0.3262
+            ]
+        ]
+    },
+    "53": {
+        "image": "0053.png",
+        "dataset": "Deblurring",
+        "prompt": "Enhance the image's visual acuity.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3824
+            ],
+            [
+                "instructpix2pix",
+                0.341
+            ],
+            [
+                "magicbrush",
+                0.3348
+            ],
+            [
+                "hive",
+                0.3297
+            ],
+            [
+                "iedit",
+                0.2605
+            ],
+            [
+                "any2pix",
+                0.2523
+            ],
+            [
+                "instruct-diffusion",
+                0.2426
+            ],
+            [
+                "hqedit",
+                0.236
+            ]
+        ]
+    },
+    "54": {
+        "image": "0054.png",
+        "dataset": "Deblurring",
+        "prompt": "Make the image appear more sharp and clear.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6539
+            ],
+            [
+                "magicbrush",
+                0.4991
+            ],
+            [
+                "hive",
+                0.4919
+            ],
+            [
+                "instructpix2pix",
+                0.4766
+            ],
+            [
+                "instruct-diffusion",
+                0.4161
+            ],
+            [
+                "iedit",
+                0.4092
+            ],
+            [
+                "any2pix",
+                0.3792
+            ],
+            [
+                "hqedit",
+                0.3463
+            ]
+        ]
+    },
+    "55": {
+        "image": "0055.png",
+        "dataset": "Deblurring",
+        "prompt": "Clean up the image to remove blur.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.5931
+            ],
+            [
+                "hive",
+                0.5693
+            ],
+            [
+                "magicbrush",
+                0.5502
+            ],
+            [
+                "instruct-diffusion",
+                0.5395
+            ],
+            [
+                "iedit",
+                0.5029
+            ],
+            [
+                "mgie",
+                0.4779
+            ],
+            [
+                "hqedit",
+                0.4705
+            ],
+            [
+                "any2pix",
+                0.4007
+            ]
+        ]
+    },
+    "56": {
+        "image": "0056.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the fuzz from the picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5978
+            ],
+            [
+                "hive",
+                0.2903
+            ],
+            [
+                "magicbrush",
+                0.2708
+            ],
+            [
+                "instruct-diffusion",
+                0.2194
+            ],
+            [
+                "any2pix",
+                0.1984
+            ],
+            [
+                "instructpix2pix",
+                0.1926
+            ],
+            [
+                "iedit",
+                0.1784
+            ],
+            [
+                "hqedit",
+                0.144
+            ]
+        ]
+    },
+    "57": {
+        "image": "0057.png",
+        "dataset": "Deblurring",
+        "prompt": "Enhance the image's crispness and clarity.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7991
+            ],
+            [
+                "instruct-diffusion",
+                0.5591
+            ],
+            [
+                "hive",
+                0.5524
+            ],
+            [
+                "instructpix2pix",
+                0.5512
+            ],
+            [
+                "hqedit",
+                0.5511
+            ],
+            [
+                "magicbrush",
+                0.5203
+            ],
+            [
+                "iedit",
+                0.5017
+            ],
+            [
+                "any2pix",
+                0.344
+            ]
+        ]
+    },
+    "58": {
+        "image": "0058.png",
+        "dataset": "Deblurring",
+        "prompt": "Dehaze the image for better visibility.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.4029
+            ],
+            [
+                "hive",
+                0.3991
+            ],
+            [
+                "magicbrush",
+                0.3947
+            ],
+            [
+                "mgie",
+                0.3574
+            ],
+            [
+                "instruct-diffusion",
+                0.3541
+            ],
+            [
+                "any2pix",
+                0.2939
+            ],
+            [
+                "iedit",
+                0.2849
+            ],
+            [
+                "hqedit",
+                0.2083
+            ]
+        ]
+    },
+    "59": {
+        "image": "0059.png",
+        "dataset": "Deblurring",
+        "prompt": "Improve the image's resolution by removing blur.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5401
+            ],
+            [
+                "magicbrush",
+                0.4398
+            ],
+            [
+                "hive",
+                0.4288
+            ],
+            [
+                "iedit",
+                0.3237
+            ],
+            [
+                "instruct-diffusion",
+                0.318
+            ],
+            [
+                "any2pix",
+                0.3118
+            ],
+            [
+                "hqedit",
+                0.2607
+            ],
+            [
+                "instructpix2pix",
+                0.2167
+            ]
+        ]
+    },
+    "60": {
+        "image": "0060.png",
+        "dataset": "Deblurring",
+        "prompt": "Make the image more distinct by removing blur.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6629
+            ],
+            [
+                "magicbrush",
+                0.609
+            ],
+            [
+                "hive",
+                0.6086
+            ],
+            [
+                "instructpix2pix",
+                0.6033
+            ],
+            [
+                "instruct-diffusion",
+                0.4418
+            ],
+            [
+                "iedit",
+                0.431
+            ],
+            [
+                "any2pix",
+                0.3798
+            ],
+            [
+                "hqedit",
+                0.3073
+            ]
+        ]
+    },
+    "61": {
+        "image": "0061.png",
+        "dataset": "Deblurring",
+        "prompt": "Clarify the image by sharpening its focus.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5484
+            ],
+            [
+                "magicbrush",
+                0.4871
+            ],
+            [
+                "instructpix2pix",
+                0.4786
+            ],
+            [
+                "hive",
+                0.4394
+            ],
+            [
+                "iedit",
+                0.4308
+            ],
+            [
+                "instruct-diffusion",
+                0.4196
+            ],
+            [
+                "any2pix",
+                0.3079
+            ],
+            [
+                "hqedit",
+                0.3008
+            ]
+        ]
+    },
+    "62": {
+        "image": "0062.png",
+        "dataset": "Deblurring",
+        "prompt": "Restore the image's sharp details.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7509
+            ],
+            [
+                "hive",
+                0.4893
+            ],
+            [
+                "magicbrush",
+                0.469
+            ],
+            [
+                "instruct-diffusion",
+                0.3915
+            ],
+            [
+                "iedit",
+                0.3854
+            ],
+            [
+                "instructpix2pix",
+                0.3451
+            ],
+            [
+                "any2pix",
+                0.3379
+            ],
+            [
+                "hqedit",
+                0.2861
+            ]
+        ]
+    },
+    "63": {
+        "image": "0063.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the smudges and blurs from the picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6563
+            ],
+            [
+                "magicbrush",
+                0.5492
+            ],
+            [
+                "instructpix2pix",
+                0.5151
+            ],
+            [
+                "iedit",
+                0.461
+            ],
+            [
+                "hive",
+                0.4526
+            ],
+            [
+                "instruct-diffusion",
+                0.4504
+            ],
+            [
+                "any2pix",
+                0.4055
+            ],
+            [
+                "hqedit",
+                0.3814
+            ]
+        ]
+    },
+    "64": {
+        "image": "0064.png",
+        "dataset": "Deblurring",
+        "prompt": "Enhance the image's sharpness for better clarity.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5853
+            ],
+            [
+                "magicbrush",
+                0.4223
+            ],
+            [
+                "instructpix2pix",
+                0.4153
+            ],
+            [
+                "hive",
+                0.4066
+            ],
+            [
+                "iedit",
+                0.3444
+            ],
+            [
+                "instruct-diffusion",
+                0.3412
+            ],
+            [
+                "any2pix",
+                0.3253
+            ],
+            [
+                "hqedit",
+                0.186
+            ]
+        ]
+    },
+    "65": {
+        "image": "0065.png",
+        "dataset": "Deblurring",
+        "prompt": "Clean the image of any fuzzy elements.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6051
+            ],
+            [
+                "hive",
+                0.4574
+            ],
+            [
+                "instruct-diffusion",
+                0.4453
+            ],
+            [
+                "any2pix",
+                0.3591
+            ],
+            [
+                "iedit",
+                0.3445
+            ],
+            [
+                "hqedit",
+                0.2841
+            ],
+            [
+                "magicbrush",
+                0.2812
+            ],
+            [
+                "instructpix2pix",
+                0.1563
+            ]
+        ]
+    },
+    "66": {
+        "image": "0066.png",
+        "dataset": "Deblurring",
+        "prompt": "Refine the image to eliminate any blurring.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.5544
+            ],
+            [
+                "magicbrush",
+                0.5357
+            ],
+            [
+                "instruct-diffusion",
+                0.5286
+            ],
+            [
+                "mgie",
+                0.5269
+            ],
+            [
+                "hive",
+                0.5108
+            ],
+            [
+                "iedit",
+                0.4816
+            ],
+            [
+                "any2pix",
+                0.4083
+            ],
+            [
+                "hqedit",
+                0.3609
+            ]
+        ]
+    },
+    "67": {
+        "image": "0067.png",
+        "dataset": "Deblurring",
+        "prompt": "Improve the image's sharpness and focus.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7126
+            ],
+            [
+                "magicbrush",
+                0.3554
+            ],
+            [
+                "instructpix2pix",
+                0.3431
+            ],
+            [
+                "hqedit",
+                0.2989
+            ],
+            [
+                "instruct-diffusion",
+                0.2818
+            ],
+            [
+                "iedit",
+                0.2442
+            ],
+            [
+                "hive",
+                0.1985
+            ],
+            [
+                "any2pix",
+                0.1496
+            ]
+        ]
+    },
+    "68": {
+        "image": "0068.png",
+        "dataset": "Deblurring",
+        "prompt": "Enhance the image by reducing blurriness.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6054
+            ],
+            [
+                "instructpix2pix",
+                0.5696
+            ],
+            [
+                "hive",
+                0.5375
+            ],
+            [
+                "instruct-diffusion",
+                0.5008
+            ],
+            [
+                "magicbrush",
+                0.4882
+            ],
+            [
+                "iedit",
+                0.4264
+            ],
+            [
+                "any2pix",
+                0.3428
+            ],
+            [
+                "hqedit",
+                0.3244
+            ]
+        ]
+    },
+    "69": {
+        "image": "0069.png",
+        "dataset": "Deblurring",
+        "prompt": "Clear the image of any distortion.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6461
+            ],
+            [
+                "instruct-diffusion",
+                0.5961
+            ],
+            [
+                "magicbrush",
+                0.5957
+            ],
+            [
+                "instructpix2pix",
+                0.5887
+            ],
+            [
+                "hive",
+                0.5491
+            ],
+            [
+                "iedit",
+                0.5448
+            ],
+            [
+                "hqedit",
+                0.4861
+            ],
+            [
+                "any2pix",
+                0.4759
+            ]
+        ]
+    },
+    "70": {
+        "image": "0070.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the haze to reveal clearer details.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4575
+            ],
+            [
+                "instruct-diffusion",
+                0.4168
+            ],
+            [
+                "hive",
+                0.3829
+            ],
+            [
+                "iedit",
+                0.371
+            ],
+            [
+                "any2pix",
+                0.294
+            ],
+            [
+                "hqedit",
+                0.2392
+            ],
+            [
+                "instructpix2pix",
+                0.186
+            ],
+            [
+                "magicbrush",
+                0.1842
+            ]
+        ]
+    },
+    "71": {
+        "image": "0071.png",
+        "dataset": "Deblurring",
+        "prompt": "Enhance the image's clarity and definition.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3946
+            ],
+            [
+                "instruct-diffusion",
+                0.3153
+            ],
+            [
+                "iedit",
+                0.3113
+            ],
+            [
+                "magicbrush",
+                0.2974
+            ],
+            [
+                "hqedit",
+                0.2869
+            ],
+            [
+                "instructpix2pix",
+                0.2558
+            ],
+            [
+                "hive",
+                0.2378
+            ],
+            [
+                "any2pix",
+                0.2117
+            ]
+        ]
+    },
+    "72": {
+        "image": "0072.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness to make the image clear.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6393
+            ],
+            [
+                "magicbrush",
+                0.5226
+            ],
+            [
+                "instructpix2pix",
+                0.5151
+            ],
+            [
+                "hive",
+                0.4191
+            ],
+            [
+                "instruct-diffusion",
+                0.4017
+            ],
+            [
+                "iedit",
+                0.3923
+            ],
+            [
+                "any2pix",
+                0.3225
+            ],
+            [
+                "hqedit",
+                0.2764
+            ]
+        ]
+    },
+    "73": {
+        "image": "0073.png",
+        "dataset": "Deblurring",
+        "prompt": "Polish the image to remove any haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6693
+            ],
+            [
+                "magicbrush",
+                0.5557
+            ],
+            [
+                "instructpix2pix",
+                0.5229
+            ],
+            [
+                "hive",
+                0.5002
+            ],
+            [
+                "instruct-diffusion",
+                0.4886
+            ],
+            [
+                "iedit",
+                0.4805
+            ],
+            [
+                "hqedit",
+                0.4294
+            ],
+            [
+                "any2pix",
+                0.368
+            ]
+        ]
+    },
+    "74": {
+        "image": "0074.png",
+        "dataset": "Deblurring",
+        "prompt": "Clarify the image by removing blur effects.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6863
+            ],
+            [
+                "instructpix2pix",
+                0.647
+            ],
+            [
+                "hive",
+                0.6326
+            ],
+            [
+                "instruct-diffusion",
+                0.6118
+            ],
+            [
+                "iedit",
+                0.5665
+            ],
+            [
+                "magicbrush",
+                0.5487
+            ],
+            [
+                "any2pix",
+                0.521
+            ],
+            [
+                "hqedit",
+                0.4946
+            ]
+        ]
+    },
+    "75": {
+        "image": "0075.png",
+        "dataset": "Deblurring",
+        "prompt": "Enhance the image's sharpness and quality.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3739
+            ],
+            [
+                "instructpix2pix",
+                0.278
+            ],
+            [
+                "magicbrush",
+                0.2675
+            ],
+            [
+                "instruct-diffusion",
+                0.2465
+            ],
+            [
+                "any2pix",
+                0.2309
+            ],
+            [
+                "iedit",
+                0.2279
+            ],
+            [
+                "hqedit",
+                0.1754
+            ],
+            [
+                "hive",
+                0.1214
+            ]
+        ]
+    },
+    "76": {
+        "image": "0076.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the foggy appearance from the picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6183
+            ],
+            [
+                "magicbrush",
+                0.5145
+            ],
+            [
+                "instructpix2pix",
+                0.4847
+            ],
+            [
+                "iedit",
+                0.4014
+            ],
+            [
+                "instruct-diffusion",
+                0.3698
+            ],
+            [
+                "any2pix",
+                0.3228
+            ],
+            [
+                "hive",
+                0.2997
+            ],
+            [
+                "hqedit",
+                0.2668
+            ]
+        ]
+    },
+    "77": {
+        "image": "0077.png",
+        "dataset": "Deblurring",
+        "prompt": "Refine the image's focus and clarity.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5371
+            ],
+            [
+                "magicbrush",
+                0.5342
+            ],
+            [
+                "hive",
+                0.517
+            ],
+            [
+                "instruct-diffusion",
+                0.5003
+            ],
+            [
+                "instructpix2pix",
+                0.4983
+            ],
+            [
+                "iedit",
+                0.4745
+            ],
+            [
+                "any2pix",
+                0.3883
+            ],
+            [
+                "hqedit",
+                0.2883
+            ]
+        ]
+    },
+    "78": {
+        "image": "0078.png",
+        "dataset": "Deblurring",
+        "prompt": "Clean up the image to remove any blurring.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.4376
+            ],
+            [
+                "instruct-diffusion",
+                0.4198
+            ],
+            [
+                "iedit",
+                0.3848
+            ],
+            [
+                "magicbrush",
+                0.3737
+            ],
+            [
+                "instructpix2pix",
+                0.3552
+            ],
+            [
+                "any2pix",
+                0.2697
+            ],
+            [
+                "hqedit",
+                0.2685
+            ],
+            [
+                "mgie",
+                0.214
+            ]
+        ]
+    },
+    "79": {
+        "image": "0079.png",
+        "dataset": "Deblurring",
+        "prompt": "Improve the image's visual clarity.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6396
+            ],
+            [
+                "magicbrush",
+                0.5076
+            ],
+            [
+                "instructpix2pix",
+                0.5012
+            ],
+            [
+                "hive",
+                0.4946
+            ],
+            [
+                "iedit",
+                0.3764
+            ],
+            [
+                "instruct-diffusion",
+                0.372
+            ],
+            [
+                "any2pix",
+                0.2985
+            ],
+            [
+                "hqedit",
+                0.2959
+            ]
+        ]
+    },
+    "80": {
+        "image": "0080.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the softness from the picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.499
+            ],
+            [
+                "magicbrush",
+                0.3561
+            ],
+            [
+                "instruct-diffusion",
+                0.3026
+            ],
+            [
+                "iedit",
+                0.2779
+            ],
+            [
+                "any2pix",
+                0.2648
+            ],
+            [
+                "instructpix2pix",
+                0.2526
+            ],
+            [
+                "hqedit",
+                0.2308
+            ],
+            [
+                "hive",
+                0.1318
+            ]
+        ]
+    },
+    "81": {
+        "image": "0081.png",
+        "dataset": "Deblurring",
+        "prompt": "Enhance the image's details and definition.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5494
+            ],
+            [
+                "magicbrush",
+                0.4942
+            ],
+            [
+                "instructpix2pix",
+                0.4868
+            ],
+            [
+                "hive",
+                0.4337
+            ],
+            [
+                "iedit",
+                0.4317
+            ],
+            [
+                "instruct-diffusion",
+                0.4127
+            ],
+            [
+                "hqedit",
+                0.3097
+            ],
+            [
+                "any2pix",
+                0.308
+            ]
+        ]
+    },
+    "82": {
+        "image": "0082.png",
+        "dataset": "Deblurring",
+        "prompt": "Deblur the image to improve its quality.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4635
+            ],
+            [
+                "instructpix2pix",
+                0.4281
+            ],
+            [
+                "magicbrush",
+                0.4224
+            ],
+            [
+                "hive",
+                0.3885
+            ],
+            [
+                "instruct-diffusion",
+                0.3463
+            ],
+            [
+                "iedit",
+                0.3378
+            ],
+            [
+                "hqedit",
+                0.2893
+            ],
+            [
+                "any2pix",
+                0.2655
+            ]
+        ]
+    },
+    "83": {
+        "image": "0083.png",
+        "dataset": "Deblurring",
+        "prompt": "Clarify the image by sharpening its edges.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6965
+            ],
+            [
+                "instruct-diffusion",
+                0.5198
+            ],
+            [
+                "instructpix2pix",
+                0.514
+            ],
+            [
+                "iedit",
+                0.4698
+            ],
+            [
+                "magicbrush",
+                0.4639
+            ],
+            [
+                "any2pix",
+                0.3252
+            ],
+            [
+                "hqedit",
+                0.325
+            ],
+            [
+                "hive",
+                0.3184
+            ]
+        ]
+    },
+    "84": {
+        "image": "0084.png",
+        "dataset": "Deblurring",
+        "prompt": "Enhance the image's resolution and clarity.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3956
+            ],
+            [
+                "instructpix2pix",
+                0.3783
+            ],
+            [
+                "magicbrush",
+                0.3754
+            ],
+            [
+                "hive",
+                0.3651
+            ],
+            [
+                "instruct-diffusion",
+                0.3569
+            ],
+            [
+                "iedit",
+                0.3495
+            ],
+            [
+                "hqedit",
+                0.2803
+            ],
+            [
+                "any2pix",
+                0.218
+            ]
+        ]
+    },
+    "85": {
+        "image": "0085.png",
+        "dataset": "Deblurring",
+        "prompt": "Enhance the clarity of the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5953
+            ],
+            [
+                "hive",
+                0.5925
+            ],
+            [
+                "instruct-diffusion",
+                0.5859
+            ],
+            [
+                "iedit",
+                0.5464
+            ],
+            [
+                "magicbrush",
+                0.4964
+            ],
+            [
+                "instructpix2pix",
+                0.4316
+            ],
+            [
+                "hqedit",
+                0.4131
+            ],
+            [
+                "any2pix",
+                0.4093
+            ]
+        ]
+    },
+    "86": {
+        "image": "0086.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the blurriness from the picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6851
+            ],
+            [
+                "magicbrush",
+                0.4951
+            ],
+            [
+                "instructpix2pix",
+                0.4889
+            ],
+            [
+                "hive",
+                0.4641
+            ],
+            [
+                "iedit",
+                0.4188
+            ],
+            [
+                "instruct-diffusion",
+                0.3947
+            ],
+            [
+                "any2pix",
+                0.3223
+            ],
+            [
+                "hqedit",
+                0.3113
+            ]
+        ]
+    },
+    "87": {
+        "image": "0087.png",
+        "dataset": "Deblurring",
+        "prompt": "Sharpen the focus of the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5789
+            ],
+            [
+                "hive",
+                0.5101
+            ],
+            [
+                "instructpix2pix",
+                0.4587
+            ],
+            [
+                "instruct-diffusion",
+                0.4394
+            ],
+            [
+                "iedit",
+                0.3821
+            ],
+            [
+                "magicbrush",
+                0.3797
+            ],
+            [
+                "any2pix",
+                0.3738
+            ],
+            [
+                "hqedit",
+                0.3346
+            ]
+        ]
+    },
+    "88": {
+        "image": "0088.png",
+        "dataset": "Deblurring",
+        "prompt": "Improve the visual sharpness of the photograph.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.682
+            ],
+            [
+                "magicbrush",
+                0.4867
+            ],
+            [
+                "instructpix2pix",
+                0.4784
+            ],
+            [
+                "hive",
+                0.4527
+            ],
+            [
+                "instruct-diffusion",
+                0.3681
+            ],
+            [
+                "iedit",
+                0.3601
+            ],
+            [
+                "hqedit",
+                0.357
+            ],
+            [
+                "any2pix",
+                0.2571
+            ]
+        ]
+    },
+    "89": {
+        "image": "0089.png",
+        "dataset": "Deblurring",
+        "prompt": "Eliminate distortions and bring clarity to the picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6311
+            ],
+            [
+                "instructpix2pix",
+                0.4726
+            ],
+            [
+                "hive",
+                0.4635
+            ],
+            [
+                "magicbrush",
+                0.4585
+            ],
+            [
+                "instruct-diffusion",
+                0.4089
+            ],
+            [
+                "iedit",
+                0.4009
+            ],
+            [
+                "any2pix",
+                0.399
+            ],
+            [
+                "hqedit",
+                0.2913
+            ]
+        ]
+    },
+    "90": {
+        "image": "0090.png",
+        "dataset": "Deblurring",
+        "prompt": "Clear up the blurred areas in the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6506
+            ],
+            [
+                "instructpix2pix",
+                0.6265
+            ],
+            [
+                "instruct-diffusion",
+                0.5864
+            ],
+            [
+                "mgie",
+                0.5802
+            ],
+            [
+                "iedit",
+                0.4657
+            ],
+            [
+                "hive",
+                0.4471
+            ],
+            [
+                "hqedit",
+                0.3961
+            ],
+            [
+                "any2pix",
+                0.325
+            ]
+        ]
+    },
+    "91": {
+        "image": "0091.png",
+        "dataset": "Deblurring",
+        "prompt": "Restore sharpness to the photo.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5884
+            ],
+            [
+                "instruct-diffusion",
+                0.5848
+            ],
+            [
+                "iedit",
+                0.5751
+            ],
+            [
+                "hive",
+                0.5694
+            ],
+            [
+                "any2pix",
+                0.4844
+            ],
+            [
+                "hqedit",
+                0.4631
+            ],
+            [
+                "magicbrush",
+                0.4188
+            ],
+            [
+                "instructpix2pix",
+                0.3671
+            ]
+        ]
+    },
+    "92": {
+        "image": "0092.png",
+        "dataset": "Deblurring",
+        "prompt": "Refine the details by deblurring the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4498
+            ],
+            [
+                "hqedit",
+                0.3877
+            ],
+            [
+                "magicbrush",
+                0.3415
+            ],
+            [
+                "instructpix2pix",
+                0.3393
+            ],
+            [
+                "hive",
+                0.3232
+            ],
+            [
+                "any2pix",
+                0.2903
+            ],
+            [
+                "instruct-diffusion",
+                0.2517
+            ],
+            [
+                "iedit",
+                0.2462
+            ]
+        ]
+    },
+    "93": {
+        "image": "0093.png",
+        "dataset": "Deblurring",
+        "prompt": "Make the image clearer and more defined.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7282
+            ],
+            [
+                "magicbrush",
+                0.6537
+            ],
+            [
+                "hive",
+                0.6376
+            ],
+            [
+                "instruct-diffusion",
+                0.6256
+            ],
+            [
+                "instructpix2pix",
+                0.6117
+            ],
+            [
+                "iedit",
+                0.5923
+            ],
+            [
+                "any2pix",
+                0.551
+            ],
+            [
+                "hqedit",
+                0.46
+            ]
+        ]
+    },
+    "94": {
+        "image": "0094.png",
+        "dataset": "Deblurring",
+        "prompt": "Enhance the visual quality by removing blur.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7641
+            ],
+            [
+                "instructpix2pix",
+                0.627
+            ],
+            [
+                "hive",
+                0.623
+            ],
+            [
+                "instruct-diffusion",
+                0.5652
+            ],
+            [
+                "any2pix",
+                0.5411
+            ],
+            [
+                "iedit",
+                0.5375
+            ],
+            [
+                "magicbrush",
+                0.5278
+            ],
+            [
+                "hqedit",
+                0.4339
+            ]
+        ]
+    },
+    "95": {
+        "image": "0095.png",
+        "dataset": "Deblurring",
+        "prompt": "Correct the blurriness in the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5595
+            ],
+            [
+                "hqedit",
+                0.5011
+            ],
+            [
+                "magicbrush",
+                0.4299
+            ],
+            [
+                "instructpix2pix",
+                0.4024
+            ],
+            [
+                "hive",
+                0.3986
+            ],
+            [
+                "instruct-diffusion",
+                0.3645
+            ],
+            [
+                "iedit",
+                0.3619
+            ],
+            [
+                "any2pix",
+                0.2383
+            ]
+        ]
+    },
+    "96": {
+        "image": "0096.png",
+        "dataset": "Deblurring",
+        "prompt": "Bring the image into focus by deblurring it.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6462
+            ],
+            [
+                "magicbrush",
+                0.6403
+            ],
+            [
+                "instruct-diffusion",
+                0.63
+            ],
+            [
+                "iedit",
+                0.6299
+            ],
+            [
+                "hive",
+                0.6279
+            ],
+            [
+                "mgie",
+                0.618
+            ],
+            [
+                "hqedit",
+                0.6085
+            ],
+            [
+                "any2pix",
+                0.4925
+            ]
+        ]
+    },
+    "97": {
+        "image": "0097.png",
+        "dataset": "Deblurring",
+        "prompt": "Clean up the blurry parts of the picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5847
+            ],
+            [
+                "instructpix2pix",
+                0.5515
+            ],
+            [
+                "magicbrush",
+                0.5425
+            ],
+            [
+                "instruct-diffusion",
+                0.5156
+            ],
+            [
+                "hive",
+                0.5088
+            ],
+            [
+                "iedit",
+                0.4893
+            ],
+            [
+                "hqedit",
+                0.4742
+            ],
+            [
+                "any2pix",
+                0.4686
+            ]
+        ]
+    },
+    "98": {
+        "image": "0098.png",
+        "dataset": "Deblurring",
+        "prompt": "Improve the image resolution by removing blur.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4327
+            ],
+            [
+                "hive",
+                0.4199
+            ],
+            [
+                "instructpix2pix",
+                0.4108
+            ],
+            [
+                "mgie",
+                0.4072
+            ],
+            [
+                "instruct-diffusion",
+                0.3832
+            ],
+            [
+                "iedit",
+                0.3646
+            ],
+            [
+                "hqedit",
+                0.3491
+            ],
+            [
+                "any2pix",
+                0.3359
+            ]
+        ]
+    },
+    "99": {
+        "image": "0099.png",
+        "dataset": "Deblurring",
+        "prompt": "Optimize the clarity of the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6956
+            ],
+            [
+                "hive",
+                0.6029
+            ],
+            [
+                "magicbrush",
+                0.5973
+            ],
+            [
+                "instruct-diffusion",
+                0.5669
+            ],
+            [
+                "iedit",
+                0.5647
+            ],
+            [
+                "instructpix2pix",
+                0.5321
+            ],
+            [
+                "any2pix",
+                0.5124
+            ],
+            [
+                "hqedit",
+                0.4501
+            ]
+        ]
+    },
+    "100": {
+        "image": "0100.png",
+        "dataset": "Deblurring",
+        "prompt": "Eliminate fuzzy or unclear elements in the photo.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6519
+            ],
+            [
+                "magicbrush",
+                0.441
+            ],
+            [
+                "hive",
+                0.4354
+            ],
+            [
+                "instructpix2pix",
+                0.4017
+            ],
+            [
+                "instruct-diffusion",
+                0.3938
+            ],
+            [
+                "any2pix",
+                0.3829
+            ],
+            [
+                "iedit",
+                0.3545
+            ],
+            [
+                "hqedit",
+                0.2786
+            ]
+        ]
+    },
+    "101": {
+        "image": "0101.png",
+        "dataset": "Deblurring",
+        "prompt": "Polish the image by getting rid of blurriness.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7216
+            ],
+            [
+                "instruct-diffusion",
+                0.6496
+            ],
+            [
+                "hive",
+                0.644
+            ],
+            [
+                "instructpix2pix",
+                0.5731
+            ],
+            [
+                "iedit",
+                0.5706
+            ],
+            [
+                "magicbrush",
+                0.5607
+            ],
+            [
+                "any2pix",
+                0.5011
+            ],
+            [
+                "hqedit",
+                0.4583
+            ]
+        ]
+    },
+    "102": {
+        "image": "0102.png",
+        "dataset": "Deblurring",
+        "prompt": "Clarify the details by deblurring the photograph.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.666
+            ],
+            [
+                "hive",
+                0.4591
+            ],
+            [
+                "magicbrush",
+                0.4504
+            ],
+            [
+                "instructpix2pix",
+                0.4394
+            ],
+            [
+                "iedit",
+                0.3052
+            ],
+            [
+                "instruct-diffusion",
+                0.2931
+            ],
+            [
+                "any2pix",
+                0.2924
+            ],
+            [
+                "hqedit",
+                0.2534
+            ]
+        ]
+    },
+    "103": {
+        "image": "0103.png",
+        "dataset": "Deblurring",
+        "prompt": "Restore the sharpness and crispness of the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4982
+            ],
+            [
+                "hive",
+                0.3618
+            ],
+            [
+                "any2pix",
+                0.3059
+            ],
+            [
+                "magicbrush",
+                0.2943
+            ],
+            [
+                "iedit",
+                0.2818
+            ],
+            [
+                "hqedit",
+                0.2692
+            ],
+            [
+                "instruct-diffusion",
+                0.2689
+            ],
+            [
+                "instructpix2pix",
+                0.2406
+            ]
+        ]
+    },
+    "104": {
+        "image": "0104.png",
+        "dataset": "Deblurring",
+        "prompt": "Fine-tune the image to eliminate any distortions.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6757
+            ],
+            [
+                "magicbrush",
+                0.546
+            ],
+            [
+                "instructpix2pix",
+                0.5375
+            ],
+            [
+                "instruct-diffusion",
+                0.499
+            ],
+            [
+                "iedit",
+                0.4762
+            ],
+            [
+                "any2pix",
+                0.4696
+            ],
+            [
+                "hive",
+                0.4478
+            ],
+            [
+                "hqedit",
+                0.3995
+            ]
+        ]
+    },
+    "105": {
+        "image": "0105.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove any haze or blurriness from the picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6925
+            ],
+            [
+                "magicbrush",
+                0.4641
+            ],
+            [
+                "instructpix2pix",
+                0.4615
+            ],
+            [
+                "hive",
+                0.4212
+            ],
+            [
+                "instruct-diffusion",
+                0.4014
+            ],
+            [
+                "hqedit",
+                0.3814
+            ],
+            [
+                "iedit",
+                0.369
+            ],
+            [
+                "any2pix",
+                0.3346
+            ]
+        ]
+    },
+    "106": {
+        "image": "0106.png",
+        "dataset": "Deblurring",
+        "prompt": "Enhance the image by reducing or eliminating blur.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6508
+            ],
+            [
+                "magicbrush",
+                0.3706
+            ],
+            [
+                "instructpix2pix",
+                0.3651
+            ],
+            [
+                "hive",
+                0.3543
+            ],
+            [
+                "instruct-diffusion",
+                0.2862
+            ],
+            [
+                "any2pix",
+                0.2858
+            ],
+            [
+                "iedit",
+                0.2842
+            ],
+            [
+                "hqedit",
+                0.2443
+            ]
+        ]
+    },
+    "107": {
+        "image": "0107.png",
+        "dataset": "Deblurring",
+        "prompt": "Correct the focus issues in the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4657
+            ],
+            [
+                "instructpix2pix",
+                0.372
+            ],
+            [
+                "magicbrush",
+                0.3665
+            ],
+            [
+                "hive",
+                0.3501
+            ],
+            [
+                "instruct-diffusion",
+                0.3295
+            ],
+            [
+                "iedit",
+                0.2438
+            ],
+            [
+                "hqedit",
+                0.2352
+            ],
+            [
+                "any2pix",
+                0.1954
+            ]
+        ]
+    },
+    "108": {
+        "image": "0108.png",
+        "dataset": "Deblurring",
+        "prompt": "Dehaze the picture by deblurring it.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5201
+            ],
+            [
+                "magicbrush",
+                0.4365
+            ],
+            [
+                "instructpix2pix",
+                0.4227
+            ],
+            [
+                "hive",
+                0.4125
+            ],
+            [
+                "instruct-diffusion",
+                0.3989
+            ],
+            [
+                "iedit",
+                0.3954
+            ],
+            [
+                "any2pix",
+                0.3304
+            ],
+            [
+                "hqedit",
+                0.3206
+            ]
+        ]
+    },
+    "109": {
+        "image": "0109.png",
+        "dataset": "Deblurring",
+        "prompt": "Eliminate visual noise and enhance clarity.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7234
+            ],
+            [
+                "hive",
+                0.3489
+            ],
+            [
+                "magicbrush",
+                0.345
+            ],
+            [
+                "instructpix2pix",
+                0.3288
+            ],
+            [
+                "instruct-diffusion",
+                0.2911
+            ],
+            [
+                "hqedit",
+                0.2806
+            ],
+            [
+                "iedit",
+                0.2483
+            ],
+            [
+                "any2pix",
+                0.2013
+            ]
+        ]
+    },
+    "110": {
+        "image": "0110.png",
+        "dataset": "Deblurring",
+        "prompt": "Make the image more visually appealing by deblurring.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7712
+            ],
+            [
+                "instructpix2pix",
+                0.4919
+            ],
+            [
+                "magicbrush",
+                0.4876
+            ],
+            [
+                "instruct-diffusion",
+                0.4439
+            ],
+            [
+                "iedit",
+                0.422
+            ],
+            [
+                "hive",
+                0.4175
+            ],
+            [
+                "hqedit",
+                0.3525
+            ],
+            [
+                "any2pix",
+                0.3475
+            ]
+        ]
+    },
+    "111": {
+        "image": "0111.png",
+        "dataset": "Deblurring",
+        "prompt": "Improve the overall image quality by removing blur.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6885
+            ],
+            [
+                "mgie",
+                0.6618
+            ],
+            [
+                "instruct-diffusion",
+                0.646
+            ],
+            [
+                "hive",
+                0.6315
+            ],
+            [
+                "iedit",
+                0.5833
+            ],
+            [
+                "magicbrush",
+                0.4751
+            ],
+            [
+                "any2pix",
+                0.4713
+            ],
+            [
+                "hqedit",
+                0.4568
+            ]
+        ]
+    },
+    "112": {
+        "image": "0112.png",
+        "dataset": "Deblurring",
+        "prompt": "Cleanse the image of any distortion.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7036
+            ],
+            [
+                "magicbrush",
+                0.5618
+            ],
+            [
+                "instructpix2pix",
+                0.5498
+            ],
+            [
+                "instruct-diffusion",
+                0.4696
+            ],
+            [
+                "iedit",
+                0.4464
+            ],
+            [
+                "any2pix",
+                0.4174
+            ],
+            [
+                "hive",
+                0.401
+            ],
+            [
+                "hqedit",
+                0.3478
+            ]
+        ]
+    },
+    "113": {
+        "image": "0113.png",
+        "dataset": "Deblurring",
+        "prompt": "Clarify the visual representation by deblurring.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6661
+            ],
+            [
+                "instructpix2pix",
+                0.4923
+            ],
+            [
+                "hive",
+                0.4831
+            ],
+            [
+                "instruct-diffusion",
+                0.466
+            ],
+            [
+                "magicbrush",
+                0.4595
+            ],
+            [
+                "iedit",
+                0.4252
+            ],
+            [
+                "hqedit",
+                0.3114
+            ],
+            [
+                "any2pix",
+                0.2038
+            ]
+        ]
+    },
+    "114": {
+        "image": "0114.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove the softness and bring out sharper details.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6682
+            ],
+            [
+                "hive",
+                0.5347
+            ],
+            [
+                "instruct-diffusion",
+                0.48
+            ],
+            [
+                "instructpix2pix",
+                0.4515
+            ],
+            [
+                "iedit",
+                0.4191
+            ],
+            [
+                "hqedit",
+                0.3677
+            ],
+            [
+                "magicbrush",
+                0.3583
+            ],
+            [
+                "any2pix",
+                0.3456
+            ]
+        ]
+    },
+    "115": {
+        "image": "0115.png",
+        "dataset": "Deblurring",
+        "prompt": "Polish the image to make it more visually striking.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6493
+            ],
+            [
+                "magicbrush",
+                0.3591
+            ],
+            [
+                "instructpix2pix",
+                0.3481
+            ],
+            [
+                "hive",
+                0.3404
+            ],
+            [
+                "instruct-diffusion",
+                0.2955
+            ],
+            [
+                "iedit",
+                0.2219
+            ],
+            [
+                "hqedit",
+                0.2013
+            ],
+            [
+                "any2pix",
+                0.1598
+            ]
+        ]
+    },
+    "116": {
+        "image": "0116.png",
+        "dataset": "Deblurring",
+        "prompt": "Eliminate the smudged appearance of the photo.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6398
+            ],
+            [
+                "hive",
+                0.5104
+            ],
+            [
+                "instruct-diffusion",
+                0.4873
+            ],
+            [
+                "iedit",
+                0.3994
+            ],
+            [
+                "any2pix",
+                0.361
+            ],
+            [
+                "magicbrush",
+                0.3595
+            ],
+            [
+                "instructpix2pix",
+                0.2924
+            ],
+            [
+                "hqedit",
+                0.2827
+            ]
+        ]
+    },
+    "117": {
+        "image": "0117.png",
+        "dataset": "Deblurring",
+        "prompt": "Enhance the sharpness of the image by deblurring.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6591
+            ],
+            [
+                "magicbrush",
+                0.3589
+            ],
+            [
+                "instructpix2pix",
+                0.3504
+            ],
+            [
+                "hive",
+                0.3477
+            ],
+            [
+                "instruct-diffusion",
+                0.2553
+            ],
+            [
+                "iedit",
+                0.2473
+            ],
+            [
+                "any2pix",
+                0.2057
+            ],
+            [
+                "hqedit",
+                0.1845
+            ]
+        ]
+    },
+    "118": {
+        "image": "0118.png",
+        "dataset": "Deblurring",
+        "prompt": "Clear up any blurriness for a more precise image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6095
+            ],
+            [
+                "instructpix2pix",
+                0.4532
+            ],
+            [
+                "magicbrush",
+                0.446
+            ],
+            [
+                "hive",
+                0.4018
+            ],
+            [
+                "instruct-diffusion",
+                0.3727
+            ],
+            [
+                "iedit",
+                0.3659
+            ],
+            [
+                "hqedit",
+                0.3222
+            ],
+            [
+                "any2pix",
+                0.2654
+            ]
+        ]
+    },
+    "119": {
+        "image": "0119.png",
+        "dataset": "Deblurring",
+        "prompt": "Upgrade the image quality through deblurring.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4579
+            ],
+            [
+                "instructpix2pix",
+                0.4543
+            ],
+            [
+                "hive",
+                0.4297
+            ],
+            [
+                "iedit",
+                0.4042
+            ],
+            [
+                "instruct-diffusion",
+                0.3764
+            ],
+            [
+                "any2pix",
+                0.3159
+            ],
+            [
+                "hqedit",
+                0.2983
+            ],
+            [
+                "mgie",
+                0.2125
+            ]
+        ]
+    },
+    "120": {
+        "image": "0120.png",
+        "dataset": "Deblurring",
+        "prompt": "Correct the out-of-focus areas in the picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7768
+            ],
+            [
+                "magicbrush",
+                0.5697
+            ],
+            [
+                "instructpix2pix",
+                0.5495
+            ],
+            [
+                "instruct-diffusion",
+                0.5005
+            ],
+            [
+                "iedit",
+                0.4605
+            ],
+            [
+                "hive",
+                0.4437
+            ],
+            [
+                "any2pix",
+                0.4311
+            ],
+            [
+                "hqedit",
+                0.401
+            ]
+        ]
+    },
+    "121": {
+        "image": "0121.png",
+        "dataset": "Deblurring",
+        "prompt": "Make the image clearer and more defined.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7513
+            ],
+            [
+                "magicbrush",
+                0.5716
+            ],
+            [
+                "instructpix2pix",
+                0.5488
+            ],
+            [
+                "hive",
+                0.5075
+            ],
+            [
+                "instruct-diffusion",
+                0.493
+            ],
+            [
+                "any2pix",
+                0.481
+            ],
+            [
+                "iedit",
+                0.4696
+            ],
+            [
+                "hqedit",
+                0.3693
+            ]
+        ]
+    },
+    "122": {
+        "image": "0122.png",
+        "dataset": "Deblurring",
+        "prompt": "Enhance the image sharpness to reveal finer details.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6848
+            ],
+            [
+                "hive",
+                0.5337
+            ],
+            [
+                "instruct-diffusion",
+                0.488
+            ],
+            [
+                "iedit",
+                0.4823
+            ],
+            [
+                "any2pix",
+                0.417
+            ],
+            [
+                "instructpix2pix",
+                0.3952
+            ],
+            [
+                "hqedit",
+                0.3667
+            ],
+            [
+                "magicbrush",
+                0.2624
+            ]
+        ]
+    },
+    "123": {
+        "image": "0123.png",
+        "dataset": "Deblurring",
+        "prompt": "Remove any distortions that may affect clarity.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6394
+            ],
+            [
+                "instructpix2pix",
+                0.5033
+            ],
+            [
+                "hive",
+                0.5007
+            ],
+            [
+                "magicbrush",
+                0.4471
+            ],
+            [
+                "iedit",
+                0.4046
+            ],
+            [
+                "instruct-diffusion",
+                0.3804
+            ],
+            [
+                "any2pix",
+                0.3655
+            ],
+            [
+                "hqedit",
+                0.2379
+            ]
+        ]
+    },
+    "124": {
+        "image": "0124.png",
+        "dataset": "Deblurring",
+        "prompt": "Refine the image by eliminating blurring effects.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7041
+            ],
+            [
+                "magicbrush",
+                0.3704
+            ],
+            [
+                "instructpix2pix",
+                0.3645
+            ],
+            [
+                "hive",
+                0.353
+            ],
+            [
+                "instruct-diffusion",
+                0.2917
+            ],
+            [
+                "iedit",
+                0.2643
+            ],
+            [
+                "hqedit",
+                0.205
+            ],
+            [
+                "any2pix",
+                0.1689
+            ]
+        ]
+    },
+    "125": {
+        "image": "0125.png",
+        "dataset": "Deblurring",
+        "prompt": "Optimize the image by reducing or eliminating blur.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4926
+            ],
+            [
+                "magicbrush",
+                0.4567
+            ],
+            [
+                "instructpix2pix",
+                0.456
+            ],
+            [
+                "instruct-diffusion",
+                0.4273
+            ],
+            [
+                "hive",
+                0.4123
+            ],
+            [
+                "iedit",
+                0.3983
+            ],
+            [
+                "any2pix",
+                0.3648
+            ],
+            [
+                "hqedit",
+                0.31
+            ]
+        ]
+    },
+    "126": {
+        "image": "0126.png",
+        "dataset": "Deblurring",
+        "prompt": "Dehaze the photograph for improved clarity.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6552
+            ],
+            [
+                "hive",
+                0.4472
+            ],
+            [
+                "magicbrush",
+                0.4357
+            ],
+            [
+                "instruct-diffusion",
+                0.395
+            ],
+            [
+                "iedit",
+                0.3284
+            ],
+            [
+                "instructpix2pix",
+                0.3137
+            ],
+            [
+                "hqedit",
+                0.2997
+            ],
+            [
+                "any2pix",
+                0.2824
+            ]
+        ]
+    },
+    "127": {
+        "image": "0127.png",
+        "dataset": "Deblurring",
+        "prompt": "Improve the overall visual appeal of the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5824
+            ],
+            [
+                "magicbrush",
+                0.5731
+            ],
+            [
+                "instructpix2pix",
+                0.5709
+            ],
+            [
+                "hive",
+                0.5295
+            ],
+            [
+                "instruct-diffusion",
+                0.4664
+            ],
+            [
+                "iedit",
+                0.4549
+            ],
+            [
+                "hqedit",
+                0.3652
+            ],
+            [
+                "any2pix",
+                0.3121
+            ]
+        ]
+    },
+    "128": {
+        "image": "0128.png",
+        "dataset": "Deblurring",
+        "prompt": "Correct any blurriness to bring out clear details.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.711
+            ],
+            [
+                "hive",
+                0.3339
+            ],
+            [
+                "magicbrush",
+                0.3313
+            ],
+            [
+                "instructpix2pix",
+                0.3247
+            ],
+            [
+                "hqedit",
+                0.2469
+            ],
+            [
+                "instruct-diffusion",
+                0.2456
+            ],
+            [
+                "iedit",
+                0.2424
+            ],
+            [
+                "any2pix",
+                0.1673
+            ]
+        ]
+    },
+    "129": {
+        "image": "0129.png",
+        "dataset": "Deblurring",
+        "prompt": "Make the image more vibrant by removing blur.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4778
+            ],
+            [
+                "magicbrush",
+                0.1768
+            ],
+            [
+                "hqedit",
+                0.1759
+            ],
+            [
+                "instructpix2pix",
+                0.1673
+            ],
+            [
+                "hive",
+                0.1503
+            ],
+            [
+                "iedit",
+                0.1478
+            ],
+            [
+                "any2pix",
+                0.1217
+            ],
+            [
+                "instruct-diffusion",
+                0.093
+            ]
+        ]
+    },
+    "130": {
+        "image": "0130.png",
+        "dataset": "Deblurring",
+        "prompt": "Enhance the definition of the image by deblurring.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5076
+            ],
+            [
+                "hive",
+                0.4181
+            ],
+            [
+                "instructpix2pix",
+                0.4121
+            ],
+            [
+                "magicbrush",
+                0.366
+            ],
+            [
+                "any2pix",
+                0.3338
+            ],
+            [
+                "iedit",
+                0.324
+            ],
+            [
+                "instruct-diffusion",
+                0.3146
+            ],
+            [
+                "hqedit",
+                0.2206
+            ]
+        ]
+    },
+    "131": {
+        "image": "0131.png",
+        "dataset": "Deblurring",
+        "prompt": "Clean up the image to reveal sharper details.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4583
+            ],
+            [
+                "magicbrush",
+                0.3888
+            ],
+            [
+                "hive",
+                0.3527
+            ],
+            [
+                "instruct-diffusion",
+                0.3426
+            ],
+            [
+                "iedit",
+                0.3117
+            ],
+            [
+                "any2pix",
+                0.3116
+            ],
+            [
+                "instructpix2pix",
+                0.2978
+            ],
+            [
+                "hqedit",
+                0.2977
+            ]
+        ]
+    },
+    "132": {
+        "image": "0132.png",
+        "dataset": "Deblurring",
+        "prompt": "Eliminate any haziness or fuzziness in the photo.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5297
+            ],
+            [
+                "instructpix2pix",
+                0.3407
+            ],
+            [
+                "iedit",
+                0.3148
+            ],
+            [
+                "instruct-diffusion",
+                0.3074
+            ],
+            [
+                "hqedit",
+                0.2801
+            ],
+            [
+                "magicbrush",
+                0.2709
+            ],
+            [
+                "any2pix",
+                0.2248
+            ],
+            [
+                "hive",
+                0.1848
+            ]
+        ]
+    },
+    "133": {
+        "image": "0133.png",
+        "dataset": "Deblurring",
+        "prompt": "Restore sharpness and crispness to the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.533
+            ],
+            [
+                "iedit",
+                0.3437
+            ],
+            [
+                "instruct-diffusion",
+                0.3348
+            ],
+            [
+                "hqedit",
+                0.3207
+            ],
+            [
+                "magicbrush",
+                0.2662
+            ],
+            [
+                "instructpix2pix",
+                0.2659
+            ],
+            [
+                "any2pix",
+                0.2272
+            ],
+            [
+                "hive",
+                0.0941
+            ]
+        ]
+    },
+    "134": {
+        "image": "0134.png",
+        "dataset": "Deblurring",
+        "prompt": "Fine-tune the image to remove any visual imperfections.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4966
+            ],
+            [
+                "instructpix2pix",
+                0.4871
+            ],
+            [
+                "instruct-diffusion",
+                0.4861
+            ],
+            [
+                "hive",
+                0.4725
+            ],
+            [
+                "mgie",
+                0.4568
+            ],
+            [
+                "iedit",
+                0.439
+            ],
+            [
+                "hqedit",
+                0.4362
+            ],
+            [
+                "any2pix",
+                0.3832
+            ]
+        ]
+    },
+    "135": {
+        "image": "0135.png",
+        "dataset": "Deblurring",
+        "prompt": "Clarify the visual elements by deblurring the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6246
+            ],
+            [
+                "instructpix2pix",
+                0.4898
+            ],
+            [
+                "hive",
+                0.4638
+            ],
+            [
+                "magicbrush",
+                0.4452
+            ],
+            [
+                "any2pix",
+                0.4127
+            ],
+            [
+                "instruct-diffusion",
+                0.4021
+            ],
+            [
+                "iedit",
+                0.3891
+            ],
+            [
+                "hqedit",
+                0.3108
+            ]
+        ]
+    },
+    "136": {
+        "image": "0136.png",
+        "dataset": "Deblurring",
+        "prompt": "Enhance the image quality by eliminating blur.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.8817
+            ],
+            [
+                "magicbrush",
+                0.8491
+            ],
+            [
+                "instruct-diffusion",
+                0.8169
+            ],
+            [
+                "instructpix2pix",
+                0.8088
+            ],
+            [
+                "iedit",
+                0.8013
+            ],
+            [
+                "hqedit",
+                0.7593
+            ],
+            [
+                "hive",
+                0.724
+            ],
+            [
+                "any2pix",
+                0.675
+            ]
+        ]
+    },
+    "137": {
+        "image": "0137.png",
+        "dataset": "Deblurring",
+        "prompt": "Correct any distortion that may affect the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7942
+            ],
+            [
+                "instructpix2pix",
+                0.7862
+            ],
+            [
+                "instruct-diffusion",
+                0.7681
+            ],
+            [
+                "hive",
+                0.7104
+            ],
+            [
+                "iedit",
+                0.7023
+            ],
+            [
+                "hqedit",
+                0.6423
+            ],
+            [
+                "any2pix",
+                0.6404
+            ],
+            [
+                "mgie",
+                0.0632
+            ]
+        ]
+    },
+    "138": {
+        "image": "0138.png",
+        "dataset": "Deblurring",
+        "prompt": "Make the image more visually striking by deblurring.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4141
+            ],
+            [
+                "magicbrush",
+                0.3216
+            ],
+            [
+                "instructpix2pix",
+                0.32
+            ],
+            [
+                "hive",
+                0.3041
+            ],
+            [
+                "iedit",
+                0.2366
+            ],
+            [
+                "instruct-diffusion",
+                0.2232
+            ],
+            [
+                "any2pix",
+                0.1814
+            ],
+            [
+                "hqedit",
+                0.1276
+            ]
+        ]
+    },
+    "139": {
+        "image": "0139.png",
+        "dataset": "Deblurring",
+        "prompt": "Upgrade the image clarity for a better visual experience.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6331
+            ],
+            [
+                "hive",
+                0.4744
+            ],
+            [
+                "instructpix2pix",
+                0.4631
+            ],
+            [
+                "magicbrush",
+                0.4365
+            ],
+            [
+                "instruct-diffusion",
+                0.3733
+            ],
+            [
+                "iedit",
+                0.3622
+            ],
+            [
+                "hqedit",
+                0.3295
+            ],
+            [
+                "any2pix",
+                0.3167
+            ]
+        ]
+    },
+    "140": {
+        "image": "0140.png",
+        "dataset": "Deblurring",
+        "prompt": "Improve the sharpness and focus of the photograph.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6816
+            ],
+            [
+                "magicbrush",
+                0.633
+            ],
+            [
+                "instruct-diffusion",
+                0.5177
+            ],
+            [
+                "iedit",
+                0.4914
+            ],
+            [
+                "hive",
+                0.4846
+            ],
+            [
+                "instructpix2pix",
+                0.3762
+            ],
+            [
+                "any2pix",
+                0.3467
+            ],
+            [
+                "hqedit",
+                0.3284
+            ]
+        ]
+    }
+}

@@ -1,0 +1,6357 @@
+{
+    "1": {
+        "image": "0001.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Clear the foggy view.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.639
+            ],
+            [
+                "iedit",
+                0.6382
+            ],
+            [
+                "instruct-diffusion",
+                0.6098
+            ],
+            [
+                "any2pix",
+                0.609
+            ],
+            [
+                "magicbrush",
+                0.5836
+            ],
+            [
+                "hqedit",
+                0.544
+            ],
+            [
+                "mgie",
+                0.5404
+            ],
+            [
+                "instructpix2pix",
+                0.4997
+            ]
+        ]
+    },
+    "2": {
+        "image": "0002.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Eliminate the mist in the picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.3331
+            ],
+            [
+                "instructpix2pix",
+                0.3309
+            ],
+            [
+                "mgie",
+                0.3236
+            ],
+            [
+                "instruct-diffusion",
+                0.32
+            ],
+            [
+                "magicbrush",
+                0.3168
+            ],
+            [
+                "iedit",
+                0.3074
+            ],
+            [
+                "any2pix",
+                0.3035
+            ],
+            [
+                "hqedit",
+                0.294
+            ]
+        ]
+    },
+    "3": {
+        "image": "0003.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Lift the veil of haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5651
+            ],
+            [
+                "instructpix2pix",
+                0.5391
+            ],
+            [
+                "hqedit",
+                0.5355
+            ],
+            [
+                "magicbrush",
+                0.5267
+            ],
+            [
+                "mgie",
+                0.5197
+            ],
+            [
+                "iedit",
+                0.5099
+            ],
+            [
+                "any2pix",
+                0.4882
+            ],
+            [
+                "hive",
+                0.4843
+            ]
+        ]
+    },
+    "4": {
+        "image": "0004.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Wipe away the atmospheric blur.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.3522
+            ],
+            [
+                "mgie",
+                0.3342
+            ],
+            [
+                "instructpix2pix",
+                0.3318
+            ],
+            [
+                "hqedit",
+                0.3239
+            ],
+            [
+                "magicbrush",
+                0.3171
+            ],
+            [
+                "iedit",
+                0.3126
+            ],
+            [
+                "any2pix",
+                0.312
+            ],
+            [
+                "hive",
+                0.2916
+            ]
+        ]
+    },
+    "5": {
+        "image": "0005.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Erase the haziness.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3356
+            ],
+            [
+                "instruct-diffusion",
+                0.3046
+            ],
+            [
+                "hive",
+                0.2978
+            ],
+            [
+                "instructpix2pix",
+                0.2812
+            ],
+            [
+                "magicbrush",
+                0.2736
+            ],
+            [
+                "hqedit",
+                0.269
+            ],
+            [
+                "any2pix",
+                0.25
+            ],
+            [
+                "iedit",
+                0.2456
+            ]
+        ]
+    },
+    "6": {
+        "image": "0006.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Cleanse the image of fog.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.3804
+            ],
+            [
+                "any2pix",
+                0.3567
+            ],
+            [
+                "hive",
+                0.3496
+            ],
+            [
+                "instructpix2pix",
+                0.349
+            ],
+            [
+                "iedit",
+                0.3454
+            ],
+            [
+                "magicbrush",
+                0.3449
+            ],
+            [
+                "mgie",
+                0.3296
+            ],
+            [
+                "hqedit",
+                0.3149
+            ]
+        ]
+    },
+    "7": {
+        "image": "0007.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Purge the misty layer.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.2163
+            ],
+            [
+                "instruct-diffusion",
+                0.2001
+            ],
+            [
+                "mgie",
+                0.1891
+            ],
+            [
+                "hqedit",
+                0.187
+            ],
+            [
+                "magicbrush",
+                0.1808
+            ],
+            [
+                "any2pix",
+                0.1715
+            ],
+            [
+                "iedit",
+                0.1691
+            ],
+            [
+                "hive",
+                0.1655
+            ]
+        ]
+    },
+    "8": {
+        "image": "0008.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Clarify the obscured scene.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.2967
+            ],
+            [
+                "mgie",
+                0.2784
+            ],
+            [
+                "hive",
+                0.2764
+            ],
+            [
+                "iedit",
+                0.2618
+            ],
+            [
+                "magicbrush",
+                0.259
+            ],
+            [
+                "any2pix",
+                0.2532
+            ],
+            [
+                "hqedit",
+                0.2348
+            ],
+            [
+                "instruct-diffusion",
+                0.2237
+            ]
+        ]
+    },
+    "9": {
+        "image": "0009.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Banish the haze from the photo.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2782
+            ],
+            [
+                "instructpix2pix",
+                0.2432
+            ],
+            [
+                "instruct-diffusion",
+                0.242
+            ],
+            [
+                "hqedit",
+                0.2377
+            ],
+            [
+                "magicbrush",
+                0.21
+            ],
+            [
+                "any2pix",
+                0.2098
+            ],
+            [
+                "iedit",
+                0.1992
+            ],
+            [
+                "hive",
+                0.1816
+            ]
+        ]
+    },
+    "10": {
+        "image": "0010.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Restore visibility by removing haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.3621
+            ],
+            [
+                "hive",
+                0.3599
+            ],
+            [
+                "iedit",
+                0.3484
+            ],
+            [
+                "magicbrush",
+                0.3472
+            ],
+            [
+                "any2pix",
+                0.3432
+            ],
+            [
+                "hqedit",
+                0.341
+            ],
+            [
+                "mgie",
+                0.2959
+            ],
+            [
+                "instructpix2pix",
+                0.1121
+            ]
+        ]
+    },
+    "11": {
+        "image": "0011.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Dissipate the foggy appearance.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2369
+            ],
+            [
+                "hqedit",
+                0.2212
+            ],
+            [
+                "instructpix2pix",
+                0.2027
+            ],
+            [
+                "instruct-diffusion",
+                0.2007
+            ],
+            [
+                "magicbrush",
+                0.1969
+            ],
+            [
+                "any2pix",
+                0.1949
+            ],
+            [
+                "iedit",
+                0.1924
+            ],
+            [
+                "hive",
+                0.1845
+            ]
+        ]
+    },
+    "12": {
+        "image": "0012.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Unveil the obscured details.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.2686
+            ],
+            [
+                "magicbrush",
+                0.2587
+            ],
+            [
+                "instruct-diffusion",
+                0.2487
+            ],
+            [
+                "hive",
+                0.2427
+            ],
+            [
+                "iedit",
+                0.231
+            ],
+            [
+                "any2pix",
+                0.2297
+            ],
+            [
+                "mgie",
+                0.2209
+            ],
+            [
+                "hqedit",
+                0.2175
+            ]
+        ]
+    },
+    "13": {
+        "image": "0013.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Sweep away the mist.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.3881
+            ],
+            [
+                "magicbrush",
+                0.3793
+            ],
+            [
+                "hqedit",
+                0.367
+            ],
+            [
+                "hive",
+                0.3668
+            ],
+            [
+                "mgie",
+                0.3611
+            ],
+            [
+                "iedit",
+                0.3532
+            ],
+            [
+                "any2pix",
+                0.3451
+            ],
+            [
+                "instructpix2pix",
+                0.1716
+            ]
+        ]
+    },
+    "14": {
+        "image": "0014.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Enhance the image by removing haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.3754
+            ],
+            [
+                "magicbrush",
+                0.3506
+            ],
+            [
+                "instruct-diffusion",
+                0.3502
+            ],
+            [
+                "hive",
+                0.3498
+            ],
+            [
+                "any2pix",
+                0.3487
+            ],
+            [
+                "iedit",
+                0.3465
+            ],
+            [
+                "hqedit",
+                0.3421
+            ],
+            [
+                "mgie",
+                0.2758
+            ]
+        ]
+    },
+    "15": {
+        "image": "0015.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Dehaze the photograph.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3616
+            ],
+            [
+                "instructpix2pix",
+                0.3426
+            ],
+            [
+                "hqedit",
+                0.3403
+            ],
+            [
+                "instruct-diffusion",
+                0.3335
+            ],
+            [
+                "magicbrush",
+                0.3142
+            ],
+            [
+                "iedit",
+                0.2948
+            ],
+            [
+                "any2pix",
+                0.2894
+            ],
+            [
+                "hive",
+                0.2863
+            ]
+        ]
+    },
+    "16": {
+        "image": "0016.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Uncloud the picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6636
+            ],
+            [
+                "any2pix",
+                0.6562
+            ],
+            [
+                "magicbrush",
+                0.654
+            ],
+            [
+                "hive",
+                0.644
+            ],
+            [
+                "iedit",
+                0.6373
+            ],
+            [
+                "hqedit",
+                0.633
+            ],
+            [
+                "instructpix2pix",
+                0.6112
+            ],
+            [
+                "instruct-diffusion",
+                0.5679
+            ]
+        ]
+    },
+    "17": {
+        "image": "0017.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Eradicate the misty obstruction.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2396
+            ],
+            [
+                "instructpix2pix",
+                0.2253
+            ],
+            [
+                "hive",
+                0.2127
+            ],
+            [
+                "instruct-diffusion",
+                0.1984
+            ],
+            [
+                "magicbrush",
+                0.195
+            ],
+            [
+                "iedit",
+                0.1845
+            ],
+            [
+                "hqedit",
+                0.1794
+            ],
+            [
+                "any2pix",
+                0.1752
+            ]
+        ]
+    },
+    "18": {
+        "image": "0018.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Polish the image by clearing haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.3234
+            ],
+            [
+                "instructpix2pix",
+                0.2891
+            ],
+            [
+                "iedit",
+                0.2809
+            ],
+            [
+                "magicbrush",
+                0.2762
+            ],
+            [
+                "hqedit",
+                0.2744
+            ],
+            [
+                "instruct-diffusion",
+                0.2737
+            ],
+            [
+                "any2pix",
+                0.2725
+            ],
+            [
+                "mgie",
+                0.2588
+            ]
+        ]
+    },
+    "19": {
+        "image": "0019.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Optimize visibility by eliminating haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4433
+            ],
+            [
+                "instruct-diffusion",
+                0.3412
+            ],
+            [
+                "hqedit",
+                0.3397
+            ],
+            [
+                "any2pix",
+                0.3366
+            ],
+            [
+                "magicbrush",
+                0.3228
+            ],
+            [
+                "instructpix2pix",
+                0.3186
+            ],
+            [
+                "iedit",
+                0.3177
+            ],
+            [
+                "hive",
+                0.3005
+            ]
+        ]
+    },
+    "20": {
+        "image": "0020.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Deblur the scene from haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.4935
+            ],
+            [
+                "hive",
+                0.4837
+            ],
+            [
+                "instructpix2pix",
+                0.4795
+            ],
+            [
+                "iedit",
+                0.4612
+            ],
+            [
+                "any2pix",
+                0.4576
+            ],
+            [
+                "hqedit",
+                0.4281
+            ],
+            [
+                "magicbrush",
+                0.4254
+            ],
+            [
+                "mgie",
+                0.4114
+            ]
+        ]
+    },
+    "21": {
+        "image": "0021.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Scrub off the hazy elements.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.3775
+            ],
+            [
+                "hqedit",
+                0.3755
+            ],
+            [
+                "hive",
+                0.3588
+            ],
+            [
+                "mgie",
+                0.3586
+            ],
+            [
+                "instruct-diffusion",
+                0.3562
+            ],
+            [
+                "magicbrush",
+                0.3502
+            ],
+            [
+                "iedit",
+                0.3464
+            ],
+            [
+                "any2pix",
+                0.341
+            ]
+        ]
+    },
+    "22": {
+        "image": "0022.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Uncover the obscured details.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6284
+            ],
+            [
+                "hqedit",
+                0.5954
+            ],
+            [
+                "instruct-diffusion",
+                0.5607
+            ],
+            [
+                "instructpix2pix",
+                0.5558
+            ],
+            [
+                "any2pix",
+                0.5455
+            ],
+            [
+                "iedit",
+                0.5378
+            ],
+            [
+                "mgie",
+                0.523
+            ],
+            [
+                "hive",
+                0.5161
+            ]
+        ]
+    },
+    "23": {
+        "image": "0023.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Vanish the mist for a clear view.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.2783
+            ],
+            [
+                "hive",
+                0.2774
+            ],
+            [
+                "mgie",
+                0.2772
+            ],
+            [
+                "iedit",
+                0.269
+            ],
+            [
+                "hqedit",
+                0.2655
+            ],
+            [
+                "any2pix",
+                0.2443
+            ],
+            [
+                "magicbrush",
+                0.2372
+            ],
+            [
+                "instructpix2pix",
+                0.1964
+            ]
+        ]
+    },
+    "24": {
+        "image": "0024.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Improve clarity by removing haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.2692
+            ],
+            [
+                "instruct-diffusion",
+                0.2601
+            ],
+            [
+                "magicbrush",
+                0.2509
+            ],
+            [
+                "iedit",
+                0.2464
+            ],
+            [
+                "mgie",
+                0.2386
+            ],
+            [
+                "any2pix",
+                0.2376
+            ],
+            [
+                "hqedit",
+                0.2282
+            ],
+            [
+                "instructpix2pix",
+                0.1762
+            ]
+        ]
+    },
+    "25": {
+        "image": "0025.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Extract the obscured features.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.374
+            ],
+            [
+                "instructpix2pix",
+                0.3626
+            ],
+            [
+                "instruct-diffusion",
+                0.3532
+            ],
+            [
+                "magicbrush",
+                0.3431
+            ],
+            [
+                "any2pix",
+                0.3419
+            ],
+            [
+                "iedit",
+                0.3393
+            ],
+            [
+                "hqedit",
+                0.2749
+            ],
+            [
+                "hive",
+                0.2584
+            ]
+        ]
+    },
+    "26": {
+        "image": "0026.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Make the image haze-free.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3544
+            ],
+            [
+                "instruct-diffusion",
+                0.2921
+            ],
+            [
+                "hive",
+                0.2726
+            ],
+            [
+                "hqedit",
+                0.2602
+            ],
+            [
+                "magicbrush",
+                0.2484
+            ],
+            [
+                "iedit",
+                0.2462
+            ],
+            [
+                "instructpix2pix",
+                0.2443
+            ],
+            [
+                "any2pix",
+                0.237
+            ]
+        ]
+    },
+    "27": {
+        "image": "0027.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Restore the picture's sharpness.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.1888
+            ],
+            [
+                "magicbrush",
+                0.1867
+            ],
+            [
+                "hqedit",
+                0.1781
+            ],
+            [
+                "instruct-diffusion",
+                0.1719
+            ],
+            [
+                "mgie",
+                0.1665
+            ],
+            [
+                "iedit",
+                0.1658
+            ],
+            [
+                "any2pix",
+                0.1556
+            ],
+            [
+                "hive",
+                0.1469
+            ]
+        ]
+    },
+    "28": {
+        "image": "0028.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Eradicate the misty veil.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.2108
+            ],
+            [
+                "hive",
+                0.1971
+            ],
+            [
+                "mgie",
+                0.193
+            ],
+            [
+                "instruct-diffusion",
+                0.1852
+            ],
+            [
+                "iedit",
+                0.1803
+            ],
+            [
+                "hqedit",
+                0.1778
+            ],
+            [
+                "any2pix",
+                0.1763
+            ],
+            [
+                "instructpix2pix",
+                0.1747
+            ]
+        ]
+    },
+    "29": {
+        "image": "0029.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Purify the visual content.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.3849
+            ],
+            [
+                "hive",
+                0.3828
+            ],
+            [
+                "instruct-diffusion",
+                0.3793
+            ],
+            [
+                "magicbrush",
+                0.3758
+            ],
+            [
+                "iedit",
+                0.3637
+            ],
+            [
+                "mgie",
+                0.3486
+            ],
+            [
+                "any2pix",
+                0.3329
+            ],
+            [
+                "hqedit",
+                0.3324
+            ]
+        ]
+    },
+    "30": {
+        "image": "0030.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Enhance visibility by removing haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.3393
+            ],
+            [
+                "hive",
+                0.3332
+            ],
+            [
+                "mgie",
+                0.3331
+            ],
+            [
+                "magicbrush",
+                0.3323
+            ],
+            [
+                "instructpix2pix",
+                0.3275
+            ],
+            [
+                "iedit",
+                0.32
+            ],
+            [
+                "any2pix",
+                0.3153
+            ],
+            [
+                "hqedit",
+                0.2911
+            ]
+        ]
+    },
+    "31": {
+        "image": "0031.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Liberate the photo from haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.497
+            ],
+            [
+                "instruct-diffusion",
+                0.4757
+            ],
+            [
+                "magicbrush",
+                0.4263
+            ],
+            [
+                "hqedit",
+                0.3963
+            ],
+            [
+                "hive",
+                0.3961
+            ],
+            [
+                "iedit",
+                0.3917
+            ],
+            [
+                "instructpix2pix",
+                0.3857
+            ],
+            [
+                "any2pix",
+                0.383
+            ]
+        ]
+    },
+    "32": {
+        "image": "0032.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Unmask the hidden details.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7696
+            ],
+            [
+                "magicbrush",
+                0.7566
+            ],
+            [
+                "mgie",
+                0.7507
+            ],
+            [
+                "hive",
+                0.7409
+            ],
+            [
+                "iedit",
+                0.7304
+            ],
+            [
+                "any2pix",
+                0.678
+            ],
+            [
+                "hqedit",
+                0.6778
+            ],
+            [
+                "instructpix2pix",
+                0.6089
+            ]
+        ]
+    },
+    "33": {
+        "image": "0033.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Dispel the atmospheric interference.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4176
+            ],
+            [
+                "instruct-diffusion",
+                0.3887
+            ],
+            [
+                "instructpix2pix",
+                0.3872
+            ],
+            [
+                "hive",
+                0.3773
+            ],
+            [
+                "hqedit",
+                0.3758
+            ],
+            [
+                "any2pix",
+                0.363
+            ],
+            [
+                "iedit",
+                0.3575
+            ],
+            [
+                "magicbrush",
+                0.3161
+            ]
+        ]
+    },
+    "34": {
+        "image": "0034.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Resurrect the clear image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.4947
+            ],
+            [
+                "mgie",
+                0.483
+            ],
+            [
+                "instructpix2pix",
+                0.4651
+            ],
+            [
+                "magicbrush",
+                0.4627
+            ],
+            [
+                "hive",
+                0.4622
+            ],
+            [
+                "iedit",
+                0.4437
+            ],
+            [
+                "any2pix",
+                0.4381
+            ],
+            [
+                "hqedit",
+                0.4227
+            ]
+        ]
+    },
+    "35": {
+        "image": "0035.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Eliminate the haziness for a crisp look.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.4111
+            ],
+            [
+                "instruct-diffusion",
+                0.3998
+            ],
+            [
+                "any2pix",
+                0.3871
+            ],
+            [
+                "iedit",
+                0.3791
+            ],
+            [
+                "hive",
+                0.3503
+            ],
+            [
+                "hqedit",
+                0.3434
+            ],
+            [
+                "mgie",
+                0.3421
+            ],
+            [
+                "magicbrush",
+                0.3397
+            ]
+        ]
+    },
+    "36": {
+        "image": "0036.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Polish away the foggy layer.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.671
+            ],
+            [
+                "instruct-diffusion",
+                0.6288
+            ],
+            [
+                "hive",
+                0.5813
+            ],
+            [
+                "any2pix",
+                0.5693
+            ],
+            [
+                "iedit",
+                0.568
+            ],
+            [
+                "magicbrush",
+                0.5377
+            ],
+            [
+                "instructpix2pix",
+                0.5242
+            ],
+            [
+                "hqedit",
+                0.4758
+            ]
+        ]
+    },
+    "37": {
+        "image": "0037.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Deveil the obscured scene.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.3615
+            ],
+            [
+                "instructpix2pix",
+                0.3524
+            ],
+            [
+                "mgie",
+                0.347
+            ],
+            [
+                "instruct-diffusion",
+                0.3421
+            ],
+            [
+                "magicbrush",
+                0.3411
+            ],
+            [
+                "hqedit",
+                0.3196
+            ],
+            [
+                "any2pix",
+                0.3169
+            ],
+            [
+                "iedit",
+                0.3124
+            ]
+        ]
+    },
+    "38": {
+        "image": "0038.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Dehaze the visual content.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6556
+            ],
+            [
+                "magicbrush",
+                0.6358
+            ],
+            [
+                "hive",
+                0.5783
+            ],
+            [
+                "iedit",
+                0.5581
+            ],
+            [
+                "any2pix",
+                0.5506
+            ],
+            [
+                "mgie",
+                0.5491
+            ],
+            [
+                "instructpix2pix",
+                0.5461
+            ],
+            [
+                "hqedit",
+                0.5037
+            ]
+        ]
+    },
+    "39": {
+        "image": "0039.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Clean the image from atmospheric interference.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.3969
+            ],
+            [
+                "instructpix2pix",
+                0.3712
+            ],
+            [
+                "mgie",
+                0.3696
+            ],
+            [
+                "hive",
+                0.3648
+            ],
+            [
+                "iedit",
+                0.3626
+            ],
+            [
+                "any2pix",
+                0.3556
+            ],
+            [
+                "hqedit",
+                0.3344
+            ],
+            [
+                "magicbrush",
+                0.3067
+            ]
+        ]
+    },
+    "40": {
+        "image": "0040.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Clear up the hazy appearance.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.4122
+            ],
+            [
+                "hqedit",
+                0.4078
+            ],
+            [
+                "mgie",
+                0.401
+            ],
+            [
+                "instruct-diffusion",
+                0.3959
+            ],
+            [
+                "iedit",
+                0.3834
+            ],
+            [
+                "any2pix",
+                0.3647
+            ],
+            [
+                "magicbrush",
+                0.3584
+            ],
+            [
+                "instructpix2pix",
+                0.2803
+            ]
+        ]
+    },
+    "41": {
+        "image": "0041.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Discard the mist for a better view.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5965
+            ],
+            [
+                "iedit",
+                0.5897
+            ],
+            [
+                "instructpix2pix",
+                0.5782
+            ],
+            [
+                "any2pix",
+                0.5722
+            ],
+            [
+                "hqedit",
+                0.5704
+            ],
+            [
+                "magicbrush",
+                0.5557
+            ],
+            [
+                "hive",
+                0.5365
+            ],
+            [
+                "mgie",
+                0.4996
+            ]
+        ]
+    },
+    "42": {
+        "image": "0042.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Strip away the haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4678
+            ],
+            [
+                "iedit",
+                0.4536
+            ],
+            [
+                "hive",
+                0.4481
+            ],
+            [
+                "any2pix",
+                0.4442
+            ],
+            [
+                "instruct-diffusion",
+                0.4085
+            ],
+            [
+                "hqedit",
+                0.3926
+            ],
+            [
+                "magicbrush",
+                0.3836
+            ],
+            [
+                "instructpix2pix",
+                0.371
+            ]
+        ]
+    },
+    "43": {
+        "image": "0043.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Unfog the obscured details.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.1665
+            ],
+            [
+                "instructpix2pix",
+                0.1639
+            ],
+            [
+                "instruct-diffusion",
+                0.14
+            ],
+            [
+                "magicbrush",
+                0.1342
+            ],
+            [
+                "iedit",
+                0.1285
+            ],
+            [
+                "hive",
+                0.1268
+            ],
+            [
+                "any2pix",
+                0.1254
+            ],
+            [
+                "hqedit",
+                0.1133
+            ]
+        ]
+    },
+    "44": {
+        "image": "0044.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Remove the blurry veil.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2588
+            ],
+            [
+                "hqedit",
+                0.2347
+            ],
+            [
+                "instruct-diffusion",
+                0.2205
+            ],
+            [
+                "hive",
+                0.2145
+            ],
+            [
+                "any2pix",
+                0.2086
+            ],
+            [
+                "iedit",
+                0.2074
+            ],
+            [
+                "magicbrush",
+                0.1876
+            ],
+            [
+                "instructpix2pix",
+                0.1621
+            ]
+        ]
+    },
+    "45": {
+        "image": "0045.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Uncloud the visual representation.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3289
+            ],
+            [
+                "instruct-diffusion",
+                0.3205
+            ],
+            [
+                "hive",
+                0.3098
+            ],
+            [
+                "any2pix",
+                0.2864
+            ],
+            [
+                "iedit",
+                0.2854
+            ],
+            [
+                "instructpix2pix",
+                0.2724
+            ],
+            [
+                "hqedit",
+                0.2674
+            ],
+            [
+                "magicbrush",
+                0.2616
+            ]
+        ]
+    },
+    "46": {
+        "image": "0046.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Dissolve the atmospheric obstruction.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.4347
+            ],
+            [
+                "mgie",
+                0.4329
+            ],
+            [
+                "instructpix2pix",
+                0.422
+            ],
+            [
+                "magicbrush",
+                0.4185
+            ],
+            [
+                "iedit",
+                0.4175
+            ],
+            [
+                "hive",
+                0.4037
+            ],
+            [
+                "any2pix",
+                0.3971
+            ],
+            [
+                "hqedit",
+                0.3812
+            ]
+        ]
+    },
+    "47": {
+        "image": "0047.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Unveil the hidden elements by dehazing.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.3284
+            ],
+            [
+                "instructpix2pix",
+                0.3244
+            ],
+            [
+                "instruct-diffusion",
+                0.3201
+            ],
+            [
+                "magicbrush",
+                0.319
+            ],
+            [
+                "mgie",
+                0.3124
+            ],
+            [
+                "iedit",
+                0.3102
+            ],
+            [
+                "hqedit",
+                0.3
+            ],
+            [
+                "any2pix",
+                0.2986
+            ]
+        ]
+    },
+    "48": {
+        "image": "0048.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Improve the image by removing haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5241
+            ],
+            [
+                "instructpix2pix",
+                0.5076
+            ],
+            [
+                "instruct-diffusion",
+                0.4729
+            ],
+            [
+                "iedit",
+                0.4544
+            ],
+            [
+                "any2pix",
+                0.4523
+            ],
+            [
+                "hive",
+                0.4505
+            ],
+            [
+                "magicbrush",
+                0.3935
+            ],
+            [
+                "hqedit",
+                0.389
+            ]
+        ]
+    },
+    "49": {
+        "image": "0049.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Detoxify the picture from mist.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "any2pix",
+                0.522
+            ],
+            [
+                "magicbrush",
+                0.5206
+            ],
+            [
+                "instruct-diffusion",
+                0.5109
+            ],
+            [
+                "instructpix2pix",
+                0.5044
+            ],
+            [
+                "hive",
+                0.491
+            ],
+            [
+                "iedit",
+                0.4904
+            ],
+            [
+                "hqedit",
+                0.45
+            ],
+            [
+                "mgie",
+                0.3074
+            ]
+        ]
+    },
+    "50": {
+        "image": "0050.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Enhance clarity by eliminating haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.2932
+            ],
+            [
+                "mgie",
+                0.2849
+            ],
+            [
+                "hive",
+                0.2541
+            ],
+            [
+                "magicbrush",
+                0.238
+            ],
+            [
+                "iedit",
+                0.238
+            ],
+            [
+                "any2pix",
+                0.2357
+            ],
+            [
+                "instructpix2pix",
+                0.2346
+            ],
+            [
+                "hqedit",
+                0.2247
+            ]
+        ]
+    },
+    "51": {
+        "image": "0051.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Dehaze for a sharper image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.408
+            ],
+            [
+                "instruct-diffusion",
+                0.4048
+            ],
+            [
+                "magicbrush",
+                0.4012
+            ],
+            [
+                "hive",
+                0.4011
+            ],
+            [
+                "iedit",
+                0.3979
+            ],
+            [
+                "any2pix",
+                0.393
+            ],
+            [
+                "hqedit",
+                0.3697
+            ],
+            [
+                "mgie",
+                0.1074
+            ]
+        ]
+    },
+    "52": {
+        "image": "0052.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Lift the fog for a clearer view.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3605
+            ],
+            [
+                "instructpix2pix",
+                0.3456
+            ],
+            [
+                "hive",
+                0.3092
+            ],
+            [
+                "instruct-diffusion",
+                0.2991
+            ],
+            [
+                "magicbrush",
+                0.28
+            ],
+            [
+                "hqedit",
+                0.2757
+            ],
+            [
+                "iedit",
+                0.2676
+            ],
+            [
+                "any2pix",
+                0.2644
+            ]
+        ]
+    },
+    "53": {
+        "image": "0053.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Purge the mist for improved visibility.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.4026
+            ],
+            [
+                "instructpix2pix",
+                0.3961
+            ],
+            [
+                "mgie",
+                0.3665
+            ],
+            [
+                "hive",
+                0.3538
+            ],
+            [
+                "any2pix",
+                0.3446
+            ],
+            [
+                "iedit",
+                0.3316
+            ],
+            [
+                "magicbrush",
+                0.3103
+            ],
+            [
+                "hqedit",
+                0.2886
+            ]
+        ]
+    },
+    "54": {
+        "image": "0054.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Clarify the scene by removing haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6496
+            ],
+            [
+                "magicbrush",
+                0.5885
+            ],
+            [
+                "instruct-diffusion",
+                0.5844
+            ],
+            [
+                "hive",
+                0.5824
+            ],
+            [
+                "instructpix2pix",
+                0.5644
+            ],
+            [
+                "iedit",
+                0.5504
+            ],
+            [
+                "any2pix",
+                0.5215
+            ],
+            [
+                "hqedit",
+                0.4492
+            ]
+        ]
+    },
+    "55": {
+        "image": "0055.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Eradicate the hazy overlay.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6448
+            ],
+            [
+                "magicbrush",
+                0.6417
+            ],
+            [
+                "iedit",
+                0.6335
+            ],
+            [
+                "hive",
+                0.6236
+            ],
+            [
+                "any2pix",
+                0.6228
+            ],
+            [
+                "instruct-diffusion",
+                0.5849
+            ],
+            [
+                "hqedit",
+                0.5831
+            ],
+            [
+                "mgie",
+                0.0367
+            ]
+        ]
+    },
+    "56": {
+        "image": "0056.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Dehaze to reveal hidden details.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7562
+            ],
+            [
+                "iedit",
+                0.7224
+            ],
+            [
+                "instructpix2pix",
+                0.7007
+            ],
+            [
+                "magicbrush",
+                0.6878
+            ],
+            [
+                "mgie",
+                0.6817
+            ],
+            [
+                "any2pix",
+                0.5967
+            ],
+            [
+                "hive",
+                0.5792
+            ],
+            [
+                "hqedit",
+                0.481
+            ]
+        ]
+    },
+    "57": {
+        "image": "0057.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Clean the image of atmospheric distortion.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8356
+            ],
+            [
+                "magicbrush",
+                0.8339
+            ],
+            [
+                "mgie",
+                0.6876
+            ],
+            [
+                "instructpix2pix",
+                0.643
+            ],
+            [
+                "hive",
+                0.6156
+            ],
+            [
+                "any2pix",
+                0.614
+            ],
+            [
+                "instruct-diffusion",
+                0.4735
+            ],
+            [
+                "hqedit",
+                0.4569
+            ]
+        ]
+    },
+    "58": {
+        "image": "0058.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Unblur the photo by removing haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6967
+            ],
+            [
+                "instruct-diffusion",
+                0.6499
+            ],
+            [
+                "iedit",
+                0.6416
+            ],
+            [
+                "hive",
+                0.6181
+            ],
+            [
+                "hqedit",
+                0.6135
+            ],
+            [
+                "any2pix",
+                0.6132
+            ],
+            [
+                "magicbrush",
+                0.6128
+            ],
+            [
+                "instructpix2pix",
+                0.5682
+            ]
+        ]
+    },
+    "59": {
+        "image": "0059.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Vanish the mist for a pristine picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8243
+            ],
+            [
+                "instructpix2pix",
+                0.8125
+            ],
+            [
+                "hive",
+                0.8011
+            ],
+            [
+                "magicbrush",
+                0.7943
+            ],
+            [
+                "instruct-diffusion",
+                0.7864
+            ],
+            [
+                "any2pix",
+                0.6085
+            ],
+            [
+                "mgie",
+                0.6032
+            ],
+            [
+                "hqedit",
+                0.5503
+            ]
+        ]
+    },
+    "60": {
+        "image": "0060.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Optimize visibility through dehazing.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.8114
+            ],
+            [
+                "magicbrush",
+                0.8108
+            ],
+            [
+                "iedit",
+                0.8017
+            ],
+            [
+                "instruct-diffusion",
+                0.7789
+            ],
+            [
+                "hive",
+                0.7731
+            ],
+            [
+                "mgie",
+                0.6713
+            ],
+            [
+                "any2pix",
+                0.6359
+            ],
+            [
+                "hqedit",
+                0.4225
+            ]
+        ]
+    },
+    "61": {
+        "image": "0061.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Decontaminate the picture from haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7364
+            ],
+            [
+                "mgie",
+                0.6808
+            ],
+            [
+                "iedit",
+                0.6632
+            ],
+            [
+                "magicbrush",
+                0.6556
+            ],
+            [
+                "instructpix2pix",
+                0.6135
+            ],
+            [
+                "any2pix",
+                0.573
+            ],
+            [
+                "hive",
+                0.5131
+            ],
+            [
+                "hqedit",
+                0.469
+            ]
+        ]
+    },
+    "62": {
+        "image": "0062.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Uncover obscured details by removing haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7013
+            ],
+            [
+                "hive",
+                0.701
+            ],
+            [
+                "iedit",
+                0.6933
+            ],
+            [
+                "instruct-diffusion",
+                0.6809
+            ],
+            [
+                "magicbrush",
+                0.6294
+            ],
+            [
+                "mgie",
+                0.6023
+            ],
+            [
+                "any2pix",
+                0.4366
+            ],
+            [
+                "hqedit",
+                0.2365
+            ]
+        ]
+    },
+    "63": {
+        "image": "0063.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Make the image haze-free and clear.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7035
+            ],
+            [
+                "iedit",
+                0.6927
+            ],
+            [
+                "hive",
+                0.6603
+            ],
+            [
+                "instructpix2pix",
+                0.6571
+            ],
+            [
+                "mgie",
+                0.5418
+            ],
+            [
+                "magicbrush",
+                0.5381
+            ],
+            [
+                "any2pix",
+                0.499
+            ],
+            [
+                "hqedit",
+                0.3204
+            ]
+        ]
+    },
+    "64": {
+        "image": "0064.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Erase the misty obstruction.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7865
+            ],
+            [
+                "magicbrush",
+                0.7815
+            ],
+            [
+                "iedit",
+                0.777
+            ],
+            [
+                "hive",
+                0.7747
+            ],
+            [
+                "mgie",
+                0.6107
+            ],
+            [
+                "any2pix",
+                0.6043
+            ],
+            [
+                "instructpix2pix",
+                0.5892
+            ],
+            [
+                "hqedit",
+                0.4673
+            ]
+        ]
+    },
+    "65": {
+        "image": "0065.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Enhance the image by dehazing.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6754
+            ],
+            [
+                "instructpix2pix",
+                0.6408
+            ],
+            [
+                "hive",
+                0.6052
+            ],
+            [
+                "magicbrush",
+                0.5953
+            ],
+            [
+                "iedit",
+                0.5891
+            ],
+            [
+                "mgie",
+                0.5627
+            ],
+            [
+                "any2pix",
+                0.4958
+            ],
+            [
+                "hqedit",
+                0.3799
+            ]
+        ]
+    },
+    "66": {
+        "image": "0066.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Polish away the foggy elements.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7881
+            ],
+            [
+                "magicbrush",
+                0.7748
+            ],
+            [
+                "instructpix2pix",
+                0.7191
+            ],
+            [
+                "hive",
+                0.7177
+            ],
+            [
+                "instruct-diffusion",
+                0.6396
+            ],
+            [
+                "mgie",
+                0.5962
+            ],
+            [
+                "any2pix",
+                0.4739
+            ],
+            [
+                "hqedit",
+                0.2727
+            ]
+        ]
+    },
+    "67": {
+        "image": "0067.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Unveil hidden details by removing haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7457
+            ],
+            [
+                "magicbrush",
+                0.7443
+            ],
+            [
+                "hive",
+                0.7331
+            ],
+            [
+                "instruct-diffusion",
+                0.7316
+            ],
+            [
+                "mgie",
+                0.7134
+            ],
+            [
+                "any2pix",
+                0.5885
+            ],
+            [
+                "hqedit",
+                0.4724
+            ],
+            [
+                "instructpix2pix",
+                0.2793
+            ]
+        ]
+    },
+    "68": {
+        "image": "0068.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Dispel the atmospheric interference.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8609
+            ],
+            [
+                "magicbrush",
+                0.8607
+            ],
+            [
+                "instruct-diffusion",
+                0.8391
+            ],
+            [
+                "hive",
+                0.7894
+            ],
+            [
+                "any2pix",
+                0.7842
+            ],
+            [
+                "mgie",
+                0.7161
+            ],
+            [
+                "instructpix2pix",
+                0.6857
+            ],
+            [
+                "hqedit",
+                0.5738
+            ]
+        ]
+    },
+    "69": {
+        "image": "0069.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Resurrect clarity in the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6883
+            ],
+            [
+                "instruct-diffusion",
+                0.6822
+            ],
+            [
+                "iedit",
+                0.6465
+            ],
+            [
+                "mgie",
+                0.6086
+            ],
+            [
+                "any2pix",
+                0.5358
+            ],
+            [
+                "instructpix2pix",
+                0.5277
+            ],
+            [
+                "hqedit",
+                0.3767
+            ],
+            [
+                "magicbrush",
+                0.2588
+            ]
+        ]
+    },
+    "70": {
+        "image": "0070.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Eliminate the haziness for a sharper look.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7683
+            ],
+            [
+                "instructpix2pix",
+                0.7456
+            ],
+            [
+                "mgie",
+                0.7387
+            ],
+            [
+                "magicbrush",
+                0.7018
+            ],
+            [
+                "iedit",
+                0.696
+            ],
+            [
+                "hive",
+                0.6509
+            ],
+            [
+                "any2pix",
+                0.6217
+            ],
+            [
+                "hqedit",
+                0.4898
+            ]
+        ]
+    },
+    "71": {
+        "image": "0071.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Cleanse the image from atmospheric distortion.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7695
+            ],
+            [
+                "iedit",
+                0.7659
+            ],
+            [
+                "hive",
+                0.7565
+            ],
+            [
+                "mgie",
+                0.7495
+            ],
+            [
+                "instructpix2pix",
+                0.66
+            ],
+            [
+                "any2pix",
+                0.6576
+            ],
+            [
+                "hqedit",
+                0.554
+            ],
+            [
+                "instruct-diffusion",
+                0.3176
+            ]
+        ]
+    },
+    "72": {
+        "image": "0072.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Discard the mist for an improved view.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.9235
+            ],
+            [
+                "instruct-diffusion",
+                0.7508
+            ],
+            [
+                "magicbrush",
+                0.7342
+            ],
+            [
+                "any2pix",
+                0.6528
+            ],
+            [
+                "mgie",
+                0.6481
+            ],
+            [
+                "hive",
+                0.6324
+            ],
+            [
+                "instructpix2pix",
+                0.625
+            ],
+            [
+                "hqedit",
+                0.522
+            ]
+        ]
+    },
+    "73": {
+        "image": "0073.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Strip away the haze for clarity.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6704
+            ],
+            [
+                "mgie",
+                0.5967
+            ],
+            [
+                "hive",
+                0.5422
+            ],
+            [
+                "iedit",
+                0.5368
+            ],
+            [
+                "magicbrush",
+                0.5072
+            ],
+            [
+                "any2pix",
+                0.363
+            ],
+            [
+                "hqedit",
+                0.3314
+            ],
+            [
+                "instructpix2pix",
+                0.3059
+            ]
+        ]
+    },
+    "74": {
+        "image": "0074.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Unfog the obscured details.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7116
+            ],
+            [
+                "iedit",
+                0.6618
+            ],
+            [
+                "mgie",
+                0.6
+            ],
+            [
+                "any2pix",
+                0.4405
+            ],
+            [
+                "hive",
+                0.383
+            ],
+            [
+                "magicbrush",
+                0.3116
+            ],
+            [
+                "instructpix2pix",
+                0.277
+            ],
+            [
+                "hqedit",
+                0.1663
+            ]
+        ]
+    },
+    "75": {
+        "image": "0075.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Remove the blurry veil for a clearer picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6403
+            ],
+            [
+                "mgie",
+                0.5403
+            ],
+            [
+                "hive",
+                0.5342
+            ],
+            [
+                "iedit",
+                0.5317
+            ],
+            [
+                "any2pix",
+                0.3777
+            ],
+            [
+                "instructpix2pix",
+                0.3009
+            ],
+            [
+                "hqedit",
+                0.2621
+            ],
+            [
+                "magicbrush",
+                0.2594
+            ]
+        ]
+    },
+    "76": {
+        "image": "0076.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Uncloud the visual representation.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.8695
+            ],
+            [
+                "iedit",
+                0.866
+            ],
+            [
+                "magicbrush",
+                0.8507
+            ],
+            [
+                "instruct-diffusion",
+                0.8314
+            ],
+            [
+                "instructpix2pix",
+                0.7174
+            ],
+            [
+                "any2pix",
+                0.7032
+            ],
+            [
+                "mgie",
+                0.6961
+            ],
+            [
+                "hqedit",
+                0.4592
+            ]
+        ]
+    },
+    "77": {
+        "image": "0077.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Dissolve the atmospheric obstruction.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.5491
+            ],
+            [
+                "instruct-diffusion",
+                0.5395
+            ],
+            [
+                "hive",
+                0.538
+            ],
+            [
+                "instructpix2pix",
+                0.5074
+            ],
+            [
+                "magicbrush",
+                0.4833
+            ],
+            [
+                "mgie",
+                0.4025
+            ],
+            [
+                "any2pix",
+                0.3481
+            ],
+            [
+                "hqedit",
+                0.2528
+            ]
+        ]
+    },
+    "78": {
+        "image": "0078.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Unveil hidden elements by dehazing.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5735
+            ],
+            [
+                "hive",
+                0.5478
+            ],
+            [
+                "iedit",
+                0.5097
+            ],
+            [
+                "mgie",
+                0.4896
+            ],
+            [
+                "any2pix",
+                0.3453
+            ],
+            [
+                "instructpix2pix",
+                0.2525
+            ],
+            [
+                "magicbrush",
+                0.2434
+            ],
+            [
+                "hqedit",
+                0.1521
+            ]
+        ]
+    },
+    "79": {
+        "image": "0079.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Improve the image by removing haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7324
+            ],
+            [
+                "iedit",
+                0.7261
+            ],
+            [
+                "instruct-diffusion",
+                0.6795
+            ],
+            [
+                "hive",
+                0.6589
+            ],
+            [
+                "magicbrush",
+                0.6541
+            ],
+            [
+                "mgie",
+                0.5928
+            ],
+            [
+                "any2pix",
+                0.5211
+            ],
+            [
+                "hqedit",
+                0.3752
+            ]
+        ]
+    },
+    "80": {
+        "image": "0080.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Detoxify the picture from mist.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8175
+            ],
+            [
+                "instructpix2pix",
+                0.7701
+            ],
+            [
+                "iedit",
+                0.7167
+            ],
+            [
+                "hive",
+                0.6897
+            ],
+            [
+                "magicbrush",
+                0.6741
+            ],
+            [
+                "mgie",
+                0.6298
+            ],
+            [
+                "any2pix",
+                0.6102
+            ],
+            [
+                "hqedit",
+                0.3995
+            ]
+        ]
+    },
+    "81": {
+        "image": "0081.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Enhance clarity by eliminating haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.8273
+            ],
+            [
+                "iedit",
+                0.821
+            ],
+            [
+                "instructpix2pix",
+                0.8203
+            ],
+            [
+                "hive",
+                0.8055
+            ],
+            [
+                "instruct-diffusion",
+                0.7404
+            ],
+            [
+                "mgie",
+                0.7042
+            ],
+            [
+                "any2pix",
+                0.575
+            ],
+            [
+                "hqedit",
+                0.3713
+            ]
+        ]
+    },
+    "82": {
+        "image": "0082.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Dehaze for a sharper image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7569
+            ],
+            [
+                "magicbrush",
+                0.7452
+            ],
+            [
+                "iedit",
+                0.7353
+            ],
+            [
+                "mgie",
+                0.6105
+            ],
+            [
+                "any2pix",
+                0.5214
+            ],
+            [
+                "hive",
+                0.4838
+            ],
+            [
+                "instructpix2pix",
+                0.2518
+            ],
+            [
+                "hqedit",
+                0.2345
+            ]
+        ]
+    },
+    "83": {
+        "image": "0083.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Lift the fog for a clearer view.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6143
+            ],
+            [
+                "instruct-diffusion",
+                0.587
+            ],
+            [
+                "iedit",
+                0.5806
+            ],
+            [
+                "magicbrush",
+                0.4569
+            ],
+            [
+                "any2pix",
+                0.4084
+            ],
+            [
+                "hqedit",
+                0.3419
+            ],
+            [
+                "hive",
+                0.3114
+            ],
+            [
+                "mgie",
+                0.2495
+            ]
+        ]
+    },
+    "84": {
+        "image": "0084.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Purge the mist for improved visibility.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7942
+            ],
+            [
+                "instructpix2pix",
+                0.7835
+            ],
+            [
+                "iedit",
+                0.7737
+            ],
+            [
+                "magicbrush",
+                0.7528
+            ],
+            [
+                "mgie",
+                0.7238
+            ],
+            [
+                "hive",
+                0.6607
+            ],
+            [
+                "any2pix",
+                0.6182
+            ],
+            [
+                "hqedit",
+                0.4924
+            ]
+        ]
+    },
+    "85": {
+        "image": "0085.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Clarify the scene by removing haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6381
+            ],
+            [
+                "instructpix2pix",
+                0.6257
+            ],
+            [
+                "hive",
+                0.6224
+            ],
+            [
+                "magicbrush",
+                0.6214
+            ],
+            [
+                "iedit",
+                0.6134
+            ],
+            [
+                "mgie",
+                0.5433
+            ],
+            [
+                "any2pix",
+                0.3309
+            ],
+            [
+                "hqedit",
+                0.212
+            ]
+        ]
+    },
+    "86": {
+        "image": "0086.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Eradicate the hazy overlay.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7275
+            ],
+            [
+                "instructpix2pix",
+                0.7051
+            ],
+            [
+                "magicbrush",
+                0.695
+            ],
+            [
+                "iedit",
+                0.6906
+            ],
+            [
+                "hqedit",
+                0.4963
+            ],
+            [
+                "any2pix",
+                0.4922
+            ],
+            [
+                "hive",
+                0.484
+            ],
+            [
+                "mgie",
+                0.467
+            ]
+        ]
+    },
+    "87": {
+        "image": "0087.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Dehaze to reveal hidden details.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.8145
+            ],
+            [
+                "iedit",
+                0.8031
+            ],
+            [
+                "instruct-diffusion",
+                0.7951
+            ],
+            [
+                "magicbrush",
+                0.7589
+            ],
+            [
+                "mgie",
+                0.7058
+            ],
+            [
+                "hive",
+                0.5762
+            ],
+            [
+                "hqedit",
+                0.5233
+            ],
+            [
+                "any2pix",
+                0.4701
+            ]
+        ]
+    },
+    "88": {
+        "image": "0088.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Clean the image of atmospheric distortion.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5214
+            ],
+            [
+                "mgie",
+                0.4911
+            ],
+            [
+                "instructpix2pix",
+                0.4496
+            ],
+            [
+                "iedit",
+                0.4425
+            ],
+            [
+                "magicbrush",
+                0.3704
+            ],
+            [
+                "hive",
+                0.3121
+            ],
+            [
+                "any2pix",
+                0.3113
+            ],
+            [
+                "hqedit",
+                0.227
+            ]
+        ]
+    },
+    "89": {
+        "image": "0089.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Unblur the photo by removing haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7028
+            ],
+            [
+                "instruct-diffusion",
+                0.7009
+            ],
+            [
+                "iedit",
+                0.6807
+            ],
+            [
+                "hive",
+                0.6671
+            ],
+            [
+                "magicbrush",
+                0.6667
+            ],
+            [
+                "mgie",
+                0.6282
+            ],
+            [
+                "any2pix",
+                0.5948
+            ],
+            [
+                "hqedit",
+                0.4247
+            ]
+        ]
+    },
+    "90": {
+        "image": "0090.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Vanish the mist for a pristine picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7439
+            ],
+            [
+                "instructpix2pix",
+                0.7062
+            ],
+            [
+                "instruct-diffusion",
+                0.6731
+            ],
+            [
+                "mgie",
+                0.6661
+            ],
+            [
+                "hive",
+                0.6394
+            ],
+            [
+                "magicbrush",
+                0.5398
+            ],
+            [
+                "any2pix",
+                0.5139
+            ],
+            [
+                "hqedit",
+                0.398
+            ]
+        ]
+    },
+    "91": {
+        "image": "0091.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Optimize visibility through dehazing.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.8259
+            ],
+            [
+                "iedit",
+                0.8186
+            ],
+            [
+                "hive",
+                0.805
+            ],
+            [
+                "instructpix2pix",
+                0.7991
+            ],
+            [
+                "mgie",
+                0.6356
+            ],
+            [
+                "instruct-diffusion",
+                0.6282
+            ],
+            [
+                "any2pix",
+                0.6139
+            ],
+            [
+                "hqedit",
+                0.4541
+            ]
+        ]
+    },
+    "92": {
+        "image": "0092.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Decontaminate the picture from haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6588
+            ],
+            [
+                "instructpix2pix",
+                0.6078
+            ],
+            [
+                "mgie",
+                0.6041
+            ],
+            [
+                "magicbrush",
+                0.5861
+            ],
+            [
+                "iedit",
+                0.5792
+            ],
+            [
+                "any2pix",
+                0.4895
+            ],
+            [
+                "hive",
+                0.4339
+            ],
+            [
+                "hqedit",
+                0.3055
+            ]
+        ]
+    },
+    "93": {
+        "image": "0093.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Uncover obscured details by removing haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.874
+            ],
+            [
+                "mgie",
+                0.7972
+            ],
+            [
+                "magicbrush",
+                0.7693
+            ],
+            [
+                "instruct-diffusion",
+                0.6913
+            ],
+            [
+                "instructpix2pix",
+                0.6401
+            ],
+            [
+                "any2pix",
+                0.6084
+            ],
+            [
+                "hive",
+                0.5559
+            ],
+            [
+                "hqedit",
+                0.505
+            ]
+        ]
+    },
+    "94": {
+        "image": "0094.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Make the image haze-free and clear.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7809
+            ],
+            [
+                "instructpix2pix",
+                0.7638
+            ],
+            [
+                "instruct-diffusion",
+                0.7028
+            ],
+            [
+                "hive",
+                0.6913
+            ],
+            [
+                "magicbrush",
+                0.6127
+            ],
+            [
+                "mgie",
+                0.6017
+            ],
+            [
+                "any2pix",
+                0.5454
+            ],
+            [
+                "hqedit",
+                0.3498
+            ]
+        ]
+    },
+    "95": {
+        "image": "0095.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Erase the misty obstruction.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7969
+            ],
+            [
+                "iedit",
+                0.7657
+            ],
+            [
+                "magicbrush",
+                0.7502
+            ],
+            [
+                "hive",
+                0.6335
+            ],
+            [
+                "any2pix",
+                0.6256
+            ],
+            [
+                "instructpix2pix",
+                0.5524
+            ],
+            [
+                "hqedit",
+                0.3862
+            ],
+            [
+                "mgie",
+                0.3299
+            ]
+        ]
+    },
+    "96": {
+        "image": "0096.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Enhance the image by dehazing.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.746
+            ],
+            [
+                "magicbrush",
+                0.7285
+            ],
+            [
+                "instruct-diffusion",
+                0.7285
+            ],
+            [
+                "iedit",
+                0.7167
+            ],
+            [
+                "hive",
+                0.7138
+            ],
+            [
+                "mgie",
+                0.6408
+            ],
+            [
+                "any2pix",
+                0.4959
+            ],
+            [
+                "hqedit",
+                0.3566
+            ]
+        ]
+    },
+    "97": {
+        "image": "0097.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Polish away the foggy elements.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.678
+            ],
+            [
+                "mgie",
+                0.6392
+            ],
+            [
+                "hive",
+                0.5725
+            ],
+            [
+                "iedit",
+                0.5553
+            ],
+            [
+                "instructpix2pix",
+                0.5316
+            ],
+            [
+                "magicbrush",
+                0.5094
+            ],
+            [
+                "any2pix",
+                0.45
+            ],
+            [
+                "hqedit",
+                0.3401
+            ]
+        ]
+    },
+    "98": {
+        "image": "0098.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Unveil hidden details by removing haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9269
+            ],
+            [
+                "iedit",
+                0.9254
+            ],
+            [
+                "instructpix2pix",
+                0.8775
+            ],
+            [
+                "hive",
+                0.8684
+            ],
+            [
+                "any2pix",
+                0.8101
+            ],
+            [
+                "mgie",
+                0.6569
+            ],
+            [
+                "hqedit",
+                0.6271
+            ],
+            [
+                "magicbrush",
+                0.4969
+            ]
+        ]
+    },
+    "99": {
+        "image": "0099.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Dispel the atmospheric interference.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.8345
+            ],
+            [
+                "magicbrush",
+                0.8267
+            ],
+            [
+                "instruct-diffusion",
+                0.8257
+            ],
+            [
+                "iedit",
+                0.7865
+            ],
+            [
+                "hive",
+                0.6288
+            ],
+            [
+                "any2pix",
+                0.5214
+            ],
+            [
+                "mgie",
+                0.4512
+            ],
+            [
+                "hqedit",
+                0.2372
+            ]
+        ]
+    },
+    "100": {
+        "image": "0100.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Resurrect clarity in the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7673
+            ],
+            [
+                "mgie",
+                0.7448
+            ],
+            [
+                "iedit",
+                0.7265
+            ],
+            [
+                "any2pix",
+                0.6039
+            ],
+            [
+                "instructpix2pix",
+                0.548
+            ],
+            [
+                "magicbrush",
+                0.5172
+            ],
+            [
+                "hqedit",
+                0.4554
+            ],
+            [
+                "instruct-diffusion",
+                0.4548
+            ]
+        ]
+    },
+    "101": {
+        "image": "0101.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Eliminate the haziness for a sharper look.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.719
+            ],
+            [
+                "instruct-diffusion",
+                0.7187
+            ],
+            [
+                "magicbrush",
+                0.6736
+            ],
+            [
+                "instructpix2pix",
+                0.6701
+            ],
+            [
+                "iedit",
+                0.6671
+            ],
+            [
+                "hive",
+                0.5379
+            ],
+            [
+                "any2pix",
+                0.5342
+            ],
+            [
+                "hqedit",
+                0.416
+            ]
+        ]
+    },
+    "102": {
+        "image": "0102.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Cleanse the image from atmospheric distortion.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6725
+            ],
+            [
+                "iedit",
+                0.6425
+            ],
+            [
+                "hive",
+                0.599
+            ],
+            [
+                "instructpix2pix",
+                0.5789
+            ],
+            [
+                "magicbrush",
+                0.5249
+            ],
+            [
+                "any2pix",
+                0.5159
+            ],
+            [
+                "instruct-diffusion",
+                0.3614
+            ],
+            [
+                "hqedit",
+                0.3423
+            ]
+        ]
+    },
+    "103": {
+        "image": "0103.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Discard the mist for an improved view.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7586
+            ],
+            [
+                "mgie",
+                0.7558
+            ],
+            [
+                "instructpix2pix",
+                0.7499
+            ],
+            [
+                "iedit",
+                0.7463
+            ],
+            [
+                "magicbrush",
+                0.737
+            ],
+            [
+                "hive",
+                0.7253
+            ],
+            [
+                "any2pix",
+                0.6267
+            ],
+            [
+                "hqedit",
+                0.4853
+            ]
+        ]
+    },
+    "104": {
+        "image": "0104.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Strip away the haze for clarity.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.8329
+            ],
+            [
+                "iedit",
+                0.8273
+            ],
+            [
+                "hive",
+                0.8079
+            ],
+            [
+                "instruct-diffusion",
+                0.793
+            ],
+            [
+                "mgie",
+                0.7127
+            ],
+            [
+                "any2pix",
+                0.5188
+            ],
+            [
+                "instructpix2pix",
+                0.4126
+            ],
+            [
+                "hqedit",
+                0.3102
+            ]
+        ]
+    },
+    "105": {
+        "image": "0105.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Unfog the obscured details.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7634
+            ],
+            [
+                "magicbrush",
+                0.7478
+            ],
+            [
+                "iedit",
+                0.7218
+            ],
+            [
+                "mgie",
+                0.6744
+            ],
+            [
+                "hive",
+                0.5915
+            ],
+            [
+                "instructpix2pix",
+                0.5845
+            ],
+            [
+                "any2pix",
+                0.5131
+            ],
+            [
+                "hqedit",
+                0.4337
+            ]
+        ]
+    },
+    "106": {
+        "image": "0106.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Remove the blurry veil for a clearer picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.9127
+            ],
+            [
+                "instructpix2pix",
+                0.9078
+            ],
+            [
+                "magicbrush",
+                0.9033
+            ],
+            [
+                "instruct-diffusion",
+                0.9003
+            ],
+            [
+                "iedit",
+                0.8982
+            ],
+            [
+                "mgie",
+                0.7508
+            ],
+            [
+                "any2pix",
+                0.7208
+            ],
+            [
+                "hqedit",
+                0.7154
+            ]
+        ]
+    },
+    "107": {
+        "image": "0107.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Uncloud the visual representation.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7019
+            ],
+            [
+                "iedit",
+                0.6675
+            ],
+            [
+                "instruct-diffusion",
+                0.6604
+            ],
+            [
+                "mgie",
+                0.6275
+            ],
+            [
+                "any2pix",
+                0.5447
+            ],
+            [
+                "magicbrush",
+                0.5026
+            ],
+            [
+                "instructpix2pix",
+                0.4572
+            ],
+            [
+                "hqedit",
+                0.4131
+            ]
+        ]
+    },
+    "108": {
+        "image": "0108.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Dissolve the atmospheric obstruction.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7458
+            ],
+            [
+                "iedit",
+                0.7343
+            ],
+            [
+                "any2pix",
+                0.7197
+            ],
+            [
+                "magicbrush",
+                0.701
+            ],
+            [
+                "mgie",
+                0.6107
+            ],
+            [
+                "instructpix2pix",
+                0.6083
+            ],
+            [
+                "hqedit",
+                0.5292
+            ],
+            [
+                "instruct-diffusion",
+                0.3552
+            ]
+        ]
+    },
+    "109": {
+        "image": "0109.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Unveil hidden elements by dehazing.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8479
+            ],
+            [
+                "hive",
+                0.7462
+            ],
+            [
+                "mgie",
+                0.7432
+            ],
+            [
+                "iedit",
+                0.7375
+            ],
+            [
+                "any2pix",
+                0.6556
+            ],
+            [
+                "magicbrush",
+                0.6543
+            ],
+            [
+                "instructpix2pix",
+                0.6441
+            ],
+            [
+                "hqedit",
+                0.5217
+            ]
+        ]
+    },
+    "110": {
+        "image": "0110.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Improve the image by removing haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.8479
+            ],
+            [
+                "magicbrush",
+                0.845
+            ],
+            [
+                "iedit",
+                0.8334
+            ],
+            [
+                "instruct-diffusion",
+                0.8091
+            ],
+            [
+                "hive",
+                0.7223
+            ],
+            [
+                "any2pix",
+                0.5862
+            ],
+            [
+                "mgie",
+                0.4609
+            ],
+            [
+                "hqedit",
+                0.421
+            ]
+        ]
+    },
+    "111": {
+        "image": "0111.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Detoxify the picture from mist.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.745
+            ],
+            [
+                "instructpix2pix",
+                0.7444
+            ],
+            [
+                "magicbrush",
+                0.7436
+            ],
+            [
+                "iedit",
+                0.6809
+            ],
+            [
+                "hive",
+                0.6634
+            ],
+            [
+                "any2pix",
+                0.4442
+            ],
+            [
+                "mgie",
+                0.2807
+            ],
+            [
+                "hqedit",
+                0.2641
+            ]
+        ]
+    },
+    "112": {
+        "image": "0112.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Enhance clarity by eliminating haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5005
+            ],
+            [
+                "iedit",
+                0.4146
+            ],
+            [
+                "magicbrush",
+                0.4072
+            ],
+            [
+                "hive",
+                0.4044
+            ],
+            [
+                "mgie",
+                0.3933
+            ],
+            [
+                "any2pix",
+                0.2321
+            ],
+            [
+                "instructpix2pix",
+                0.2027
+            ],
+            [
+                "hqedit",
+                0.1286
+            ]
+        ]
+    },
+    "113": {
+        "image": "0113.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Dehaze for a sharper image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6606
+            ],
+            [
+                "iedit",
+                0.643
+            ],
+            [
+                "magicbrush",
+                0.5886
+            ],
+            [
+                "instructpix2pix",
+                0.5871
+            ],
+            [
+                "mgie",
+                0.5871
+            ],
+            [
+                "any2pix",
+                0.4133
+            ],
+            [
+                "hive",
+                0.3674
+            ],
+            [
+                "hqedit",
+                0.2452
+            ]
+        ]
+    },
+    "114": {
+        "image": "0114.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Lift the fog for a clearer view.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8762
+            ],
+            [
+                "hive",
+                0.8737
+            ],
+            [
+                "iedit",
+                0.8597
+            ],
+            [
+                "magicbrush",
+                0.8509
+            ],
+            [
+                "instructpix2pix",
+                0.8255
+            ],
+            [
+                "mgie",
+                0.7954
+            ],
+            [
+                "any2pix",
+                0.7655
+            ],
+            [
+                "hqedit",
+                0.6053
+            ]
+        ]
+    },
+    "115": {
+        "image": "0115.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Purge the mist for improved visibility.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7604
+            ],
+            [
+                "instructpix2pix",
+                0.7598
+            ],
+            [
+                "magicbrush",
+                0.7576
+            ],
+            [
+                "iedit",
+                0.75
+            ],
+            [
+                "instruct-diffusion",
+                0.7096
+            ],
+            [
+                "mgie",
+                0.6729
+            ],
+            [
+                "any2pix",
+                0.4977
+            ],
+            [
+                "hqedit",
+                0.2458
+            ]
+        ]
+    },
+    "116": {
+        "image": "0116.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Clarify the scene by removing haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7811
+            ],
+            [
+                "instruct-diffusion",
+                0.7733
+            ],
+            [
+                "hive",
+                0.7685
+            ],
+            [
+                "magicbrush",
+                0.7405
+            ],
+            [
+                "instructpix2pix",
+                0.723
+            ],
+            [
+                "mgie",
+                0.6766
+            ],
+            [
+                "any2pix",
+                0.6747
+            ],
+            [
+                "hqedit",
+                0.4637
+            ]
+        ]
+    },
+    "117": {
+        "image": "0117.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Eradicate the hazy overlay.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7798
+            ],
+            [
+                "iedit",
+                0.7523
+            ],
+            [
+                "instruct-diffusion",
+                0.725
+            ],
+            [
+                "magicbrush",
+                0.7046
+            ],
+            [
+                "mgie",
+                0.5744
+            ],
+            [
+                "hive",
+                0.5459
+            ],
+            [
+                "hqedit",
+                0.4341
+            ],
+            [
+                "any2pix",
+                0.4295
+            ]
+        ]
+    },
+    "118": {
+        "image": "0118.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Dehaze to reveal hidden details.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7979
+            ],
+            [
+                "magicbrush",
+                0.7631
+            ],
+            [
+                "mgie",
+                0.7627
+            ],
+            [
+                "iedit",
+                0.7566
+            ],
+            [
+                "any2pix",
+                0.6498
+            ],
+            [
+                "instructpix2pix",
+                0.644
+            ],
+            [
+                "hive",
+                0.6049
+            ],
+            [
+                "hqedit",
+                0.5373
+            ]
+        ]
+    },
+    "119": {
+        "image": "0119.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Clean the image of atmospheric distortion.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.8012
+            ],
+            [
+                "magicbrush",
+                0.798
+            ],
+            [
+                "iedit",
+                0.7901
+            ],
+            [
+                "hive",
+                0.6807
+            ],
+            [
+                "mgie",
+                0.6653
+            ],
+            [
+                "any2pix",
+                0.5471
+            ],
+            [
+                "instruct-diffusion",
+                0.4856
+            ],
+            [
+                "hqedit",
+                0.4144
+            ]
+        ]
+    },
+    "120": {
+        "image": "0120.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Unblur the photo by removing haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.8664
+            ],
+            [
+                "iedit",
+                0.8613
+            ],
+            [
+                "instructpix2pix",
+                0.8463
+            ],
+            [
+                "instruct-diffusion",
+                0.8417
+            ],
+            [
+                "magicbrush",
+                0.8134
+            ],
+            [
+                "mgie",
+                0.7295
+            ],
+            [
+                "any2pix",
+                0.6181
+            ],
+            [
+                "hqedit",
+                0.5412
+            ]
+        ]
+    },
+    "121": {
+        "image": "0121.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Vanish the mist for a pristine picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6644
+            ],
+            [
+                "instruct-diffusion",
+                0.6554
+            ],
+            [
+                "instructpix2pix",
+                0.6431
+            ],
+            [
+                "iedit",
+                0.6348
+            ],
+            [
+                "mgie",
+                0.5652
+            ],
+            [
+                "any2pix",
+                0.3111
+            ],
+            [
+                "hive",
+                0.3072
+            ],
+            [
+                "hqedit",
+                0.2084
+            ]
+        ]
+    },
+    "122": {
+        "image": "0122.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Optimize visibility through dehazing.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7741
+            ],
+            [
+                "instruct-diffusion",
+                0.7573
+            ],
+            [
+                "mgie",
+                0.7524
+            ],
+            [
+                "magicbrush",
+                0.7474
+            ],
+            [
+                "iedit",
+                0.7382
+            ],
+            [
+                "hive",
+                0.6649
+            ],
+            [
+                "any2pix",
+                0.5312
+            ],
+            [
+                "hqedit",
+                0.505
+            ]
+        ]
+    },
+    "123": {
+        "image": "0123.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Decontaminate the picture from haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6245
+            ],
+            [
+                "instruct-diffusion",
+                0.5567
+            ],
+            [
+                "instructpix2pix",
+                0.4803
+            ],
+            [
+                "magicbrush",
+                0.4685
+            ],
+            [
+                "iedit",
+                0.4462
+            ],
+            [
+                "any2pix",
+                0.3721
+            ],
+            [
+                "hive",
+                0.3357
+            ],
+            [
+                "hqedit",
+                0.2742
+            ]
+        ]
+    },
+    "124": {
+        "image": "0124.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Uncover obscured details by removing haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5854
+            ],
+            [
+                "iedit",
+                0.5827
+            ],
+            [
+                "magicbrush",
+                0.5422
+            ],
+            [
+                "instructpix2pix",
+                0.4435
+            ],
+            [
+                "any2pix",
+                0.3753
+            ],
+            [
+                "hive",
+                0.369
+            ],
+            [
+                "hqedit",
+                0.201
+            ],
+            [
+                "mgie",
+                0.0381
+            ]
+        ]
+    },
+    "125": {
+        "image": "0125.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Make the image haze-free and clear.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.9032
+            ],
+            [
+                "iedit",
+                0.9027
+            ],
+            [
+                "hive",
+                0.8784
+            ],
+            [
+                "instruct-diffusion",
+                0.8438
+            ],
+            [
+                "instructpix2pix",
+                0.8202
+            ],
+            [
+                "any2pix",
+                0.6879
+            ],
+            [
+                "mgie",
+                0.6359
+            ],
+            [
+                "hqedit",
+                0.5866
+            ]
+        ]
+    },
+    "126": {
+        "image": "0126.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Erase the misty obstruction.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7985
+            ],
+            [
+                "instruct-diffusion",
+                0.7748
+            ],
+            [
+                "iedit",
+                0.7724
+            ],
+            [
+                "magicbrush",
+                0.7627
+            ],
+            [
+                "hive",
+                0.6169
+            ],
+            [
+                "any2pix",
+                0.5218
+            ],
+            [
+                "hqedit",
+                0.4824
+            ],
+            [
+                "mgie",
+                0.419
+            ]
+        ]
+    },
+    "127": {
+        "image": "0127.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Enhance the image by dehazing.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.8003
+            ],
+            [
+                "magicbrush",
+                0.7926
+            ],
+            [
+                "iedit",
+                0.7832
+            ],
+            [
+                "instruct-diffusion",
+                0.7454
+            ],
+            [
+                "mgie",
+                0.7052
+            ],
+            [
+                "instructpix2pix",
+                0.7051
+            ],
+            [
+                "any2pix",
+                0.5363
+            ],
+            [
+                "hqedit",
+                0.3486
+            ]
+        ]
+    },
+    "128": {
+        "image": "0128.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Polish away the foggy elements.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7988
+            ],
+            [
+                "instruct-diffusion",
+                0.7949
+            ],
+            [
+                "magicbrush",
+                0.7879
+            ],
+            [
+                "instructpix2pix",
+                0.762
+            ],
+            [
+                "hive",
+                0.742
+            ],
+            [
+                "any2pix",
+                0.6763
+            ],
+            [
+                "hqedit",
+                0.607
+            ],
+            [
+                "mgie",
+                0.5555
+            ]
+        ]
+    },
+    "129": {
+        "image": "0129.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Unveil hidden details by removing haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7164
+            ],
+            [
+                "instructpix2pix",
+                0.7004
+            ],
+            [
+                "magicbrush",
+                0.6992
+            ],
+            [
+                "hive",
+                0.6976
+            ],
+            [
+                "iedit",
+                0.6962
+            ],
+            [
+                "mgie",
+                0.678
+            ],
+            [
+                "any2pix",
+                0.6417
+            ],
+            [
+                "hqedit",
+                0.4195
+            ]
+        ]
+    },
+    "130": {
+        "image": "0130.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Dispel the atmospheric interference.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6846
+            ],
+            [
+                "mgie",
+                0.6789
+            ],
+            [
+                "magicbrush",
+                0.6569
+            ],
+            [
+                "iedit",
+                0.6481
+            ],
+            [
+                "instruct-diffusion",
+                0.6402
+            ],
+            [
+                "hive",
+                0.6154
+            ],
+            [
+                "any2pix",
+                0.4127
+            ],
+            [
+                "hqedit",
+                0.2772
+            ]
+        ]
+    },
+    "131": {
+        "image": "0131.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Resurrect clarity in the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.681
+            ],
+            [
+                "magicbrush",
+                0.6494
+            ],
+            [
+                "iedit",
+                0.6291
+            ],
+            [
+                "hive",
+                0.5999
+            ],
+            [
+                "mgie",
+                0.5912
+            ],
+            [
+                "any2pix",
+                0.5207
+            ],
+            [
+                "instructpix2pix",
+                0.4602
+            ],
+            [
+                "hqedit",
+                0.4463
+            ]
+        ]
+    },
+    "132": {
+        "image": "0132.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Eliminate the haziness for a sharper look.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7384
+            ],
+            [
+                "magicbrush",
+                0.7222
+            ],
+            [
+                "iedit",
+                0.7213
+            ],
+            [
+                "instruct-diffusion",
+                0.6593
+            ],
+            [
+                "mgie",
+                0.5791
+            ],
+            [
+                "hive",
+                0.5698
+            ],
+            [
+                "any2pix",
+                0.3829
+            ],
+            [
+                "hqedit",
+                0.1554
+            ]
+        ]
+    },
+    "133": {
+        "image": "0133.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Cleanse the image from atmospheric distortion.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6586
+            ],
+            [
+                "iedit",
+                0.6014
+            ],
+            [
+                "magicbrush",
+                0.5476
+            ],
+            [
+                "instruct-diffusion",
+                0.5156
+            ],
+            [
+                "hive",
+                0.4542
+            ],
+            [
+                "mgie",
+                0.392
+            ],
+            [
+                "any2pix",
+                0.2565
+            ],
+            [
+                "hqedit",
+                0.1386
+            ]
+        ]
+    },
+    "134": {
+        "image": "0134.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Discard the mist for an improved view.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7602
+            ],
+            [
+                "magicbrush",
+                0.7536
+            ],
+            [
+                "iedit",
+                0.7357
+            ],
+            [
+                "instructpix2pix",
+                0.6878
+            ],
+            [
+                "mgie",
+                0.6874
+            ],
+            [
+                "any2pix",
+                0.5896
+            ],
+            [
+                "hive",
+                0.5616
+            ],
+            [
+                "hqedit",
+                0.4788
+            ]
+        ]
+    },
+    "135": {
+        "image": "0135.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Strip away the haze for clarity.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6783
+            ],
+            [
+                "instruct-diffusion",
+                0.6364
+            ],
+            [
+                "iedit",
+                0.6277
+            ],
+            [
+                "instructpix2pix",
+                0.5301
+            ],
+            [
+                "any2pix",
+                0.3982
+            ],
+            [
+                "magicbrush",
+                0.3652
+            ],
+            [
+                "mgie",
+                0.331
+            ],
+            [
+                "hqedit",
+                0.2599
+            ]
+        ]
+    },
+    "136": {
+        "image": "0136.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Unfog the obscured details.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7459
+            ],
+            [
+                "magicbrush",
+                0.7362
+            ],
+            [
+                "instruct-diffusion",
+                0.7333
+            ],
+            [
+                "iedit",
+                0.7243
+            ],
+            [
+                "mgie",
+                0.6815
+            ],
+            [
+                "any2pix",
+                0.5536
+            ],
+            [
+                "hqedit",
+                0.3791
+            ],
+            [
+                "hive",
+                0.3172
+            ]
+        ]
+    },
+    "137": {
+        "image": "0137.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Remove the blurry veil for a clearer picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6646
+            ],
+            [
+                "iedit",
+                0.6291
+            ],
+            [
+                "magicbrush",
+                0.6216
+            ],
+            [
+                "hive",
+                0.6087
+            ],
+            [
+                "mgie",
+                0.6012
+            ],
+            [
+                "instructpix2pix",
+                0.5156
+            ],
+            [
+                "any2pix",
+                0.4085
+            ],
+            [
+                "hqedit",
+                0.3284
+            ]
+        ]
+    },
+    "138": {
+        "image": "0138.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Uncloud the visual representation.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.769
+            ],
+            [
+                "iedit",
+                0.7244
+            ],
+            [
+                "instruct-diffusion",
+                0.631
+            ],
+            [
+                "instructpix2pix",
+                0.5148
+            ],
+            [
+                "magicbrush",
+                0.4908
+            ],
+            [
+                "any2pix",
+                0.4416
+            ],
+            [
+                "hqedit",
+                0.4203
+            ],
+            [
+                "mgie",
+                0.3822
+            ]
+        ]
+    },
+    "139": {
+        "image": "0139.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Dissolve the atmospheric obstruction.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7001
+            ],
+            [
+                "any2pix",
+                0.6295
+            ],
+            [
+                "hive",
+                0.6242
+            ],
+            [
+                "magicbrush",
+                0.5916
+            ],
+            [
+                "instruct-diffusion",
+                0.5388
+            ],
+            [
+                "instructpix2pix",
+                0.5362
+            ],
+            [
+                "hqedit",
+                0.5324
+            ],
+            [
+                "mgie",
+                0.4952
+            ]
+        ]
+    },
+    "140": {
+        "image": "0140.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Unveil hidden elements by dehazing.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7944
+            ],
+            [
+                "magicbrush",
+                0.7861
+            ],
+            [
+                "iedit",
+                0.7843
+            ],
+            [
+                "instruct-diffusion",
+                0.7773
+            ],
+            [
+                "instructpix2pix",
+                0.7202
+            ],
+            [
+                "mgie",
+                0.5801
+            ],
+            [
+                "any2pix",
+                0.5156
+            ],
+            [
+                "hqedit",
+                0.373
+            ]
+        ]
+    },
+    "141": {
+        "image": "0141.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Improve the image by removing haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7392
+            ],
+            [
+                "instructpix2pix",
+                0.7092
+            ],
+            [
+                "magicbrush",
+                0.6899
+            ],
+            [
+                "iedit",
+                0.6868
+            ],
+            [
+                "hive",
+                0.6472
+            ],
+            [
+                "any2pix",
+                0.6223
+            ],
+            [
+                "mgie",
+                0.5255
+            ],
+            [
+                "hqedit",
+                0.4347
+            ]
+        ]
+    },
+    "142": {
+        "image": "0142.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Detoxify the picture from mist.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6894
+            ],
+            [
+                "mgie",
+                0.6456
+            ],
+            [
+                "iedit",
+                0.6222
+            ],
+            [
+                "hive",
+                0.6021
+            ],
+            [
+                "instructpix2pix",
+                0.5223
+            ],
+            [
+                "magicbrush",
+                0.497
+            ],
+            [
+                "any2pix",
+                0.4171
+            ],
+            [
+                "hqedit",
+                0.2334
+            ]
+        ]
+    },
+    "143": {
+        "image": "0143.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Enhance clarity by eliminating haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7837
+            ],
+            [
+                "magicbrush",
+                0.7711
+            ],
+            [
+                "iedit",
+                0.7683
+            ],
+            [
+                "instructpix2pix",
+                0.715
+            ],
+            [
+                "mgie",
+                0.674
+            ],
+            [
+                "instruct-diffusion",
+                0.6357
+            ],
+            [
+                "any2pix",
+                0.5613
+            ],
+            [
+                "hqedit",
+                0.4132
+            ]
+        ]
+    },
+    "144": {
+        "image": "0144.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Dehaze for a sharper image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.6925
+            ],
+            [
+                "mgie",
+                0.5499
+            ],
+            [
+                "any2pix",
+                0.5133
+            ],
+            [
+                "hive",
+                0.4613
+            ],
+            [
+                "instruct-diffusion",
+                0.437
+            ],
+            [
+                "instructpix2pix",
+                0.4319
+            ],
+            [
+                "magicbrush",
+                0.3804
+            ],
+            [
+                "hqedit",
+                0.3713
+            ]
+        ]
+    },
+    "145": {
+        "image": "0145.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Lift the fog for a clearer view.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7433
+            ],
+            [
+                "instruct-diffusion",
+                0.7237
+            ],
+            [
+                "mgie",
+                0.6891
+            ],
+            [
+                "hive",
+                0.6827
+            ],
+            [
+                "instructpix2pix",
+                0.6387
+            ],
+            [
+                "any2pix",
+                0.5758
+            ],
+            [
+                "hqedit",
+                0.4986
+            ],
+            [
+                "magicbrush",
+                0.4795
+            ]
+        ]
+    },
+    "146": {
+        "image": "0146.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Purge the mist for improved visibility.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.819
+            ],
+            [
+                "iedit",
+                0.803
+            ],
+            [
+                "mgie",
+                0.7273
+            ],
+            [
+                "hive",
+                0.635
+            ],
+            [
+                "instruct-diffusion",
+                0.6309
+            ],
+            [
+                "magicbrush",
+                0.6031
+            ],
+            [
+                "any2pix",
+                0.5357
+            ],
+            [
+                "hqedit",
+                0.4651
+            ]
+        ]
+    },
+    "147": {
+        "image": "0147.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Clarify the scene by removing haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.9041
+            ],
+            [
+                "hive",
+                0.9022
+            ],
+            [
+                "magicbrush",
+                0.896
+            ],
+            [
+                "instructpix2pix",
+                0.8818
+            ],
+            [
+                "instruct-diffusion",
+                0.8704
+            ],
+            [
+                "any2pix",
+                0.716
+            ],
+            [
+                "hqedit",
+                0.6093
+            ],
+            [
+                "mgie",
+                0.4035
+            ]
+        ]
+    },
+    "148": {
+        "image": "0148.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Eradicate the hazy overlay.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6618
+            ],
+            [
+                "iedit",
+                0.6313
+            ],
+            [
+                "hive",
+                0.6099
+            ],
+            [
+                "magicbrush",
+                0.593
+            ],
+            [
+                "instructpix2pix",
+                0.438
+            ],
+            [
+                "any2pix",
+                0.366
+            ],
+            [
+                "mgie",
+                0.3437
+            ],
+            [
+                "hqedit",
+                0.2512
+            ]
+        ]
+    },
+    "149": {
+        "image": "0149.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Dehaze to reveal hidden details.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6119
+            ],
+            [
+                "mgie",
+                0.5839
+            ],
+            [
+                "instructpix2pix",
+                0.5253
+            ],
+            [
+                "magicbrush",
+                0.5216
+            ],
+            [
+                "iedit",
+                0.5131
+            ],
+            [
+                "any2pix",
+                0.3843
+            ],
+            [
+                "hive",
+                0.3043
+            ],
+            [
+                "hqedit",
+                0.2631
+            ]
+        ]
+    },
+    "150": {
+        "image": "0150.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Clean the image of atmospheric distortion.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6334
+            ],
+            [
+                "instruct-diffusion",
+                0.6295
+            ],
+            [
+                "iedit",
+                0.6028
+            ],
+            [
+                "mgie",
+                0.5524
+            ],
+            [
+                "magicbrush",
+                0.5135
+            ],
+            [
+                "hive",
+                0.3413
+            ],
+            [
+                "any2pix",
+                0.3338
+            ],
+            [
+                "hqedit",
+                0.1427
+            ]
+        ]
+    },
+    "151": {
+        "image": "0151.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Unveil the obscured beauty.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8198
+            ],
+            [
+                "instruct-diffusion",
+                0.8149
+            ],
+            [
+                "any2pix",
+                0.6987
+            ],
+            [
+                "mgie",
+                0.6217
+            ],
+            [
+                "hive",
+                0.5551
+            ],
+            [
+                "hqedit",
+                0.4408
+            ],
+            [
+                "magicbrush",
+                0.3571
+            ],
+            [
+                "instructpix2pix",
+                0.2322
+            ]
+        ]
+    },
+    "152": {
+        "image": "0152.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Eradicate the misty shroud.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6132
+            ],
+            [
+                "iedit",
+                0.5542
+            ],
+            [
+                "instructpix2pix",
+                0.5538
+            ],
+            [
+                "magicbrush",
+                0.552
+            ],
+            [
+                "any2pix",
+                0.4736
+            ],
+            [
+                "mgie",
+                0.4438
+            ],
+            [
+                "hqedit",
+                0.4213
+            ],
+            [
+                "instruct-diffusion",
+                0.411
+            ]
+        ]
+    },
+    "153": {
+        "image": "0153.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Banish the foggy interference.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7765
+            ],
+            [
+                "magicbrush",
+                0.7552
+            ],
+            [
+                "iedit",
+                0.746
+            ],
+            [
+                "any2pix",
+                0.5876
+            ],
+            [
+                "mgie",
+                0.5801
+            ],
+            [
+                "hqedit",
+                0.541
+            ],
+            [
+                "instructpix2pix",
+                0.5342
+            ],
+            [
+                "instruct-diffusion",
+                0.4591
+            ]
+        ]
+    },
+    "154": {
+        "image": "0154.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Polish away the atmospheric haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6891
+            ],
+            [
+                "iedit",
+                0.6714
+            ],
+            [
+                "hive",
+                0.6239
+            ],
+            [
+                "magicbrush",
+                0.6016
+            ],
+            [
+                "mgie",
+                0.573
+            ],
+            [
+                "any2pix",
+                0.4276
+            ],
+            [
+                "instructpix2pix",
+                0.4036
+            ],
+            [
+                "hqedit",
+                0.226
+            ]
+        ]
+    },
+    "155": {
+        "image": "0155.png",
+        "dataset": "HazeRemoval",
+        "prompt": "Extract clarity from the haze.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8387
+            ],
+            [
+                "hive",
+                0.8165
+            ],
+            [
+                "iedit",
+                0.8001
+            ],
+            [
+                "magicbrush",
+                0.7862
+            ],
+            [
+                "any2pix",
+                0.7393
+            ],
+            [
+                "mgie",
+                0.7031
+            ],
+            [
+                "instructpix2pix",
+                0.702
+            ],
+            [
+                "hqedit",
+                0.6723
+            ]
+        ]
+    }
+}

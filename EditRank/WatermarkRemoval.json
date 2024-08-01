@@ -1,0 +1,5742 @@
+{
+    "1": {
+        "image": "0001.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Eliminate the watermark from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9265
+            ],
+            [
+                "iedit",
+                0.9076
+            ],
+            [
+                "mgie",
+                0.8121
+            ],
+            [
+                "any2pix",
+                0.5961
+            ],
+            [
+                "hive",
+                0.5614
+            ],
+            [
+                "magicbrush",
+                0.4768
+            ],
+            [
+                "instructpix2pix",
+                0.4155
+            ],
+            [
+                "hqedit",
+                0.32
+            ]
+        ]
+    },
+    "2": {
+        "image": "0002.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Erase the watermark on the picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8056
+            ],
+            [
+                "instruct-diffusion",
+                0.7993
+            ],
+            [
+                "mgie",
+                0.569
+            ],
+            [
+                "any2pix",
+                0.4156
+            ],
+            [
+                "hqedit",
+                0.406
+            ],
+            [
+                "hive",
+                0.3953
+            ],
+            [
+                "instructpix2pix",
+                0.3861
+            ],
+            [
+                "magicbrush",
+                0.2264
+            ]
+        ]
+    },
+    "3": {
+        "image": "0003.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Delete the watermark from the graphic.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.918
+            ],
+            [
+                "instructpix2pix",
+                0.9146
+            ],
+            [
+                "instruct-diffusion",
+                0.9139
+            ],
+            [
+                "magicbrush",
+                0.8492
+            ],
+            [
+                "mgie",
+                0.7722
+            ],
+            [
+                "any2pix",
+                0.5255
+            ],
+            [
+                "hqedit",
+                0.4753
+            ],
+            [
+                "hive",
+                0.3883
+            ]
+        ]
+    },
+    "4": {
+        "image": "0004.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Wipe out the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7854
+            ],
+            [
+                "instruct-diffusion",
+                0.7828
+            ],
+            [
+                "hive",
+                0.6434
+            ],
+            [
+                "mgie",
+                0.5152
+            ],
+            [
+                "instructpix2pix",
+                0.3924
+            ],
+            [
+                "any2pix",
+                0.3857
+            ],
+            [
+                "hqedit",
+                0.3578
+            ],
+            [
+                "magicbrush",
+                0.1691
+            ]
+        ]
+    },
+    "5": {
+        "image": "0005.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Exclude the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7053
+            ],
+            [
+                "instruct-diffusion",
+                0.7043
+            ],
+            [
+                "magicbrush",
+                0.7029
+            ],
+            [
+                "instructpix2pix",
+                0.4541
+            ],
+            [
+                "any2pix",
+                0.3617
+            ],
+            [
+                "mgie",
+                0.2776
+            ],
+            [
+                "hive",
+                0.2679
+            ],
+            [
+                "hqedit",
+                0.1327
+            ]
+        ]
+    },
+    "6": {
+        "image": "0006.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Omit the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.9282
+            ],
+            [
+                "instruct-diffusion",
+                0.9269
+            ],
+            [
+                "magicbrush",
+                0.8946
+            ],
+            [
+                "hive",
+                0.8378
+            ],
+            [
+                "mgie",
+                0.829
+            ],
+            [
+                "any2pix",
+                0.5496
+            ],
+            [
+                "instructpix2pix",
+                0.4961
+            ],
+            [
+                "hqedit",
+                0.3994
+            ]
+        ]
+    },
+    "7": {
+        "image": "0007.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Expunge the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8715
+            ],
+            [
+                "magicbrush",
+                0.8674
+            ],
+            [
+                "instructpix2pix",
+                0.864
+            ],
+            [
+                "instruct-diffusion",
+                0.8564
+            ],
+            [
+                "hive",
+                0.8529
+            ],
+            [
+                "any2pix",
+                0.3906
+            ],
+            [
+                "hqedit",
+                0.3483
+            ],
+            [
+                "mgie",
+                0.1261
+            ]
+        ]
+    },
+    "8": {
+        "image": "0008.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Get rid of the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8848
+            ],
+            [
+                "hive",
+                0.864
+            ],
+            [
+                "iedit",
+                0.8525
+            ],
+            [
+                "mgie",
+                0.6706
+            ],
+            [
+                "hqedit",
+                0.6678
+            ],
+            [
+                "magicbrush",
+                0.476
+            ],
+            [
+                "instructpix2pix",
+                0.4492
+            ],
+            [
+                "any2pix",
+                0.4157
+            ]
+        ]
+    },
+    "9": {
+        "image": "0009.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Remove the watermark overlay.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9239
+            ],
+            [
+                "iedit",
+                0.8993
+            ],
+            [
+                "mgie",
+                0.8266
+            ],
+            [
+                "hive",
+                0.6739
+            ],
+            [
+                "any2pix",
+                0.621
+            ],
+            [
+                "instructpix2pix",
+                0.5419
+            ],
+            [
+                "magicbrush",
+                0.4929
+            ],
+            [
+                "hqedit",
+                0.3856
+            ]
+        ]
+    },
+    "10": {
+        "image": "0010.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Withdraw the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8675
+            ],
+            [
+                "iedit",
+                0.8632
+            ],
+            [
+                "mgie",
+                0.7064
+            ],
+            [
+                "hqedit",
+                0.5114
+            ],
+            [
+                "hive",
+                0.4959
+            ],
+            [
+                "any2pix",
+                0.4885
+            ],
+            [
+                "instructpix2pix",
+                0.4522
+            ],
+            [
+                "magicbrush",
+                0.431
+            ]
+        ]
+    },
+    "11": {
+        "image": "0011.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Extract the watermark from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8632
+            ],
+            [
+                "magicbrush",
+                0.8523
+            ],
+            [
+                "iedit",
+                0.8345
+            ],
+            [
+                "mgie",
+                0.6878
+            ],
+            [
+                "instructpix2pix",
+                0.495
+            ],
+            [
+                "any2pix",
+                0.4875
+            ],
+            [
+                "hive",
+                0.2873
+            ],
+            [
+                "hqedit",
+                0.2251
+            ]
+        ]
+    },
+    "12": {
+        "image": "0012.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Banish the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9378
+            ],
+            [
+                "magicbrush",
+                0.9222
+            ],
+            [
+                "iedit",
+                0.9003
+            ],
+            [
+                "instructpix2pix",
+                0.7145
+            ],
+            [
+                "any2pix",
+                0.6634
+            ],
+            [
+                "hive",
+                0.6191
+            ],
+            [
+                "hqedit",
+                0.5957
+            ],
+            [
+                "mgie",
+                0.0623
+            ]
+        ]
+    },
+    "13": {
+        "image": "0013.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Eradicate the watermark from view.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8772
+            ],
+            [
+                "iedit",
+                0.8425
+            ],
+            [
+                "any2pix",
+                0.6143
+            ],
+            [
+                "mgie",
+                0.5329
+            ],
+            [
+                "magicbrush",
+                0.4523
+            ],
+            [
+                "hive",
+                0.4505
+            ],
+            [
+                "instructpix2pix",
+                0.3966
+            ],
+            [
+                "hqedit",
+                0.369
+            ]
+        ]
+    },
+    "14": {
+        "image": "0014.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Cleanse the image of the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9106
+            ],
+            [
+                "iedit",
+                0.9059
+            ],
+            [
+                "mgie",
+                0.7854
+            ],
+            [
+                "any2pix",
+                0.5367
+            ],
+            [
+                "instructpix2pix",
+                0.4895
+            ],
+            [
+                "hive",
+                0.4128
+            ],
+            [
+                "magicbrush",
+                0.4026
+            ],
+            [
+                "hqedit",
+                0.2173
+            ]
+        ]
+    },
+    "15": {
+        "image": "0015.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Exterminate the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9394
+            ],
+            [
+                "iedit",
+                0.9323
+            ],
+            [
+                "magicbrush",
+                0.9211
+            ],
+            [
+                "hive",
+                0.901
+            ],
+            [
+                "mgie",
+                0.8637
+            ],
+            [
+                "any2pix",
+                0.7477
+            ],
+            [
+                "instructpix2pix",
+                0.6813
+            ],
+            [
+                "hqedit",
+                0.5101
+            ]
+        ]
+    },
+    "16": {
+        "image": "0016.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Dissolve the watermark from the picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9076
+            ],
+            [
+                "iedit",
+                0.8852
+            ],
+            [
+                "magicbrush",
+                0.8839
+            ],
+            [
+                "instructpix2pix",
+                0.8727
+            ],
+            [
+                "mgie",
+                0.7206
+            ],
+            [
+                "any2pix",
+                0.4478
+            ],
+            [
+                "hive",
+                0.3174
+            ],
+            [
+                "hqedit",
+                0.297
+            ]
+        ]
+    },
+    "17": {
+        "image": "0017.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Clear the image of the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8759
+            ],
+            [
+                "iedit",
+                0.8609
+            ],
+            [
+                "mgie",
+                0.7015
+            ],
+            [
+                "hqedit",
+                0.5821
+            ],
+            [
+                "instructpix2pix",
+                0.4669
+            ],
+            [
+                "hive",
+                0.4447
+            ],
+            [
+                "any2pix",
+                0.4164
+            ],
+            [
+                "magicbrush",
+                0.2239
+            ]
+        ]
+    },
+    "18": {
+        "image": "0018.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Purge the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8269
+            ],
+            [
+                "iedit",
+                0.8092
+            ],
+            [
+                "hive",
+                0.7748
+            ],
+            [
+                "instructpix2pix",
+                0.739
+            ],
+            [
+                "magicbrush",
+                0.728
+            ],
+            [
+                "any2pix",
+                0.5453
+            ],
+            [
+                "hqedit",
+                0.3705
+            ],
+            [
+                "mgie",
+                0.352
+            ]
+        ]
+    },
+    "19": {
+        "image": "0019.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Abolish the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8326
+            ],
+            [
+                "iedit",
+                0.7977
+            ],
+            [
+                "any2pix",
+                0.613
+            ],
+            [
+                "mgie",
+                0.5699
+            ],
+            [
+                "hive",
+                0.5342
+            ],
+            [
+                "instructpix2pix",
+                0.413
+            ],
+            [
+                "magicbrush",
+                0.2577
+            ],
+            [
+                "hqedit",
+                0.144
+            ]
+        ]
+    },
+    "20": {
+        "image": "0020.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Vanish the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8838
+            ],
+            [
+                "iedit",
+                0.8816
+            ],
+            [
+                "hive",
+                0.8642
+            ],
+            [
+                "mgie",
+                0.773
+            ],
+            [
+                "any2pix",
+                0.5454
+            ],
+            [
+                "instructpix2pix",
+                0.324
+            ],
+            [
+                "magicbrush",
+                0.2077
+            ],
+            [
+                "hqedit",
+                0.0994
+            ]
+        ]
+    },
+    "21": {
+        "image": "0021.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Obliterate the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8808
+            ],
+            [
+                "instruct-diffusion",
+                0.8744
+            ],
+            [
+                "hive",
+                0.8276
+            ],
+            [
+                "mgie",
+                0.7161
+            ],
+            [
+                "any2pix",
+                0.3962
+            ],
+            [
+                "hqedit",
+                0.3595
+            ],
+            [
+                "magicbrush",
+                0.3021
+            ],
+            [
+                "instructpix2pix",
+                0.2838
+            ]
+        ]
+    },
+    "22": {
+        "image": "0022.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Liquidate the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7866
+            ],
+            [
+                "iedit",
+                0.7302
+            ],
+            [
+                "hive",
+                0.6133
+            ],
+            [
+                "mgie",
+                0.5839
+            ],
+            [
+                "any2pix",
+                0.3184
+            ],
+            [
+                "hqedit",
+                0.1593
+            ],
+            [
+                "instructpix2pix",
+                0.1561
+            ],
+            [
+                "magicbrush",
+                0.136
+            ]
+        ]
+    },
+    "23": {
+        "image": "0023.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Efface the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7216
+            ],
+            [
+                "iedit",
+                0.7035
+            ],
+            [
+                "mgie",
+                0.5358
+            ],
+            [
+                "instructpix2pix",
+                0.4308
+            ],
+            [
+                "hive",
+                0.3766
+            ],
+            [
+                "hqedit",
+                0.3209
+            ],
+            [
+                "any2pix",
+                0.3156
+            ],
+            [
+                "magicbrush",
+                0.2774
+            ]
+        ]
+    },
+    "24": {
+        "image": "0024.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Nullify the watermark on the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8581
+            ],
+            [
+                "magicbrush",
+                0.8509
+            ],
+            [
+                "iedit",
+                0.8271
+            ],
+            [
+                "mgie",
+                0.6712
+            ],
+            [
+                "instructpix2pix",
+                0.5362
+            ],
+            [
+                "any2pix",
+                0.4405
+            ],
+            [
+                "hive",
+                0.3812
+            ],
+            [
+                "hqedit",
+                0.2665
+            ]
+        ]
+    },
+    "25": {
+        "image": "0025.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Abrogate the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7752
+            ],
+            [
+                "magicbrush",
+                0.7681
+            ],
+            [
+                "instruct-diffusion",
+                0.7675
+            ],
+            [
+                "hive",
+                0.6317
+            ],
+            [
+                "mgie",
+                0.5355
+            ],
+            [
+                "any2pix",
+                0.4589
+            ],
+            [
+                "instructpix2pix",
+                0.4509
+            ],
+            [
+                "hqedit",
+                0.3262
+            ]
+        ]
+    },
+    "26": {
+        "image": "0026.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Annihilate the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8876
+            ],
+            [
+                "iedit",
+                0.8797
+            ],
+            [
+                "mgie",
+                0.7315
+            ],
+            [
+                "hive",
+                0.7191
+            ],
+            [
+                "any2pix",
+                0.5974
+            ],
+            [
+                "instructpix2pix",
+                0.5713
+            ],
+            [
+                "magicbrush",
+                0.4419
+            ],
+            [
+                "hqedit",
+                0.2493
+            ]
+        ]
+    },
+    "27": {
+        "image": "0027.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Abandon the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9493
+            ],
+            [
+                "iedit",
+                0.9193
+            ],
+            [
+                "mgie",
+                0.875
+            ],
+            [
+                "hive",
+                0.7234
+            ],
+            [
+                "any2pix",
+                0.546
+            ],
+            [
+                "instructpix2pix",
+                0.3801
+            ],
+            [
+                "magicbrush",
+                0.3132
+            ],
+            [
+                "hqedit",
+                0.2962
+            ]
+        ]
+    },
+    "28": {
+        "image": "0028.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Negate the watermark presence.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8204
+            ],
+            [
+                "iedit",
+                0.8105
+            ],
+            [
+                "hive",
+                0.7076
+            ],
+            [
+                "mgie",
+                0.6493
+            ],
+            [
+                "any2pix",
+                0.4756
+            ],
+            [
+                "instructpix2pix",
+                0.4293
+            ],
+            [
+                "magicbrush",
+                0.426
+            ],
+            [
+                "hqedit",
+                0.3692
+            ]
+        ]
+    },
+    "29": {
+        "image": "0029.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Expel the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.8779
+            ],
+            [
+                "iedit",
+                0.876
+            ],
+            [
+                "instruct-diffusion",
+                0.8679
+            ],
+            [
+                "hive",
+                0.8382
+            ],
+            [
+                "mgie",
+                0.6452
+            ],
+            [
+                "magicbrush",
+                0.5623
+            ],
+            [
+                "any2pix",
+                0.3826
+            ],
+            [
+                "hqedit",
+                0.2929
+            ]
+        ]
+    },
+    "30": {
+        "image": "0030.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Wipe away the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9245
+            ],
+            [
+                "iedit",
+                0.8706
+            ],
+            [
+                "mgie",
+                0.867
+            ],
+            [
+                "any2pix",
+                0.6749
+            ],
+            [
+                "instructpix2pix",
+                0.476
+            ],
+            [
+                "hive",
+                0.4379
+            ],
+            [
+                "magicbrush",
+                0.3756
+            ],
+            [
+                "hqedit",
+                0.2813
+            ]
+        ]
+    },
+    "31": {
+        "image": "0031.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Erase all traces of the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7139
+            ],
+            [
+                "iedit",
+                0.7134
+            ],
+            [
+                "mgie",
+                0.4657
+            ],
+            [
+                "hive",
+                0.4418
+            ],
+            [
+                "instructpix2pix",
+                0.3691
+            ],
+            [
+                "magicbrush",
+                0.3145
+            ],
+            [
+                "any2pix",
+                0.3124
+            ],
+            [
+                "hqedit",
+                0.1801
+            ]
+        ]
+    },
+    "32": {
+        "image": "0032.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Trim the image of the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8723
+            ],
+            [
+                "iedit",
+                0.8284
+            ],
+            [
+                "mgie",
+                0.6247
+            ],
+            [
+                "instructpix2pix",
+                0.6155
+            ],
+            [
+                "any2pix",
+                0.4714
+            ],
+            [
+                "hive",
+                0.2557
+            ],
+            [
+                "magicbrush",
+                0.1092
+            ],
+            [
+                "hqedit",
+                0.1057
+            ]
+        ]
+    },
+    "33": {
+        "image": "0033.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Edit out the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8002
+            ],
+            [
+                "instruct-diffusion",
+                0.7821
+            ],
+            [
+                "magicbrush",
+                0.6072
+            ],
+            [
+                "mgie",
+                0.519
+            ],
+            [
+                "hive",
+                0.4957
+            ],
+            [
+                "any2pix",
+                0.3769
+            ],
+            [
+                "instructpix2pix",
+                0.2397
+            ],
+            [
+                "hqedit",
+                0.1029
+            ]
+        ]
+    },
+    "34": {
+        "image": "0034.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Exclude the watermark insignia.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9208
+            ],
+            [
+                "iedit",
+                0.9174
+            ],
+            [
+                "hive",
+                0.8911
+            ],
+            [
+                "magicbrush",
+                0.8891
+            ],
+            [
+                "mgie",
+                0.7909
+            ],
+            [
+                "any2pix",
+                0.5748
+            ],
+            [
+                "instructpix2pix",
+                0.4665
+            ],
+            [
+                "hqedit",
+                0.3691
+            ]
+        ]
+    },
+    "35": {
+        "image": "0035.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Exclude the watermark mark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8852
+            ],
+            [
+                "instruct-diffusion",
+                0.8789
+            ],
+            [
+                "mgie",
+                0.7298
+            ],
+            [
+                "hive",
+                0.6071
+            ],
+            [
+                "any2pix",
+                0.4904
+            ],
+            [
+                "instructpix2pix",
+                0.4455
+            ],
+            [
+                "magicbrush",
+                0.4214
+            ],
+            [
+                "hqedit",
+                0.2616
+            ]
+        ]
+    },
+    "36": {
+        "image": "0036.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Exclude the watermark signature.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8841
+            ],
+            [
+                "iedit",
+                0.8319
+            ],
+            [
+                "magicbrush",
+                0.683
+            ],
+            [
+                "any2pix",
+                0.5054
+            ],
+            [
+                "hive",
+                0.3585
+            ],
+            [
+                "instructpix2pix",
+                0.3291
+            ],
+            [
+                "hqedit",
+                0.2339
+            ],
+            [
+                "mgie",
+                0.2038
+            ]
+        ]
+    },
+    "37": {
+        "image": "0037.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Disregard the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7782
+            ],
+            [
+                "iedit",
+                0.7324
+            ],
+            [
+                "magicbrush",
+                0.673
+            ],
+            [
+                "hive",
+                0.6596
+            ],
+            [
+                "instructpix2pix",
+                0.5909
+            ],
+            [
+                "mgie",
+                0.5757
+            ],
+            [
+                "any2pix",
+                0.5706
+            ],
+            [
+                "hqedit",
+                0.3389
+            ]
+        ]
+    },
+    "38": {
+        "image": "0038.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Oust the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8271
+            ],
+            [
+                "iedit",
+                0.805
+            ],
+            [
+                "hive",
+                0.687
+            ],
+            [
+                "mgie",
+                0.6254
+            ],
+            [
+                "instructpix2pix",
+                0.4796
+            ],
+            [
+                "any2pix",
+                0.4264
+            ],
+            [
+                "magicbrush",
+                0.3062
+            ],
+            [
+                "hqedit",
+                0.2384
+            ]
+        ]
+    },
+    "39": {
+        "image": "0039.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Scrub the image of the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8919
+            ],
+            [
+                "magicbrush",
+                0.767
+            ],
+            [
+                "iedit",
+                0.7644
+            ],
+            [
+                "mgie",
+                0.7484
+            ],
+            [
+                "any2pix",
+                0.5823
+            ],
+            [
+                "hive",
+                0.5431
+            ],
+            [
+                "instructpix2pix",
+                0.3983
+            ],
+            [
+                "hqedit",
+                0.3525
+            ]
+        ]
+    },
+    "40": {
+        "image": "0040.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Wipe clean the watermark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8284
+            ],
+            [
+                "magicbrush",
+                0.8241
+            ],
+            [
+                "instruct-diffusion",
+                0.8124
+            ],
+            [
+                "hive",
+                0.7246
+            ],
+            [
+                "mgie",
+                0.5317
+            ],
+            [
+                "instructpix2pix",
+                0.4789
+            ],
+            [
+                "any2pix",
+                0.2714
+            ],
+            [
+                "hqedit",
+                0.1814
+            ]
+        ]
+    },
+    "41": {
+        "image": "0041.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Erase the watermark imprint.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9639
+            ],
+            [
+                "iedit",
+                0.9474
+            ],
+            [
+                "mgie",
+                0.9249
+            ],
+            [
+                "magicbrush",
+                0.8782
+            ],
+            [
+                "hive",
+                0.795
+            ],
+            [
+                "any2pix",
+                0.7782
+            ],
+            [
+                "hqedit",
+                0.3976
+            ],
+            [
+                "instructpix2pix",
+                0.3845
+            ]
+        ]
+    },
+    "42": {
+        "image": "0042.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Expunge the watermark symbol.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8649
+            ],
+            [
+                "iedit",
+                0.8367
+            ],
+            [
+                "hive",
+                0.8252
+            ],
+            [
+                "any2pix",
+                0.3898
+            ],
+            [
+                "magicbrush",
+                0.31
+            ],
+            [
+                "instructpix2pix",
+                0.3053
+            ],
+            [
+                "hqedit",
+                0.2083
+            ],
+            [
+                "mgie",
+                0.113
+            ]
+        ]
+    },
+    "43": {
+        "image": "0043.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Eliminate the watermark graphic.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.9127
+            ],
+            [
+                "instruct-diffusion",
+                0.9102
+            ],
+            [
+                "hive",
+                0.8739
+            ],
+            [
+                "mgie",
+                0.7671
+            ],
+            [
+                "instructpix2pix",
+                0.464
+            ],
+            [
+                "any2pix",
+                0.4104
+            ],
+            [
+                "magicbrush",
+                0.3687
+            ],
+            [
+                "hqedit",
+                0.2205
+            ]
+        ]
+    },
+    "44": {
+        "image": "0044.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Exclude the watermark logo.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8623
+            ],
+            [
+                "instruct-diffusion",
+                0.8549
+            ],
+            [
+                "magicbrush",
+                0.8337
+            ],
+            [
+                "hive",
+                0.4686
+            ],
+            [
+                "any2pix",
+                0.4334
+            ],
+            [
+                "instructpix2pix",
+                0.3353
+            ],
+            [
+                "hqedit",
+                0.242
+            ],
+            [
+                "mgie",
+                0.2014
+            ]
+        ]
+    },
+    "45": {
+        "image": "0045.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Remove the watermark badge.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6621
+            ],
+            [
+                "instruct-diffusion",
+                0.6573
+            ],
+            [
+                "iedit",
+                0.6336
+            ],
+            [
+                "instructpix2pix",
+                0.5557
+            ],
+            [
+                "hqedit",
+                0.418
+            ],
+            [
+                "mgie",
+                0.3433
+            ],
+            [
+                "hive",
+                0.292
+            ],
+            [
+                "any2pix",
+                0.2115
+            ]
+        ]
+    },
+    "46": {
+        "image": "0046.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Exclude the watermark seal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9131
+            ],
+            [
+                "iedit",
+                0.8749
+            ],
+            [
+                "mgie",
+                0.7564
+            ],
+            [
+                "hive",
+                0.5095
+            ],
+            [
+                "any2pix",
+                0.4875
+            ],
+            [
+                "hqedit",
+                0.4298
+            ],
+            [
+                "magicbrush",
+                0.4021
+            ],
+            [
+                "instructpix2pix",
+                0.3775
+            ]
+        ]
+    },
+    "47": {
+        "image": "0047.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Withdraw the watermark stamp.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8636
+            ],
+            [
+                "instruct-diffusion",
+                0.8547
+            ],
+            [
+                "magicbrush",
+                0.8461
+            ],
+            [
+                "hive",
+                0.7157
+            ],
+            [
+                "mgie",
+                0.6189
+            ],
+            [
+                "instructpix2pix",
+                0.4805
+            ],
+            [
+                "any2pix",
+                0.4451
+            ],
+            [
+                "hqedit",
+                0.3506
+            ]
+        ]
+    },
+    "48": {
+        "image": "0048.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Obliterate the watermark emblem.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.845
+            ],
+            [
+                "iedit",
+                0.8251
+            ],
+            [
+                "magicbrush",
+                0.8185
+            ],
+            [
+                "mgie",
+                0.7455
+            ],
+            [
+                "hive",
+                0.596
+            ],
+            [
+                "any2pix",
+                0.4302
+            ],
+            [
+                "instructpix2pix",
+                0.2895
+            ],
+            [
+                "hqedit",
+                0.1974
+            ]
+        ]
+    },
+    "49": {
+        "image": "0049.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Exclude the watermark icon.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8653
+            ],
+            [
+                "magicbrush",
+                0.8579
+            ],
+            [
+                "hive",
+                0.8509
+            ],
+            [
+                "iedit",
+                0.845
+            ],
+            [
+                "instructpix2pix",
+                0.7917
+            ],
+            [
+                "mgie",
+                0.6862
+            ],
+            [
+                "any2pix",
+                0.4811
+            ],
+            [
+                "hqedit",
+                0.3131
+            ]
+        ]
+    },
+    "50": {
+        "image": "0050.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Eliminate the watermark impression.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9204
+            ],
+            [
+                "iedit",
+                0.879
+            ],
+            [
+                "hive",
+                0.6915
+            ],
+            [
+                "instructpix2pix",
+                0.5439
+            ],
+            [
+                "any2pix",
+                0.4382
+            ],
+            [
+                "magicbrush",
+                0.4344
+            ],
+            [
+                "hqedit",
+                0.3237
+            ],
+            [
+                "mgie",
+                0.2688
+            ]
+        ]
+    },
+    "51": {
+        "image": "0051.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Erase the watermark figure.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.5785
+            ],
+            [
+                "instruct-diffusion",
+                0.5764
+            ],
+            [
+                "instructpix2pix",
+                0.5617
+            ],
+            [
+                "hive",
+                0.4765
+            ],
+            [
+                "any2pix",
+                0.2617
+            ],
+            [
+                "mgie",
+                0.1465
+            ],
+            [
+                "magicbrush",
+                0.1194
+            ],
+            [
+                "hqedit",
+                0.0258
+            ]
+        ]
+    },
+    "52": {
+        "image": "0052.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Wipe out the watermark symbol.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.676
+            ],
+            [
+                "instruct-diffusion",
+                0.6515
+            ],
+            [
+                "instructpix2pix",
+                0.4601
+            ],
+            [
+                "hive",
+                0.3866
+            ],
+            [
+                "mgie",
+                0.3373
+            ],
+            [
+                "any2pix",
+                0.3331
+            ],
+            [
+                "magicbrush",
+                0.2901
+            ],
+            [
+                "hqedit",
+                0.218
+            ]
+        ]
+    },
+    "53": {
+        "image": "0053.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Nullify the watermark insignia.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9305
+            ],
+            [
+                "iedit",
+                0.9125
+            ],
+            [
+                "magicbrush",
+                0.8932
+            ],
+            [
+                "mgie",
+                0.8567
+            ],
+            [
+                "hive",
+                0.6422
+            ],
+            [
+                "any2pix",
+                0.5721
+            ],
+            [
+                "instructpix2pix",
+                0.4667
+            ],
+            [
+                "hqedit",
+                0.1957
+            ]
+        ]
+    },
+    "54": {
+        "image": "0054.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Annihilate the watermark graphic.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.815
+            ],
+            [
+                "instruct-diffusion",
+                0.8026
+            ],
+            [
+                "magicbrush",
+                0.7947
+            ],
+            [
+                "hive",
+                0.7886
+            ],
+            [
+                "instructpix2pix",
+                0.5273
+            ],
+            [
+                "hqedit",
+                0.4796
+            ],
+            [
+                "any2pix",
+                0.4347
+            ],
+            [
+                "mgie",
+                0.1582
+            ]
+        ]
+    },
+    "55": {
+        "image": "0055.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Abandon the watermark design.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8644
+            ],
+            [
+                "iedit",
+                0.8521
+            ],
+            [
+                "hive",
+                0.8151
+            ],
+            [
+                "mgie",
+                0.7655
+            ],
+            [
+                "magicbrush",
+                0.4726
+            ],
+            [
+                "any2pix",
+                0.4482
+            ],
+            [
+                "instructpix2pix",
+                0.3943
+            ],
+            [
+                "hqedit",
+                0.3856
+            ]
+        ]
+    },
+    "56": {
+        "image": "0056.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Expunge the watermark motif.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8896
+            ],
+            [
+                "iedit",
+                0.871
+            ],
+            [
+                "mgie",
+                0.6153
+            ],
+            [
+                "hive",
+                0.4721
+            ],
+            [
+                "any2pix",
+                0.3947
+            ],
+            [
+                "hqedit",
+                0.38
+            ],
+            [
+                "magicbrush",
+                0.3576
+            ],
+            [
+                "instructpix2pix",
+                0.314
+            ]
+        ]
+    },
+    "57": {
+        "image": "0057.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Negate the watermark pattern.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8629
+            ],
+            [
+                "iedit",
+                0.8539
+            ],
+            [
+                "magicbrush",
+                0.6374
+            ],
+            [
+                "hive",
+                0.609
+            ],
+            [
+                "mgie",
+                0.4733
+            ],
+            [
+                "any2pix",
+                0.3636
+            ],
+            [
+                "instructpix2pix",
+                0.2325
+            ],
+            [
+                "hqedit",
+                0.1765
+            ]
+        ]
+    },
+    "58": {
+        "image": "0058.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Remove the watermark representation.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9389
+            ],
+            [
+                "iedit",
+                0.9389
+            ],
+            [
+                "hive",
+                0.8374
+            ],
+            [
+                "instructpix2pix",
+                0.8146
+            ],
+            [
+                "mgie",
+                0.7442
+            ],
+            [
+                "magicbrush",
+                0.5896
+            ],
+            [
+                "any2pix",
+                0.5234
+            ],
+            [
+                "hqedit",
+                0.3877
+            ]
+        ]
+    },
+    "59": {
+        "image": "0059.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Trim the image of the watermark symbol.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.91
+            ],
+            [
+                "iedit",
+                0.8678
+            ],
+            [
+                "any2pix",
+                0.701
+            ],
+            [
+                "instructpix2pix",
+                0.675
+            ],
+            [
+                "magicbrush",
+                0.6064
+            ],
+            [
+                "hqedit",
+                0.5375
+            ],
+            [
+                "hive",
+                0.4883
+            ],
+            [
+                "mgie",
+                0.319
+            ]
+        ]
+    },
+    "60": {
+        "image": "0060.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Edit out the watermark symbol.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9379
+            ],
+            [
+                "iedit",
+                0.9284
+            ],
+            [
+                "magicbrush",
+                0.9244
+            ],
+            [
+                "instructpix2pix",
+                0.9169
+            ],
+            [
+                "mgie",
+                0.8429
+            ],
+            [
+                "hive",
+                0.5889
+            ],
+            [
+                "any2pix",
+                0.5409
+            ],
+            [
+                "hqedit",
+                0.316
+            ]
+        ]
+    },
+    "61": {
+        "image": "0061.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Exclude the watermark mark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.818
+            ],
+            [
+                "iedit",
+                0.814
+            ],
+            [
+                "magicbrush",
+                0.8073
+            ],
+            [
+                "mgie",
+                0.6335
+            ],
+            [
+                "instructpix2pix",
+                0.6323
+            ],
+            [
+                "hive",
+                0.5413
+            ],
+            [
+                "any2pix",
+                0.5114
+            ],
+            [
+                "hqedit",
+                0.2861
+            ]
+        ]
+    },
+    "62": {
+        "image": "0062.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Disregard the watermark insignia.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8229
+            ],
+            [
+                "instructpix2pix",
+                0.8084
+            ],
+            [
+                "magicbrush",
+                0.8067
+            ],
+            [
+                "instruct-diffusion",
+                0.8067
+            ],
+            [
+                "mgie",
+                0.6198
+            ],
+            [
+                "hive",
+                0.4964
+            ],
+            [
+                "any2pix",
+                0.4448
+            ],
+            [
+                "hqedit",
+                0.3932
+            ]
+        ]
+    },
+    "63": {
+        "image": "0063.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Oust the watermark symbol.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7882
+            ],
+            [
+                "iedit",
+                0.7003
+            ],
+            [
+                "mgie",
+                0.5207
+            ],
+            [
+                "instructpix2pix",
+                0.4044
+            ],
+            [
+                "any2pix",
+                0.392
+            ],
+            [
+                "hive",
+                0.2394
+            ],
+            [
+                "magicbrush",
+                0.2272
+            ],
+            [
+                "hqedit",
+                0.2115
+            ]
+        ]
+    },
+    "64": {
+        "image": "0064.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Scrub the image of the watermark icon.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.8956
+            ],
+            [
+                "instruct-diffusion",
+                0.8883
+            ],
+            [
+                "iedit",
+                0.8713
+            ],
+            [
+                "mgie",
+                0.7331
+            ],
+            [
+                "instructpix2pix",
+                0.6976
+            ],
+            [
+                "any2pix",
+                0.4626
+            ],
+            [
+                "hqedit",
+                0.3807
+            ],
+            [
+                "hive",
+                0.3123
+            ]
+        ]
+    },
+    "65": {
+        "image": "0065.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Wipe clean the watermark figure.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8837
+            ],
+            [
+                "iedit",
+                0.8827
+            ],
+            [
+                "hive",
+                0.6808
+            ],
+            [
+                "mgie",
+                0.5165
+            ],
+            [
+                "instructpix2pix",
+                0.481
+            ],
+            [
+                "any2pix",
+                0.4594
+            ],
+            [
+                "magicbrush",
+                0.3204
+            ],
+            [
+                "hqedit",
+                0.1958
+            ]
+        ]
+    },
+    "66": {
+        "image": "0066.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Erase the watermark representation.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8902
+            ],
+            [
+                "iedit",
+                0.8817
+            ],
+            [
+                "magicbrush",
+                0.8712
+            ],
+            [
+                "hive",
+                0.8299
+            ],
+            [
+                "instructpix2pix",
+                0.5713
+            ],
+            [
+                "any2pix",
+                0.4844
+            ],
+            [
+                "hqedit",
+                0.4201
+            ],
+            [
+                "mgie",
+                0.3764
+            ]
+        ]
+    },
+    "67": {
+        "image": "0067.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Expunge the watermark motif.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8972
+            ],
+            [
+                "iedit",
+                0.8364
+            ],
+            [
+                "hive",
+                0.6319
+            ],
+            [
+                "any2pix",
+                0.4936
+            ],
+            [
+                "instructpix2pix",
+                0.3539
+            ],
+            [
+                "magicbrush",
+                0.3486
+            ],
+            [
+                "hqedit",
+                0.283
+            ],
+            [
+                "mgie",
+                0.1089
+            ]
+        ]
+    },
+    "68": {
+        "image": "0068.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Eliminate the watermark pattern.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7459
+            ],
+            [
+                "iedit",
+                0.7398
+            ],
+            [
+                "any2pix",
+                0.4829
+            ],
+            [
+                "mgie",
+                0.3696
+            ],
+            [
+                "hive",
+                0.3385
+            ],
+            [
+                "magicbrush",
+                0.2985
+            ],
+            [
+                "instructpix2pix",
+                0.2731
+            ],
+            [
+                "hqedit",
+                0.267
+            ]
+        ]
+    },
+    "69": {
+        "image": "0069.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Exclude the watermark design.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7213
+            ],
+            [
+                "iedit",
+                0.6658
+            ],
+            [
+                "any2pix",
+                0.3444
+            ],
+            [
+                "instructpix2pix",
+                0.3235
+            ],
+            [
+                "hive",
+                0.2455
+            ],
+            [
+                "magicbrush",
+                0.176
+            ],
+            [
+                "hqedit",
+                0.1521
+            ],
+            [
+                "mgie",
+                0.1232
+            ]
+        ]
+    },
+    "70": {
+        "image": "0070.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Withdraw the watermark badge.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7608
+            ],
+            [
+                "iedit",
+                0.7351
+            ],
+            [
+                "magicbrush",
+                0.7251
+            ],
+            [
+                "hive",
+                0.7043
+            ],
+            [
+                "mgie",
+                0.6427
+            ],
+            [
+                "any2pix",
+                0.5147
+            ],
+            [
+                "instructpix2pix",
+                0.4015
+            ],
+            [
+                "hqedit",
+                0.3277
+            ]
+        ]
+    },
+    "71": {
+        "image": "0071.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Remove the watermark seal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7415
+            ],
+            [
+                "instruct-diffusion",
+                0.7229
+            ],
+            [
+                "hive",
+                0.6879
+            ],
+            [
+                "mgie",
+                0.496
+            ],
+            [
+                "any2pix",
+                0.4599
+            ],
+            [
+                "instructpix2pix",
+                0.4291
+            ],
+            [
+                "magicbrush",
+                0.2969
+            ],
+            [
+                "hqedit",
+                0.191
+            ]
+        ]
+    },
+    "72": {
+        "image": "0072.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Exclude the watermark stamp.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8694
+            ],
+            [
+                "magicbrush",
+                0.8459
+            ],
+            [
+                "iedit",
+                0.8441
+            ],
+            [
+                "hive",
+                0.5639
+            ],
+            [
+                "instructpix2pix",
+                0.5514
+            ],
+            [
+                "any2pix",
+                0.3755
+            ],
+            [
+                "hqedit",
+                0.2104
+            ],
+            [
+                "mgie",
+                0.0738
+            ]
+        ]
+    },
+    "73": {
+        "image": "0073.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Obliterate the watermark emblem.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8949
+            ],
+            [
+                "magicbrush",
+                0.8856
+            ],
+            [
+                "instruct-diffusion",
+                0.882
+            ],
+            [
+                "instructpix2pix",
+                0.721
+            ],
+            [
+                "mgie",
+                0.7097
+            ],
+            [
+                "hive",
+                0.5744
+            ],
+            [
+                "any2pix",
+                0.5084
+            ],
+            [
+                "hqedit",
+                0.2328
+            ]
+        ]
+    },
+    "74": {
+        "image": "0074.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Nullify the watermark icon.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8884
+            ],
+            [
+                "iedit",
+                0.8216
+            ],
+            [
+                "mgie",
+                0.7502
+            ],
+            [
+                "hive",
+                0.7485
+            ],
+            [
+                "hqedit",
+                0.5981
+            ],
+            [
+                "any2pix",
+                0.4416
+            ],
+            [
+                "instructpix2pix",
+                0.2676
+            ],
+            [
+                "magicbrush",
+                0.2676
+            ]
+        ]
+    },
+    "75": {
+        "image": "0075.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Abandon the watermark symbol.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8998
+            ],
+            [
+                "instruct-diffusion",
+                0.8975
+            ],
+            [
+                "magicbrush",
+                0.8646
+            ],
+            [
+                "mgie",
+                0.7627
+            ],
+            [
+                "any2pix",
+                0.4764
+            ],
+            [
+                "hive",
+                0.3936
+            ],
+            [
+                "hqedit",
+                0.2473
+            ],
+            [
+                "instructpix2pix",
+                0.2079
+            ]
+        ]
+    },
+    "76": {
+        "image": "0076.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Negate the watermark figure.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7156
+            ],
+            [
+                "instructpix2pix",
+                0.7141
+            ],
+            [
+                "instruct-diffusion",
+                0.7121
+            ],
+            [
+                "hive",
+                0.6733
+            ],
+            [
+                "magicbrush",
+                0.5618
+            ],
+            [
+                "any2pix",
+                0.367
+            ],
+            [
+                "hqedit",
+                0.2222
+            ],
+            [
+                "mgie",
+                0.1179
+            ]
+        ]
+    },
+    "77": {
+        "image": "0077.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Remove the watermark mark.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.9048
+            ],
+            [
+                "instruct-diffusion",
+                0.8898
+            ],
+            [
+                "magicbrush",
+                0.7573
+            ],
+            [
+                "mgie",
+                0.7508
+            ],
+            [
+                "hive",
+                0.3663
+            ],
+            [
+                "any2pix",
+                0.3436
+            ],
+            [
+                "instructpix2pix",
+                0.3293
+            ],
+            [
+                "hqedit",
+                0.3006
+            ]
+        ]
+    },
+    "78": {
+        "image": "0078.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Withdraw the watermark insignia.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.9038
+            ],
+            [
+                "instruct-diffusion",
+                0.8965
+            ],
+            [
+                "hive",
+                0.8617
+            ],
+            [
+                "mgie",
+                0.7795
+            ],
+            [
+                "any2pix",
+                0.5206
+            ],
+            [
+                "magicbrush",
+                0.461
+            ],
+            [
+                "instructpix2pix",
+                0.4074
+            ],
+            [
+                "hqedit",
+                0.4006
+            ]
+        ]
+    },
+    "79": {
+        "image": "0079.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Disregard the watermark badge.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8804
+            ],
+            [
+                "iedit",
+                0.88
+            ],
+            [
+                "instructpix2pix",
+                0.8738
+            ],
+            [
+                "hive",
+                0.8707
+            ],
+            [
+                "magicbrush",
+                0.8656
+            ],
+            [
+                "mgie",
+                0.7516
+            ],
+            [
+                "any2pix",
+                0.4023
+            ],
+            [
+                "hqedit",
+                0.2237
+            ]
+        ]
+    },
+    "80": {
+        "image": "0080.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Oust the watermark seal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9391
+            ],
+            [
+                "mgie",
+                0.8567
+            ],
+            [
+                "iedit",
+                0.8519
+            ],
+            [
+                "hive",
+                0.7246
+            ],
+            [
+                "any2pix",
+                0.6399
+            ],
+            [
+                "instructpix2pix",
+                0.5144
+            ],
+            [
+                "hqedit",
+                0.379
+            ],
+            [
+                "magicbrush",
+                0.3344
+            ]
+        ]
+    },
+    "81": {
+        "image": "0081.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Scrub the image of the watermark stamp.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8604
+            ],
+            [
+                "instruct-diffusion",
+                0.8538
+            ],
+            [
+                "hive",
+                0.7741
+            ],
+            [
+                "mgie",
+                0.7041
+            ],
+            [
+                "instructpix2pix",
+                0.5714
+            ],
+            [
+                "magicbrush",
+                0.5679
+            ],
+            [
+                "any2pix",
+                0.556
+            ],
+            [
+                "hqedit",
+                0.3794
+            ]
+        ]
+    },
+    "82": {
+        "image": "0082.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Wipe clean the watermark emblem.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9151
+            ],
+            [
+                "iedit",
+                0.8925
+            ],
+            [
+                "mgie",
+                0.7089
+            ],
+            [
+                "hive",
+                0.5479
+            ],
+            [
+                "any2pix",
+                0.4047
+            ],
+            [
+                "hqedit",
+                0.2329
+            ],
+            [
+                "magicbrush",
+                0.2192
+            ],
+            [
+                "instructpix2pix",
+                0.2129
+            ]
+        ]
+    },
+    "83": {
+        "image": "0083.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Erase the watermark icon.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.878
+            ],
+            [
+                "instruct-diffusion",
+                0.871
+            ],
+            [
+                "mgie",
+                0.7186
+            ],
+            [
+                "hive",
+                0.5732
+            ],
+            [
+                "magicbrush",
+                0.5058
+            ],
+            [
+                "instructpix2pix",
+                0.4794
+            ],
+            [
+                "any2pix",
+                0.444
+            ],
+            [
+                "hqedit",
+                0.2422
+            ]
+        ]
+    },
+    "84": {
+        "image": "0084.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Expunge the watermark figure.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7489
+            ],
+            [
+                "instruct-diffusion",
+                0.7426
+            ],
+            [
+                "magicbrush",
+                0.726
+            ],
+            [
+                "instructpix2pix",
+                0.7164
+            ],
+            [
+                "hive",
+                0.6546
+            ],
+            [
+                "any2pix",
+                0.5466
+            ],
+            [
+                "hqedit",
+                0.4341
+            ],
+            [
+                "mgie",
+                0.364
+            ]
+        ]
+    },
+    "85": {
+        "image": "0085.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Eliminate the watermark insignia.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.9204
+            ],
+            [
+                "instruct-diffusion",
+                0.912
+            ],
+            [
+                "mgie",
+                0.7497
+            ],
+            [
+                "hive",
+                0.678
+            ],
+            [
+                "instructpix2pix",
+                0.4158
+            ],
+            [
+                "any2pix",
+                0.4004
+            ],
+            [
+                "magicbrush",
+                0.3553
+            ],
+            [
+                "hqedit",
+                0.3175
+            ]
+        ]
+    },
+    "86": {
+        "image": "0086.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Exclude the watermark badge.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8346
+            ],
+            [
+                "iedit",
+                0.8317
+            ],
+            [
+                "magicbrush",
+                0.8236
+            ],
+            [
+                "mgie",
+                0.6645
+            ],
+            [
+                "hive",
+                0.5689
+            ],
+            [
+                "any2pix",
+                0.4359
+            ],
+            [
+                "instructpix2pix",
+                0.2958
+            ],
+            [
+                "hqedit",
+                0.2844
+            ]
+        ]
+    },
+    "87": {
+        "image": "0087.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Withdraw the watermark seal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7042
+            ],
+            [
+                "instruct-diffusion",
+                0.6952
+            ],
+            [
+                "hive",
+                0.5084
+            ],
+            [
+                "mgie",
+                0.4799
+            ],
+            [
+                "instructpix2pix",
+                0.4663
+            ],
+            [
+                "any2pix",
+                0.4565
+            ],
+            [
+                "magicbrush",
+                0.3005
+            ],
+            [
+                "hqedit",
+                0.2406
+            ]
+        ]
+    },
+    "88": {
+        "image": "0088.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Remove the watermark stamp.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9036
+            ],
+            [
+                "iedit",
+                0.9003
+            ],
+            [
+                "mgie",
+                0.8024
+            ],
+            [
+                "any2pix",
+                0.6706
+            ],
+            [
+                "hive",
+                0.4734
+            ],
+            [
+                "instructpix2pix",
+                0.2683
+            ],
+            [
+                "magicbrush",
+                0.2073
+            ],
+            [
+                "hqedit",
+                0.1699
+            ]
+        ]
+    },
+    "89": {
+        "image": "0089.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Exclude the watermark emblem.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9105
+            ],
+            [
+                "iedit",
+                0.9033
+            ],
+            [
+                "magicbrush",
+                0.8592
+            ],
+            [
+                "mgie",
+                0.7658
+            ],
+            [
+                "any2pix",
+                0.461
+            ],
+            [
+                "hqedit",
+                0.4389
+            ],
+            [
+                "instructpix2pix",
+                0.3555
+            ],
+            [
+                "hive",
+                0.1611
+            ]
+        ]
+    },
+    "90": {
+        "image": "0090.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Obliterate the watermark icon.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7319
+            ],
+            [
+                "iedit",
+                0.7114
+            ],
+            [
+                "magicbrush",
+                0.691
+            ],
+            [
+                "mgie",
+                0.4796
+            ],
+            [
+                "instructpix2pix",
+                0.4311
+            ],
+            [
+                "any2pix",
+                0.3961
+            ],
+            [
+                "hqedit",
+                0.3386
+            ],
+            [
+                "hive",
+                0.2964
+            ]
+        ]
+    },
+    "91": {
+        "image": "0091.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Nullify the watermark figure.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8849
+            ],
+            [
+                "instruct-diffusion",
+                0.8837
+            ],
+            [
+                "magicbrush",
+                0.8771
+            ],
+            [
+                "instructpix2pix",
+                0.8453
+            ],
+            [
+                "mgie",
+                0.78
+            ],
+            [
+                "hive",
+                0.7393
+            ],
+            [
+                "any2pix",
+                0.5954
+            ],
+            [
+                "hqedit",
+                0.4448
+            ]
+        ]
+    },
+    "92": {
+        "image": "0092.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Abandon the watermark insignia.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8973
+            ],
+            [
+                "iedit",
+                0.8854
+            ],
+            [
+                "magicbrush",
+                0.8676
+            ],
+            [
+                "any2pix",
+                0.5168
+            ],
+            [
+                "instructpix2pix",
+                0.4966
+            ],
+            [
+                "mgie",
+                0.2388
+            ],
+            [
+                "hive",
+                0.2322
+            ],
+            [
+                "hqedit",
+                0.2131
+            ]
+        ]
+    },
+    "93": {
+        "image": "0093.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Negate the watermark badge.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7416
+            ],
+            [
+                "magicbrush",
+                0.737
+            ],
+            [
+                "instruct-diffusion",
+                0.7232
+            ],
+            [
+                "hive",
+                0.6009
+            ],
+            [
+                "mgie",
+                0.4632
+            ],
+            [
+                "any2pix",
+                0.4102
+            ],
+            [
+                "instructpix2pix",
+                0.3289
+            ],
+            [
+                "hqedit",
+                0.1437
+            ]
+        ]
+    },
+    "94": {
+        "image": "0094.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Remove the watermark seal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8686
+            ],
+            [
+                "hive",
+                0.8547
+            ],
+            [
+                "iedit",
+                0.7992
+            ],
+            [
+                "mgie",
+                0.6844
+            ],
+            [
+                "instructpix2pix",
+                0.6403
+            ],
+            [
+                "any2pix",
+                0.4912
+            ],
+            [
+                "magicbrush",
+                0.432
+            ],
+            [
+                "hqedit",
+                0.3254
+            ]
+        ]
+    },
+    "95": {
+        "image": "0095.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Withdraw the watermark stamp.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.6095
+            ],
+            [
+                "magicbrush",
+                0.6047
+            ],
+            [
+                "instruct-diffusion",
+                0.5893
+            ],
+            [
+                "hive",
+                0.5108
+            ],
+            [
+                "instructpix2pix",
+                0.4477
+            ],
+            [
+                "any2pix",
+                0.2764
+            ],
+            [
+                "mgie",
+                0.2694
+            ],
+            [
+                "hqedit",
+                0.2057
+            ]
+        ]
+    },
+    "96": {
+        "image": "0096.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Exclude the watermark emblem.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.8476
+            ],
+            [
+                "instruct-diffusion",
+                0.8331
+            ],
+            [
+                "magicbrush",
+                0.8314
+            ],
+            [
+                "iedit",
+                0.8244
+            ],
+            [
+                "mgie",
+                0.6043
+            ],
+            [
+                "any2pix",
+                0.4638
+            ],
+            [
+                "instructpix2pix",
+                0.2666
+            ],
+            [
+                "hqedit",
+                0.1301
+            ]
+        ]
+    },
+    "97": {
+        "image": "0097.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Eliminate the watermark icon.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8888
+            ],
+            [
+                "instruct-diffusion",
+                0.8807
+            ],
+            [
+                "hive",
+                0.8072
+            ],
+            [
+                "mgie",
+                0.713
+            ],
+            [
+                "any2pix",
+                0.4638
+            ],
+            [
+                "instructpix2pix",
+                0.4187
+            ],
+            [
+                "hqedit",
+                0.3992
+            ],
+            [
+                "magicbrush",
+                0.3835
+            ]
+        ]
+    },
+    "98": {
+        "image": "0098.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Expunge the watermark figure.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.9347
+            ],
+            [
+                "instruct-diffusion",
+                0.9332
+            ],
+            [
+                "magicbrush",
+                0.8124
+            ],
+            [
+                "hive",
+                0.7029
+            ],
+            [
+                "any2pix",
+                0.4555
+            ],
+            [
+                "instructpix2pix",
+                0.3558
+            ],
+            [
+                "hqedit",
+                0.2425
+            ],
+            [
+                "mgie",
+                0.124
+            ]
+        ]
+    },
+    "99": {
+        "image": "0099.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Erase the watermark insignia.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8371
+            ],
+            [
+                "iedit",
+                0.7815
+            ],
+            [
+                "any2pix",
+                0.4462
+            ],
+            [
+                "hive",
+                0.3126
+            ],
+            [
+                "magicbrush",
+                0.2822
+            ],
+            [
+                "instructpix2pix",
+                0.2301
+            ],
+            [
+                "mgie",
+                0.206
+            ],
+            [
+                "hqedit",
+                0.1856
+            ]
+        ]
+    },
+    "100": {
+        "image": "0100.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Exclude the watermark badge.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8894
+            ],
+            [
+                "magicbrush",
+                0.8726
+            ],
+            [
+                "iedit",
+                0.8362
+            ],
+            [
+                "instructpix2pix",
+                0.7045
+            ],
+            [
+                "mgie",
+                0.688
+            ],
+            [
+                "any2pix",
+                0.3686
+            ],
+            [
+                "hive",
+                0.3508
+            ],
+            [
+                "hqedit",
+                0.2346
+            ]
+        ]
+    },
+    "101": {
+        "image": "0101.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Withdraw the watermark emblem.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8512
+            ],
+            [
+                "magicbrush",
+                0.847
+            ],
+            [
+                "instructpix2pix",
+                0.8469
+            ],
+            [
+                "instruct-diffusion",
+                0.8415
+            ],
+            [
+                "hive",
+                0.7367
+            ],
+            [
+                "mgie",
+                0.7081
+            ],
+            [
+                "any2pix",
+                0.4723
+            ],
+            [
+                "hqedit",
+                0.2898
+            ]
+        ]
+    },
+    "102": {
+        "image": "0102.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Remove the watermark stamp.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.91
+            ],
+            [
+                "instruct-diffusion",
+                0.9073
+            ],
+            [
+                "magicbrush",
+                0.9033
+            ],
+            [
+                "mgie",
+                0.7749
+            ],
+            [
+                "instructpix2pix",
+                0.7566
+            ],
+            [
+                "any2pix",
+                0.449
+            ],
+            [
+                "hqedit",
+                0.2728
+            ],
+            [
+                "hive",
+                0.2369
+            ]
+        ]
+    },
+    "103": {
+        "image": "0103.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Obliterate the watermark icon.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8548
+            ],
+            [
+                "instruct-diffusion",
+                0.8472
+            ],
+            [
+                "hive",
+                0.6311
+            ],
+            [
+                "instructpix2pix",
+                0.4332
+            ],
+            [
+                "any2pix",
+                0.3814
+            ],
+            [
+                "magicbrush",
+                0.2655
+            ],
+            [
+                "hqedit",
+                0.2072
+            ],
+            [
+                "mgie",
+                0.1538
+            ]
+        ]
+    },
+    "104": {
+        "image": "0104.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Nullify the watermark figure.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8512
+            ],
+            [
+                "iedit",
+                0.8383
+            ],
+            [
+                "mgie",
+                0.642
+            ],
+            [
+                "hqedit",
+                0.4993
+            ],
+            [
+                "any2pix",
+                0.4395
+            ],
+            [
+                "instructpix2pix",
+                0.4352
+            ],
+            [
+                "hive",
+                0.4012
+            ],
+            [
+                "magicbrush",
+                0.2883
+            ]
+        ]
+    },
+    "105": {
+        "image": "0105.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Abandon the watermark insignia.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7428
+            ],
+            [
+                "instruct-diffusion",
+                0.7356
+            ],
+            [
+                "iedit",
+                0.6551
+            ],
+            [
+                "mgie",
+                0.4424
+            ],
+            [
+                "hive",
+                0.3597
+            ],
+            [
+                "any2pix",
+                0.2699
+            ],
+            [
+                "hqedit",
+                0.1819
+            ],
+            [
+                "instructpix2pix",
+                0.1253
+            ]
+        ]
+    },
+    "106": {
+        "image": "0106.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Negate the watermark badge.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8901
+            ],
+            [
+                "instruct-diffusion",
+                0.8868
+            ],
+            [
+                "magicbrush",
+                0.8218
+            ],
+            [
+                "mgie",
+                0.735
+            ],
+            [
+                "instructpix2pix",
+                0.669
+            ],
+            [
+                "any2pix",
+                0.4603
+            ],
+            [
+                "hive",
+                0.4063
+            ],
+            [
+                "hqedit",
+                0.3108
+            ]
+        ]
+    },
+    "107": {
+        "image": "0107.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Remove the watermark seal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8661
+            ],
+            [
+                "iedit",
+                0.8278
+            ],
+            [
+                "magicbrush",
+                0.8187
+            ],
+            [
+                "hive",
+                0.8024
+            ],
+            [
+                "mgie",
+                0.6866
+            ],
+            [
+                "any2pix",
+                0.4451
+            ],
+            [
+                "instructpix2pix",
+                0.328
+            ],
+            [
+                "hqedit",
+                0.1399
+            ]
+        ]
+    },
+    "108": {
+        "image": "0108.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Withdraw the watermark stamp.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9079
+            ],
+            [
+                "magicbrush",
+                0.8986
+            ],
+            [
+                "iedit",
+                0.8929
+            ],
+            [
+                "mgie",
+                0.7696
+            ],
+            [
+                "instructpix2pix",
+                0.5649
+            ],
+            [
+                "any2pix",
+                0.4381
+            ],
+            [
+                "hqedit",
+                0.4154
+            ],
+            [
+                "hive",
+                0.177
+            ]
+        ]
+    },
+    "109": {
+        "image": "0109.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Exclude the watermark emblem.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9125
+            ],
+            [
+                "iedit",
+                0.8957
+            ],
+            [
+                "magicbrush",
+                0.8908
+            ],
+            [
+                "hive",
+                0.8365
+            ],
+            [
+                "mgie",
+                0.8031
+            ],
+            [
+                "instructpix2pix",
+                0.6655
+            ],
+            [
+                "any2pix",
+                0.6521
+            ],
+            [
+                "hqedit",
+                0.4062
+            ]
+        ]
+    },
+    "110": {
+        "image": "0110.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Eliminate the watermark icon.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8761
+            ],
+            [
+                "iedit",
+                0.8656
+            ],
+            [
+                "hive",
+                0.7551
+            ],
+            [
+                "mgie",
+                0.7441
+            ],
+            [
+                "any2pix",
+                0.4775
+            ],
+            [
+                "instructpix2pix",
+                0.4338
+            ],
+            [
+                "magicbrush",
+                0.2897
+            ],
+            [
+                "hqedit",
+                0.237
+            ]
+        ]
+    },
+    "111": {
+        "image": "0111.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Expunge the watermark figure.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8796
+            ],
+            [
+                "instruct-diffusion",
+                0.8779
+            ],
+            [
+                "hqedit",
+                0.3059
+            ],
+            [
+                "any2pix",
+                0.3057
+            ],
+            [
+                "hive",
+                0.2196
+            ],
+            [
+                "magicbrush",
+                0.1843
+            ],
+            [
+                "instructpix2pix",
+                0.1813
+            ],
+            [
+                "mgie",
+                0.1087
+            ]
+        ]
+    },
+    "112": {
+        "image": "0112.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Erase the watermark insignia.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9206
+            ],
+            [
+                "iedit",
+                0.8113
+            ],
+            [
+                "mgie",
+                0.797
+            ],
+            [
+                "any2pix",
+                0.5878
+            ],
+            [
+                "magicbrush",
+                0.2732
+            ],
+            [
+                "instructpix2pix",
+                0.2584
+            ],
+            [
+                "hive",
+                0.2099
+            ],
+            [
+                "hqedit",
+                0.12
+            ]
+        ]
+    },
+    "113": {
+        "image": "0113.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Nullify the watermark badge.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9274
+            ],
+            [
+                "iedit",
+                0.8637
+            ],
+            [
+                "magicbrush",
+                0.8504
+            ],
+            [
+                "mgie",
+                0.7991
+            ],
+            [
+                "hive",
+                0.7924
+            ],
+            [
+                "any2pix",
+                0.6896
+            ],
+            [
+                "instructpix2pix",
+                0.5496
+            ],
+            [
+                "hqedit",
+                0.5438
+            ]
+        ]
+    },
+    "114": {
+        "image": "0114.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Oust the watermark seal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9401
+            ],
+            [
+                "iedit",
+                0.92
+            ],
+            [
+                "mgie",
+                0.868
+            ],
+            [
+                "any2pix",
+                0.6955
+            ],
+            [
+                "instructpix2pix",
+                0.6733
+            ],
+            [
+                "magicbrush",
+                0.6584
+            ],
+            [
+                "hive",
+                0.6325
+            ],
+            [
+                "hqedit",
+                0.4828
+            ]
+        ]
+    },
+    "115": {
+        "image": "0115.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Exclude the watermark stamp.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8317
+            ],
+            [
+                "instruct-diffusion",
+                0.8286
+            ],
+            [
+                "magicbrush",
+                0.8218
+            ],
+            [
+                "instructpix2pix",
+                0.6442
+            ],
+            [
+                "any2pix",
+                0.5068
+            ],
+            [
+                "mgie",
+                0.4859
+            ],
+            [
+                "hqedit",
+                0.2942
+            ],
+            [
+                "hive",
+                0.1514
+            ]
+        ]
+    },
+    "116": {
+        "image": "0116.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Withdraw the watermark emblem.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7127
+            ],
+            [
+                "magicbrush",
+                0.7104
+            ],
+            [
+                "instruct-diffusion",
+                0.6942
+            ],
+            [
+                "mgie",
+                0.4402
+            ],
+            [
+                "any2pix",
+                0.3923
+            ],
+            [
+                "hqedit",
+                0.2395
+            ],
+            [
+                "hive",
+                0.2242
+            ],
+            [
+                "instructpix2pix",
+                0.1399
+            ]
+        ]
+    },
+    "117": {
+        "image": "0117.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Remove the watermark icon.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.8088
+            ],
+            [
+                "iedit",
+                0.8065
+            ],
+            [
+                "instructpix2pix",
+                0.8029
+            ],
+            [
+                "instruct-diffusion",
+                0.7899
+            ],
+            [
+                "hive",
+                0.5694
+            ],
+            [
+                "mgie",
+                0.5531
+            ],
+            [
+                "any2pix",
+                0.4131
+            ],
+            [
+                "hqedit",
+                0.1285
+            ]
+        ]
+    },
+    "118": {
+        "image": "0118.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Obliterate the watermark figure.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9515
+            ],
+            [
+                "mgie",
+                0.9386
+            ],
+            [
+                "iedit",
+                0.8778
+            ],
+            [
+                "hive",
+                0.8291
+            ],
+            [
+                "instructpix2pix",
+                0.7575
+            ],
+            [
+                "magicbrush",
+                0.7415
+            ],
+            [
+                "any2pix",
+                0.7083
+            ],
+            [
+                "hqedit",
+                0.5734
+            ]
+        ]
+    },
+    "119": {
+        "image": "0119.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Negate the watermark insignia.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8695
+            ],
+            [
+                "iedit",
+                0.8651
+            ],
+            [
+                "mgie",
+                0.7074
+            ],
+            [
+                "hive",
+                0.6407
+            ],
+            [
+                "any2pix",
+                0.5757
+            ],
+            [
+                "magicbrush",
+                0.5341
+            ],
+            [
+                "hqedit",
+                0.4327
+            ],
+            [
+                "instructpix2pix",
+                0.3669
+            ]
+        ]
+    },
+    "120": {
+        "image": "0120.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Abandon the watermark badge.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7982
+            ],
+            [
+                "iedit",
+                0.7981
+            ],
+            [
+                "mgie",
+                0.622
+            ],
+            [
+                "any2pix",
+                0.4789
+            ],
+            [
+                "hive",
+                0.417
+            ],
+            [
+                "magicbrush",
+                0.3447
+            ],
+            [
+                "instructpix2pix",
+                0.2645
+            ],
+            [
+                "hqedit",
+                0.2131
+            ]
+        ]
+    },
+    "121": {
+        "image": "0121.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Expunge the watermark seal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8407
+            ],
+            [
+                "hive",
+                0.8359
+            ],
+            [
+                "instruct-diffusion",
+                0.8336
+            ],
+            [
+                "magicbrush",
+                0.8316
+            ],
+            [
+                "mgie",
+                0.6081
+            ],
+            [
+                "instructpix2pix",
+                0.5368
+            ],
+            [
+                "any2pix",
+                0.4738
+            ],
+            [
+                "hqedit",
+                0.2643
+            ]
+        ]
+    },
+    "122": {
+        "image": "0122.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Eliminate the watermark stamp.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.949
+            ],
+            [
+                "iedit",
+                0.9372
+            ],
+            [
+                "magicbrush",
+                0.922
+            ],
+            [
+                "mgie",
+                0.8831
+            ],
+            [
+                "any2pix",
+                0.6962
+            ],
+            [
+                "hive",
+                0.6538
+            ],
+            [
+                "instructpix2pix",
+                0.5771
+            ],
+            [
+                "hqedit",
+                0.4514
+            ]
+        ]
+    },
+    "123": {
+        "image": "0123.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Nullify the watermark emblem.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8611
+            ],
+            [
+                "iedit",
+                0.8367
+            ],
+            [
+                "magicbrush",
+                0.8124
+            ],
+            [
+                "hive",
+                0.8118
+            ],
+            [
+                "mgie",
+                0.7116
+            ],
+            [
+                "any2pix",
+                0.4912
+            ],
+            [
+                "instructpix2pix",
+                0.2967
+            ],
+            [
+                "hqedit",
+                0.2252
+            ]
+        ]
+    },
+    "124": {
+        "image": "0124.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Exclude the watermark icon.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8001
+            ],
+            [
+                "instruct-diffusion",
+                0.7956
+            ],
+            [
+                "mgie",
+                0.6644
+            ],
+            [
+                "any2pix",
+                0.4281
+            ],
+            [
+                "instructpix2pix",
+                0.3028
+            ],
+            [
+                "magicbrush",
+                0.2499
+            ],
+            [
+                "hive",
+                0.2121
+            ],
+            [
+                "hqedit",
+                0.1424
+            ]
+        ]
+    },
+    "125": {
+        "image": "0125.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Withdraw the watermark figure.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8633
+            ],
+            [
+                "iedit",
+                0.8573
+            ],
+            [
+                "magicbrush",
+                0.8534
+            ],
+            [
+                "instructpix2pix",
+                0.8407
+            ],
+            [
+                "mgie",
+                0.7434
+            ],
+            [
+                "any2pix",
+                0.5311
+            ],
+            [
+                "hive",
+                0.4459
+            ],
+            [
+                "hqedit",
+                0.1974
+            ]
+        ]
+    },
+    "126": {
+        "image": "0126.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Remove the watermark insignia.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8487
+            ],
+            [
+                "hive",
+                0.8431
+            ],
+            [
+                "magicbrush",
+                0.8402
+            ],
+            [
+                "iedit",
+                0.8108
+            ],
+            [
+                "mgie",
+                0.6587
+            ],
+            [
+                "instructpix2pix",
+                0.4971
+            ],
+            [
+                "any2pix",
+                0.4352
+            ],
+            [
+                "hqedit",
+                0.1772
+            ]
+        ]
+    },
+    "127": {
+        "image": "0127.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Obliterate the watermark badge.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9082
+            ],
+            [
+                "iedit",
+                0.9063
+            ],
+            [
+                "magicbrush",
+                0.897
+            ],
+            [
+                "mgie",
+                0.802
+            ],
+            [
+                "hive",
+                0.6539
+            ],
+            [
+                "any2pix",
+                0.571
+            ],
+            [
+                "instructpix2pix",
+                0.4813
+            ],
+            [
+                "hqedit",
+                0.4788
+            ]
+        ]
+    },
+    "128": {
+        "image": "0128.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Negate the watermark emblem.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8384
+            ],
+            [
+                "iedit",
+                0.812
+            ],
+            [
+                "hive",
+                0.6483
+            ],
+            [
+                "any2pix",
+                0.5696
+            ],
+            [
+                "hqedit",
+                0.4437
+            ],
+            [
+                "instructpix2pix",
+                0.3746
+            ],
+            [
+                "magicbrush",
+                0.3252
+            ],
+            [
+                "mgie",
+                0.2392
+            ]
+        ]
+    },
+    "129": {
+        "image": "0129.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Abandon the watermark icon.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8986
+            ],
+            [
+                "iedit",
+                0.8811
+            ],
+            [
+                "magicbrush",
+                0.8804
+            ],
+            [
+                "mgie",
+                0.7661
+            ],
+            [
+                "any2pix",
+                0.5222
+            ],
+            [
+                "instructpix2pix",
+                0.3218
+            ],
+            [
+                "hqedit",
+                0.2639
+            ],
+            [
+                "hive",
+                0.2076
+            ]
+        ]
+    },
+    "130": {
+        "image": "0130.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Exclude the watermark stamp.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8112
+            ],
+            [
+                "instruct-diffusion",
+                0.7991
+            ],
+            [
+                "magicbrush",
+                0.7961
+            ],
+            [
+                "mgie",
+                0.5909
+            ],
+            [
+                "hqedit",
+                0.5377
+            ],
+            [
+                "any2pix",
+                0.4093
+            ],
+            [
+                "instructpix2pix",
+                0.3871
+            ],
+            [
+                "hive",
+                0.2366
+            ]
+        ]
+    },
+    "131": {
+        "image": "0131.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Withdraw the watermark insignia.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8453
+            ],
+            [
+                "magicbrush",
+                0.837
+            ],
+            [
+                "instruct-diffusion",
+                0.8337
+            ],
+            [
+                "instructpix2pix",
+                0.6153
+            ],
+            [
+                "mgie",
+                0.5818
+            ],
+            [
+                "any2pix",
+                0.4217
+            ],
+            [
+                "hqedit",
+                0.2564
+            ],
+            [
+                "hive",
+                0.2477
+            ]
+        ]
+    },
+    "132": {
+        "image": "0132.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Remove the watermark seal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7302
+            ],
+            [
+                "instruct-diffusion",
+                0.7301
+            ],
+            [
+                "magicbrush",
+                0.7278
+            ],
+            [
+                "hive",
+                0.7207
+            ],
+            [
+                "instructpix2pix",
+                0.6423
+            ],
+            [
+                "mgie",
+                0.5666
+            ],
+            [
+                "any2pix",
+                0.3436
+            ],
+            [
+                "hqedit",
+                0.1694
+            ]
+        ]
+    },
+    "133": {
+        "image": "0133.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Eliminate the watermark stamp.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8364
+            ],
+            [
+                "iedit",
+                0.817
+            ],
+            [
+                "magicbrush",
+                0.7994
+            ],
+            [
+                "hive",
+                0.7486
+            ],
+            [
+                "mgie",
+                0.6773
+            ],
+            [
+                "any2pix",
+                0.4694
+            ],
+            [
+                "instructpix2pix",
+                0.3799
+            ],
+            [
+                "hqedit",
+                0.2418
+            ]
+        ]
+    },
+    "134": {
+        "image": "0134.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Expunge the watermark emblem.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9329
+            ],
+            [
+                "iedit",
+                0.915
+            ],
+            [
+                "mgie",
+                0.8539
+            ],
+            [
+                "hive",
+                0.6683
+            ],
+            [
+                "any2pix",
+                0.647
+            ],
+            [
+                "magicbrush",
+                0.6317
+            ],
+            [
+                "instructpix2pix",
+                0.584
+            ],
+            [
+                "hqedit",
+                0.4312
+            ]
+        ]
+    },
+    "135": {
+        "image": "0135.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Exclude the watermark icon.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8465
+            ],
+            [
+                "instruct-diffusion",
+                0.8449
+            ],
+            [
+                "magicbrush",
+                0.8389
+            ],
+            [
+                "instructpix2pix",
+                0.8255
+            ],
+            [
+                "mgie",
+                0.6643
+            ],
+            [
+                "hqedit",
+                0.5269
+            ],
+            [
+                "any2pix",
+                0.438
+            ],
+            [
+                "hive",
+                0.4316
+            ]
+        ]
+    },
+    "136": {
+        "image": "0136.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Withdraw the watermark figure.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9271
+            ],
+            [
+                "hive",
+                0.8859
+            ],
+            [
+                "iedit",
+                0.885
+            ],
+            [
+                "mgie",
+                0.719
+            ],
+            [
+                "any2pix",
+                0.5081
+            ],
+            [
+                "instructpix2pix",
+                0.4964
+            ],
+            [
+                "magicbrush",
+                0.2921
+            ],
+            [
+                "hqedit",
+                0.2478
+            ]
+        ]
+    },
+    "137": {
+        "image": "0137.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Obliterate the watermark badge.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9507
+            ],
+            [
+                "iedit",
+                0.9418
+            ],
+            [
+                "mgie",
+                0.8863
+            ],
+            [
+                "hive",
+                0.8672
+            ],
+            [
+                "magicbrush",
+                0.836
+            ],
+            [
+                "instructpix2pix",
+                0.6392
+            ],
+            [
+                "any2pix",
+                0.59
+            ],
+            [
+                "hqedit",
+                0.3836
+            ]
+        ]
+    },
+    "138": {
+        "image": "0138.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Nullify the watermark seal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7514
+            ],
+            [
+                "instruct-diffusion",
+                0.7449
+            ],
+            [
+                "hive",
+                0.6838
+            ],
+            [
+                "hqedit",
+                0.5343
+            ],
+            [
+                "mgie",
+                0.5062
+            ],
+            [
+                "magicbrush",
+                0.4115
+            ],
+            [
+                "any2pix",
+                0.358
+            ],
+            [
+                "instructpix2pix",
+                0.3446
+            ]
+        ]
+    },
+    "139": {
+        "image": "0139.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Remove the watermark insignia.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8789
+            ],
+            [
+                "iedit",
+                0.8691
+            ],
+            [
+                "magicbrush",
+                0.8049
+            ],
+            [
+                "hive",
+                0.7789
+            ],
+            [
+                "instructpix2pix",
+                0.4632
+            ],
+            [
+                "any2pix",
+                0.3815
+            ],
+            [
+                "mgie",
+                0.3691
+            ],
+            [
+                "hqedit",
+                0.2967
+            ]
+        ]
+    },
+    "140": {
+        "image": "0140.jpg",
+        "dataset": "WatermarkRemoval",
+        "prompt": "Negate the watermark emblem.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.931
+            ],
+            [
+                "iedit",
+                0.9229
+            ],
+            [
+                "mgie",
+                0.8581
+            ],
+            [
+                "hive",
+                0.5148
+            ],
+            [
+                "any2pix",
+                0.4683
+            ],
+            [
+                "magicbrush",
+                0.2279
+            ],
+            [
+                "instructpix2pix",
+                0.2097
+            ],
+            [
+                "hqedit",
+                0.1708
+            ]
+        ]
+    }
+}

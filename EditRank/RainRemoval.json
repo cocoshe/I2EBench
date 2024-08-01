@@ -1,0 +1,5742 @@
+{
+    "1": {
+        "image": "0001.png",
+        "dataset": "RainRemoval",
+        "prompt": "Eliminate raindrops.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7409
+            ],
+            [
+                "mgie",
+                0.7285
+            ],
+            [
+                "hive",
+                0.7075
+            ],
+            [
+                "iedit",
+                0.665
+            ],
+            [
+                "magicbrush",
+                0.4679
+            ],
+            [
+                "instructpix2pix",
+                0.3427
+            ],
+            [
+                "hqedit",
+                0.2942
+            ],
+            [
+                "any2pix",
+                0.2925
+            ]
+        ]
+    },
+    "2": {
+        "image": "0002.png",
+        "dataset": "RainRemoval",
+        "prompt": "Clear the rain from the picture.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7701
+            ],
+            [
+                "instruct-diffusion",
+                0.6882
+            ],
+            [
+                "instructpix2pix",
+                0.6504
+            ],
+            [
+                "iedit",
+                0.6453
+            ],
+            [
+                "magicbrush",
+                0.6072
+            ],
+            [
+                "mgie",
+                0.4857
+            ],
+            [
+                "hqedit",
+                0.3364
+            ],
+            [
+                "any2pix",
+                0.2736
+            ]
+        ]
+    },
+    "3": {
+        "image": "0003.png",
+        "dataset": "RainRemoval",
+        "prompt": "Take out the rain.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7474
+            ],
+            [
+                "hive",
+                0.7466
+            ],
+            [
+                "instructpix2pix",
+                0.7294
+            ],
+            [
+                "iedit",
+                0.6494
+            ],
+            [
+                "mgie",
+                0.5402
+            ],
+            [
+                "any2pix",
+                0.4193
+            ],
+            [
+                "magicbrush",
+                0.4086
+            ],
+            [
+                "hqedit",
+                0.2979
+            ]
+        ]
+    },
+    "4": {
+        "image": "0004.png",
+        "dataset": "RainRemoval",
+        "prompt": "Exclude the rainfall.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7741
+            ],
+            [
+                "iedit",
+                0.7215
+            ],
+            [
+                "mgie",
+                0.6557
+            ],
+            [
+                "instructpix2pix",
+                0.5645
+            ],
+            [
+                "instruct-diffusion",
+                0.446
+            ],
+            [
+                "any2pix",
+                0.3842
+            ],
+            [
+                "magicbrush",
+                0.3593
+            ],
+            [
+                "hqedit",
+                0.347
+            ]
+        ]
+    },
+    "5": {
+        "image": "0005.png",
+        "dataset": "RainRemoval",
+        "prompt": "Erase rain elements.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7142
+            ],
+            [
+                "iedit",
+                0.6523
+            ],
+            [
+                "hive",
+                0.6465
+            ],
+            [
+                "mgie",
+                0.4545
+            ],
+            [
+                "any2pix",
+                0.4062
+            ],
+            [
+                "magicbrush",
+                0.3681
+            ],
+            [
+                "hqedit",
+                0.3192
+            ],
+            [
+                "instructpix2pix",
+                0.3017
+            ]
+        ]
+    },
+    "6": {
+        "image": "0006.png",
+        "dataset": "RainRemoval",
+        "prompt": "Eradicate the rainy backdrop.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6622
+            ],
+            [
+                "iedit",
+                0.6547
+            ],
+            [
+                "instructpix2pix",
+                0.6405
+            ],
+            [
+                "instruct-diffusion",
+                0.64
+            ],
+            [
+                "any2pix",
+                0.5833
+            ],
+            [
+                "hive",
+                0.5782
+            ],
+            [
+                "magicbrush",
+                0.4144
+            ],
+            [
+                "hqedit",
+                0.3878
+            ]
+        ]
+    },
+    "7": {
+        "image": "0007.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove rainwater interference.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7057
+            ],
+            [
+                "instruct-diffusion",
+                0.6468
+            ],
+            [
+                "hive",
+                0.5991
+            ],
+            [
+                "instructpix2pix",
+                0.5629
+            ],
+            [
+                "mgie",
+                0.5612
+            ],
+            [
+                "any2pix",
+                0.5159
+            ],
+            [
+                "hqedit",
+                0.3528
+            ],
+            [
+                "magicbrush",
+                0.2818
+            ]
+        ]
+    },
+    "8": {
+        "image": "0008.png",
+        "dataset": "RainRemoval",
+        "prompt": "Extract the rain from the scene.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7824
+            ],
+            [
+                "magicbrush",
+                0.7636
+            ],
+            [
+                "instruct-diffusion",
+                0.7612
+            ],
+            [
+                "iedit",
+                0.7546
+            ],
+            [
+                "instructpix2pix",
+                0.7347
+            ],
+            [
+                "hive",
+                0.689
+            ],
+            [
+                "hqedit",
+                0.568
+            ],
+            [
+                "any2pix",
+                0.5052
+            ]
+        ]
+    },
+    "9": {
+        "image": "0009.png",
+        "dataset": "RainRemoval",
+        "prompt": "Wipe away the rain.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7127
+            ],
+            [
+                "instruct-diffusion",
+                0.6966
+            ],
+            [
+                "iedit",
+                0.6385
+            ],
+            [
+                "mgie",
+                0.6135
+            ],
+            [
+                "hive",
+                0.5761
+            ],
+            [
+                "instructpix2pix",
+                0.5151
+            ],
+            [
+                "any2pix",
+                0.4846
+            ],
+            [
+                "hqedit",
+                0.3147
+            ]
+        ]
+    },
+    "10": {
+        "image": "0010.png",
+        "dataset": "RainRemoval",
+        "prompt": "Cleanse the image of rain.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7535
+            ],
+            [
+                "iedit",
+                0.7467
+            ],
+            [
+                "mgie",
+                0.5782
+            ],
+            [
+                "hive",
+                0.532
+            ],
+            [
+                "instructpix2pix",
+                0.4864
+            ],
+            [
+                "hqedit",
+                0.4343
+            ],
+            [
+                "any2pix",
+                0.4078
+            ],
+            [
+                "magicbrush",
+                0.353
+            ]
+        ]
+    },
+    "11": {
+        "image": "0011.png",
+        "dataset": "RainRemoval",
+        "prompt": "Purge the raindrops.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7461
+            ],
+            [
+                "iedit",
+                0.7367
+            ],
+            [
+                "instruct-diffusion",
+                0.7267
+            ],
+            [
+                "mgie",
+                0.6824
+            ],
+            [
+                "any2pix",
+                0.524
+            ],
+            [
+                "instructpix2pix",
+                0.4967
+            ],
+            [
+                "hqedit",
+                0.3656
+            ],
+            [
+                "magicbrush",
+                0.3544
+            ]
+        ]
+    },
+    "12": {
+        "image": "0012.png",
+        "dataset": "RainRemoval",
+        "prompt": "Omit the precipitation.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7585
+            ],
+            [
+                "mgie",
+                0.7476
+            ],
+            [
+                "iedit",
+                0.7176
+            ],
+            [
+                "instruct-diffusion",
+                0.7102
+            ],
+            [
+                "hive",
+                0.6787
+            ],
+            [
+                "instructpix2pix",
+                0.6677
+            ],
+            [
+                "any2pix",
+                0.5024
+            ],
+            [
+                "hqedit",
+                0.5005
+            ]
+        ]
+    },
+    "13": {
+        "image": "0013.png",
+        "dataset": "RainRemoval",
+        "prompt": "Banish the rain.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.561
+            ],
+            [
+                "any2pix",
+                0.5361
+            ],
+            [
+                "instruct-diffusion",
+                0.5197
+            ],
+            [
+                "magicbrush",
+                0.5186
+            ],
+            [
+                "mgie",
+                0.4996
+            ],
+            [
+                "instructpix2pix",
+                0.4951
+            ],
+            [
+                "iedit",
+                0.4697
+            ],
+            [
+                "hqedit",
+                0.373
+            ]
+        ]
+    },
+    "14": {
+        "image": "0014.png",
+        "dataset": "RainRemoval",
+        "prompt": "Dispel the rainy atmosphere.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5817
+            ],
+            [
+                "instruct-diffusion",
+                0.5598
+            ],
+            [
+                "iedit",
+                0.5519
+            ],
+            [
+                "hive",
+                0.5339
+            ],
+            [
+                "mgie",
+                0.5279
+            ],
+            [
+                "instructpix2pix",
+                0.4635
+            ],
+            [
+                "any2pix",
+                0.3622
+            ],
+            [
+                "hqedit",
+                0.2183
+            ]
+        ]
+    },
+    "15": {
+        "image": "0015.png",
+        "dataset": "RainRemoval",
+        "prompt": "Rid the image of rain.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.5745
+            ],
+            [
+                "magicbrush",
+                0.569
+            ],
+            [
+                "mgie",
+                0.5647
+            ],
+            [
+                "instruct-diffusion",
+                0.5454
+            ],
+            [
+                "instructpix2pix",
+                0.5434
+            ],
+            [
+                "iedit",
+                0.5361
+            ],
+            [
+                "any2pix",
+                0.3679
+            ],
+            [
+                "hqedit",
+                0.2554
+            ]
+        ]
+    },
+    "16": {
+        "image": "0016.png",
+        "dataset": "RainRemoval",
+        "prompt": "Expunge rain elements.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7159
+            ],
+            [
+                "iedit",
+                0.5597
+            ],
+            [
+                "mgie",
+                0.5477
+            ],
+            [
+                "instructpix2pix",
+                0.5019
+            ],
+            [
+                "any2pix",
+                0.4091
+            ],
+            [
+                "magicbrush",
+                0.2803
+            ],
+            [
+                "instruct-diffusion",
+                0.258
+            ],
+            [
+                "hqedit",
+                0.2373
+            ]
+        ]
+    },
+    "17": {
+        "image": "0017.png",
+        "dataset": "RainRemoval",
+        "prompt": "Exclude the drizzle.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.671
+            ],
+            [
+                "iedit",
+                0.6498
+            ],
+            [
+                "instructpix2pix",
+                0.6459
+            ],
+            [
+                "hive",
+                0.6306
+            ],
+            [
+                "mgie",
+                0.5972
+            ],
+            [
+                "any2pix",
+                0.4531
+            ],
+            [
+                "magicbrush",
+                0.4129
+            ],
+            [
+                "hqedit",
+                0.1589
+            ]
+        ]
+    },
+    "18": {
+        "image": "0018.png",
+        "dataset": "RainRemoval",
+        "prompt": "Erase the rain streaks.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7003
+            ],
+            [
+                "instruct-diffusion",
+                0.647
+            ],
+            [
+                "iedit",
+                0.6235
+            ],
+            [
+                "instructpix2pix",
+                0.5554
+            ],
+            [
+                "any2pix",
+                0.4009
+            ],
+            [
+                "hqedit",
+                0.3597
+            ],
+            [
+                "mgie",
+                0.2764
+            ],
+            [
+                "magicbrush",
+                0.1956
+            ]
+        ]
+    },
+    "19": {
+        "image": "0019.png",
+        "dataset": "RainRemoval",
+        "prompt": "Evict the raindrops.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8799
+            ],
+            [
+                "mgie",
+                0.8427
+            ],
+            [
+                "iedit",
+                0.8171
+            ],
+            [
+                "magicbrush",
+                0.8093
+            ],
+            [
+                "instructpix2pix",
+                0.8
+            ],
+            [
+                "hive",
+                0.7455
+            ],
+            [
+                "any2pix",
+                0.482
+            ],
+            [
+                "hqedit",
+                0.4379
+            ]
+        ]
+    },
+    "20": {
+        "image": "0020.png",
+        "dataset": "RainRemoval",
+        "prompt": "Clear away the rainfall.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9546
+            ],
+            [
+                "mgie",
+                0.9484
+            ],
+            [
+                "iedit",
+                0.9106
+            ],
+            [
+                "hive",
+                0.7822
+            ],
+            [
+                "magicbrush",
+                0.7595
+            ],
+            [
+                "any2pix",
+                0.7516
+            ],
+            [
+                "hqedit",
+                0.7075
+            ],
+            [
+                "instructpix2pix",
+                0.5881
+            ]
+        ]
+    },
+    "21": {
+        "image": "0021.png",
+        "dataset": "RainRemoval",
+        "prompt": "Eradicate the wet weather.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.9518
+            ],
+            [
+                "hive",
+                0.9477
+            ],
+            [
+                "instructpix2pix",
+                0.9332
+            ],
+            [
+                "iedit",
+                0.9056
+            ],
+            [
+                "instruct-diffusion",
+                0.8768
+            ],
+            [
+                "any2pix",
+                0.8166
+            ],
+            [
+                "hqedit",
+                0.782
+            ],
+            [
+                "mgie",
+                0.1466
+            ]
+        ]
+    },
+    "22": {
+        "image": "0022.png",
+        "dataset": "RainRemoval",
+        "prompt": "Erase rain interference.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7891
+            ],
+            [
+                "instruct-diffusion",
+                0.7681
+            ],
+            [
+                "iedit",
+                0.7627
+            ],
+            [
+                "instructpix2pix",
+                0.6689
+            ],
+            [
+                "hive",
+                0.6008
+            ],
+            [
+                "any2pix",
+                0.5377
+            ],
+            [
+                "hqedit",
+                0.3821
+            ],
+            [
+                "mgie",
+                0.1849
+            ]
+        ]
+    },
+    "23": {
+        "image": "0023.png",
+        "dataset": "RainRemoval",
+        "prompt": "Nullify the rain presence.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.672
+            ],
+            [
+                "iedit",
+                0.6684
+            ],
+            [
+                "instruct-diffusion",
+                0.6641
+            ],
+            [
+                "magicbrush",
+                0.6372
+            ],
+            [
+                "instructpix2pix",
+                0.6305
+            ],
+            [
+                "any2pix",
+                0.5468
+            ],
+            [
+                "hqedit",
+                0.5245
+            ],
+            [
+                "hive",
+                0.5186
+            ]
+        ]
+    },
+    "24": {
+        "image": "0024.png",
+        "dataset": "RainRemoval",
+        "prompt": "Eliminate the drizzly ambiance.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.4928
+            ],
+            [
+                "iedit",
+                0.4879
+            ],
+            [
+                "instruct-diffusion",
+                0.4755
+            ],
+            [
+                "instructpix2pix",
+                0.3949
+            ],
+            [
+                "magicbrush",
+                0.382
+            ],
+            [
+                "mgie",
+                0.3734
+            ],
+            [
+                "any2pix",
+                0.3286
+            ],
+            [
+                "hqedit",
+                0.2165
+            ]
+        ]
+    },
+    "25": {
+        "image": "0025.png",
+        "dataset": "RainRemoval",
+        "prompt": "Wipe off the rain.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.5648
+            ],
+            [
+                "hive",
+                0.5518
+            ],
+            [
+                "instruct-diffusion",
+                0.5518
+            ],
+            [
+                "mgie",
+                0.5342
+            ],
+            [
+                "instructpix2pix",
+                0.5341
+            ],
+            [
+                "magicbrush",
+                0.529
+            ],
+            [
+                "any2pix",
+                0.3258
+            ],
+            [
+                "hqedit",
+                0.2152
+            ]
+        ]
+    },
+    "26": {
+        "image": "0026.png",
+        "dataset": "RainRemoval",
+        "prompt": "Strip the image of rain.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6042
+            ],
+            [
+                "instruct-diffusion",
+                0.5833
+            ],
+            [
+                "iedit",
+                0.5298
+            ],
+            [
+                "magicbrush",
+                0.4975
+            ],
+            [
+                "instructpix2pix",
+                0.4185
+            ],
+            [
+                "mgie",
+                0.392
+            ],
+            [
+                "any2pix",
+                0.291
+            ],
+            [
+                "hqedit",
+                0.2745
+            ]
+        ]
+    },
+    "27": {
+        "image": "0027.png",
+        "dataset": "RainRemoval",
+        "prompt": "Purify the scene from rain.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5361
+            ],
+            [
+                "mgie",
+                0.4727
+            ],
+            [
+                "instructpix2pix",
+                0.4082
+            ],
+            [
+                "iedit",
+                0.3951
+            ],
+            [
+                "hive",
+                0.3803
+            ],
+            [
+                "any2pix",
+                0.3395
+            ],
+            [
+                "magicbrush",
+                0.3041
+            ],
+            [
+                "hqedit",
+                0.2024
+            ]
+        ]
+    },
+    "28": {
+        "image": "0028.png",
+        "dataset": "RainRemoval",
+        "prompt": "Banish the rainy background.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.4645
+            ],
+            [
+                "iedit",
+                0.4619
+            ],
+            [
+                "instruct-diffusion",
+                0.4563
+            ],
+            [
+                "instructpix2pix",
+                0.4403
+            ],
+            [
+                "magicbrush",
+                0.3989
+            ],
+            [
+                "any2pix",
+                0.3768
+            ],
+            [
+                "mgie",
+                0.3309
+            ],
+            [
+                "hqedit",
+                0.1731
+            ]
+        ]
+    },
+    "29": {
+        "image": "0029.png",
+        "dataset": "RainRemoval",
+        "prompt": "Absorb the raindrops.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.93
+            ],
+            [
+                "iedit",
+                0.922
+            ],
+            [
+                "any2pix",
+                0.85
+            ],
+            [
+                "instruct-diffusion",
+                0.7658
+            ],
+            [
+                "magicbrush",
+                0.6606
+            ],
+            [
+                "hive",
+                0.6506
+            ],
+            [
+                "hqedit",
+                0.6099
+            ],
+            [
+                "instructpix2pix",
+                0.5884
+            ]
+        ]
+    },
+    "30": {
+        "image": "0030.png",
+        "dataset": "RainRemoval",
+        "prompt": "Vanquish the rain.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7509
+            ],
+            [
+                "instruct-diffusion",
+                0.7444
+            ],
+            [
+                "instructpix2pix",
+                0.7153
+            ],
+            [
+                "magicbrush",
+                0.6998
+            ],
+            [
+                "iedit",
+                0.6742
+            ],
+            [
+                "hive",
+                0.5335
+            ],
+            [
+                "any2pix",
+                0.4945
+            ],
+            [
+                "hqedit",
+                0.4112
+            ]
+        ]
+    },
+    "31": {
+        "image": "0031.png",
+        "dataset": "RainRemoval",
+        "prompt": "Dissipate the rain.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.8215
+            ],
+            [
+                "instruct-diffusion",
+                0.7829
+            ],
+            [
+                "mgie",
+                0.7699
+            ],
+            [
+                "iedit",
+                0.7608
+            ],
+            [
+                "hqedit",
+                0.7434
+            ],
+            [
+                "any2pix",
+                0.6146
+            ],
+            [
+                "magicbrush",
+                0.4334
+            ],
+            [
+                "instructpix2pix",
+                0.3922
+            ]
+        ]
+    },
+    "32": {
+        "image": "0032.png",
+        "dataset": "RainRemoval",
+        "prompt": "Abolish the rain.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.723
+            ],
+            [
+                "magicbrush",
+                0.6892
+            ],
+            [
+                "instruct-diffusion",
+                0.686
+            ],
+            [
+                "instructpix2pix",
+                0.6435
+            ],
+            [
+                "iedit",
+                0.6082
+            ],
+            [
+                "any2pix",
+                0.5489
+            ],
+            [
+                "hqedit",
+                0.4958
+            ],
+            [
+                "hive",
+                0.361
+            ]
+        ]
+    },
+    "33": {
+        "image": "0033.png",
+        "dataset": "RainRemoval",
+        "prompt": "Clear the picture of rain.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7544
+            ],
+            [
+                "instruct-diffusion",
+                0.7513
+            ],
+            [
+                "iedit",
+                0.7149
+            ],
+            [
+                "instructpix2pix",
+                0.7108
+            ],
+            [
+                "magicbrush",
+                0.6615
+            ],
+            [
+                "any2pix",
+                0.4777
+            ],
+            [
+                "hive",
+                0.3433
+            ],
+            [
+                "hqedit",
+                0.2913
+            ]
+        ]
+    },
+    "34": {
+        "image": "0034.png",
+        "dataset": "RainRemoval",
+        "prompt": "Erase rain splatters.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6737
+            ],
+            [
+                "instruct-diffusion",
+                0.6589
+            ],
+            [
+                "magicbrush",
+                0.6282
+            ],
+            [
+                "mgie",
+                0.6124
+            ],
+            [
+                "iedit",
+                0.606
+            ],
+            [
+                "any2pix",
+                0.5126
+            ],
+            [
+                "instructpix2pix",
+                0.4416
+            ],
+            [
+                "hqedit",
+                0.2828
+            ]
+        ]
+    },
+    "35": {
+        "image": "0035.png",
+        "dataset": "RainRemoval",
+        "prompt": "Devoid the image of rain.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6798
+            ],
+            [
+                "instructpix2pix",
+                0.6552
+            ],
+            [
+                "any2pix",
+                0.6298
+            ],
+            [
+                "iedit",
+                0.6125
+            ],
+            [
+                "hive",
+                0.5945
+            ],
+            [
+                "magicbrush",
+                0.5445
+            ],
+            [
+                "hqedit",
+                0.3424
+            ],
+            [
+                "mgie",
+                0.2742
+            ]
+        ]
+    },
+    "36": {
+        "image": "0036.png",
+        "dataset": "RainRemoval",
+        "prompt": "Eliminate the wetness.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6503
+            ],
+            [
+                "magicbrush",
+                0.6002
+            ],
+            [
+                "instruct-diffusion",
+                0.5728
+            ],
+            [
+                "mgie",
+                0.5726
+            ],
+            [
+                "iedit",
+                0.5642
+            ],
+            [
+                "any2pix",
+                0.5562
+            ],
+            [
+                "instructpix2pix",
+                0.4713
+            ],
+            [
+                "hqedit",
+                0.3866
+            ]
+        ]
+    },
+    "37": {
+        "image": "0037.png",
+        "dataset": "RainRemoval",
+        "prompt": "Annihilate the rain.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5937
+            ],
+            [
+                "instruct-diffusion",
+                0.5734
+            ],
+            [
+                "instructpix2pix",
+                0.5551
+            ],
+            [
+                "iedit",
+                0.5327
+            ],
+            [
+                "hive",
+                0.5115
+            ],
+            [
+                "any2pix",
+                0.4883
+            ],
+            [
+                "mgie",
+                0.3703
+            ],
+            [
+                "hqedit",
+                0.2993
+            ]
+        ]
+    },
+    "38": {
+        "image": "0038.png",
+        "dataset": "RainRemoval",
+        "prompt": "Withdraw the rain elements.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.5721
+            ],
+            [
+                "iedit",
+                0.5295
+            ],
+            [
+                "hqedit",
+                0.4941
+            ],
+            [
+                "mgie",
+                0.4745
+            ],
+            [
+                "any2pix",
+                0.3818
+            ],
+            [
+                "magicbrush",
+                0.3322
+            ],
+            [
+                "instructpix2pix",
+                0.2946
+            ],
+            [
+                "instruct-diffusion",
+                0.2527
+            ]
+        ]
+    },
+    "39": {
+        "image": "0039.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the watery effect.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "any2pix",
+                0.832
+            ],
+            [
+                "hive",
+                0.7928
+            ],
+            [
+                "instruct-diffusion",
+                0.6303
+            ],
+            [
+                "hqedit",
+                0.6088
+            ],
+            [
+                "iedit",
+                0.6001
+            ],
+            [
+                "instructpix2pix",
+                0.4659
+            ],
+            [
+                "magicbrush",
+                0.4495
+            ],
+            [
+                "mgie",
+                0.2735
+            ]
+        ]
+    },
+    "40": {
+        "image": "0040.png",
+        "dataset": "RainRemoval",
+        "prompt": "Eradicate the rainy overlay.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5615
+            ],
+            [
+                "any2pix",
+                0.5297
+            ],
+            [
+                "hqedit",
+                0.5282
+            ],
+            [
+                "hive",
+                0.4913
+            ],
+            [
+                "iedit",
+                0.4627
+            ],
+            [
+                "mgie",
+                0.4309
+            ],
+            [
+                "instructpix2pix",
+                0.3682
+            ],
+            [
+                "magicbrush",
+                0.1815
+            ]
+        ]
+    },
+    "41": {
+        "image": "0041.png",
+        "dataset": "RainRemoval",
+        "prompt": "Purify the image from rain.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.9399
+            ],
+            [
+                "instruct-diffusion",
+                0.9327
+            ],
+            [
+                "mgie",
+                0.8929
+            ],
+            [
+                "any2pix",
+                0.8485
+            ],
+            [
+                "hive",
+                0.8399
+            ],
+            [
+                "instructpix2pix",
+                0.5772
+            ],
+            [
+                "magicbrush",
+                0.5695
+            ],
+            [
+                "hqedit",
+                0.4033
+            ]
+        ]
+    },
+    "42": {
+        "image": "0042.png",
+        "dataset": "RainRemoval",
+        "prompt": "Nullify rain droplets.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "any2pix",
+                0.9035
+            ],
+            [
+                "instruct-diffusion",
+                0.8907
+            ],
+            [
+                "hive",
+                0.8628
+            ],
+            [
+                "iedit",
+                0.8524
+            ],
+            [
+                "magicbrush",
+                0.8229
+            ],
+            [
+                "hqedit",
+                0.6213
+            ],
+            [
+                "mgie",
+                0.597
+            ],
+            [
+                "instructpix2pix",
+                0.4328
+            ]
+        ]
+    },
+    "43": {
+        "image": "0043.png",
+        "dataset": "RainRemoval",
+        "prompt": "Exclude rain streaks.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.772
+            ],
+            [
+                "any2pix",
+                0.6496
+            ],
+            [
+                "instruct-diffusion",
+                0.6445
+            ],
+            [
+                "iedit",
+                0.6188
+            ],
+            [
+                "hive",
+                0.5095
+            ],
+            [
+                "magicbrush",
+                0.3558
+            ],
+            [
+                "hqedit",
+                0.3386
+            ],
+            [
+                "instructpix2pix",
+                0.2711
+            ]
+        ]
+    },
+    "44": {
+        "image": "0044.png",
+        "dataset": "RainRemoval",
+        "prompt": "Extract the rain influence.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.8075
+            ],
+            [
+                "instruct-diffusion",
+                0.5764
+            ],
+            [
+                "mgie",
+                0.5626
+            ],
+            [
+                "iedit",
+                0.5512
+            ],
+            [
+                "hive",
+                0.539
+            ],
+            [
+                "instructpix2pix",
+                0.5245
+            ],
+            [
+                "any2pix",
+                0.4642
+            ],
+            [
+                "hqedit",
+                0.3251
+            ]
+        ]
+    },
+    "45": {
+        "image": "0045.png",
+        "dataset": "RainRemoval",
+        "prompt": "Cleanse the image palette.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.8133
+            ],
+            [
+                "instruct-diffusion",
+                0.7261
+            ],
+            [
+                "iedit",
+                0.7032
+            ],
+            [
+                "instructpix2pix",
+                0.649
+            ],
+            [
+                "hive",
+                0.6385
+            ],
+            [
+                "any2pix",
+                0.5194
+            ],
+            [
+                "hqedit",
+                0.469
+            ],
+            [
+                "mgie",
+                0.4591
+            ]
+        ]
+    },
+    "46": {
+        "image": "0046.png",
+        "dataset": "RainRemoval",
+        "prompt": "Void the rain.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.4844
+            ],
+            [
+                "instruct-diffusion",
+                0.4515
+            ],
+            [
+                "magicbrush",
+                0.4481
+            ],
+            [
+                "iedit",
+                0.4374
+            ],
+            [
+                "mgie",
+                0.4265
+            ],
+            [
+                "any2pix",
+                0.3785
+            ],
+            [
+                "hqedit",
+                0.3456
+            ],
+            [
+                "instructpix2pix",
+                0.208
+            ]
+        ]
+    },
+    "47": {
+        "image": "0047.png",
+        "dataset": "RainRemoval",
+        "prompt": "Dismiss the rainfall.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8478
+            ],
+            [
+                "magicbrush",
+                0.7049
+            ],
+            [
+                "hive",
+                0.4919
+            ],
+            [
+                "iedit",
+                0.4489
+            ],
+            [
+                "any2pix",
+                0.4212
+            ],
+            [
+                "mgie",
+                0.4179
+            ],
+            [
+                "instructpix2pix",
+                0.3258
+            ],
+            [
+                "hqedit",
+                0.2438
+            ]
+        ]
+    },
+    "48": {
+        "image": "0048.png",
+        "dataset": "RainRemoval",
+        "prompt": "Disentangle from the rain.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4771
+            ],
+            [
+                "iedit",
+                0.4269
+            ],
+            [
+                "instruct-diffusion",
+                0.4247
+            ],
+            [
+                "any2pix",
+                0.3662
+            ],
+            [
+                "hqedit",
+                0.3422
+            ],
+            [
+                "hive",
+                0.3305
+            ],
+            [
+                "instructpix2pix",
+                0.2514
+            ],
+            [
+                "mgie",
+                0.0722
+            ]
+        ]
+    },
+    "49": {
+        "image": "0049.png",
+        "dataset": "RainRemoval",
+        "prompt": "Purge the rainy aura.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7996
+            ],
+            [
+                "magicbrush",
+                0.6733
+            ],
+            [
+                "hqedit",
+                0.5549
+            ],
+            [
+                "instruct-diffusion",
+                0.5455
+            ],
+            [
+                "mgie",
+                0.5416
+            ],
+            [
+                "iedit",
+                0.5336
+            ],
+            [
+                "any2pix",
+                0.3884
+            ],
+            [
+                "instructpix2pix",
+                0.1558
+            ]
+        ]
+    },
+    "50": {
+        "image": "0050.png",
+        "dataset": "RainRemoval",
+        "prompt": "Abrogate the rain presence.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6758
+            ],
+            [
+                "instruct-diffusion",
+                0.625
+            ],
+            [
+                "magicbrush",
+                0.6156
+            ],
+            [
+                "iedit",
+                0.6082
+            ],
+            [
+                "mgie",
+                0.6079
+            ],
+            [
+                "instructpix2pix",
+                0.6073
+            ],
+            [
+                "any2pix",
+                0.4427
+            ],
+            [
+                "hqedit",
+                0.1303
+            ]
+        ]
+    },
+    "51": {
+        "image": "0051.png",
+        "dataset": "RainRemoval",
+        "prompt": "Disregard rain particles.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.4907
+            ],
+            [
+                "iedit",
+                0.4669
+            ],
+            [
+                "hive",
+                0.4651
+            ],
+            [
+                "mgie",
+                0.4293
+            ],
+            [
+                "magicbrush",
+                0.4048
+            ],
+            [
+                "any2pix",
+                0.3401
+            ],
+            [
+                "instructpix2pix",
+                0.1752
+            ],
+            [
+                "hqedit",
+                0.1219
+            ]
+        ]
+    },
+    "52": {
+        "image": "0052.png",
+        "dataset": "RainRemoval",
+        "prompt": "Eliminate rain shadows.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7473
+            ],
+            [
+                "instruct-diffusion",
+                0.7188
+            ],
+            [
+                "magicbrush",
+                0.5686
+            ],
+            [
+                "any2pix",
+                0.5144
+            ],
+            [
+                "hive",
+                0.4872
+            ],
+            [
+                "mgie",
+                0.4795
+            ],
+            [
+                "instructpix2pix",
+                0.3839
+            ],
+            [
+                "hqedit",
+                0.3234
+            ]
+        ]
+    },
+    "53": {
+        "image": "0053.png",
+        "dataset": "RainRemoval",
+        "prompt": "Exterminate the rainy feel.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6298
+            ],
+            [
+                "instruct-diffusion",
+                0.5673
+            ],
+            [
+                "magicbrush",
+                0.527
+            ],
+            [
+                "mgie",
+                0.5249
+            ],
+            [
+                "iedit",
+                0.5015
+            ],
+            [
+                "any2pix",
+                0.4454
+            ],
+            [
+                "instructpix2pix",
+                0.4326
+            ],
+            [
+                "hqedit",
+                0.3082
+            ]
+        ]
+    },
+    "54": {
+        "image": "0054.png",
+        "dataset": "RainRemoval",
+        "prompt": "Vanish the drizzle.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8225
+            ],
+            [
+                "magicbrush",
+                0.7727
+            ],
+            [
+                "instructpix2pix",
+                0.7718
+            ],
+            [
+                "hive",
+                0.7346
+            ],
+            [
+                "mgie",
+                0.7128
+            ],
+            [
+                "instruct-diffusion",
+                0.6381
+            ],
+            [
+                "any2pix",
+                0.605
+            ],
+            [
+                "hqedit",
+                0.4597
+            ]
+        ]
+    },
+    "55": {
+        "image": "0055.png",
+        "dataset": "RainRemoval",
+        "prompt": "Clear the picture of precipitation.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hqedit",
+                0.6771
+            ],
+            [
+                "instruct-diffusion",
+                0.5705
+            ],
+            [
+                "hive",
+                0.5567
+            ],
+            [
+                "mgie",
+                0.5477
+            ],
+            [
+                "iedit",
+                0.543
+            ],
+            [
+                "any2pix",
+                0.4545
+            ],
+            [
+                "magicbrush",
+                0.3507
+            ],
+            [
+                "instructpix2pix",
+                0.3285
+            ]
+        ]
+    },
+    "56": {
+        "image": "0056.png",
+        "dataset": "RainRemoval",
+        "prompt": "Eradicate water elements.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.8427
+            ],
+            [
+                "instruct-diffusion",
+                0.8278
+            ],
+            [
+                "mgie",
+                0.8111
+            ],
+            [
+                "iedit",
+                0.7977
+            ],
+            [
+                "instructpix2pix",
+                0.7463
+            ],
+            [
+                "hive",
+                0.6947
+            ],
+            [
+                "any2pix",
+                0.6109
+            ],
+            [
+                "hqedit",
+                0.4802
+            ]
+        ]
+    },
+    "57": {
+        "image": "0057.png",
+        "dataset": "RainRemoval",
+        "prompt": "Abandon the rain.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.532
+            ],
+            [
+                "mgie",
+                0.495
+            ],
+            [
+                "iedit",
+                0.4502
+            ],
+            [
+                "hive",
+                0.4416
+            ],
+            [
+                "instructpix2pix",
+                0.3782
+            ],
+            [
+                "any2pix",
+                0.3657
+            ],
+            [
+                "instruct-diffusion",
+                0.3486
+            ],
+            [
+                "hqedit",
+                0.3044
+            ]
+        ]
+    },
+    "58": {
+        "image": "0058.png",
+        "dataset": "RainRemoval",
+        "prompt": "Purge rain interference.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "any2pix",
+                0.5587
+            ],
+            [
+                "hive",
+                0.5264
+            ],
+            [
+                "instructpix2pix",
+                0.4751
+            ],
+            [
+                "hqedit",
+                0.4547
+            ],
+            [
+                "mgie",
+                0.4466
+            ],
+            [
+                "instruct-diffusion",
+                0.4453
+            ],
+            [
+                "iedit",
+                0.4153
+            ],
+            [
+                "magicbrush",
+                0.3181
+            ]
+        ]
+    },
+    "59": {
+        "image": "0059.png",
+        "dataset": "RainRemoval",
+        "prompt": "Annul the rain droplets.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.501
+            ],
+            [
+                "iedit",
+                0.4813
+            ],
+            [
+                "mgie",
+                0.4773
+            ],
+            [
+                "hive",
+                0.4691
+            ],
+            [
+                "magicbrush",
+                0.4589
+            ],
+            [
+                "hqedit",
+                0.3889
+            ],
+            [
+                "any2pix",
+                0.3351
+            ],
+            [
+                "instructpix2pix",
+                0.2228
+            ]
+        ]
+    },
+    "60": {
+        "image": "0060.png",
+        "dataset": "RainRemoval",
+        "prompt": "Erase the rain overlay.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.4352
+            ],
+            [
+                "iedit",
+                0.4273
+            ],
+            [
+                "instructpix2pix",
+                0.3866
+            ],
+            [
+                "any2pix",
+                0.3446
+            ],
+            [
+                "hive",
+                0.2981
+            ],
+            [
+                "mgie",
+                0.246
+            ],
+            [
+                "magicbrush",
+                0.1474
+            ],
+            [
+                "hqedit",
+                0.1436
+            ]
+        ]
+    },
+    "61": {
+        "image": "0061.png",
+        "dataset": "RainRemoval",
+        "prompt": "Purify the image from wetness.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5126
+            ],
+            [
+                "instruct-diffusion",
+                0.5045
+            ],
+            [
+                "iedit",
+                0.4973
+            ],
+            [
+                "hive",
+                0.4407
+            ],
+            [
+                "mgie",
+                0.4337
+            ],
+            [
+                "instructpix2pix",
+                0.4304
+            ],
+            [
+                "any2pix",
+                0.3638
+            ],
+            [
+                "hqedit",
+                0.2221
+            ]
+        ]
+    },
+    "62": {
+        "image": "0062.png",
+        "dataset": "RainRemoval",
+        "prompt": "Void the rainy backdrop.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.632
+            ],
+            [
+                "mgie",
+                0.6218
+            ],
+            [
+                "hive",
+                0.5498
+            ],
+            [
+                "iedit",
+                0.539
+            ],
+            [
+                "any2pix",
+                0.3697
+            ],
+            [
+                "hqedit",
+                0.2234
+            ],
+            [
+                "instructpix2pix",
+                0.1959
+            ],
+            [
+                "magicbrush",
+                0.1262
+            ]
+        ]
+    },
+    "63": {
+        "image": "0063.png",
+        "dataset": "RainRemoval",
+        "prompt": "Banish the rainy setting.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.77
+            ],
+            [
+                "iedit",
+                0.7643
+            ],
+            [
+                "instructpix2pix",
+                0.7345
+            ],
+            [
+                "hive",
+                0.7269
+            ],
+            [
+                "instruct-diffusion",
+                0.7074
+            ],
+            [
+                "magicbrush",
+                0.4637
+            ],
+            [
+                "hqedit",
+                0.4428
+            ],
+            [
+                "any2pix",
+                0.4378
+            ]
+        ]
+    },
+    "64": {
+        "image": "0064.png",
+        "dataset": "RainRemoval",
+        "prompt": "Extract rain distortion.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.483
+            ],
+            [
+                "instruct-diffusion",
+                0.4717
+            ],
+            [
+                "iedit",
+                0.4515
+            ],
+            [
+                "hive",
+                0.4506
+            ],
+            [
+                "instructpix2pix",
+                0.4448
+            ],
+            [
+                "mgie",
+                0.3973
+            ],
+            [
+                "any2pix",
+                0.3341
+            ],
+            [
+                "hqedit",
+                0.1365
+            ]
+        ]
+    },
+    "65": {
+        "image": "0065.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the wet atmosphere.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.596
+            ],
+            [
+                "magicbrush",
+                0.5882
+            ],
+            [
+                "iedit",
+                0.5694
+            ],
+            [
+                "mgie",
+                0.5536
+            ],
+            [
+                "any2pix",
+                0.4314
+            ],
+            [
+                "hive",
+                0.4297
+            ],
+            [
+                "hqedit",
+                0.3982
+            ],
+            [
+                "instructpix2pix",
+                0.2951
+            ]
+        ]
+    },
+    "66": {
+        "image": "0066.png",
+        "dataset": "RainRemoval",
+        "prompt": "Clear away the rain effect.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7785
+            ],
+            [
+                "magicbrush",
+                0.7663
+            ],
+            [
+                "iedit",
+                0.7455
+            ],
+            [
+                "mgie",
+                0.6719
+            ],
+            [
+                "instructpix2pix",
+                0.5555
+            ],
+            [
+                "any2pix",
+                0.5426
+            ],
+            [
+                "hive",
+                0.4819
+            ],
+            [
+                "hqedit",
+                0.3925
+            ]
+        ]
+    },
+    "67": {
+        "image": "0067.png",
+        "dataset": "RainRemoval",
+        "prompt": "Exclude the wet element.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7455
+            ],
+            [
+                "instruct-diffusion",
+                0.7426
+            ],
+            [
+                "instructpix2pix",
+                0.7307
+            ],
+            [
+                "mgie",
+                0.7193
+            ],
+            [
+                "magicbrush",
+                0.7045
+            ],
+            [
+                "hive",
+                0.5113
+            ],
+            [
+                "any2pix",
+                0.4083
+            ],
+            [
+                "hqedit",
+                0.2283
+            ]
+        ]
+    },
+    "68": {
+        "image": "0068.png",
+        "dataset": "RainRemoval",
+        "prompt": "Dissolve the rain.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7471
+            ],
+            [
+                "instruct-diffusion",
+                0.7363
+            ],
+            [
+                "iedit",
+                0.7228
+            ],
+            [
+                "instructpix2pix",
+                0.7116
+            ],
+            [
+                "magicbrush",
+                0.7024
+            ],
+            [
+                "hive",
+                0.6048
+            ],
+            [
+                "hqedit",
+                0.4271
+            ],
+            [
+                "any2pix",
+                0.4066
+            ]
+        ]
+    },
+    "69": {
+        "image": "0069.png",
+        "dataset": "RainRemoval",
+        "prompt": "Take away rain streaks.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6803
+            ],
+            [
+                "iedit",
+                0.6747
+            ],
+            [
+                "hive",
+                0.6534
+            ],
+            [
+                "instructpix2pix",
+                0.5836
+            ],
+            [
+                "any2pix",
+                0.529
+            ],
+            [
+                "instruct-diffusion",
+                0.4985
+            ],
+            [
+                "magicbrush",
+                0.4877
+            ],
+            [
+                "hqedit",
+                0.4807
+            ]
+        ]
+    },
+    "70": {
+        "image": "0070.png",
+        "dataset": "RainRemoval",
+        "prompt": "Nullify rain interference.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7032
+            ],
+            [
+                "instruct-diffusion",
+                0.7028
+            ],
+            [
+                "magicbrush",
+                0.6518
+            ],
+            [
+                "instructpix2pix",
+                0.649
+            ],
+            [
+                "mgie",
+                0.5897
+            ],
+            [
+                "hive",
+                0.4486
+            ],
+            [
+                "any2pix",
+                0.3933
+            ],
+            [
+                "hqedit",
+                0.3532
+            ]
+        ]
+    },
+    "71": {
+        "image": "0071.png",
+        "dataset": "RainRemoval",
+        "prompt": "Dismiss the precipitation.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5171
+            ],
+            [
+                "mgie",
+                0.5121
+            ],
+            [
+                "instruct-diffusion",
+                0.5008
+            ],
+            [
+                "instructpix2pix",
+                0.4795
+            ],
+            [
+                "iedit",
+                0.4616
+            ],
+            [
+                "any2pix",
+                0.3989
+            ],
+            [
+                "hqedit",
+                0.3635
+            ],
+            [
+                "hive",
+                0.2981
+            ]
+        ]
+    },
+    "72": {
+        "image": "0072.png",
+        "dataset": "RainRemoval",
+        "prompt": "Eliminate water droplets.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.795
+            ],
+            [
+                "iedit",
+                0.788
+            ],
+            [
+                "mgie",
+                0.7808
+            ],
+            [
+                "instruct-diffusion",
+                0.7721
+            ],
+            [
+                "instructpix2pix",
+                0.6698
+            ],
+            [
+                "hqedit",
+                0.4751
+            ],
+            [
+                "any2pix",
+                0.4663
+            ],
+            [
+                "hive",
+                0.3522
+            ]
+        ]
+    },
+    "73": {
+        "image": "0073.png",
+        "dataset": "RainRemoval",
+        "prompt": "Void the rainy ambiance.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8708
+            ],
+            [
+                "magicbrush",
+                0.8647
+            ],
+            [
+                "iedit",
+                0.8385
+            ],
+            [
+                "mgie",
+                0.8284
+            ],
+            [
+                "instructpix2pix",
+                0.8238
+            ],
+            [
+                "hive",
+                0.7144
+            ],
+            [
+                "any2pix",
+                0.5696
+            ],
+            [
+                "hqedit",
+                0.4101
+            ]
+        ]
+    },
+    "74": {
+        "image": "0074.png",
+        "dataset": "RainRemoval",
+        "prompt": "Dispel the wet aura.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7134
+            ],
+            [
+                "magicbrush",
+                0.6987
+            ],
+            [
+                "iedit",
+                0.6976
+            ],
+            [
+                "instruct-diffusion",
+                0.6852
+            ],
+            [
+                "instructpix2pix",
+                0.6685
+            ],
+            [
+                "mgie",
+                0.6584
+            ],
+            [
+                "any2pix",
+                0.3794
+            ],
+            [
+                "hqedit",
+                0.2545
+            ]
+        ]
+    },
+    "75": {
+        "image": "0075.png",
+        "dataset": "RainRemoval",
+        "prompt": "Purge the image of raindrops.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7181
+            ],
+            [
+                "magicbrush",
+                0.7161
+            ],
+            [
+                "instructpix2pix",
+                0.6553
+            ],
+            [
+                "mgie",
+                0.6505
+            ],
+            [
+                "hive",
+                0.5212
+            ],
+            [
+                "instruct-diffusion",
+                0.4844
+            ],
+            [
+                "any2pix",
+                0.3484
+            ],
+            [
+                "hqedit",
+                0.2341
+            ]
+        ]
+    },
+    "76": {
+        "image": "0076.png",
+        "dataset": "RainRemoval",
+        "prompt": "Wipe out rain shadows.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6547
+            ],
+            [
+                "magicbrush",
+                0.5853
+            ],
+            [
+                "instructpix2pix",
+                0.5844
+            ],
+            [
+                "iedit",
+                0.5464
+            ],
+            [
+                "instruct-diffusion",
+                0.5445
+            ],
+            [
+                "mgie",
+                0.5037
+            ],
+            [
+                "any2pix",
+                0.369
+            ],
+            [
+                "hqedit",
+                0.2469
+            ]
+        ]
+    },
+    "77": {
+        "image": "0077.png",
+        "dataset": "RainRemoval",
+        "prompt": "Erase the rain particles.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8319
+            ],
+            [
+                "mgie",
+                0.8312
+            ],
+            [
+                "iedit",
+                0.8054
+            ],
+            [
+                "instructpix2pix",
+                0.7596
+            ],
+            [
+                "any2pix",
+                0.5636
+            ],
+            [
+                "magicbrush",
+                0.5568
+            ],
+            [
+                "hqedit",
+                0.3732
+            ],
+            [
+                "hive",
+                0.188
+            ]
+        ]
+    },
+    "78": {
+        "image": "0078.png",
+        "dataset": "RainRemoval",
+        "prompt": "Disentangle from the wet weather.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.5603
+            ],
+            [
+                "magicbrush",
+                0.5021
+            ],
+            [
+                "instruct-diffusion",
+                0.4961
+            ],
+            [
+                "instructpix2pix",
+                0.4901
+            ],
+            [
+                "iedit",
+                0.4877
+            ],
+            [
+                "mgie",
+                0.4145
+            ],
+            [
+                "any2pix",
+                0.3538
+            ],
+            [
+                "hqedit",
+                0.2175
+            ]
+        ]
+    },
+    "79": {
+        "image": "0079.png",
+        "dataset": "RainRemoval",
+        "prompt": "Void the rainy overlay.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5979
+            ],
+            [
+                "magicbrush",
+                0.5743
+            ],
+            [
+                "mgie",
+                0.5534
+            ],
+            [
+                "hive",
+                0.5494
+            ],
+            [
+                "instructpix2pix",
+                0.5487
+            ],
+            [
+                "iedit",
+                0.5211
+            ],
+            [
+                "any2pix",
+                0.4262
+            ],
+            [
+                "hqedit",
+                0.2056
+            ]
+        ]
+    },
+    "80": {
+        "image": "0080.png",
+        "dataset": "RainRemoval",
+        "prompt": "Eliminate rain streaks.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6525
+            ],
+            [
+                "instructpix2pix",
+                0.5937
+            ],
+            [
+                "any2pix",
+                0.5784
+            ],
+            [
+                "mgie",
+                0.5693
+            ],
+            [
+                "instruct-diffusion",
+                0.5347
+            ],
+            [
+                "iedit",
+                0.5213
+            ],
+            [
+                "hive",
+                0.3951
+            ],
+            [
+                "hqedit",
+                0.351
+            ]
+        ]
+    },
+    "81": {
+        "image": "0081.png",
+        "dataset": "RainRemoval",
+        "prompt": "Clear away the wet influence.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6354
+            ],
+            [
+                "instruct-diffusion",
+                0.615
+            ],
+            [
+                "mgie",
+                0.6145
+            ],
+            [
+                "iedit",
+                0.609
+            ],
+            [
+                "instructpix2pix",
+                0.6073
+            ],
+            [
+                "hive",
+                0.5275
+            ],
+            [
+                "any2pix",
+                0.5025
+            ],
+            [
+                "hqedit",
+                0.2682
+            ]
+        ]
+    },
+    "82": {
+        "image": "0082.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the precipitation.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.8536
+            ],
+            [
+                "iedit",
+                0.836
+            ],
+            [
+                "instruct-diffusion",
+                0.8191
+            ],
+            [
+                "instructpix2pix",
+                0.8026
+            ],
+            [
+                "mgie",
+                0.7734
+            ],
+            [
+                "hive",
+                0.7131
+            ],
+            [
+                "any2pix",
+                0.5122
+            ],
+            [
+                "hqedit",
+                0.3181
+            ]
+        ]
+    },
+    "83": {
+        "image": "0083.png",
+        "dataset": "RainRemoval",
+        "prompt": "Eradicate the drizzly background.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7567
+            ],
+            [
+                "instructpix2pix",
+                0.7454
+            ],
+            [
+                "iedit",
+                0.7266
+            ],
+            [
+                "any2pix",
+                0.572
+            ],
+            [
+                "magicbrush",
+                0.5679
+            ],
+            [
+                "mgie",
+                0.554
+            ],
+            [
+                "instruct-diffusion",
+                0.5327
+            ],
+            [
+                "hqedit",
+                0.2971
+            ]
+        ]
+    },
+    "84": {
+        "image": "0084.png",
+        "dataset": "RainRemoval",
+        "prompt": "Banish the rainy mood.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7838
+            ],
+            [
+                "mgie",
+                0.7829
+            ],
+            [
+                "instructpix2pix",
+                0.7727
+            ],
+            [
+                "iedit",
+                0.7282
+            ],
+            [
+                "hive",
+                0.6941
+            ],
+            [
+                "any2pix",
+                0.5635
+            ],
+            [
+                "magicbrush",
+                0.5423
+            ],
+            [
+                "hqedit",
+                0.4663
+            ]
+        ]
+    },
+    "85": {
+        "image": "0085.png",
+        "dataset": "RainRemoval",
+        "prompt": "Extract rain splatters.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7573
+            ],
+            [
+                "mgie",
+                0.7519
+            ],
+            [
+                "magicbrush",
+                0.7481
+            ],
+            [
+                "iedit",
+                0.736
+            ],
+            [
+                "instructpix2pix",
+                0.6657
+            ],
+            [
+                "hive",
+                0.6041
+            ],
+            [
+                "any2pix",
+                0.4877
+            ],
+            [
+                "hqedit",
+                0.312
+            ]
+        ]
+    },
+    "86": {
+        "image": "0086.png",
+        "dataset": "RainRemoval",
+        "prompt": "Wipe off the watery effect.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7343
+            ],
+            [
+                "instruct-diffusion",
+                0.7235
+            ],
+            [
+                "mgie",
+                0.7038
+            ],
+            [
+                "iedit",
+                0.7025
+            ],
+            [
+                "instructpix2pix",
+                0.6885
+            ],
+            [
+                "hive",
+                0.4234
+            ],
+            [
+                "any2pix",
+                0.3675
+            ],
+            [
+                "hqedit",
+                0.3171
+            ]
+        ]
+    },
+    "87": {
+        "image": "0087.png",
+        "dataset": "RainRemoval",
+        "prompt": "Exclude the rainy atmosphere.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7294
+            ],
+            [
+                "hive",
+                0.709
+            ],
+            [
+                "instruct-diffusion",
+                0.6561
+            ],
+            [
+                "mgie",
+                0.6309
+            ],
+            [
+                "iedit",
+                0.6264
+            ],
+            [
+                "any2pix",
+                0.5726
+            ],
+            [
+                "instructpix2pix",
+                0.4101
+            ],
+            [
+                "hqedit",
+                0.3104
+            ]
+        ]
+    },
+    "88": {
+        "image": "0088.png",
+        "dataset": "RainRemoval",
+        "prompt": "Dissipate the rain interference.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.8245
+            ],
+            [
+                "instruct-diffusion",
+                0.7632
+            ],
+            [
+                "magicbrush",
+                0.7618
+            ],
+            [
+                "mgie",
+                0.7475
+            ],
+            [
+                "iedit",
+                0.723
+            ],
+            [
+                "instructpix2pix",
+                0.6197
+            ],
+            [
+                "any2pix",
+                0.6156
+            ],
+            [
+                "hqedit",
+                0.4003
+            ]
+        ]
+    },
+    "89": {
+        "image": "0089.png",
+        "dataset": "RainRemoval",
+        "prompt": "Clear the image of rain elements.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7251
+            ],
+            [
+                "instruct-diffusion",
+                0.7169
+            ],
+            [
+                "iedit",
+                0.6964
+            ],
+            [
+                "instructpix2pix",
+                0.6918
+            ],
+            [
+                "mgie",
+                0.5838
+            ],
+            [
+                "any2pix",
+                0.5411
+            ],
+            [
+                "hqedit",
+                0.3253
+            ],
+            [
+                "hive",
+                0.3046
+            ]
+        ]
+    },
+    "90": {
+        "image": "0090.png",
+        "dataset": "RainRemoval",
+        "prompt": "Vanish the rainy ambiance.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.5477
+            ],
+            [
+                "magicbrush",
+                0.4323
+            ],
+            [
+                "mgie",
+                0.43
+            ],
+            [
+                "iedit",
+                0.4281
+            ],
+            [
+                "any2pix",
+                0.3962
+            ],
+            [
+                "instructpix2pix",
+                0.2621
+            ],
+            [
+                "hqedit",
+                0.2219
+            ],
+            [
+                "instruct-diffusion",
+                0.2087
+            ]
+        ]
+    },
+    "91": {
+        "image": "0091.png",
+        "dataset": "RainRemoval",
+        "prompt": "Annihilate the water droplets.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5324
+            ],
+            [
+                "magicbrush",
+                0.5318
+            ],
+            [
+                "instruct-diffusion",
+                0.5149
+            ],
+            [
+                "hive",
+                0.4769
+            ],
+            [
+                "iedit",
+                0.4642
+            ],
+            [
+                "any2pix",
+                0.4485
+            ],
+            [
+                "hqedit",
+                0.3875
+            ],
+            [
+                "instructpix2pix",
+                0.277
+            ]
+        ]
+    },
+    "92": {
+        "image": "0092.png",
+        "dataset": "RainRemoval",
+        "prompt": "Purify the picture from wetness.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6885
+            ],
+            [
+                "magicbrush",
+                0.6449
+            ],
+            [
+                "iedit",
+                0.6252
+            ],
+            [
+                "instructpix2pix",
+                0.5382
+            ],
+            [
+                "any2pix",
+                0.4662
+            ],
+            [
+                "instruct-diffusion",
+                0.3862
+            ],
+            [
+                "hqedit",
+                0.2691
+            ],
+            [
+                "mgie",
+                0.1542
+            ]
+        ]
+    },
+    "93": {
+        "image": "0093.png",
+        "dataset": "RainRemoval",
+        "prompt": "Nullify the rain shadows.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.71
+            ],
+            [
+                "magicbrush",
+                0.6997
+            ],
+            [
+                "iedit",
+                0.6713
+            ],
+            [
+                "mgie",
+                0.6165
+            ],
+            [
+                "hive",
+                0.5251
+            ],
+            [
+                "any2pix",
+                0.4406
+            ],
+            [
+                "instructpix2pix",
+                0.2405
+            ],
+            [
+                "hqedit",
+                0.2215
+            ]
+        ]
+    },
+    "94": {
+        "image": "0094.png",
+        "dataset": "RainRemoval",
+        "prompt": "Disregard the drizzle.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7935
+            ],
+            [
+                "iedit",
+                0.7882
+            ],
+            [
+                "instruct-diffusion",
+                0.7788
+            ],
+            [
+                "mgie",
+                0.7325
+            ],
+            [
+                "instructpix2pix",
+                0.7143
+            ],
+            [
+                "hive",
+                0.683
+            ],
+            [
+                "any2pix",
+                0.458
+            ],
+            [
+                "hqedit",
+                0.3914
+            ]
+        ]
+    },
+    "95": {
+        "image": "0095.png",
+        "dataset": "RainRemoval",
+        "prompt": "Void the rainy setting.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.5892
+            ],
+            [
+                "any2pix",
+                0.5633
+            ],
+            [
+                "instruct-diffusion",
+                0.461
+            ],
+            [
+                "iedit",
+                0.4595
+            ],
+            [
+                "mgie",
+                0.4487
+            ],
+            [
+                "hqedit",
+                0.4451
+            ],
+            [
+                "instructpix2pix",
+                0.4354
+            ],
+            [
+                "magicbrush",
+                0.3824
+            ]
+        ]
+    },
+    "96": {
+        "image": "0096.png",
+        "dataset": "RainRemoval",
+        "prompt": "Eliminate the rain particles.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.491
+            ],
+            [
+                "hive",
+                0.4855
+            ],
+            [
+                "instruct-diffusion",
+                0.4088
+            ],
+            [
+                "iedit",
+                0.4056
+            ],
+            [
+                "any2pix",
+                0.373
+            ],
+            [
+                "instructpix2pix",
+                0.3344
+            ],
+            [
+                "hqedit",
+                0.1737
+            ],
+            [
+                "mgie",
+                0.0799
+            ]
+        ]
+    },
+    "97": {
+        "image": "0097.png",
+        "dataset": "RainRemoval",
+        "prompt": "Dismiss the rainy overlay.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.5687
+            ],
+            [
+                "instruct-diffusion",
+                0.5456
+            ],
+            [
+                "iedit",
+                0.5435
+            ],
+            [
+                "magicbrush",
+                0.5367
+            ],
+            [
+                "any2pix",
+                0.5217
+            ],
+            [
+                "mgie",
+                0.5051
+            ],
+            [
+                "instructpix2pix",
+                0.4614
+            ],
+            [
+                "hqedit",
+                0.4043
+            ]
+        ]
+    },
+    "98": {
+        "image": "0098.png",
+        "dataset": "RainRemoval",
+        "prompt": "Clear away the wet backdrop.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6827
+            ],
+            [
+                "mgie",
+                0.6751
+            ],
+            [
+                "iedit",
+                0.6651
+            ],
+            [
+                "magicbrush",
+                0.5705
+            ],
+            [
+                "hive",
+                0.5493
+            ],
+            [
+                "any2pix",
+                0.428
+            ],
+            [
+                "instructpix2pix",
+                0.321
+            ],
+            [
+                "hqedit",
+                0.2493
+            ]
+        ]
+    },
+    "99": {
+        "image": "0099.png",
+        "dataset": "RainRemoval",
+        "prompt": "Exclude the precipitation.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7481
+            ],
+            [
+                "instruct-diffusion",
+                0.7406
+            ],
+            [
+                "mgie",
+                0.7321
+            ],
+            [
+                "magicbrush",
+                0.7224
+            ],
+            [
+                "any2pix",
+                0.6094
+            ],
+            [
+                "hqedit",
+                0.5878
+            ],
+            [
+                "instructpix2pix",
+                0.4513
+            ],
+            [
+                "hive",
+                0.379
+            ]
+        ]
+    },
+    "100": {
+        "image": "0100.png",
+        "dataset": "RainRemoval",
+        "prompt": "Eradicate the watery feel.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6489
+            ],
+            [
+                "instruct-diffusion",
+                0.6241
+            ],
+            [
+                "iedit",
+                0.6077
+            ],
+            [
+                "hive",
+                0.5584
+            ],
+            [
+                "any2pix",
+                0.4122
+            ],
+            [
+                "instructpix2pix",
+                0.3677
+            ],
+            [
+                "mgie",
+                0.3301
+            ],
+            [
+                "hqedit",
+                0.2565
+            ]
+        ]
+    },
+    "101": {
+        "image": "0101.png",
+        "dataset": "RainRemoval",
+        "prompt": "Take out the raindrops.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7159
+            ],
+            [
+                "instruct-diffusion",
+                0.5266
+            ],
+            [
+                "magicbrush",
+                0.5254
+            ],
+            [
+                "mgie",
+                0.5235
+            ],
+            [
+                "iedit",
+                0.4917
+            ],
+            [
+                "hqedit",
+                0.401
+            ],
+            [
+                "hive",
+                0.3778
+            ],
+            [
+                "any2pix",
+                0.3332
+            ]
+        ]
+    },
+    "102": {
+        "image": "0102.png",
+        "dataset": "RainRemoval",
+        "prompt": "Dissolve the rainy aura.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6958
+            ],
+            [
+                "instruct-diffusion",
+                0.5832
+            ],
+            [
+                "instructpix2pix",
+                0.5812
+            ],
+            [
+                "iedit",
+                0.5499
+            ],
+            [
+                "mgie",
+                0.5106
+            ],
+            [
+                "any2pix",
+                0.4991
+            ],
+            [
+                "hive",
+                0.4715
+            ],
+            [
+                "hqedit",
+                0.3242
+            ]
+        ]
+    },
+    "103": {
+        "image": "0103.png",
+        "dataset": "RainRemoval",
+        "prompt": "Abolish the rain influence.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.827
+            ],
+            [
+                "magicbrush",
+                0.8252
+            ],
+            [
+                "iedit",
+                0.8234
+            ],
+            [
+                "instructpix2pix",
+                0.7975
+            ],
+            [
+                "mgie",
+                0.7844
+            ],
+            [
+                "any2pix",
+                0.5584
+            ],
+            [
+                "hqedit",
+                0.4556
+            ],
+            [
+                "hive",
+                0.301
+            ]
+        ]
+    },
+    "104": {
+        "image": "0104.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the drizzle.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5094
+            ],
+            [
+                "hive",
+                0.5047
+            ],
+            [
+                "iedit",
+                0.4981
+            ],
+            [
+                "instructpix2pix",
+                0.4852
+            ],
+            [
+                "mgie",
+                0.4735
+            ],
+            [
+                "instruct-diffusion",
+                0.4684
+            ],
+            [
+                "any2pix",
+                0.3304
+            ],
+            [
+                "hqedit",
+                0.1419
+            ]
+        ]
+    },
+    "105": {
+        "image": "0105.png",
+        "dataset": "RainRemoval",
+        "prompt": "Cleanse the image of water droplets.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6432
+            ],
+            [
+                "instruct-diffusion",
+                0.6349
+            ],
+            [
+                "magicbrush",
+                0.6332
+            ],
+            [
+                "iedit",
+                0.6207
+            ],
+            [
+                "hive",
+                0.4591
+            ],
+            [
+                "any2pix",
+                0.4112
+            ],
+            [
+                "hqedit",
+                0.3096
+            ],
+            [
+                "instructpix2pix",
+                0.2891
+            ]
+        ]
+    },
+    "106": {
+        "image": "0106.png",
+        "dataset": "RainRemoval",
+        "prompt": "Extract rain distortion.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5264
+            ],
+            [
+                "hive",
+                0.4678
+            ],
+            [
+                "instruct-diffusion",
+                0.4263
+            ],
+            [
+                "iedit",
+                0.3711
+            ],
+            [
+                "instructpix2pix",
+                0.3706
+            ],
+            [
+                "any2pix",
+                0.3555
+            ],
+            [
+                "mgie",
+                0.3244
+            ],
+            [
+                "hqedit",
+                0.2737
+            ]
+        ]
+    },
+    "107": {
+        "image": "0107.png",
+        "dataset": "RainRemoval",
+        "prompt": "Wipe away the wet atmosphere.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4974
+            ],
+            [
+                "mgie",
+                0.4748
+            ],
+            [
+                "iedit",
+                0.4663
+            ],
+            [
+                "instruct-diffusion",
+                0.4626
+            ],
+            [
+                "instructpix2pix",
+                0.4574
+            ],
+            [
+                "hive",
+                0.4494
+            ],
+            [
+                "any2pix",
+                0.4152
+            ],
+            [
+                "hqedit",
+                0.2277
+            ]
+        ]
+    },
+    "108": {
+        "image": "0108.png",
+        "dataset": "RainRemoval",
+        "prompt": "Nullify the rain effect.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.3153
+            ],
+            [
+                "instruct-diffusion",
+                0.2912
+            ],
+            [
+                "instructpix2pix",
+                0.2793
+            ],
+            [
+                "mgie",
+                0.2778
+            ],
+            [
+                "iedit",
+                0.2763
+            ],
+            [
+                "magicbrush",
+                0.2442
+            ],
+            [
+                "any2pix",
+                0.2166
+            ],
+            [
+                "hqedit",
+                0.139
+            ]
+        ]
+    },
+    "109": {
+        "image": "0109.png",
+        "dataset": "RainRemoval",
+        "prompt": "Banish the rainy background.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.5908
+            ],
+            [
+                "instruct-diffusion",
+                0.5762
+            ],
+            [
+                "mgie",
+                0.5727
+            ],
+            [
+                "iedit",
+                0.5649
+            ],
+            [
+                "instructpix2pix",
+                0.4901
+            ],
+            [
+                "any2pix",
+                0.4666
+            ],
+            [
+                "magicbrush",
+                0.3038
+            ],
+            [
+                "hqedit",
+                0.2254
+            ]
+        ]
+    },
+    "110": {
+        "image": "0110.png",
+        "dataset": "RainRemoval",
+        "prompt": "Erase the rainy setting.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5702
+            ],
+            [
+                "instruct-diffusion",
+                0.5614
+            ],
+            [
+                "iedit",
+                0.5504
+            ],
+            [
+                "hqedit",
+                0.5346
+            ],
+            [
+                "mgie",
+                0.4587
+            ],
+            [
+                "any2pix",
+                0.4379
+            ],
+            [
+                "hive",
+                0.3388
+            ],
+            [
+                "instructpix2pix",
+                0.3067
+            ]
+        ]
+    },
+    "111": {
+        "image": "0111.png",
+        "dataset": "RainRemoval",
+        "prompt": "Clear the picture of rain shadows.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9377
+            ],
+            [
+                "iedit",
+                0.9298
+            ],
+            [
+                "instructpix2pix",
+                0.8602
+            ],
+            [
+                "hive",
+                0.8323
+            ],
+            [
+                "any2pix",
+                0.7778
+            ],
+            [
+                "magicbrush",
+                0.7408
+            ],
+            [
+                "hqedit",
+                0.7211
+            ],
+            [
+                "mgie",
+                0.6635
+            ]
+        ]
+    },
+    "112": {
+        "image": "0112.png",
+        "dataset": "RainRemoval",
+        "prompt": "Exclude the rainy mood.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6169
+            ],
+            [
+                "mgie",
+                0.6038
+            ],
+            [
+                "instruct-diffusion",
+                0.5957
+            ],
+            [
+                "iedit",
+                0.5627
+            ],
+            [
+                "instructpix2pix",
+                0.4978
+            ],
+            [
+                "any2pix",
+                0.3737
+            ],
+            [
+                "magicbrush",
+                0.297
+            ],
+            [
+                "hqedit",
+                0.2686
+            ]
+        ]
+    },
+    "113": {
+        "image": "0113.png",
+        "dataset": "RainRemoval",
+        "prompt": "Void the watery backdrop.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.55
+            ],
+            [
+                "instruct-diffusion",
+                0.3878
+            ],
+            [
+                "hive",
+                0.3748
+            ],
+            [
+                "instructpix2pix",
+                0.3338
+            ],
+            [
+                "any2pix",
+                0.2909
+            ],
+            [
+                "magicbrush",
+                0.2629
+            ],
+            [
+                "hqedit",
+                0.2562
+            ],
+            [
+                "mgie",
+                0.1608
+            ]
+        ]
+    },
+    "114": {
+        "image": "0114.png",
+        "dataset": "RainRemoval",
+        "prompt": "Eliminate the drizzly feel.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5467
+            ],
+            [
+                "iedit",
+                0.4946
+            ],
+            [
+                "instructpix2pix",
+                0.4648
+            ],
+            [
+                "any2pix",
+                0.4491
+            ],
+            [
+                "hive",
+                0.4051
+            ],
+            [
+                "mgie",
+                0.3952
+            ],
+            [
+                "hqedit",
+                0.3262
+            ],
+            [
+                "instruct-diffusion",
+                0.2992
+            ]
+        ]
+    },
+    "115": {
+        "image": "0115.png",
+        "dataset": "RainRemoval",
+        "prompt": "Purge the rain particles.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.9281
+            ],
+            [
+                "iedit",
+                0.9173
+            ],
+            [
+                "instruct-diffusion",
+                0.8621
+            ],
+            [
+                "hive",
+                0.8294
+            ],
+            [
+                "instructpix2pix",
+                0.818
+            ],
+            [
+                "hqedit",
+                0.656
+            ],
+            [
+                "any2pix",
+                0.4647
+            ],
+            [
+                "magicbrush",
+                0.3545
+            ]
+        ]
+    },
+    "116": {
+        "image": "0116.png",
+        "dataset": "RainRemoval",
+        "prompt": "Disentangle from the rainy overlay.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9544
+            ],
+            [
+                "iedit",
+                0.9331
+            ],
+            [
+                "hive",
+                0.8486
+            ],
+            [
+                "mgie",
+                0.6561
+            ],
+            [
+                "hqedit",
+                0.5273
+            ],
+            [
+                "magicbrush",
+                0.4403
+            ],
+            [
+                "any2pix",
+                0.4038
+            ],
+            [
+                "instructpix2pix",
+                0.176
+            ]
+        ]
+    },
+    "117": {
+        "image": "0117.png",
+        "dataset": "RainRemoval",
+        "prompt": "Annihilate the wet influence.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.9703
+            ],
+            [
+                "iedit",
+                0.9553
+            ],
+            [
+                "instruct-diffusion",
+                0.9528
+            ],
+            [
+                "mgie",
+                0.8687
+            ],
+            [
+                "any2pix",
+                0.7119
+            ],
+            [
+                "instructpix2pix",
+                0.6359
+            ],
+            [
+                "hqedit",
+                0.5958
+            ],
+            [
+                "magicbrush",
+                0.3823
+            ]
+        ]
+    },
+    "118": {
+        "image": "0118.png",
+        "dataset": "RainRemoval",
+        "prompt": "Vanquish the rain interference.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9109
+            ],
+            [
+                "iedit",
+                0.908
+            ],
+            [
+                "magicbrush",
+                0.7985
+            ],
+            [
+                "hive",
+                0.7816
+            ],
+            [
+                "any2pix",
+                0.6999
+            ],
+            [
+                "mgie",
+                0.665
+            ],
+            [
+                "instructpix2pix",
+                0.5062
+            ],
+            [
+                "hqedit",
+                0.4358
+            ]
+        ]
+    },
+    "119": {
+        "image": "0119.png",
+        "dataset": "RainRemoval",
+        "prompt": "Dismiss the water droplets.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.9256
+            ],
+            [
+                "mgie",
+                0.9114
+            ],
+            [
+                "instruct-diffusion",
+                0.8938
+            ],
+            [
+                "iedit",
+                0.8907
+            ],
+            [
+                "magicbrush",
+                0.8448
+            ],
+            [
+                "any2pix",
+                0.6595
+            ],
+            [
+                "hqedit",
+                0.5437
+            ],
+            [
+                "instructpix2pix",
+                0.3791
+            ]
+        ]
+    },
+    "120": {
+        "image": "0120.png",
+        "dataset": "RainRemoval",
+        "prompt": "Dissipate the rainy ambiance.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5591
+            ],
+            [
+                "instruct-diffusion",
+                0.552
+            ],
+            [
+                "magicbrush",
+                0.5393
+            ],
+            [
+                "iedit",
+                0.5178
+            ],
+            [
+                "hive",
+                0.4674
+            ],
+            [
+                "any2pix",
+                0.4021
+            ],
+            [
+                "instructpix2pix",
+                0.3679
+            ],
+            [
+                "hqedit",
+                0.2352
+            ]
+        ]
+    },
+    "121": {
+        "image": "0121.png",
+        "dataset": "RainRemoval",
+        "prompt": "Wipe out the rain shadows.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.564
+            ],
+            [
+                "iedit",
+                0.5601
+            ],
+            [
+                "magicbrush",
+                0.5495
+            ],
+            [
+                "mgie",
+                0.5419
+            ],
+            [
+                "hive",
+                0.5392
+            ],
+            [
+                "instruct-diffusion",
+                0.5382
+            ],
+            [
+                "any2pix",
+                0.3605
+            ],
+            [
+                "hqedit",
+                0.1713
+            ]
+        ]
+    },
+    "122": {
+        "image": "0122.png",
+        "dataset": "RainRemoval",
+        "prompt": "Erase the drizzle.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.9475
+            ],
+            [
+                "instruct-diffusion",
+                0.9408
+            ],
+            [
+                "mgie",
+                0.8886
+            ],
+            [
+                "hive",
+                0.7541
+            ],
+            [
+                "any2pix",
+                0.7346
+            ],
+            [
+                "instructpix2pix",
+                0.7261
+            ],
+            [
+                "hqedit",
+                0.6385
+            ],
+            [
+                "magicbrush",
+                0.1521
+            ]
+        ]
+    },
+    "123": {
+        "image": "0123.png",
+        "dataset": "RainRemoval",
+        "prompt": "Exclude the watery atmosphere.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.881
+            ],
+            [
+                "instruct-diffusion",
+                0.6383
+            ],
+            [
+                "hqedit",
+                0.6048
+            ],
+            [
+                "mgie",
+                0.5978
+            ],
+            [
+                "instructpix2pix",
+                0.5776
+            ],
+            [
+                "hive",
+                0.4793
+            ],
+            [
+                "any2pix",
+                0.4741
+            ],
+            [
+                "magicbrush",
+                0.4081
+            ]
+        ]
+    },
+    "124": {
+        "image": "0124.png",
+        "dataset": "RainRemoval",
+        "prompt": "Take away the raindrops.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.8082
+            ],
+            [
+                "instructpix2pix",
+                0.7706
+            ],
+            [
+                "magicbrush",
+                0.7124
+            ],
+            [
+                "mgie",
+                0.6172
+            ],
+            [
+                "instruct-diffusion",
+                0.6011
+            ],
+            [
+                "iedit",
+                0.5624
+            ],
+            [
+                "hqedit",
+                0.5086
+            ],
+            [
+                "any2pix",
+                0.4879
+            ]
+        ]
+    },
+    "125": {
+        "image": "0125.png",
+        "dataset": "RainRemoval",
+        "prompt": "Cleanse the image of rain distortion.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8783
+            ],
+            [
+                "iedit",
+                0.8265
+            ],
+            [
+                "mgie",
+                0.8078
+            ],
+            [
+                "any2pix",
+                0.7562
+            ],
+            [
+                "hqedit",
+                0.5812
+            ],
+            [
+                "hive",
+                0.4452
+            ],
+            [
+                "magicbrush",
+                0.3268
+            ],
+            [
+                "instructpix2pix",
+                0.3033
+            ]
+        ]
+    },
+    "126": {
+        "image": "0126.png",
+        "dataset": "RainRemoval",
+        "prompt": "Extract the wet setting.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.9132
+            ],
+            [
+                "instruct-diffusion",
+                0.9027
+            ],
+            [
+                "hive",
+                0.8783
+            ],
+            [
+                "mgie",
+                0.7805
+            ],
+            [
+                "instructpix2pix",
+                0.7617
+            ],
+            [
+                "magicbrush",
+                0.7612
+            ],
+            [
+                "any2pix",
+                0.7396
+            ],
+            [
+                "hqedit",
+                0.6592
+            ]
+        ]
+    },
+    "127": {
+        "image": "0127.png",
+        "dataset": "RainRemoval",
+        "prompt": "Purify the picture from rain particles.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8209
+            ],
+            [
+                "hive",
+                0.7348
+            ],
+            [
+                "any2pix",
+                0.6255
+            ],
+            [
+                "mgie",
+                0.6204
+            ],
+            [
+                "instruct-diffusion",
+                0.5532
+            ],
+            [
+                "hqedit",
+                0.511
+            ],
+            [
+                "instructpix2pix",
+                0.2752
+            ],
+            [
+                "magicbrush",
+                0.1704
+            ]
+        ]
+    },
+    "128": {
+        "image": "0128.png",
+        "dataset": "RainRemoval",
+        "prompt": "Nullify the rainy mood.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8094
+            ],
+            [
+                "iedit",
+                0.7999
+            ],
+            [
+                "magicbrush",
+                0.7867
+            ],
+            [
+                "hive",
+                0.7355
+            ],
+            [
+                "instructpix2pix",
+                0.7314
+            ],
+            [
+                "mgie",
+                0.6228
+            ],
+            [
+                "hqedit",
+                0.6199
+            ],
+            [
+                "any2pix",
+                0.4557
+            ]
+        ]
+    },
+    "129": {
+        "image": "0129.png",
+        "dataset": "RainRemoval",
+        "prompt": "Banish the drizzly backdrop.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8415
+            ],
+            [
+                "hive",
+                0.8031
+            ],
+            [
+                "magicbrush",
+                0.7875
+            ],
+            [
+                "mgie",
+                0.7306
+            ],
+            [
+                "any2pix",
+                0.6556
+            ],
+            [
+                "hqedit",
+                0.5004
+            ],
+            [
+                "instruct-diffusion",
+                0.4692
+            ],
+            [
+                "instructpix2pix",
+                0.3745
+            ]
+        ]
+    },
+    "130": {
+        "image": "0130.png",
+        "dataset": "RainRemoval",
+        "prompt": "Eliminate the rainy influence.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7225
+            ],
+            [
+                "iedit",
+                0.7023
+            ],
+            [
+                "instruct-diffusion",
+                0.7005
+            ],
+            [
+                "mgie",
+                0.6424
+            ],
+            [
+                "any2pix",
+                0.5325
+            ],
+            [
+                "instructpix2pix",
+                0.3102
+            ],
+            [
+                "magicbrush",
+                0.2958
+            ],
+            [
+                "hqedit",
+                0.2025
+            ]
+        ]
+    },
+    "131": {
+        "image": "0131.png",
+        "dataset": "RainRemoval",
+        "prompt": "Disentangle from the watery overlay.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7461
+            ],
+            [
+                "instruct-diffusion",
+                0.7209
+            ],
+            [
+                "iedit",
+                0.714
+            ],
+            [
+                "any2pix",
+                0.5629
+            ],
+            [
+                "magicbrush",
+                0.4765
+            ],
+            [
+                "hqedit",
+                0.3926
+            ],
+            [
+                "instructpix2pix",
+                0.392
+            ],
+            [
+                "hive",
+                0.3702
+            ]
+        ]
+    },
+    "132": {
+        "image": "0132.png",
+        "dataset": "RainRemoval",
+        "prompt": "Void the rain shadows.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.8456
+            ],
+            [
+                "iedit",
+                0.8142
+            ],
+            [
+                "instruct-diffusion",
+                0.7903
+            ],
+            [
+                "instructpix2pix",
+                0.6331
+            ],
+            [
+                "mgie",
+                0.6022
+            ],
+            [
+                "any2pix",
+                0.5361
+            ],
+            [
+                "hqedit",
+                0.4004
+            ],
+            [
+                "magicbrush",
+                0.3221
+            ]
+        ]
+    },
+    "133": {
+        "image": "0133.png",
+        "dataset": "RainRemoval",
+        "prompt": "Eradicate the wet atmosphere.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.8192
+            ],
+            [
+                "hive",
+                0.8072
+            ],
+            [
+                "iedit",
+                0.7933
+            ],
+            [
+                "instruct-diffusion",
+                0.7793
+            ],
+            [
+                "magicbrush",
+                0.6358
+            ],
+            [
+                "any2pix",
+                0.5769
+            ],
+            [
+                "hqedit",
+                0.4253
+            ],
+            [
+                "instructpix2pix",
+                0.3403
+            ]
+        ]
+    },
+    "134": {
+        "image": "0134.png",
+        "dataset": "RainRemoval",
+        "prompt": "Clear the image of the drizzle.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7839
+            ],
+            [
+                "any2pix",
+                0.6553
+            ],
+            [
+                "mgie",
+                0.5923
+            ],
+            [
+                "instruct-diffusion",
+                0.4535
+            ],
+            [
+                "magicbrush",
+                0.4286
+            ],
+            [
+                "hqedit",
+                0.4141
+            ],
+            [
+                "instructpix2pix",
+                0.3698
+            ],
+            [
+                "hive",
+                0.2536
+            ]
+        ]
+    },
+    "135": {
+        "image": "0135.png",
+        "dataset": "RainRemoval",
+        "prompt": "Dissolve the rainy interference.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7921
+            ],
+            [
+                "mgie",
+                0.7838
+            ],
+            [
+                "instruct-diffusion",
+                0.7544
+            ],
+            [
+                "magicbrush",
+                0.7319
+            ],
+            [
+                "any2pix",
+                0.6549
+            ],
+            [
+                "hive",
+                0.616
+            ],
+            [
+                "hqedit",
+                0.5754
+            ],
+            [
+                "instructpix2pix",
+                0.3978
+            ]
+        ]
+    },
+    "136": {
+        "image": "0136.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rainy mood.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7706
+            ],
+            [
+                "iedit",
+                0.7163
+            ],
+            [
+                "mgie",
+                0.706
+            ],
+            [
+                "instructpix2pix",
+                0.621
+            ],
+            [
+                "hive",
+                0.5661
+            ],
+            [
+                "any2pix",
+                0.5508
+            ],
+            [
+                "magicbrush",
+                0.5053
+            ],
+            [
+                "hqedit",
+                0.4829
+            ]
+        ]
+    },
+    "137": {
+        "image": "0137.png",
+        "dataset": "RainRemoval",
+        "prompt": "Wipe away the wet influence.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7762
+            ],
+            [
+                "instruct-diffusion",
+                0.7632
+            ],
+            [
+                "magicbrush",
+                0.7523
+            ],
+            [
+                "hive",
+                0.7267
+            ],
+            [
+                "instructpix2pix",
+                0.6524
+            ],
+            [
+                "mgie",
+                0.627
+            ],
+            [
+                "any2pix",
+                0.4768
+            ],
+            [
+                "hqedit",
+                0.3947
+            ]
+        ]
+    },
+    "138": {
+        "image": "0138.png",
+        "dataset": "RainRemoval",
+        "prompt": "Exclude the rain shadows.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5678
+            ],
+            [
+                "mgie",
+                0.5553
+            ],
+            [
+                "iedit",
+                0.5515
+            ],
+            [
+                "magicbrush",
+                0.5465
+            ],
+            [
+                "any2pix",
+                0.4692
+            ],
+            [
+                "hive",
+                0.4623
+            ],
+            [
+                "instructpix2pix",
+                0.4312
+            ],
+            [
+                "hqedit",
+                0.3023
+            ]
+        ]
+    },
+    "139": {
+        "image": "0139.png",
+        "dataset": "RainRemoval",
+        "prompt": "Annihilate the drizzly setting.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4612
+            ],
+            [
+                "instruct-diffusion",
+                0.4555
+            ],
+            [
+                "iedit",
+                0.4526
+            ],
+            [
+                "hive",
+                0.4414
+            ],
+            [
+                "mgie",
+                0.4091
+            ],
+            [
+                "instructpix2pix",
+                0.3658
+            ],
+            [
+                "any2pix",
+                0.3156
+            ],
+            [
+                "hqedit",
+                0.2025
+            ]
+        ]
+    },
+    "140": {
+        "image": "0140.png",
+        "dataset": "RainRemoval",
+        "prompt": "Take out the watery atmosphere.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.8774
+            ],
+            [
+                "iedit",
+                0.8575
+            ],
+            [
+                "instruct-diffusion",
+                0.8569
+            ],
+            [
+                "instructpix2pix",
+                0.8562
+            ],
+            [
+                "mgie",
+                0.712
+            ],
+            [
+                "any2pix",
+                0.5967
+            ],
+            [
+                "hive",
+                0.5295
+            ],
+            [
+                "hqedit",
+                0.4348
+            ]
+        ]
+    }
+}

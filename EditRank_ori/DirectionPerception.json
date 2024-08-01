@@ -1,0 +1,3239 @@
+{
+    "1": {
+        "image": "0001.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cat to the bottom of the skateboard",
+        "evaluation": "VLM_judgement",
+        "question": "Is the cat at the bottom of the skateboard? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush",
+                "mgie",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "2": {
+        "image": "0002.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a dog to the top of the desk",
+        "evaluation": "VLM_judgement",
+        "question": "Is the dog on the top of the desk? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "3": {
+        "image": "0003.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a fish to the right of the man",
+        "evaluation": "VLM_judgement",
+        "question": "Is the fish on the right of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "any2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "4": {
+        "image": "0004.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a dog to the left of the bird",
+        "evaluation": "VLM_judgement",
+        "question": "Is the dog on the left of the bird? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No.",
+        "model_rank": {
+            "right_models": [
+                "hive"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "5": {
+        "image": "0005.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a pig to the top of the sink",
+        "evaluation": "VLM_judgement",
+        "question": "Is the pig on the top of the sink? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "mgie"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "6": {
+        "image": "0006.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cat to the front of the door",
+        "evaluation": "VLM_judgement",
+        "question": "Is the cat in the front of the door? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "7": {
+        "image": "0007.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a tiger to the left of the giraffe",
+        "evaluation": "VLM_judgement",
+        "question": "Is the tiger on the left of the giraffe? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "8": {
+        "image": "0008.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a bird to the bottom of the plane",
+        "evaluation": "VLM_judgement",
+        "question": "Is the bird at the bottom of the plane? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "any2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "9": {
+        "image": "0009.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a rat to the pot",
+        "evaluation": "VLM_judgement",
+        "question": "Is the rat in the pot? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "10": {
+        "image": "0010.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cow to the left of the elephant",
+        "evaluation": "VLM_judgement",
+        "question": "Is the cow on the left of the elephant? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "11": {
+        "image": "0011.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cat to the left of the fire hydrant",
+        "evaluation": "VLM_judgement",
+        "question": "Is the cat on the left of the fire hydrant? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "12": {
+        "image": "0012.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a dog to the top of the table",
+        "evaluation": "VLM_judgement",
+        "question": "Is the dog on the top of the table? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "mgie"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "13": {
+        "image": "0013.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a bug to the inside of the hot dog",
+        "evaluation": "VLM_judgement",
+        "question": "Is the bug in the hot dog? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "any2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "14": {
+        "image": "0015.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a bird to the top of the street sign",
+        "evaluation": "VLM_judgement",
+        "question": "Is the bird on the top of the street sign? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "15": {
+        "image": "0016.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a caterpillar to the top of the people's finger",
+        "evaluation": "VLM_judgement",
+        "question": "Is the caterpillar on the top of the finger? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "16": {
+        "image": "0017.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a woman to the right of the sports man",
+        "evaluation": "VLM_judgement",
+        "question": "Is the woman on the right of the sports man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "mgie",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "17": {
+        "image": "0018.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a caterpillar on the top of the fork",
+        "evaluation": "VLM_judgement",
+        "question": "Is the caterpillar at the bottom of the fork? Answer Yes or No.",
+        "gt": "No",
+        "type": "Animal",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "mgie",
+                "instruct-diffusion"
+            ]
+        }
+    },
+    "18": {
+        "image": "0019.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a baby to the right of the man",
+        "evaluation": "VLM_judgement",
+        "question": "Is the baby on the right of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No.",
+        "model_rank": {
+            "right_models": [
+                "mgie",
+                "iedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "hqedit"
+            ]
+        }
+    },
+    "19": {
+        "image": "0020.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cat to the right of the dog",
+        "evaluation": "VLM_judgement",
+        "question": "Is the cat on the left of the dog? Answer Yes or No.",
+        "gt": "No",
+        "type": "Animal",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "magicbrush",
+                "mgie"
+            ]
+        }
+    },
+    "20": {
+        "image": "0021.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a man to the right of the street sign",
+        "evaluation": "VLM_judgement",
+        "question": "Is the man on the right of the street sign? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "magicbrush",
+                "mgie",
+                "hqedit"
+            ]
+        }
+    },
+    "21": {
+        "image": "0022.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a dog to the on of top the bottle",
+        "evaluation": "VLM_judgement",
+        "question": "Is the dog on the top of the bottle? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "22": {
+        "image": "0023.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a bird to the top of the man's head",
+        "evaluation": "VLM_judgement",
+        "question": "Is the bird on the right of the man's head? Answer Yes or No.",
+        "gt": "No",
+        "type": "Animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "instruct-diffusion",
+                "iedit"
+            ],
+            "wrong_models": [
+                "magicbrush",
+                "mgie",
+                "any2pix",
+                "hqedit"
+            ]
+        }
+    },
+    "23": {
+        "image": "0024.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a moon to the back of the buildings",
+        "evaluation": "VLM_judgement",
+        "question": "Is the moon in the back of the buildings? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "instruct-diffusion",
+                "any2pix"
+            ],
+            "wrong_models": [
+                "magicbrush",
+                "mgie",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "24": {
+        "image": "0025.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a girl to the left of the man",
+        "evaluation": "VLM_judgement",
+        "question": "Is the girl on the left of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix"
+            ],
+            "wrong_models": [
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "25": {
+        "image": "0026.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a baby to the right of the man",
+        "evaluation": "VLM_judgement",
+        "question": "Is the baby on the right of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix"
+            ],
+            "wrong_models": [
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "26": {
+        "image": "0027.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a man to the right of the girl",
+        "evaluation": "VLM_judgement",
+        "question": "Is the man on the right of the girl? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "27": {
+        "image": "0028.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cat to the top of the tower",
+        "evaluation": "VLM_judgement",
+        "question": "Is the cat on the left of the tower? Answer Yes or No.",
+        "gt": "No",
+        "type": "Animal",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "magicbrush"
+            ]
+        }
+    },
+    "28": {
+        "image": "0029.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a lion to the left of the sheep",
+        "evaluation": "VLM_judgement",
+        "question": "Is the lion on the right of the sheep? Answer Yes or No.",
+        "gt": "No",
+        "type": "Animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush",
+                "mgie",
+                "any2pix",
+                "iedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "instruct-diffusion",
+                "hqedit"
+            ]
+        }
+    },
+    "29": {
+        "image": "0030.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a airplane to the left of the kite",
+        "evaluation": "VLM_judgement",
+        "question": "Is the airplane on the left of the kite? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No.",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "30": {
+        "image": "0031.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cat to the left of the mouse",
+        "evaluation": "VLM_judgement",
+        "question": "Is the cat on the right of the mouse? Answer Yes or No.",
+        "gt": "No",
+        "type": "Animal",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": []
+        }
+    },
+    "31": {
+        "image": "0032.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a man to the top of the bus",
+        "evaluation": "VLM_judgement",
+        "question": "Is the man on the top of the bus? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "32": {
+        "image": "0033.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a woman to the left of the girl",
+        "evaluation": "VLM_judgement",
+        "question": "Is the woman on the left of the girl? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie"
+            ]
+        }
+    },
+    "33": {
+        "image": "0034.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a flower to the top of the table",
+        "evaluation": "VLM_judgement",
+        "question": "Is the flower on the top of the table? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "instruct-diffusion",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "34": {
+        "image": "0035.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a man to the left of the cow",
+        "evaluation": "VLM_judgement",
+        "question": "Is the man behind the cow? Answer Yes or No.",
+        "gt": "No",
+        "type": "Human",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "any2pix"
+            ]
+        }
+    },
+    "35": {
+        "image": "0036.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a knife to the top of the pizza",
+        "evaluation": "VLM_judgement",
+        "question": "Is the knife on the top of the table? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "iedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "any2pix",
+                "hqedit"
+            ]
+        }
+    },
+    "36": {
+        "image": "0037.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a boy to the right of the train",
+        "evaluation": "VLM_judgement",
+        "question": "Is the boy on the top of the train? Answer Yes or No.",
+        "gt": "No",
+        "type": "Human",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": []
+        }
+    },
+    "37": {
+        "image": "0038.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a television on the wall",
+        "evaluation": "VLM_judgement",
+        "question": "Is the television on the wall? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No.",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "38": {
+        "image": "0039.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a flower on the floor",
+        "evaluation": "VLM_judgement",
+        "question": "Is the flower on the top of the desk? Answer Yes or No.",
+        "gt": "No",
+        "type": "Plant",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": []
+        }
+    },
+    "39": {
+        "image": "0040.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a apple to the top of the table",
+        "evaluation": "VLM_judgement",
+        "question": "Is the apple on the floor? Answer Yes or No.",
+        "gt": "No",
+        "type": "Plant",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": []
+        }
+    },
+    "40": {
+        "image": "0041.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a banana in the zebra's mouse",
+        "evaluation": "VLM_judgement",
+        "question": "Is the banana on the floor? Answer Yes or No.",
+        "gt": "No",
+        "type": "Plant",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "magicbrush"
+            ]
+        }
+    },
+    "41": {
+        "image": "0042.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a girl to the left of the woman",
+        "evaluation": "VLM_judgement",
+        "question": "Is the girl in the front of the board? Answer Yes or No.",
+        "gt": "No",
+        "type": "Human",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix"
+            ]
+        }
+    },
+    "42": {
+        "image": "0043.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a girl to the left of the boy",
+        "evaluation": "VLM_judgement",
+        "question": "Is the girl on the right of the boy? Answer Yes or No.",
+        "gt": "No",
+        "type": "Human",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "magicbrush",
+                "mgie"
+            ]
+        }
+    },
+    "43": {
+        "image": "0044.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add the chopsticks on the top of the table",
+        "evaluation": "VLM_judgement",
+        "question": "Is the chopsticks in the bowl? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "mgie",
+                "any2pix"
+            ]
+        }
+    },
+    "44": {
+        "image": "0045.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add an apple in the bowl",
+        "evaluation": "VLM_judgement",
+        "question": "Is the apple in the bowl? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "45": {
+        "image": "0046.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a woman to the right of the man",
+        "evaluation": "VLM_judgement",
+        "question": "Is the woman on the right of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "mgie"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "46": {
+        "image": "0047.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a man to the bottom of the banana",
+        "evaluation": "VLM_judgement",
+        "question": "Is the man on bottom of the banana? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "any2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "47": {
+        "image": "0048.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a watermelon to the top of the table",
+        "evaluation": "VLM_judgement",
+        "question": "Is the watermelon on the floor? Answer Yes or No.",
+        "gt": "No",
+        "type": "Plant",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": []
+        }
+    },
+    "48": {
+        "image": "0049.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a flower to the left of the sink",
+        "evaluation": "VLM_judgement",
+        "question": "Is the flower on the right of the sink? Answer Yes or No.",
+        "gt": "No",
+        "type": "Plant",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "any2pix"
+            ]
+        }
+    },
+    "49": {
+        "image": "0050.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a boy to the right of the toilet",
+        "evaluation": "VLM_judgement",
+        "question": "Is the boy on the left of the toilet? Answer Yes or No.",
+        "gt": "No",
+        "type": "Human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "hqedit"
+            ]
+        }
+    },
+    "50": {
+        "image": "0051.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a boy to the bottom of the urinal",
+        "evaluation": "VLM_judgement",
+        "question": "Is the boy at the bottom of the urinal? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "51": {
+        "image": "0052.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a box to the top of the fire hydrant",
+        "evaluation": "VLM_judgement",
+        "question": "Is the box on the right of the fire hydrant? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "any2pix"
+            ]
+        }
+    },
+    "52": {
+        "image": "0053.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a man to the left of the clock",
+        "evaluation": "VLM_judgement",
+        "question": "Is the man on the left of the clock? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "53": {
+        "image": "0054.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a picture to the left of the giraffe",
+        "evaluation": "VLM_judgement",
+        "question": "Is the picture on the left of the giraffe? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix"
+            ]
+        }
+    },
+    "54": {
+        "image": "0056.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a paper to the top of the knife",
+        "evaluation": "VLM_judgement",
+        "question": "Is the paper on the top of the knife? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie"
+            ],
+            "wrong_models": [
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "55": {
+        "image": "0057.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a bowl to the top of the table",
+        "evaluation": "VLM_judgement",
+        "question": "Is the bowl on the top of the table? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "iedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "hqedit"
+            ]
+        }
+    },
+    "56": {
+        "image": "0058.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a bag to the left of the woman",
+        "evaluation": "VLM_judgement",
+        "question": "Is the bag on the left of the woman? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No.",
+        "model_rank": {
+            "right_models": [
+                "magicbrush"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "57": {
+        "image": "0059.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a hat to the top of the woman",
+        "evaluation": "VLM_judgement",
+        "question": "Is the hat on the top of the chair? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": []
+        }
+    },
+    "58": {
+        "image": "0060.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a bottle to the front of the book",
+        "evaluation": "VLM_judgement",
+        "question": "Is the bottle on the left of the book? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix"
+            ]
+        }
+    },
+    "59": {
+        "image": "0061.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a toy car to the left of the girl",
+        "evaluation": "VLM_judgement",
+        "question": "Is the toy car on the right of the girl? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "mgie",
+                "any2pix"
+            ]
+        }
+    },
+    "60": {
+        "image": "0062.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a flower on the floor",
+        "evaluation": "VLM_judgement",
+        "question": "Is the flower on the top of the table? Answer Yes or No.",
+        "gt": "No",
+        "type": "Plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "iedit"
+            ],
+            "wrong_models": [
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "hqedit"
+            ]
+        }
+    },
+    "61": {
+        "image": "0063.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a fork to the left of the bowl",
+        "evaluation": "VLM_judgement",
+        "question": "Is the fork on the right of the bowl? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "62": {
+        "image": "0064.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add an apple to the top of the dog",
+        "evaluation": "VLM_judgement",
+        "question": "Is the apple on the top of the dog? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No.",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "63": {
+        "image": "0065.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a banana to the right of the pot",
+        "evaluation": "VLM_judgement",
+        "question": "Is the banana on the right of the pot? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "mgie"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "64": {
+        "image": "0066.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a rose to the left of the dog",
+        "evaluation": "VLM_judgement",
+        "question": "Is the rose on the right of the dog? Answer Yes or No.",
+        "gt": "No",
+        "type": "Plant",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "any2pix"
+            ]
+        }
+    },
+    "65": {
+        "image": "0067.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add an apple to the back of the board",
+        "evaluation": "VLM_judgement",
+        "question": "Is the apple on the front of the board? Answer Yes or No.",
+        "gt": "No",
+        "type": "Plant",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush"
+            ]
+        }
+    },
+    "66": {
+        "image": "0068.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cactus to the left of the woman",
+        "evaluation": "VLM_judgement",
+        "question": "Is the cactus on the left of the woman? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "mgie"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "67": {
+        "image": "0069.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a banana to the front of the girl",
+        "evaluation": "VLM_judgement",
+        "question": "Is the banana on the front of the girl? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No.",
+        "model_rank": {
+            "right_models": [
+                "magicbrush"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "68": {
+        "image": "0070.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a fork to the right of the plate",
+        "evaluation": "VLM_judgement",
+        "question": "Is the fork on the top of the plate? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": []
+        }
+    },
+    "69": {
+        "image": "0071.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add an apple to the left of the man's arm",
+        "evaluation": "VLM_judgement",
+        "question": "Is the apple on the left of the man's arm? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "70": {
+        "image": "0072.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add an apple to the top of the street sign",
+        "evaluation": "VLM_judgement",
+        "question": "Is the apple on the top of the street sign? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "71": {
+        "image": "0073.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a banana to the top of the train",
+        "evaluation": "VLM_judgement",
+        "question": "Is the banana on the top of the train? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush",
+                "instruct-diffusion",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "mgie",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "72": {
+        "image": "0074.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add an apple to the right of the man's arm",
+        "evaluation": "VLM_judgement",
+        "question": "Is the apple on the left of the man's arm? Answer Yes or No.",
+        "gt": "No",
+        "type": "Plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ],
+            "wrong_models": [
+                "mgie",
+                "hqedit"
+            ]
+        }
+    },
+    "73": {
+        "image": "0075.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a girl to the left of the man",
+        "evaluation": "VLM_judgement",
+        "question": "Is the girl on the left of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "mgie",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "74": {
+        "image": "0077.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a woman to the right of the train",
+        "evaluation": "VLM_judgement",
+        "question": "Is the woman on the left of the train? Answer Yes or No.",
+        "gt": "No",
+        "type": "Human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "instruct-diffusion",
+                "any2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "magicbrush",
+                "mgie",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "75": {
+        "image": "0078.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a car to the left of the man",
+        "evaluation": "VLM_judgement",
+        "question": "Is the car on the left of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "76": {
+        "image": "0079.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a boy to the left of the man",
+        "evaluation": "VLM_judgement",
+        "question": "Is the boy on the right of the man? Answer Yes or No.",
+        "gt": "No",
+        "type": "Human",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion"
+            ]
+        }
+    },
+    "77": {
+        "image": "0080.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add an apple to the top of the toilet",
+        "evaluation": "VLM_judgement",
+        "question": "Is the apple on the top of the toilet? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "78": {
+        "image": "0081.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a clock to the left of the light",
+        "evaluation": "VLM_judgement",
+        "question": "Is the clock on the left of the light? Answer Yes or No.",
+        "gt": "Yes/No",
+        "type": "Object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "79": {
+        "image": "0082.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cat to the right of the goose",
+        "evaluation": "VLM_judgement",
+        "question": "Is the cat on the right of the goose? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No.",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "80": {
+        "image": "0083.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a dog to the bottom of the train",
+        "evaluation": "VLM_judgement",
+        "question": "Is the dog at the bottom of the train? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "mgie"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "81": {
+        "image": "0084.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cat to the right of the car",
+        "evaluation": "VLM_judgement",
+        "question": "Is the cat on the right of the car? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No.",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "82": {
+        "image": "0085.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a photo to the left of the clock",
+        "evaluation": "VLM_judgement",
+        "question": "Is the photo on the right of the clock? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "mgie",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "any2pix"
+            ]
+        }
+    },
+    "83": {
+        "image": "0086.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cat to the right of the dogs",
+        "evaluation": "VLM_judgement",
+        "question": "Is the cat on the right of the dogs? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "any2pix",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "iedit"
+            ]
+        }
+    },
+    "84": {
+        "image": "0087.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a man to the left of the road sign",
+        "evaluation": "VLM_judgement",
+        "question": "Is the man on the right of the road sign? Answer Yes or No.",
+        "gt": "No",
+        "type": "Human",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": []
+        }
+    },
+    "85": {
+        "image": "0088.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a banana to the left of the toilet",
+        "evaluation": "VLM_judgement",
+        "question": "Is the banana on the left of the toilet? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "86": {
+        "image": "0089.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add an apple to the top of the toilet",
+        "evaluation": "VLM_judgement",
+        "question": "Is the apple on the left of the toilet? Answer Yes or No.",
+        "gt": "No",
+        "type": "Plant",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": []
+        }
+    },
+    "87": {
+        "image": "0090.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a flower to the right of the animal",
+        "evaluation": "VLM_judgement",
+        "question": "Is the flower on the top of the animal? Answer Yes or No.",
+        "gt": "No",
+        "type": "Plant",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": []
+        }
+    },
+    "88": {
+        "image": "0092.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a woman to the left of the man",
+        "evaluation": "VLM_judgement",
+        "question": "Is the woman on the left of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "89": {
+        "image": "0093.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a picture to the left of the television",
+        "evaluation": "VLM_judgement",
+        "question": "Is the picture on the top of the television? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "instruct-diffusion"
+            ]
+        }
+    },
+    "90": {
+        "image": "0094.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add an apple to the top of the table",
+        "evaluation": "VLM_judgement",
+        "question": "Is the apple on the top of the table? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "iedit"
+            ]
+        }
+    },
+    "91": {
+        "image": "0095.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a fork to the left of the number",
+        "evaluation": "VLM_judgement",
+        "question": "Is the fork on the left of the number? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "92": {
+        "image": "0096.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add an orange to the right of the bread",
+        "evaluation": "VLM_judgement",
+        "question": "Is the orange on the right of the bread? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "mgie"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "93": {
+        "image": "0097.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add an orange to the left of the cake",
+        "evaluation": "VLM_judgement",
+        "question": "Is the orange on the right of the cake? Answer Yes or No.",
+        "gt": "No",
+        "type": "Plant",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "94": {
+        "image": "0098.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a banana to the top of the chair",
+        "evaluation": "VLM_judgement",
+        "question": "Is the banana on the top of the chair? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "95": {
+        "image": "0099.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a ball to the left of the cat",
+        "evaluation": "VLM_judgement",
+        "question": "Is the ball on the right of the cat? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "mgie",
+                "any2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "96": {
+        "image": "0100.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a ball to the left of the woman",
+        "evaluation": "VLM_judgement",
+        "question": "Is the ball on the right of the woman? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "instruct-diffusion"
+            ]
+        }
+    },
+    "97": {
+        "image": "0101.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cat to the left of the car",
+        "evaluation": "VLM_judgement",
+        "question": "Is the cat on the top of the car? Answer Yes or No.",
+        "gt": "No",
+        "type": "Animal",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive"
+            ]
+        }
+    },
+    "98": {
+        "image": "0102.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a box to the top of the horse",
+        "evaluation": "VLM_judgement",
+        "question": "Is the box at the bottom of the horse? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": []
+        }
+    },
+    "99": {
+        "image": "0103.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a bird to the left of the man's arm",
+        "evaluation": "VLM_judgement",
+        "question": "Is the bird on the left of the man's arm? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "100": {
+        "image": "0104.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a dog to the left of the man",
+        "evaluation": "VLM_judgement",
+        "question": "Is the dog on the right of the man? Answer Yes or No.",
+        "gt": "No",
+        "type": "Animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ],
+            "wrong_models": [
+                "hqedit"
+            ]
+        }
+    },
+    "101": {
+        "image": "0105.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a tree to the left of the giraffe",
+        "evaluation": "VLM_judgement",
+        "question": "Is the tree on the left of the giraffe? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "mgie",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "instruct-diffusion",
+                "any2pix"
+            ]
+        }
+    },
+    "102": {
+        "image": "0106.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a woman to the left of the man",
+        "evaluation": "VLM_judgement",
+        "question": "Is the left on the left of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion"
+            ]
+        }
+    },
+    "103": {
+        "image": "0107.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a picture to the left of the woman",
+        "evaluation": "VLM_judgement",
+        "question": "Is the picture on the right of the woman? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "104": {
+        "image": "0108.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a photo to the left of the road sign",
+        "evaluation": "VLM_judgement",
+        "question": "Is the photo on the right of the road sign? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "105": {
+        "image": "0109.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a girl to the left of the man",
+        "evaluation": "VLM_judgement",
+        "question": "Is the girl on the right of the man? Answer Yes or No.",
+        "gt": "No",
+        "type": "Human",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "iedit"
+            ]
+        }
+    },
+    "106": {
+        "image": "0110.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a photo to the left of the girls",
+        "evaluation": "VLM_judgement",
+        "question": "Is the photo on the top of the girls? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "instruct-diffusion",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "107": {
+        "image": "0111.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a girl to the left of the man in yellow",
+        "evaluation": "VLM_judgement",
+        "question": "Is the girl on the right of the man in yellow? Answer Yes or No.",
+        "gt": "No",
+        "type": "Human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "magicbrush",
+                "hqedit"
+            ]
+        }
+    },
+    "108": {
+        "image": "0112.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a man to the left of the car",
+        "evaluation": "VLM_judgement",
+        "question": "Is the man on the left of the car? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "any2pix",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "iedit"
+            ]
+        }
+    },
+    "109": {
+        "image": "0113.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a phone to the left of the computer",
+        "evaluation": "VLM_judgement",
+        "question": "Is the phone on the left of the computer? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "110": {
+        "image": "0114.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a plate to the top of the toilet",
+        "evaluation": "VLM_judgement",
+        "question": "Is the plate on the top of the toilet? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "111": {
+        "image": "0115.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add an airplane to the top of the horses",
+        "evaluation": "VLM_judgement",
+        "question": "Is the airplane on the top of the horses? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "mgie",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "112": {
+        "image": "0116.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a banana to the top of the umbrella",
+        "evaluation": "VLM_judgement",
+        "question": "Is the banana on the top of the umbrella? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No.",
+        "model_rank": {
+            "right_models": [
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "113": {
+        "image": "0117.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cup to the left of the flowers",
+        "evaluation": "VLM_judgement",
+        "question": "Is the cup on the right of the flowers? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "instruct-diffusion"
+            ]
+        }
+    },
+    "114": {
+        "image": "0118.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add an apple to the left of the cat",
+        "evaluation": "VLM_judgement",
+        "question": "Is the apple on the right of the cat? Answer Yes or No.",
+        "gt": "No",
+        "type": "Plant",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush"
+            ]
+        }
+    },
+    "115": {
+        "image": "0119.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a bike to the left of the man",
+        "evaluation": "VLM_judgement",
+        "question": "Is the bike on the right of the man? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "any2pix",
+                "iedit"
+            ],
+            "wrong_models": [
+                "mgie",
+                "instruct-diffusion",
+                "hqedit"
+            ]
+        }
+    },
+    "116": {
+        "image": "0120.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a sun to the left of the man",
+        "evaluation": "VLM_judgement",
+        "question": "Is the sun on the right of the man? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "iedit"
+            ],
+            "wrong_models": [
+                "magicbrush",
+                "any2pix",
+                "hqedit"
+            ]
+        }
+    },
+    "117": {
+        "image": "0121.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a bottle to the left of the doll",
+        "evaluation": "VLM_judgement",
+        "question": "Is the bottle on the right of the doll? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "hqedit"
+            ]
+        }
+    },
+    "118": {
+        "image": "0122.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a bird to the top of the traffic light",
+        "evaluation": "VLM_judgement",
+        "question": "Is the bird at the bottom of the traffic light? Answer Yes or No.",
+        "gt": "No",
+        "type": "Animal",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix"
+            ]
+        }
+    },
+    "119": {
+        "image": "0123.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a knife to the left of the pineapple",
+        "evaluation": "VLM_judgement",
+        "question": "Is the knife on the left of the pineapple? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "120": {
+        "image": "0124.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a ball to the left of the man",
+        "evaluation": "VLM_judgement",
+        "question": "Is the ball on the left of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No.",
+        "model_rank": {
+            "right_models": [
+                "any2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "121": {
+        "image": "0125.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a photo to the top of the sink",
+        "evaluation": "VLM_judgement",
+        "question": "Is the photo on the top of the sink? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No.",
+        "model_rank": {
+            "right_models": [
+                "mgie"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "122": {
+        "image": "0126.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a ship to the left of the man",
+        "evaluation": "VLM_judgement",
+        "question": "Is the ship on the right of the man? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": []
+        }
+    },
+    "123": {
+        "image": "0127.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a man to the right of the giraffe",
+        "evaluation": "VLM_judgement",
+        "question": "Is the man on the right of the giraffe? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "124": {
+        "image": "0128.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a fork to the right of the plate",
+        "evaluation": "VLM_judgement",
+        "question": "Is the fork on the top of the plate? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "iedit"
+            ]
+        }
+    },
+    "125": {
+        "image": "0129.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cube to the left of the cup",
+        "evaluation": "VLM_judgement",
+        "question": "Is the cube on the right of the cup? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "magicbrush",
+                "any2pix"
+            ]
+        }
+    },
+    "126": {
+        "image": "0130.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a basketball to the top of the car",
+        "evaluation": "VLM_judgement",
+        "question": "Is the basketball at the bottom of the car? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": []
+        }
+    },
+    "127": {
+        "image": "0131.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a ball to the left of the dog",
+        "evaluation": "VLM_judgement",
+        "question": "Is the ball on the left of the dog? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "128": {
+        "image": "0132.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a ship to the left of the man",
+        "evaluation": "VLM_judgement",
+        "question": "Is the ship on the right of the man? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "magicbrush"
+            ]
+        }
+    },
+    "129": {
+        "image": "0133.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a woman to the left of the man",
+        "evaluation": "VLM_judgement",
+        "question": "Is the woman on the left of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "130": {
+        "image": "0134.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a man to the left of the fire hydrant",
+        "evaluation": "VLM_judgement",
+        "question": "Is the man on the left of the fire hydrant? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "131": {
+        "image": "0135.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a girl to the left of the man",
+        "evaluation": "VLM_judgement",
+        "question": "Is the girl on the left of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "Yes.",
+        "model_rank": {
+            "right_models": [
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "132": {
+        "image": "0136.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a rocket to the right of the airplanes",
+        "evaluation": "VLM_judgement",
+        "question": "Is the rocket on the right of the airplanes? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "mgie"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "133": {
+        "image": "0137.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a boy to the top of the sink",
+        "evaluation": "VLM_judgement",
+        "question": "Is the boy on the left of the sink? Answer Yes or No.",
+        "gt": "No",
+        "type": "Human",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "magicbrush"
+            ]
+        }
+    },
+    "134": {
+        "image": "0138.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a plate to the left of the cake",
+        "evaluation": "VLM_judgement",
+        "question": "Is the plate on the left of the cake? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "any2pix",
+                "iedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "hqedit"
+            ]
+        }
+    },
+    "135": {
+        "image": "0139.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a girl to the left of the dog",
+        "evaluation": "VLM_judgement",
+        "question": "Is the girl on the right of the dog? Answer Yes or No.",
+        "gt": "No",
+        "type": "Human",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": []
+        }
+    },
+    "136": {
+        "image": "0140.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a girl to the top of the elephant",
+        "evaluation": "VLM_judgement",
+        "question": "Is the girl on the top of the elephant? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    }
+}

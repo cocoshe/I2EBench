@@ -1,0 +1,5742 @@
+{
+    "1": {
+        "image": "1.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.667
+            ],
+            [
+                "instructpix2pix",
+                0.6381
+            ],
+            [
+                "magicbrush",
+                0.6273
+            ],
+            [
+                "hive",
+                0.5802
+            ],
+            [
+                "instruct-diffusion",
+                0.5111
+            ],
+            [
+                "hqedit",
+                0.4197
+            ],
+            [
+                "iedit",
+                0.4145
+            ],
+            [
+                "any2pix",
+                0.3757
+            ]
+        ]
+    },
+    "2": {
+        "image": "2.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6311
+            ],
+            [
+                "instruct-diffusion",
+                0.6014
+            ],
+            [
+                "magicbrush",
+                0.5281
+            ],
+            [
+                "iedit",
+                0.4844
+            ],
+            [
+                "any2pix",
+                0.4802
+            ],
+            [
+                "hqedit",
+                0.4257
+            ],
+            [
+                "hive",
+                0.3134
+            ],
+            [
+                "mgie",
+                0.1843
+            ]
+        ]
+    },
+    "3": {
+        "image": "3.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.8174
+            ],
+            [
+                "instruct-diffusion",
+                0.8115
+            ],
+            [
+                "magicbrush",
+                0.805
+            ],
+            [
+                "hqedit",
+                0.6845
+            ],
+            [
+                "instructpix2pix",
+                0.6225
+            ],
+            [
+                "any2pix",
+                0.6144
+            ],
+            [
+                "iedit",
+                0.5796
+            ],
+            [
+                "hive",
+                0.4974
+            ]
+        ]
+    },
+    "4": {
+        "image": "4.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7468
+            ],
+            [
+                "instructpix2pix",
+                0.7311
+            ],
+            [
+                "magicbrush",
+                0.7299
+            ],
+            [
+                "mgie",
+                0.5321
+            ],
+            [
+                "iedit",
+                0.4881
+            ],
+            [
+                "any2pix",
+                0.4519
+            ],
+            [
+                "hqedit",
+                0.4421
+            ],
+            [
+                "instruct-diffusion",
+                0.3467
+            ]
+        ]
+    },
+    "5": {
+        "image": "5.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6853
+            ],
+            [
+                "instructpix2pix",
+                0.666
+            ],
+            [
+                "instruct-diffusion",
+                0.6377
+            ],
+            [
+                "hive",
+                0.592
+            ],
+            [
+                "iedit",
+                0.4992
+            ],
+            [
+                "any2pix",
+                0.4743
+            ],
+            [
+                "hqedit",
+                0.4471
+            ],
+            [
+                "mgie",
+                0.1967
+            ]
+        ]
+    },
+    "6": {
+        "image": "6.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6036
+            ],
+            [
+                "mgie",
+                0.5951
+            ],
+            [
+                "magicbrush",
+                0.5801
+            ],
+            [
+                "instruct-diffusion",
+                0.5647
+            ],
+            [
+                "any2pix",
+                0.5228
+            ],
+            [
+                "iedit",
+                0.4485
+            ],
+            [
+                "hqedit",
+                0.4191
+            ],
+            [
+                "hive",
+                0.2579
+            ]
+        ]
+    },
+    "7": {
+        "image": "7.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.557
+            ],
+            [
+                "hive",
+                0.5306
+            ],
+            [
+                "instructpix2pix",
+                0.5176
+            ],
+            [
+                "instruct-diffusion",
+                0.517
+            ],
+            [
+                "magicbrush",
+                0.5157
+            ],
+            [
+                "iedit",
+                0.3058
+            ],
+            [
+                "hqedit",
+                0.3054
+            ],
+            [
+                "any2pix",
+                0.3052
+            ]
+        ]
+    },
+    "8": {
+        "image": "8.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.5232
+            ],
+            [
+                "instructpix2pix",
+                0.4898
+            ],
+            [
+                "magicbrush",
+                0.4448
+            ],
+            [
+                "instruct-diffusion",
+                0.4373
+            ],
+            [
+                "iedit",
+                0.2937
+            ],
+            [
+                "any2pix",
+                0.2696
+            ],
+            [
+                "hqedit",
+                0.2637
+            ],
+            [
+                "mgie",
+                0.1683
+            ]
+        ]
+    },
+    "9": {
+        "image": "9.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6393
+            ],
+            [
+                "magicbrush",
+                0.6157
+            ],
+            [
+                "instructpix2pix",
+                0.5825
+            ],
+            [
+                "instruct-diffusion",
+                0.5409
+            ],
+            [
+                "any2pix",
+                0.4698
+            ],
+            [
+                "iedit",
+                0.4017
+            ],
+            [
+                "hqedit",
+                0.3447
+            ],
+            [
+                "mgie",
+                0.0722
+            ]
+        ]
+    },
+    "10": {
+        "image": "10.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7266
+            ],
+            [
+                "magicbrush",
+                0.7101
+            ],
+            [
+                "instructpix2pix",
+                0.6773
+            ],
+            [
+                "instruct-diffusion",
+                0.6397
+            ],
+            [
+                "iedit",
+                0.518
+            ],
+            [
+                "hqedit",
+                0.4841
+            ],
+            [
+                "any2pix",
+                0.4338
+            ],
+            [
+                "hive",
+                0.3955
+            ]
+        ]
+    },
+    "11": {
+        "image": "11.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6833
+            ],
+            [
+                "magicbrush",
+                0.6448
+            ],
+            [
+                "instruct-diffusion",
+                0.6374
+            ],
+            [
+                "instructpix2pix",
+                0.5892
+            ],
+            [
+                "hive",
+                0.5867
+            ],
+            [
+                "any2pix",
+                0.3935
+            ],
+            [
+                "iedit",
+                0.3908
+            ],
+            [
+                "hqedit",
+                0.3816
+            ]
+        ]
+    },
+    "12": {
+        "image": "12.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6576
+            ],
+            [
+                "hive",
+                0.641
+            ],
+            [
+                "magicbrush",
+                0.6119
+            ],
+            [
+                "instructpix2pix",
+                0.6111
+            ],
+            [
+                "iedit",
+                0.4448
+            ],
+            [
+                "any2pix",
+                0.4375
+            ],
+            [
+                "hqedit",
+                0.366
+            ],
+            [
+                "mgie",
+                0.3633
+            ]
+        ]
+    },
+    "13": {
+        "image": "13.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6377
+            ],
+            [
+                "mgie",
+                0.6245
+            ],
+            [
+                "magicbrush",
+                0.6157
+            ],
+            [
+                "instruct-diffusion",
+                0.5962
+            ],
+            [
+                "instructpix2pix",
+                0.5635
+            ],
+            [
+                "any2pix",
+                0.4788
+            ],
+            [
+                "iedit",
+                0.46
+            ],
+            [
+                "hqedit",
+                0.4473
+            ]
+        ]
+    },
+    "14": {
+        "image": "14.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6048
+            ],
+            [
+                "instructpix2pix",
+                0.5419
+            ],
+            [
+                "magicbrush",
+                0.4757
+            ],
+            [
+                "any2pix",
+                0.4129
+            ],
+            [
+                "iedit",
+                0.3671
+            ],
+            [
+                "hqedit",
+                0.347
+            ],
+            [
+                "hive",
+                0.2803
+            ],
+            [
+                "mgie",
+                0.1096
+            ]
+        ]
+    },
+    "15": {
+        "image": "15.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7351
+            ],
+            [
+                "hive",
+                0.7231
+            ],
+            [
+                "instructpix2pix",
+                0.6989
+            ],
+            [
+                "iedit",
+                0.556
+            ],
+            [
+                "any2pix",
+                0.499
+            ],
+            [
+                "instruct-diffusion",
+                0.3678
+            ],
+            [
+                "hqedit",
+                0.3561
+            ],
+            [
+                "mgie",
+                0.2188
+            ]
+        ]
+    },
+    "16": {
+        "image": "16.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6905
+            ],
+            [
+                "hive",
+                0.6565
+            ],
+            [
+                "instructpix2pix",
+                0.6332
+            ],
+            [
+                "any2pix",
+                0.568
+            ],
+            [
+                "iedit",
+                0.5421
+            ],
+            [
+                "hqedit",
+                0.4983
+            ],
+            [
+                "instruct-diffusion",
+                0.1911
+            ],
+            [
+                "mgie",
+                0.1878
+            ]
+        ]
+    },
+    "17": {
+        "image": "17.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6552
+            ],
+            [
+                "hive",
+                0.6454
+            ],
+            [
+                "instruct-diffusion",
+                0.5725
+            ],
+            [
+                "magicbrush",
+                0.5692
+            ],
+            [
+                "any2pix",
+                0.5659
+            ],
+            [
+                "iedit",
+                0.5044
+            ],
+            [
+                "hqedit",
+                0.4788
+            ],
+            [
+                "mgie",
+                0.1137
+            ]
+        ]
+    },
+    "18": {
+        "image": "18.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6015
+            ],
+            [
+                "mgie",
+                0.5081
+            ],
+            [
+                "instruct-diffusion",
+                0.5007
+            ],
+            [
+                "magicbrush",
+                0.4902
+            ],
+            [
+                "any2pix",
+                0.4543
+            ],
+            [
+                "iedit",
+                0.4257
+            ],
+            [
+                "hive",
+                0.3799
+            ],
+            [
+                "hqedit",
+                0.3637
+            ]
+        ]
+    },
+    "19": {
+        "image": "19.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.608
+            ],
+            [
+                "mgie",
+                0.5798
+            ],
+            [
+                "instruct-diffusion",
+                0.577
+            ],
+            [
+                "magicbrush",
+                0.5131
+            ],
+            [
+                "hive",
+                0.5112
+            ],
+            [
+                "any2pix",
+                0.4282
+            ],
+            [
+                "iedit",
+                0.3867
+            ],
+            [
+                "hqedit",
+                0.3406
+            ]
+        ]
+    },
+    "20": {
+        "image": "20.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7386
+            ],
+            [
+                "magicbrush",
+                0.7086
+            ],
+            [
+                "instructpix2pix",
+                0.623
+            ],
+            [
+                "any2pix",
+                0.5384
+            ],
+            [
+                "mgie",
+                0.5072
+            ],
+            [
+                "iedit",
+                0.4952
+            ],
+            [
+                "instruct-diffusion",
+                0.4893
+            ],
+            [
+                "hqedit",
+                0.3679
+            ]
+        ]
+    },
+    "21": {
+        "image": "21.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7414
+            ],
+            [
+                "instruct-diffusion",
+                0.7245
+            ],
+            [
+                "instructpix2pix",
+                0.7039
+            ],
+            [
+                "magicbrush",
+                0.6828
+            ],
+            [
+                "iedit",
+                0.5123
+            ],
+            [
+                "any2pix",
+                0.5094
+            ],
+            [
+                "hqedit",
+                0.4645
+            ],
+            [
+                "mgie",
+                0.1276
+            ]
+        ]
+    },
+    "22": {
+        "image": "22.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5273
+            ],
+            [
+                "instructpix2pix",
+                0.5036
+            ],
+            [
+                "magicbrush",
+                0.4957
+            ],
+            [
+                "instruct-diffusion",
+                0.4831
+            ],
+            [
+                "hqedit",
+                0.383
+            ],
+            [
+                "hive",
+                0.3828
+            ],
+            [
+                "any2pix",
+                0.3109
+            ],
+            [
+                "iedit",
+                0.2935
+            ]
+        ]
+    },
+    "23": {
+        "image": "23.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6893
+            ],
+            [
+                "instructpix2pix",
+                0.6806
+            ],
+            [
+                "instruct-diffusion",
+                0.6775
+            ],
+            [
+                "hqedit",
+                0.5068
+            ],
+            [
+                "hive",
+                0.4847
+            ],
+            [
+                "iedit",
+                0.4501
+            ],
+            [
+                "any2pix",
+                0.4474
+            ],
+            [
+                "mgie",
+                0.0851
+            ]
+        ]
+    },
+    "24": {
+        "image": "24.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6666
+            ],
+            [
+                "instruct-diffusion",
+                0.6432
+            ],
+            [
+                "magicbrush",
+                0.6136
+            ],
+            [
+                "any2pix",
+                0.528
+            ],
+            [
+                "iedit",
+                0.498
+            ],
+            [
+                "hive",
+                0.4476
+            ],
+            [
+                "hqedit",
+                0.2847
+            ],
+            [
+                "mgie",
+                0.0987
+            ]
+        ]
+    },
+    "25": {
+        "image": "25.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.728
+            ],
+            [
+                "magicbrush",
+                0.7202
+            ],
+            [
+                "instructpix2pix",
+                0.673
+            ],
+            [
+                "iedit",
+                0.5967
+            ],
+            [
+                "any2pix",
+                0.5335
+            ],
+            [
+                "hive",
+                0.4775
+            ],
+            [
+                "hqedit",
+                0.469
+            ],
+            [
+                "mgie",
+                0.1181
+            ]
+        ]
+    },
+    "26": {
+        "image": "26.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.534
+            ],
+            [
+                "instructpix2pix",
+                0.4915
+            ],
+            [
+                "magicbrush",
+                0.474
+            ],
+            [
+                "instruct-diffusion",
+                0.4713
+            ],
+            [
+                "mgie",
+                0.31
+            ],
+            [
+                "hqedit",
+                0.3053
+            ],
+            [
+                "iedit",
+                0.2721
+            ],
+            [
+                "any2pix",
+                0.2648
+            ]
+        ]
+    },
+    "27": {
+        "image": "27.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6533
+            ],
+            [
+                "hive",
+                0.6403
+            ],
+            [
+                "instructpix2pix",
+                0.6328
+            ],
+            [
+                "magicbrush",
+                0.6257
+            ],
+            [
+                "instruct-diffusion",
+                0.5973
+            ],
+            [
+                "any2pix",
+                0.4075
+            ],
+            [
+                "iedit",
+                0.4049
+            ],
+            [
+                "hqedit",
+                0.3445
+            ]
+        ]
+    },
+    "28": {
+        "image": "28.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5492
+            ],
+            [
+                "magicbrush",
+                0.5193
+            ],
+            [
+                "instruct-diffusion",
+                0.5069
+            ],
+            [
+                "instructpix2pix",
+                0.4432
+            ],
+            [
+                "any2pix",
+                0.4422
+            ],
+            [
+                "hive",
+                0.3915
+            ],
+            [
+                "iedit",
+                0.3672
+            ],
+            [
+                "hqedit",
+                0.2881
+            ]
+        ]
+    },
+    "29": {
+        "image": "29.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.8066
+            ],
+            [
+                "hive",
+                0.7351
+            ],
+            [
+                "iedit",
+                0.6757
+            ],
+            [
+                "instructpix2pix",
+                0.6333
+            ],
+            [
+                "any2pix",
+                0.619
+            ],
+            [
+                "hqedit",
+                0.5876
+            ],
+            [
+                "instruct-diffusion",
+                0.0957
+            ],
+            [
+                "mgie",
+                0.0267
+            ]
+        ]
+    },
+    "30": {
+        "image": "30.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.615
+            ],
+            [
+                "instruct-diffusion",
+                0.6129
+            ],
+            [
+                "magicbrush",
+                0.5819
+            ],
+            [
+                "iedit",
+                0.555
+            ],
+            [
+                "any2pix",
+                0.5545
+            ],
+            [
+                "hive",
+                0.5424
+            ],
+            [
+                "hqedit",
+                0.4995
+            ],
+            [
+                "mgie",
+                0.1075
+            ]
+        ]
+    },
+    "31": {
+        "image": "31.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7205
+            ],
+            [
+                "hive",
+                0.6923
+            ],
+            [
+                "mgie",
+                0.6516
+            ],
+            [
+                "instruct-diffusion",
+                0.6343
+            ],
+            [
+                "any2pix",
+                0.5886
+            ],
+            [
+                "iedit",
+                0.5445
+            ],
+            [
+                "hqedit",
+                0.5038
+            ],
+            [
+                "instructpix2pix",
+                0.3663
+            ]
+        ]
+    },
+    "32": {
+        "image": "32.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7071
+            ],
+            [
+                "hive",
+                0.6961
+            ],
+            [
+                "instruct-diffusion",
+                0.6924
+            ],
+            [
+                "instructpix2pix",
+                0.6264
+            ],
+            [
+                "iedit",
+                0.5603
+            ],
+            [
+                "any2pix",
+                0.5297
+            ],
+            [
+                "hqedit",
+                0.5167
+            ],
+            [
+                "mgie",
+                0.1069
+            ]
+        ]
+    },
+    "33": {
+        "image": "33.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5293
+            ],
+            [
+                "hive",
+                0.4059
+            ],
+            [
+                "instruct-diffusion",
+                0.3994
+            ],
+            [
+                "iedit",
+                0.3614
+            ],
+            [
+                "instructpix2pix",
+                0.3448
+            ],
+            [
+                "hqedit",
+                0.3175
+            ],
+            [
+                "any2pix",
+                0.301
+            ],
+            [
+                "mgie",
+                0.1992
+            ]
+        ]
+    },
+    "34": {
+        "image": "34.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.5818
+            ],
+            [
+                "instructpix2pix",
+                0.5632
+            ],
+            [
+                "magicbrush",
+                0.5615
+            ],
+            [
+                "instruct-diffusion",
+                0.5469
+            ],
+            [
+                "iedit",
+                0.3789
+            ],
+            [
+                "any2pix",
+                0.3711
+            ],
+            [
+                "hqedit",
+                0.2973
+            ],
+            [
+                "mgie",
+                0.2379
+            ]
+        ]
+    },
+    "35": {
+        "image": "35.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6037
+            ],
+            [
+                "magicbrush",
+                0.5835
+            ],
+            [
+                "instructpix2pix",
+                0.5664
+            ],
+            [
+                "instruct-diffusion",
+                0.5186
+            ],
+            [
+                "hqedit",
+                0.3866
+            ],
+            [
+                "any2pix",
+                0.382
+            ],
+            [
+                "iedit",
+                0.3713
+            ],
+            [
+                "mgie",
+                0.1035
+            ]
+        ]
+    },
+    "36": {
+        "image": "36.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.695
+            ],
+            [
+                "instruct-diffusion",
+                0.6724
+            ],
+            [
+                "instructpix2pix",
+                0.493
+            ],
+            [
+                "magicbrush",
+                0.4882
+            ],
+            [
+                "iedit",
+                0.4086
+            ],
+            [
+                "any2pix",
+                0.4001
+            ],
+            [
+                "hqedit",
+                0.3381
+            ],
+            [
+                "mgie",
+                0.1591
+            ]
+        ]
+    },
+    "37": {
+        "image": "37.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6325
+            ],
+            [
+                "magicbrush",
+                0.63
+            ],
+            [
+                "instructpix2pix",
+                0.5901
+            ],
+            [
+                "instruct-diffusion",
+                0.5621
+            ],
+            [
+                "iedit",
+                0.4464
+            ],
+            [
+                "any2pix",
+                0.4291
+            ],
+            [
+                "hqedit",
+                0.4118
+            ],
+            [
+                "mgie",
+                0.3728
+            ]
+        ]
+    },
+    "38": {
+        "image": "38.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.587
+            ],
+            [
+                "instructpix2pix",
+                0.5608
+            ],
+            [
+                "instruct-diffusion",
+                0.5562
+            ],
+            [
+                "magicbrush",
+                0.5542
+            ],
+            [
+                "iedit",
+                0.3802
+            ],
+            [
+                "hqedit",
+                0.3316
+            ],
+            [
+                "any2pix",
+                0.2965
+            ],
+            [
+                "mgie",
+                0.0222
+            ]
+        ]
+    },
+    "39": {
+        "image": "39.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6318
+            ],
+            [
+                "instruct-diffusion",
+                0.602
+            ],
+            [
+                "instructpix2pix",
+                0.5836
+            ],
+            [
+                "magicbrush",
+                0.5526
+            ],
+            [
+                "hive",
+                0.5296
+            ],
+            [
+                "any2pix",
+                0.4899
+            ],
+            [
+                "iedit",
+                0.4586
+            ],
+            [
+                "hqedit",
+                0.4394
+            ]
+        ]
+    },
+    "40": {
+        "image": "40.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6904
+            ],
+            [
+                "instruct-diffusion",
+                0.5916
+            ],
+            [
+                "magicbrush",
+                0.5595
+            ],
+            [
+                "iedit",
+                0.5177
+            ],
+            [
+                "any2pix",
+                0.4964
+            ],
+            [
+                "hive",
+                0.4137
+            ],
+            [
+                "hqedit",
+                0.3687
+            ],
+            [
+                "mgie",
+                0.1558
+            ]
+        ]
+    },
+    "41": {
+        "image": "41.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5792
+            ],
+            [
+                "instructpix2pix",
+                0.5456
+            ],
+            [
+                "instruct-diffusion",
+                0.5199
+            ],
+            [
+                "hive",
+                0.4963
+            ],
+            [
+                "any2pix",
+                0.3935
+            ],
+            [
+                "iedit",
+                0.3802
+            ],
+            [
+                "hqedit",
+                0.315
+            ],
+            [
+                "mgie",
+                0.1485
+            ]
+        ]
+    },
+    "42": {
+        "image": "42.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.4246
+            ],
+            [
+                "instruct-diffusion",
+                0.4192
+            ],
+            [
+                "magicbrush",
+                0.3671
+            ],
+            [
+                "hive",
+                0.2955
+            ],
+            [
+                "any2pix",
+                0.2436
+            ],
+            [
+                "hqedit",
+                0.2028
+            ],
+            [
+                "iedit",
+                0.1814
+            ],
+            [
+                "mgie",
+                0.1039
+            ]
+        ]
+    },
+    "43": {
+        "image": "43.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6878
+            ],
+            [
+                "hive",
+                0.6731
+            ],
+            [
+                "instructpix2pix",
+                0.652
+            ],
+            [
+                "magicbrush",
+                0.6452
+            ],
+            [
+                "any2pix",
+                0.4493
+            ],
+            [
+                "iedit",
+                0.4392
+            ],
+            [
+                "hqedit",
+                0.4096
+            ],
+            [
+                "mgie",
+                0.117
+            ]
+        ]
+    },
+    "44": {
+        "image": "44.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6602
+            ],
+            [
+                "instructpix2pix",
+                0.6406
+            ],
+            [
+                "instruct-diffusion",
+                0.6235
+            ],
+            [
+                "iedit",
+                0.5267
+            ],
+            [
+                "hqedit",
+                0.5048
+            ],
+            [
+                "any2pix",
+                0.474
+            ],
+            [
+                "magicbrush",
+                0.4616
+            ],
+            [
+                "mgie",
+                0.1343
+            ]
+        ]
+    },
+    "45": {
+        "image": "45.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6729
+            ],
+            [
+                "instruct-diffusion",
+                0.6145
+            ],
+            [
+                "any2pix",
+                0.6064
+            ],
+            [
+                "hive",
+                0.6042
+            ],
+            [
+                "magicbrush",
+                0.5977
+            ],
+            [
+                "mgie",
+                0.5879
+            ],
+            [
+                "iedit",
+                0.5304
+            ],
+            [
+                "hqedit",
+                0.4384
+            ]
+        ]
+    },
+    "46": {
+        "image": "46.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.5989
+            ],
+            [
+                "magicbrush",
+                0.5873
+            ],
+            [
+                "instruct-diffusion",
+                0.5071
+            ],
+            [
+                "hive",
+                0.5068
+            ],
+            [
+                "iedit",
+                0.4471
+            ],
+            [
+                "any2pix",
+                0.3825
+            ],
+            [
+                "hqedit",
+                0.3412
+            ],
+            [
+                "mgie",
+                0.1643
+            ]
+        ]
+    },
+    "47": {
+        "image": "47.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5681
+            ],
+            [
+                "mgie",
+                0.564
+            ],
+            [
+                "hive",
+                0.5432
+            ],
+            [
+                "instructpix2pix",
+                0.5409
+            ],
+            [
+                "magicbrush",
+                0.5405
+            ],
+            [
+                "any2pix",
+                0.3876
+            ],
+            [
+                "iedit",
+                0.3751
+            ],
+            [
+                "hqedit",
+                0.3047
+            ]
+        ]
+    },
+    "48": {
+        "image": "48.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5759
+            ],
+            [
+                "magicbrush",
+                0.5699
+            ],
+            [
+                "instruct-diffusion",
+                0.5682
+            ],
+            [
+                "instructpix2pix",
+                0.5675
+            ],
+            [
+                "iedit",
+                0.44
+            ],
+            [
+                "any2pix",
+                0.4368
+            ],
+            [
+                "hqedit",
+                0.4187
+            ],
+            [
+                "hive",
+                0.4018
+            ]
+        ]
+    },
+    "49": {
+        "image": "49.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5451
+            ],
+            [
+                "instructpix2pix",
+                0.5411
+            ],
+            [
+                "instruct-diffusion",
+                0.4919
+            ],
+            [
+                "mgie",
+                0.4315
+            ],
+            [
+                "hive",
+                0.2635
+            ],
+            [
+                "iedit",
+                0.259
+            ],
+            [
+                "any2pix",
+                0.2507
+            ],
+            [
+                "hqedit",
+                0.2487
+            ]
+        ]
+    },
+    "50": {
+        "image": "50.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.8926
+            ],
+            [
+                "instruct-diffusion",
+                0.7644
+            ],
+            [
+                "mgie",
+                0.7444
+            ],
+            [
+                "hive",
+                0.7156
+            ],
+            [
+                "iedit",
+                0.6804
+            ],
+            [
+                "hqedit",
+                0.6416
+            ],
+            [
+                "any2pix",
+                0.6189
+            ],
+            [
+                "instructpix2pix",
+                0.4657
+            ]
+        ]
+    },
+    "51": {
+        "image": "51.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.5284
+            ],
+            [
+                "instruct-diffusion",
+                0.5279
+            ],
+            [
+                "magicbrush",
+                0.4837
+            ],
+            [
+                "hive",
+                0.4411
+            ],
+            [
+                "any2pix",
+                0.4101
+            ],
+            [
+                "hqedit",
+                0.4031
+            ],
+            [
+                "iedit",
+                0.3686
+            ],
+            [
+                "mgie",
+                0.2724
+            ]
+        ]
+    },
+    "52": {
+        "image": "52.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6596
+            ],
+            [
+                "magicbrush",
+                0.6035
+            ],
+            [
+                "instruct-diffusion",
+                0.5632
+            ],
+            [
+                "hive",
+                0.4715
+            ],
+            [
+                "iedit",
+                0.3596
+            ],
+            [
+                "any2pix",
+                0.3451
+            ],
+            [
+                "hqedit",
+                0.3133
+            ],
+            [
+                "mgie",
+                0.0536
+            ]
+        ]
+    },
+    "53": {
+        "image": "53.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7227
+            ],
+            [
+                "magicbrush",
+                0.6552
+            ],
+            [
+                "instruct-diffusion",
+                0.6492
+            ],
+            [
+                "hive",
+                0.6428
+            ],
+            [
+                "iedit",
+                0.4874
+            ],
+            [
+                "instructpix2pix",
+                0.4716
+            ],
+            [
+                "any2pix",
+                0.4131
+            ],
+            [
+                "hqedit",
+                0.3563
+            ]
+        ]
+    },
+    "54": {
+        "image": "54.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6
+            ],
+            [
+                "instructpix2pix",
+                0.5659
+            ],
+            [
+                "hive",
+                0.5475
+            ],
+            [
+                "magicbrush",
+                0.5389
+            ],
+            [
+                "any2pix",
+                0.3657
+            ],
+            [
+                "iedit",
+                0.3369
+            ],
+            [
+                "hqedit",
+                0.2694
+            ],
+            [
+                "mgie",
+                0.0854
+            ]
+        ]
+    },
+    "55": {
+        "image": "55.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6638
+            ],
+            [
+                "instruct-diffusion",
+                0.6636
+            ],
+            [
+                "magicbrush",
+                0.6336
+            ],
+            [
+                "instructpix2pix",
+                0.6119
+            ],
+            [
+                "iedit",
+                0.5932
+            ],
+            [
+                "hive",
+                0.5868
+            ],
+            [
+                "hqedit",
+                0.5604
+            ],
+            [
+                "any2pix",
+                0.5069
+            ]
+        ]
+    },
+    "56": {
+        "image": "56.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.5109
+            ],
+            [
+                "magicbrush",
+                0.5034
+            ],
+            [
+                "instruct-diffusion",
+                0.5024
+            ],
+            [
+                "hive",
+                0.48
+            ],
+            [
+                "iedit",
+                0.3899
+            ],
+            [
+                "any2pix",
+                0.3873
+            ],
+            [
+                "hqedit",
+                0.1951
+            ],
+            [
+                "mgie",
+                0.0218
+            ]
+        ]
+    },
+    "57": {
+        "image": "57.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4935
+            ],
+            [
+                "instruct-diffusion",
+                0.493
+            ],
+            [
+                "instructpix2pix",
+                0.3986
+            ],
+            [
+                "iedit",
+                0.3898
+            ],
+            [
+                "hive",
+                0.388
+            ],
+            [
+                "hqedit",
+                0.3412
+            ],
+            [
+                "any2pix",
+                0.3366
+            ],
+            [
+                "mgie",
+                0.0613
+            ]
+        ]
+    },
+    "58": {
+        "image": "58.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.523
+            ],
+            [
+                "instructpix2pix",
+                0.4919
+            ],
+            [
+                "magicbrush",
+                0.4892
+            ],
+            [
+                "instruct-diffusion",
+                0.4709
+            ],
+            [
+                "iedit",
+                0.2891
+            ],
+            [
+                "any2pix",
+                0.283
+            ],
+            [
+                "hive",
+                0.2161
+            ],
+            [
+                "hqedit",
+                0.2018
+            ]
+        ]
+    },
+    "59": {
+        "image": "59.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.5007
+            ],
+            [
+                "mgie",
+                0.4695
+            ],
+            [
+                "instruct-diffusion",
+                0.4419
+            ],
+            [
+                "magicbrush",
+                0.4265
+            ],
+            [
+                "hive",
+                0.3302
+            ],
+            [
+                "iedit",
+                0.2649
+            ],
+            [
+                "any2pix",
+                0.2276
+            ],
+            [
+                "hqedit",
+                0.2262
+            ]
+        ]
+    },
+    "60": {
+        "image": "60.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.503
+            ],
+            [
+                "instructpix2pix",
+                0.4823
+            ],
+            [
+                "magicbrush",
+                0.4774
+            ],
+            [
+                "instruct-diffusion",
+                0.4529
+            ],
+            [
+                "hive",
+                0.3072
+            ],
+            [
+                "hqedit",
+                0.2708
+            ],
+            [
+                "iedit",
+                0.2579
+            ],
+            [
+                "any2pix",
+                0.2049
+            ]
+        ]
+    },
+    "61": {
+        "image": "61.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5857
+            ],
+            [
+                "magicbrush",
+                0.532
+            ],
+            [
+                "instructpix2pix",
+                0.5194
+            ],
+            [
+                "hqedit",
+                0.488
+            ],
+            [
+                "iedit",
+                0.447
+            ],
+            [
+                "any2pix",
+                0.3698
+            ],
+            [
+                "hive",
+                0.3492
+            ],
+            [
+                "mgie",
+                0.2796
+            ]
+        ]
+    },
+    "62": {
+        "image": "62.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6484
+            ],
+            [
+                "instructpix2pix",
+                0.6062
+            ],
+            [
+                "hive",
+                0.5949
+            ],
+            [
+                "magicbrush",
+                0.5902
+            ],
+            [
+                "instruct-diffusion",
+                0.5421
+            ],
+            [
+                "iedit",
+                0.3893
+            ],
+            [
+                "any2pix",
+                0.3262
+            ],
+            [
+                "hqedit",
+                0.3156
+            ]
+        ]
+    },
+    "63": {
+        "image": "63.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6044
+            ],
+            [
+                "hive",
+                0.6034
+            ],
+            [
+                "any2pix",
+                0.5525
+            ],
+            [
+                "iedit",
+                0.5246
+            ],
+            [
+                "magicbrush",
+                0.519
+            ],
+            [
+                "hqedit",
+                0.384
+            ],
+            [
+                "mgie",
+                0.2644
+            ],
+            [
+                "instruct-diffusion",
+                0.2364
+            ]
+        ]
+    },
+    "64": {
+        "image": "64.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7436
+            ],
+            [
+                "instruct-diffusion",
+                0.7033
+            ],
+            [
+                "mgie",
+                0.689
+            ],
+            [
+                "hive",
+                0.6621
+            ],
+            [
+                "instructpix2pix",
+                0.6536
+            ],
+            [
+                "any2pix",
+                0.571
+            ],
+            [
+                "iedit",
+                0.555
+            ],
+            [
+                "hqedit",
+                0.4072
+            ]
+        ]
+    },
+    "65": {
+        "image": "65.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7304
+            ],
+            [
+                "mgie",
+                0.7126
+            ],
+            [
+                "magicbrush",
+                0.6935
+            ],
+            [
+                "iedit",
+                0.6461
+            ],
+            [
+                "any2pix",
+                0.6402
+            ],
+            [
+                "hive",
+                0.5915
+            ],
+            [
+                "hqedit",
+                0.5744
+            ],
+            [
+                "instructpix2pix",
+                0.456
+            ]
+        ]
+    },
+    "66": {
+        "image": "66.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.423
+            ],
+            [
+                "instructpix2pix",
+                0.4035
+            ],
+            [
+                "magicbrush",
+                0.3818
+            ],
+            [
+                "instruct-diffusion",
+                0.3733
+            ],
+            [
+                "iedit",
+                0.217
+            ],
+            [
+                "hqedit",
+                0.1675
+            ],
+            [
+                "any2pix",
+                0.1586
+            ],
+            [
+                "mgie",
+                0.077
+            ]
+        ]
+    },
+    "67": {
+        "image": "67.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.5268
+            ],
+            [
+                "any2pix",
+                0.4913
+            ],
+            [
+                "instruct-diffusion",
+                0.4801
+            ],
+            [
+                "instructpix2pix",
+                0.4786
+            ],
+            [
+                "iedit",
+                0.4362
+            ],
+            [
+                "hqedit",
+                0.433
+            ],
+            [
+                "magicbrush",
+                0.4084
+            ],
+            [
+                "mgie",
+                0.091
+            ]
+        ]
+    },
+    "68": {
+        "image": "68.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.4624
+            ],
+            [
+                "magicbrush",
+                0.4571
+            ],
+            [
+                "instruct-diffusion",
+                0.4325
+            ],
+            [
+                "mgie",
+                0.427
+            ],
+            [
+                "any2pix",
+                0.3503
+            ],
+            [
+                "iedit",
+                0.3143
+            ],
+            [
+                "hqedit",
+                0.28
+            ],
+            [
+                "hive",
+                0.2321
+            ]
+        ]
+    },
+    "69": {
+        "image": "69.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.506
+            ],
+            [
+                "magicbrush",
+                0.4717
+            ],
+            [
+                "mgie",
+                0.4678
+            ],
+            [
+                "instruct-diffusion",
+                0.4564
+            ],
+            [
+                "hive",
+                0.3332
+            ],
+            [
+                "any2pix",
+                0.3072
+            ],
+            [
+                "iedit",
+                0.3038
+            ],
+            [
+                "hqedit",
+                0.2666
+            ]
+        ]
+    },
+    "70": {
+        "image": "70.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6248
+            ],
+            [
+                "hive",
+                0.6137
+            ],
+            [
+                "instruct-diffusion",
+                0.5816
+            ],
+            [
+                "magicbrush",
+                0.5635
+            ],
+            [
+                "iedit",
+                0.4803
+            ],
+            [
+                "any2pix",
+                0.4495
+            ],
+            [
+                "hqedit",
+                0.2832
+            ],
+            [
+                "mgie",
+                0.2425
+            ]
+        ]
+    },
+    "71": {
+        "image": "71.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.5899
+            ],
+            [
+                "magicbrush",
+                0.5887
+            ],
+            [
+                "hive",
+                0.5487
+            ],
+            [
+                "instruct-diffusion",
+                0.4888
+            ],
+            [
+                "iedit",
+                0.4831
+            ],
+            [
+                "any2pix",
+                0.4751
+            ],
+            [
+                "hqedit",
+                0.4292
+            ],
+            [
+                "mgie",
+                0.0746
+            ]
+        ]
+    },
+    "72": {
+        "image": "72.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6077
+            ],
+            [
+                "hive",
+                0.5998
+            ],
+            [
+                "magicbrush",
+                0.5643
+            ],
+            [
+                "instructpix2pix",
+                0.5437
+            ],
+            [
+                "any2pix",
+                0.403
+            ],
+            [
+                "iedit",
+                0.3924
+            ],
+            [
+                "hqedit",
+                0.3169
+            ],
+            [
+                "mgie",
+                0.1089
+            ]
+        ]
+    },
+    "73": {
+        "image": "73.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5907
+            ],
+            [
+                "instructpix2pix",
+                0.5514
+            ],
+            [
+                "instruct-diffusion",
+                0.5397
+            ],
+            [
+                "magicbrush",
+                0.409
+            ],
+            [
+                "any2pix",
+                0.3654
+            ],
+            [
+                "hqedit",
+                0.3351
+            ],
+            [
+                "iedit",
+                0.2917
+            ],
+            [
+                "hive",
+                0.2198
+            ]
+        ]
+    },
+    "74": {
+        "image": "74.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5931
+            ],
+            [
+                "instruct-diffusion",
+                0.5914
+            ],
+            [
+                "instructpix2pix",
+                0.5322
+            ],
+            [
+                "hive",
+                0.4503
+            ],
+            [
+                "iedit",
+                0.4062
+            ],
+            [
+                "any2pix",
+                0.4044
+            ],
+            [
+                "hqedit",
+                0.3983
+            ],
+            [
+                "mgie",
+                0.1258
+            ]
+        ]
+    },
+    "75": {
+        "image": "75.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4755
+            ],
+            [
+                "instruct-diffusion",
+                0.4148
+            ],
+            [
+                "instructpix2pix",
+                0.4008
+            ],
+            [
+                "any2pix",
+                0.325
+            ],
+            [
+                "iedit",
+                0.3109
+            ],
+            [
+                "hqedit",
+                0.2676
+            ],
+            [
+                "magicbrush",
+                0.2456
+            ],
+            [
+                "hive",
+                0.2416
+            ]
+        ]
+    },
+    "76": {
+        "image": "76.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6713
+            ],
+            [
+                "instructpix2pix",
+                0.6307
+            ],
+            [
+                "instruct-diffusion",
+                0.6255
+            ],
+            [
+                "hive",
+                0.6196
+            ],
+            [
+                "magicbrush",
+                0.6164
+            ],
+            [
+                "any2pix",
+                0.456
+            ],
+            [
+                "iedit",
+                0.4489
+            ],
+            [
+                "hqedit",
+                0.4284
+            ]
+        ]
+    },
+    "77": {
+        "image": "77.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6705
+            ],
+            [
+                "magicbrush",
+                0.6495
+            ],
+            [
+                "mgie",
+                0.6042
+            ],
+            [
+                "hive",
+                0.573
+            ],
+            [
+                "instructpix2pix",
+                0.4669
+            ],
+            [
+                "iedit",
+                0.4445
+            ],
+            [
+                "hqedit",
+                0.4174
+            ],
+            [
+                "any2pix",
+                0.4036
+            ]
+        ]
+    },
+    "78": {
+        "image": "78.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5991
+            ],
+            [
+                "instructpix2pix",
+                0.5586
+            ],
+            [
+                "instruct-diffusion",
+                0.5528
+            ],
+            [
+                "mgie",
+                0.4838
+            ],
+            [
+                "hive",
+                0.4199
+            ],
+            [
+                "hqedit",
+                0.3432
+            ],
+            [
+                "iedit",
+                0.3147
+            ],
+            [
+                "any2pix",
+                0.2979
+            ]
+        ]
+    },
+    "79": {
+        "image": "79.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.4784
+            ],
+            [
+                "instructpix2pix",
+                0.4505
+            ],
+            [
+                "magicbrush",
+                0.4442
+            ],
+            [
+                "instruct-diffusion",
+                0.4309
+            ],
+            [
+                "iedit",
+                0.3115
+            ],
+            [
+                "hqedit",
+                0.2769
+            ],
+            [
+                "mgie",
+                0.2734
+            ],
+            [
+                "any2pix",
+                0.2617
+            ]
+        ]
+    },
+    "80": {
+        "image": "80.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7805
+            ],
+            [
+                "instruct-diffusion",
+                0.7604
+            ],
+            [
+                "instructpix2pix",
+                0.7511
+            ],
+            [
+                "iedit",
+                0.5777
+            ],
+            [
+                "any2pix",
+                0.5706
+            ],
+            [
+                "hqedit",
+                0.5594
+            ],
+            [
+                "hive",
+                0.4471
+            ],
+            [
+                "mgie",
+                0.1389
+            ]
+        ]
+    },
+    "81": {
+        "image": "81.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.5333
+            ],
+            [
+                "magicbrush",
+                0.5299
+            ],
+            [
+                "instructpix2pix",
+                0.4911
+            ],
+            [
+                "any2pix",
+                0.3626
+            ],
+            [
+                "iedit",
+                0.3595
+            ],
+            [
+                "hqedit",
+                0.3394
+            ],
+            [
+                "instruct-diffusion",
+                0.2355
+            ],
+            [
+                "mgie",
+                0.0837
+            ]
+        ]
+    },
+    "82": {
+        "image": "82.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4234
+            ],
+            [
+                "instruct-diffusion",
+                0.4012
+            ],
+            [
+                "magicbrush",
+                0.3965
+            ],
+            [
+                "instructpix2pix",
+                0.3819
+            ],
+            [
+                "hive",
+                0.3479
+            ],
+            [
+                "iedit",
+                0.2074
+            ],
+            [
+                "any2pix",
+                0.2066
+            ],
+            [
+                "hqedit",
+                0.1874
+            ]
+        ]
+    },
+    "83": {
+        "image": "83.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6457
+            ],
+            [
+                "instructpix2pix",
+                0.639
+            ],
+            [
+                "magicbrush",
+                0.6351
+            ],
+            [
+                "instruct-diffusion",
+                0.5713
+            ],
+            [
+                "iedit",
+                0.4709
+            ],
+            [
+                "any2pix",
+                0.4522
+            ],
+            [
+                "hqedit",
+                0.4048
+            ],
+            [
+                "mgie",
+                0.2415
+            ]
+        ]
+    },
+    "84": {
+        "image": "84.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7598
+            ],
+            [
+                "instructpix2pix",
+                0.7503
+            ],
+            [
+                "instruct-diffusion",
+                0.5923
+            ],
+            [
+                "any2pix",
+                0.5807
+            ],
+            [
+                "magicbrush",
+                0.5757
+            ],
+            [
+                "iedit",
+                0.5649
+            ],
+            [
+                "hqedit",
+                0.389
+            ],
+            [
+                "mgie",
+                0.3741
+            ]
+        ]
+    },
+    "85": {
+        "image": "85.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.8326
+            ],
+            [
+                "hive",
+                0.7357
+            ],
+            [
+                "instruct-diffusion",
+                0.7118
+            ],
+            [
+                "iedit",
+                0.6331
+            ],
+            [
+                "any2pix",
+                0.58
+            ],
+            [
+                "magicbrush",
+                0.5465
+            ],
+            [
+                "hqedit",
+                0.5155
+            ],
+            [
+                "mgie",
+                0.5084
+            ]
+        ]
+    },
+    "86": {
+        "image": "86.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6657
+            ],
+            [
+                "hive",
+                0.6071
+            ],
+            [
+                "instruct-diffusion",
+                0.5768
+            ],
+            [
+                "iedit",
+                0.4932
+            ],
+            [
+                "any2pix",
+                0.4846
+            ],
+            [
+                "magicbrush",
+                0.4131
+            ],
+            [
+                "hqedit",
+                0.2445
+            ],
+            [
+                "mgie",
+                0.1438
+            ]
+        ]
+    },
+    "87": {
+        "image": "87.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6767
+            ],
+            [
+                "instructpix2pix",
+                0.6265
+            ],
+            [
+                "mgie",
+                0.6058
+            ],
+            [
+                "instruct-diffusion",
+                0.5858
+            ],
+            [
+                "magicbrush",
+                0.4547
+            ],
+            [
+                "hqedit",
+                0.4289
+            ],
+            [
+                "iedit",
+                0.4142
+            ],
+            [
+                "any2pix",
+                0.4088
+            ]
+        ]
+    },
+    "88": {
+        "image": "88.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6385
+            ],
+            [
+                "magicbrush",
+                0.6366
+            ],
+            [
+                "instructpix2pix",
+                0.609
+            ],
+            [
+                "mgie",
+                0.5999
+            ],
+            [
+                "instruct-diffusion",
+                0.5648
+            ],
+            [
+                "iedit",
+                0.4675
+            ],
+            [
+                "any2pix",
+                0.4524
+            ],
+            [
+                "hqedit",
+                0.3605
+            ]
+        ]
+    },
+    "89": {
+        "image": "89.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.763
+            ],
+            [
+                "instruct-diffusion",
+                0.7378
+            ],
+            [
+                "instructpix2pix",
+                0.6611
+            ],
+            [
+                "iedit",
+                0.6195
+            ],
+            [
+                "any2pix",
+                0.5861
+            ],
+            [
+                "hive",
+                0.543
+            ],
+            [
+                "hqedit",
+                0.512
+            ],
+            [
+                "mgie",
+                0.2329
+            ]
+        ]
+    },
+    "90": {
+        "image": "90.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.525
+            ],
+            [
+                "any2pix",
+                0.4158
+            ],
+            [
+                "instructpix2pix",
+                0.4147
+            ],
+            [
+                "iedit",
+                0.3697
+            ],
+            [
+                "hive",
+                0.3509
+            ],
+            [
+                "hqedit",
+                0.2584
+            ],
+            [
+                "magicbrush",
+                0.1755
+            ],
+            [
+                "mgie",
+                0.0905
+            ]
+        ]
+    },
+    "91": {
+        "image": "91.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.5336
+            ],
+            [
+                "instructpix2pix",
+                0.5248
+            ],
+            [
+                "magicbrush",
+                0.4738
+            ],
+            [
+                "instruct-diffusion",
+                0.4737
+            ],
+            [
+                "any2pix",
+                0.3949
+            ],
+            [
+                "iedit",
+                0.3677
+            ],
+            [
+                "hqedit",
+                0.3244
+            ],
+            [
+                "mgie",
+                0.0997
+            ]
+        ]
+    },
+    "92": {
+        "image": "92.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6067
+            ],
+            [
+                "magicbrush",
+                0.5951
+            ],
+            [
+                "instructpix2pix",
+                0.5638
+            ],
+            [
+                "iedit",
+                0.4334
+            ],
+            [
+                "hqedit",
+                0.4231
+            ],
+            [
+                "hive",
+                0.417
+            ],
+            [
+                "any2pix",
+                0.2976
+            ],
+            [
+                "mgie",
+                0.1737
+            ]
+        ]
+    },
+    "93": {
+        "image": "93.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6315
+            ],
+            [
+                "instruct-diffusion",
+                0.6077
+            ],
+            [
+                "instructpix2pix",
+                0.605
+            ],
+            [
+                "hive",
+                0.5266
+            ],
+            [
+                "hqedit",
+                0.4732
+            ],
+            [
+                "iedit",
+                0.4527
+            ],
+            [
+                "any2pix",
+                0.3907
+            ],
+            [
+                "mgie",
+                0.2067
+            ]
+        ]
+    },
+    "94": {
+        "image": "94.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.5617
+            ],
+            [
+                "instructpix2pix",
+                0.5161
+            ],
+            [
+                "magicbrush",
+                0.4667
+            ],
+            [
+                "instruct-diffusion",
+                0.4639
+            ],
+            [
+                "iedit",
+                0.3433
+            ],
+            [
+                "any2pix",
+                0.3237
+            ],
+            [
+                "hqedit",
+                0.2348
+            ],
+            [
+                "mgie",
+                0.0924
+            ]
+        ]
+    },
+    "95": {
+        "image": "95.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6879
+            ],
+            [
+                "instructpix2pix",
+                0.6704
+            ],
+            [
+                "iedit",
+                0.6209
+            ],
+            [
+                "any2pix",
+                0.5818
+            ],
+            [
+                "magicbrush",
+                0.5714
+            ],
+            [
+                "hqedit",
+                0.5637
+            ],
+            [
+                "hive",
+                0.5082
+            ],
+            [
+                "mgie",
+                0.2024
+            ]
+        ]
+    },
+    "96": {
+        "image": "96.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hqedit",
+                0.4306
+            ],
+            [
+                "any2pix",
+                0.4287
+            ],
+            [
+                "mgie",
+                0.3934
+            ],
+            [
+                "instruct-diffusion",
+                0.3828
+            ],
+            [
+                "instructpix2pix",
+                0.382
+            ],
+            [
+                "iedit",
+                0.3313
+            ],
+            [
+                "magicbrush",
+                0.3053
+            ],
+            [
+                "hive",
+                0.1794
+            ]
+        ]
+    },
+    "97": {
+        "image": "97.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5411
+            ],
+            [
+                "instructpix2pix",
+                0.5175
+            ],
+            [
+                "magicbrush",
+                0.5141
+            ],
+            [
+                "instruct-diffusion",
+                0.5014
+            ],
+            [
+                "hive",
+                0.4601
+            ],
+            [
+                "any2pix",
+                0.3437
+            ],
+            [
+                "iedit",
+                0.3195
+            ],
+            [
+                "hqedit",
+                0.2664
+            ]
+        ]
+    },
+    "98": {
+        "image": "98.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.715
+            ],
+            [
+                "instruct-diffusion",
+                0.6807
+            ],
+            [
+                "hqedit",
+                0.5489
+            ],
+            [
+                "iedit",
+                0.5239
+            ],
+            [
+                "any2pix",
+                0.4527
+            ],
+            [
+                "magicbrush",
+                0.4321
+            ],
+            [
+                "instructpix2pix",
+                0.3154
+            ],
+            [
+                "mgie",
+                0.2407
+            ]
+        ]
+    },
+    "99": {
+        "image": "99.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7382
+            ],
+            [
+                "instruct-diffusion",
+                0.6803
+            ],
+            [
+                "hive",
+                0.6534
+            ],
+            [
+                "instructpix2pix",
+                0.6525
+            ],
+            [
+                "iedit",
+                0.5889
+            ],
+            [
+                "any2pix",
+                0.5081
+            ],
+            [
+                "hqedit",
+                0.4464
+            ],
+            [
+                "mgie",
+                0.4362
+            ]
+        ]
+    },
+    "100": {
+        "image": "100.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4416
+            ],
+            [
+                "instruct-diffusion",
+                0.3873
+            ],
+            [
+                "instructpix2pix",
+                0.3504
+            ],
+            [
+                "hive",
+                0.3406
+            ],
+            [
+                "mgie",
+                0.3345
+            ],
+            [
+                "iedit",
+                0.3162
+            ],
+            [
+                "hqedit",
+                0.3086
+            ],
+            [
+                "any2pix",
+                0.2953
+            ]
+        ]
+    },
+    "101": {
+        "image": "101.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5963
+            ],
+            [
+                "instruct-diffusion",
+                0.5761
+            ],
+            [
+                "instructpix2pix",
+                0.5515
+            ],
+            [
+                "hive",
+                0.5369
+            ],
+            [
+                "any2pix",
+                0.4025
+            ],
+            [
+                "iedit",
+                0.3928
+            ],
+            [
+                "hqedit",
+                0.3852
+            ],
+            [
+                "mgie",
+                0.1466
+            ]
+        ]
+    },
+    "102": {
+        "image": "102.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7592
+            ],
+            [
+                "instruct-diffusion",
+                0.7536
+            ],
+            [
+                "instructpix2pix",
+                0.6701
+            ],
+            [
+                "any2pix",
+                0.6422
+            ],
+            [
+                "hive",
+                0.6357
+            ],
+            [
+                "iedit",
+                0.5646
+            ],
+            [
+                "hqedit",
+                0.5523
+            ],
+            [
+                "mgie",
+                0.1127
+            ]
+        ]
+    },
+    "103": {
+        "image": "103.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.707
+            ],
+            [
+                "hive",
+                0.7061
+            ],
+            [
+                "instructpix2pix",
+                0.699
+            ],
+            [
+                "instruct-diffusion",
+                0.6367
+            ],
+            [
+                "iedit",
+                0.5371
+            ],
+            [
+                "any2pix",
+                0.484
+            ],
+            [
+                "hqedit",
+                0.4104
+            ],
+            [
+                "mgie",
+                0.0894
+            ]
+        ]
+    },
+    "104": {
+        "image": "104.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.4977
+            ],
+            [
+                "magicbrush",
+                0.4324
+            ],
+            [
+                "instruct-diffusion",
+                0.37
+            ],
+            [
+                "hive",
+                0.3122
+            ],
+            [
+                "any2pix",
+                0.3098
+            ],
+            [
+                "iedit",
+                0.2979
+            ],
+            [
+                "hqedit",
+                0.2448
+            ],
+            [
+                "mgie",
+                0.2179
+            ]
+        ]
+    },
+    "105": {
+        "image": "105.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7512
+            ],
+            [
+                "mgie",
+                0.6543
+            ],
+            [
+                "magicbrush",
+                0.6417
+            ],
+            [
+                "hive",
+                0.6111
+            ],
+            [
+                "instruct-diffusion",
+                0.5755
+            ],
+            [
+                "iedit",
+                0.5448
+            ],
+            [
+                "any2pix",
+                0.5404
+            ],
+            [
+                "hqedit",
+                0.5243
+            ]
+        ]
+    },
+    "106": {
+        "image": "106.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6496
+            ],
+            [
+                "hive",
+                0.6485
+            ],
+            [
+                "instructpix2pix",
+                0.6096
+            ],
+            [
+                "any2pix",
+                0.5764
+            ],
+            [
+                "instruct-diffusion",
+                0.5601
+            ],
+            [
+                "hqedit",
+                0.4873
+            ],
+            [
+                "iedit",
+                0.4833
+            ],
+            [
+                "mgie",
+                0.1375
+            ]
+        ]
+    },
+    "107": {
+        "image": "107.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7177
+            ],
+            [
+                "hive",
+                0.7132
+            ],
+            [
+                "instructpix2pix",
+                0.6913
+            ],
+            [
+                "instruct-diffusion",
+                0.6635
+            ],
+            [
+                "iedit",
+                0.574
+            ],
+            [
+                "any2pix",
+                0.5697
+            ],
+            [
+                "hqedit",
+                0.5052
+            ],
+            [
+                "mgie",
+                0.1478
+            ]
+        ]
+    },
+    "108": {
+        "image": "108.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5096
+            ],
+            [
+                "instructpix2pix",
+                0.5011
+            ],
+            [
+                "instruct-diffusion",
+                0.4934
+            ],
+            [
+                "magicbrush",
+                0.4861
+            ],
+            [
+                "hqedit",
+                0.4035
+            ],
+            [
+                "iedit",
+                0.3343
+            ],
+            [
+                "any2pix",
+                0.3186
+            ],
+            [
+                "hive",
+                0.3026
+            ]
+        ]
+    },
+    "109": {
+        "image": "109.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4992
+            ],
+            [
+                "magicbrush",
+                0.4707
+            ],
+            [
+                "instructpix2pix",
+                0.4694
+            ],
+            [
+                "instruct-diffusion",
+                0.421
+            ],
+            [
+                "iedit",
+                0.3506
+            ],
+            [
+                "hqedit",
+                0.316
+            ],
+            [
+                "any2pix",
+                0.3061
+            ],
+            [
+                "hive",
+                0.2175
+            ]
+        ]
+    },
+    "110": {
+        "image": "110.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6897
+            ],
+            [
+                "instructpix2pix",
+                0.6612
+            ],
+            [
+                "instruct-diffusion",
+                0.5942
+            ],
+            [
+                "iedit",
+                0.5503
+            ],
+            [
+                "hqedit",
+                0.4854
+            ],
+            [
+                "any2pix",
+                0.465
+            ],
+            [
+                "hive",
+                0.2478
+            ],
+            [
+                "mgie",
+                0.0436
+            ]
+        ]
+    },
+    "111": {
+        "image": "111.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6442
+            ],
+            [
+                "instructpix2pix",
+                0.6381
+            ],
+            [
+                "magicbrush",
+                0.6296
+            ],
+            [
+                "instruct-diffusion",
+                0.616
+            ],
+            [
+                "hqedit",
+                0.5292
+            ],
+            [
+                "any2pix",
+                0.4751
+            ],
+            [
+                "iedit",
+                0.4632
+            ],
+            [
+                "mgie",
+                0.3502
+            ]
+        ]
+    },
+    "112": {
+        "image": "112.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5579
+            ],
+            [
+                "instruct-diffusion",
+                0.5351
+            ],
+            [
+                "instructpix2pix",
+                0.5312
+            ],
+            [
+                "magicbrush",
+                0.5168
+            ],
+            [
+                "hive",
+                0.4496
+            ],
+            [
+                "any2pix",
+                0.432
+            ],
+            [
+                "iedit",
+                0.4149
+            ],
+            [
+                "hqedit",
+                0.359
+            ]
+        ]
+    },
+    "113": {
+        "image": "113.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7371
+            ],
+            [
+                "magicbrush",
+                0.6931
+            ],
+            [
+                "instructpix2pix",
+                0.6869
+            ],
+            [
+                "instruct-diffusion",
+                0.6443
+            ],
+            [
+                "hqedit",
+                0.5623
+            ],
+            [
+                "any2pix",
+                0.5508
+            ],
+            [
+                "iedit",
+                0.539
+            ],
+            [
+                "mgie",
+                0.0731
+            ]
+        ]
+    },
+    "114": {
+        "image": "114.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5888
+            ],
+            [
+                "magicbrush",
+                0.5714
+            ],
+            [
+                "instructpix2pix",
+                0.5609
+            ],
+            [
+                "instruct-diffusion",
+                0.5448
+            ],
+            [
+                "hqedit",
+                0.3984
+            ],
+            [
+                "any2pix",
+                0.386
+            ],
+            [
+                "iedit",
+                0.3646
+            ],
+            [
+                "hive",
+                0.2981
+            ]
+        ]
+    },
+    "115": {
+        "image": "115.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7736
+            ],
+            [
+                "instruct-diffusion",
+                0.7458
+            ],
+            [
+                "magicbrush",
+                0.7202
+            ],
+            [
+                "instructpix2pix",
+                0.6369
+            ],
+            [
+                "any2pix",
+                0.4282
+            ],
+            [
+                "iedit",
+                0.4189
+            ],
+            [
+                "hqedit",
+                0.3334
+            ],
+            [
+                "hive",
+                0.2915
+            ]
+        ]
+    },
+    "116": {
+        "image": "116.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6808
+            ],
+            [
+                "magicbrush",
+                0.6612
+            ],
+            [
+                "instructpix2pix",
+                0.6409
+            ],
+            [
+                "instruct-diffusion",
+                0.6209
+            ],
+            [
+                "hqedit",
+                0.4129
+            ],
+            [
+                "any2pix",
+                0.3998
+            ],
+            [
+                "iedit",
+                0.3997
+            ],
+            [
+                "mgie",
+                0.054
+            ]
+        ]
+    },
+    "117": {
+        "image": "117.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.604
+            ],
+            [
+                "instructpix2pix",
+                0.5957
+            ],
+            [
+                "magicbrush",
+                0.5917
+            ],
+            [
+                "instruct-diffusion",
+                0.5789
+            ],
+            [
+                "hqedit",
+                0.3335
+            ],
+            [
+                "iedit",
+                0.3093
+            ],
+            [
+                "any2pix",
+                0.2653
+            ],
+            [
+                "mgie",
+                0.2087
+            ]
+        ]
+    },
+    "118": {
+        "image": "118.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5378
+            ],
+            [
+                "hive",
+                0.526
+            ],
+            [
+                "instructpix2pix",
+                0.5112
+            ],
+            [
+                "magicbrush",
+                0.5008
+            ],
+            [
+                "instruct-diffusion",
+                0.4965
+            ],
+            [
+                "iedit",
+                0.2746
+            ],
+            [
+                "hqedit",
+                0.2474
+            ],
+            [
+                "any2pix",
+                0.2276
+            ]
+        ]
+    },
+    "119": {
+        "image": "119.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7276
+            ],
+            [
+                "magicbrush",
+                0.6828
+            ],
+            [
+                "instructpix2pix",
+                0.6399
+            ],
+            [
+                "instruct-diffusion",
+                0.5948
+            ],
+            [
+                "any2pix",
+                0.4928
+            ],
+            [
+                "iedit",
+                0.464
+            ],
+            [
+                "hqedit",
+                0.319
+            ],
+            [
+                "mgie",
+                0.1392
+            ]
+        ]
+    },
+    "120": {
+        "image": "120.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.4781
+            ],
+            [
+                "instructpix2pix",
+                0.4473
+            ],
+            [
+                "magicbrush",
+                0.4435
+            ],
+            [
+                "instruct-diffusion",
+                0.4376
+            ],
+            [
+                "iedit",
+                0.295
+            ],
+            [
+                "any2pix",
+                0.2895
+            ],
+            [
+                "hqedit",
+                0.2655
+            ],
+            [
+                "mgie",
+                0.1248
+            ]
+        ]
+    },
+    "121": {
+        "image": "121.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6287
+            ],
+            [
+                "instructpix2pix",
+                0.5962
+            ],
+            [
+                "magicbrush",
+                0.5891
+            ],
+            [
+                "instruct-diffusion",
+                0.5669
+            ],
+            [
+                "hqedit",
+                0.4077
+            ],
+            [
+                "hive",
+                0.3926
+            ],
+            [
+                "iedit",
+                0.3388
+            ],
+            [
+                "any2pix",
+                0.3095
+            ]
+        ]
+    },
+    "122": {
+        "image": "122.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.5087
+            ],
+            [
+                "instruct-diffusion",
+                0.4954
+            ],
+            [
+                "instructpix2pix",
+                0.4936
+            ],
+            [
+                "magicbrush",
+                0.49
+            ],
+            [
+                "any2pix",
+                0.3301
+            ],
+            [
+                "iedit",
+                0.3129
+            ],
+            [
+                "hqedit",
+                0.3022
+            ],
+            [
+                "mgie",
+                0.1418
+            ]
+        ]
+    },
+    "123": {
+        "image": "123.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4893
+            ],
+            [
+                "instructpix2pix",
+                0.4845
+            ],
+            [
+                "hive",
+                0.395
+            ],
+            [
+                "instruct-diffusion",
+                0.3919
+            ],
+            [
+                "any2pix",
+                0.3076
+            ],
+            [
+                "iedit",
+                0.3065
+            ],
+            [
+                "hqedit",
+                0.2791
+            ],
+            [
+                "mgie",
+                0.2264
+            ]
+        ]
+    },
+    "124": {
+        "image": "124.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.705
+            ],
+            [
+                "instructpix2pix",
+                0.6948
+            ],
+            [
+                "instruct-diffusion",
+                0.5877
+            ],
+            [
+                "magicbrush",
+                0.56
+            ],
+            [
+                "mgie",
+                0.5567
+            ],
+            [
+                "any2pix",
+                0.5195
+            ],
+            [
+                "iedit",
+                0.4912
+            ],
+            [
+                "hqedit",
+                0.3846
+            ]
+        ]
+    },
+    "125": {
+        "image": "125.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6389
+            ],
+            [
+                "magicbrush",
+                0.6119
+            ],
+            [
+                "instruct-diffusion",
+                0.6074
+            ],
+            [
+                "hive",
+                0.5008
+            ],
+            [
+                "hqedit",
+                0.4016
+            ],
+            [
+                "iedit",
+                0.3935
+            ],
+            [
+                "any2pix",
+                0.3765
+            ],
+            [
+                "mgie",
+                0.2342
+            ]
+        ]
+    },
+    "126": {
+        "image": "126.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7044
+            ],
+            [
+                "instruct-diffusion",
+                0.6311
+            ],
+            [
+                "magicbrush",
+                0.6274
+            ],
+            [
+                "instructpix2pix",
+                0.6141
+            ],
+            [
+                "iedit",
+                0.464
+            ],
+            [
+                "any2pix",
+                0.4492
+            ],
+            [
+                "hqedit",
+                0.41
+            ],
+            [
+                "hive",
+                0.3232
+            ]
+        ]
+    },
+    "127": {
+        "image": "127.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6652
+            ],
+            [
+                "instructpix2pix",
+                0.5765
+            ],
+            [
+                "iedit",
+                0.5217
+            ],
+            [
+                "any2pix",
+                0.5182
+            ],
+            [
+                "hive",
+                0.4701
+            ],
+            [
+                "instruct-diffusion",
+                0.4544
+            ],
+            [
+                "hqedit",
+                0.4184
+            ],
+            [
+                "mgie",
+                0.1505
+            ]
+        ]
+    },
+    "128": {
+        "image": "128.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.725
+            ],
+            [
+                "hive",
+                0.6984
+            ],
+            [
+                "instruct-diffusion",
+                0.6914
+            ],
+            [
+                "instructpix2pix",
+                0.6486
+            ],
+            [
+                "hqedit",
+                0.5651
+            ],
+            [
+                "iedit",
+                0.5511
+            ],
+            [
+                "any2pix",
+                0.5346
+            ],
+            [
+                "mgie",
+                0.1416
+            ]
+        ]
+    },
+    "129": {
+        "image": "129.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.8062
+            ],
+            [
+                "instructpix2pix",
+                0.7027
+            ],
+            [
+                "magicbrush",
+                0.6827
+            ],
+            [
+                "instruct-diffusion",
+                0.6825
+            ],
+            [
+                "any2pix",
+                0.6812
+            ],
+            [
+                "iedit",
+                0.6212
+            ],
+            [
+                "hqedit",
+                0.3737
+            ],
+            [
+                "mgie",
+                0.2256
+            ]
+        ]
+    },
+    "130": {
+        "image": "130.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5351
+            ],
+            [
+                "instructpix2pix",
+                0.529
+            ],
+            [
+                "instruct-diffusion",
+                0.501
+            ],
+            [
+                "magicbrush",
+                0.5007
+            ],
+            [
+                "iedit",
+                0.3739
+            ],
+            [
+                "hqedit",
+                0.3228
+            ],
+            [
+                "hive",
+                0.3223
+            ],
+            [
+                "any2pix",
+                0.3079
+            ]
+        ]
+    },
+    "131": {
+        "image": "131.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6777
+            ],
+            [
+                "mgie",
+                0.6756
+            ],
+            [
+                "magicbrush",
+                0.6662
+            ],
+            [
+                "instruct-diffusion",
+                0.5898
+            ],
+            [
+                "any2pix",
+                0.4741
+            ],
+            [
+                "hqedit",
+                0.3923
+            ],
+            [
+                "iedit",
+                0.3791
+            ],
+            [
+                "hive",
+                0.3484
+            ]
+        ]
+    },
+    "132": {
+        "image": "132.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6739
+            ],
+            [
+                "mgie",
+                0.6275
+            ],
+            [
+                "instructpix2pix",
+                0.6196
+            ],
+            [
+                "instruct-diffusion",
+                0.5634
+            ],
+            [
+                "iedit",
+                0.4411
+            ],
+            [
+                "any2pix",
+                0.4401
+            ],
+            [
+                "hive",
+                0.4033
+            ],
+            [
+                "hqedit",
+                0.3322
+            ]
+        ]
+    },
+    "133": {
+        "image": "133.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.5125
+            ],
+            [
+                "magicbrush",
+                0.4637
+            ],
+            [
+                "instruct-diffusion",
+                0.4595
+            ],
+            [
+                "hqedit",
+                0.3821
+            ],
+            [
+                "iedit",
+                0.3666
+            ],
+            [
+                "any2pix",
+                0.3494
+            ],
+            [
+                "hive",
+                0.2536
+            ],
+            [
+                "mgie",
+                0.1806
+            ]
+        ]
+    },
+    "134": {
+        "image": "134.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7946
+            ],
+            [
+                "instructpix2pix",
+                0.7561
+            ],
+            [
+                "instruct-diffusion",
+                0.7355
+            ],
+            [
+                "any2pix",
+                0.7223
+            ],
+            [
+                "hqedit",
+                0.7206
+            ],
+            [
+                "iedit",
+                0.6921
+            ],
+            [
+                "hive",
+                0.5818
+            ],
+            [
+                "mgie",
+                0.1044
+            ]
+        ]
+    },
+    "135": {
+        "image": "135.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6984
+            ],
+            [
+                "magicbrush",
+                0.6725
+            ],
+            [
+                "instruct-diffusion",
+                0.6263
+            ],
+            [
+                "iedit",
+                0.6154
+            ],
+            [
+                "any2pix",
+                0.6092
+            ],
+            [
+                "hqedit",
+                0.5742
+            ],
+            [
+                "hive",
+                0.5703
+            ],
+            [
+                "mgie",
+                0.0781
+            ]
+        ]
+    },
+    "136": {
+        "image": "136.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6566
+            ],
+            [
+                "magicbrush",
+                0.651
+            ],
+            [
+                "instruct-diffusion",
+                0.6465
+            ],
+            [
+                "hive",
+                0.5732
+            ],
+            [
+                "iedit",
+                0.5201
+            ],
+            [
+                "any2pix",
+                0.4816
+            ],
+            [
+                "hqedit",
+                0.4584
+            ],
+            [
+                "mgie",
+                0.3631
+            ]
+        ]
+    },
+    "137": {
+        "image": "137.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6419
+            ],
+            [
+                "magicbrush",
+                0.6383
+            ],
+            [
+                "instructpix2pix",
+                0.608
+            ],
+            [
+                "any2pix",
+                0.4708
+            ],
+            [
+                "iedit",
+                0.453
+            ],
+            [
+                "hqedit",
+                0.4417
+            ],
+            [
+                "mgie",
+                0.438
+            ],
+            [
+                "hive",
+                0.4291
+            ]
+        ]
+    },
+    "138": {
+        "image": "138.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.5707
+            ],
+            [
+                "magicbrush",
+                0.5665
+            ],
+            [
+                "instructpix2pix",
+                0.5642
+            ],
+            [
+                "mgie",
+                0.5447
+            ],
+            [
+                "instruct-diffusion",
+                0.5346
+            ],
+            [
+                "any2pix",
+                0.4015
+            ],
+            [
+                "iedit",
+                0.3865
+            ],
+            [
+                "hqedit",
+                0.3551
+            ]
+        ]
+    },
+    "139": {
+        "image": "139.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.4623
+            ],
+            [
+                "mgie",
+                0.4561
+            ],
+            [
+                "magicbrush",
+                0.4299
+            ],
+            [
+                "instructpix2pix",
+                0.4279
+            ],
+            [
+                "instruct-diffusion",
+                0.4243
+            ],
+            [
+                "any2pix",
+                0.3195
+            ],
+            [
+                "iedit",
+                0.2916
+            ],
+            [
+                "hqedit",
+                0.2809
+            ]
+        ]
+    },
+    "140": {
+        "image": "140.jpg",
+        "dataset": "SnowRemoval",
+        "prompt": "Remove the snow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6396
+            ],
+            [
+                "mgie",
+                0.5972
+            ],
+            [
+                "instruct-diffusion",
+                0.5915
+            ],
+            [
+                "instructpix2pix",
+                0.5852
+            ],
+            [
+                "iedit",
+                0.4919
+            ],
+            [
+                "hive",
+                0.4807
+            ],
+            [
+                "any2pix",
+                0.4663
+            ],
+            [
+                "hqedit",
+                0.4631
+            ]
+        ]
+    }
+}

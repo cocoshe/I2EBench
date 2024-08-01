@@ -1,0 +1,5602 @@
+{
+    "1": {
+        "image": "0001.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Transform the image into a captivating oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "mgie",
+                28.140625
+            ],
+            [
+                "any2pix",
+                27.984375
+            ],
+            [
+                "instructpix2pix",
+                24.015625
+            ],
+            [
+                "hive",
+                23.8125
+            ],
+            [
+                "magicbrush",
+                23.09375
+            ],
+            [
+                "instruct-diffusion",
+                22.484375
+            ],
+            [
+                "iedit",
+                22.046875
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "2": {
+        "image": "0002.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Convert the image into a timeless black and white masterpiece",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                24.8125
+            ],
+            [
+                "instructpix2pix",
+                22.34375
+            ],
+            [
+                "hive",
+                21.8125
+            ],
+            [
+                "mgie",
+                20.9375
+            ],
+            [
+                "iedit",
+                18.109375
+            ],
+            [
+                "hqedit",
+                16.875
+            ],
+            [
+                "instruct-diffusion",
+                15.890625
+            ],
+            [
+                "magicbrush",
+                15.5390625
+            ]
+        ]
+    },
+    "3": {
+        "image": "0003.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Give the image the soft and flowing essence of watercolor style",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                28.515625
+            ],
+            [
+                "mgie",
+                27.21875
+            ],
+            [
+                "magicbrush",
+                24.359375
+            ],
+            [
+                "instructpix2pix",
+                23.171875
+            ],
+            [
+                "iedit",
+                21.78125
+            ],
+            [
+                "instruct-diffusion",
+                21.625
+            ],
+            [
+                "hive",
+                20.578125
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "4": {
+        "image": "0004.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Infuse the image with the neon-lit atmosphere of cyberpunk",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                31.078125
+            ],
+            [
+                "any2pix",
+                28.34375
+            ],
+            [
+                "magicbrush",
+                24.0625
+            ],
+            [
+                "instructpix2pix",
+                22.703125
+            ],
+            [
+                "mgie",
+                21.90625
+            ],
+            [
+                "instruct-diffusion",
+                21.734375
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "iedit",
+                18.171875
+            ]
+        ]
+    },
+    "5": {
+        "image": "0005.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Produce an image reminiscent of classical oil paintings",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "mgie",
+                24.421875
+            ],
+            [
+                "any2pix",
+                24.296875
+            ],
+            [
+                "instruct-diffusion",
+                21.484375
+            ],
+            [
+                "iedit",
+                21.125
+            ],
+            [
+                "hive",
+                20.890625
+            ],
+            [
+                "magicbrush",
+                20.625
+            ],
+            [
+                "instructpix2pix",
+                20.3125
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "6": {
+        "image": "0006.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Craft an image that embodies the simplicity of black and white photography",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                26.234375
+            ],
+            [
+                "instructpix2pix",
+                24.90625
+            ],
+            [
+                "hive",
+                21.40625
+            ],
+            [
+                "mgie",
+                20.9375
+            ],
+            [
+                "magicbrush",
+                20.71875
+            ],
+            [
+                "instruct-diffusion",
+                20.703125
+            ],
+            [
+                "iedit",
+                20.28125
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "7": {
+        "image": "0007.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Create an image with the fluidity and transparency of watercolor paintings",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                30.078125
+            ],
+            [
+                "hive",
+                29.890625
+            ],
+            [
+                "magicbrush",
+                29.265625
+            ],
+            [
+                "any2pix",
+                29.09375
+            ],
+            [
+                "mgie",
+                28.53125
+            ],
+            [
+                "iedit",
+                27.484375
+            ],
+            [
+                "instruct-diffusion",
+                23.265625
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "8": {
+        "image": "0008.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Generate an image that captures the futuristic and gritty aesthetic of cyberpunk",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                34.0625
+            ],
+            [
+                "magicbrush",
+                32.5
+            ],
+            [
+                "any2pix",
+                30.46875
+            ],
+            [
+                "mgie",
+                25.875
+            ],
+            [
+                "hive",
+                22.890625
+            ],
+            [
+                "instruct-diffusion",
+                21.859375
+            ],
+            [
+                "iedit",
+                20.3125
+            ],
+            [
+                "hqedit",
+                19.0625
+            ]
+        ]
+    },
+    "9": {
+        "image": "0009.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Transform the image into a richly textured oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.875
+            ],
+            [
+                "instructpix2pix",
+                23.5625
+            ],
+            [
+                "mgie",
+                21.1875
+            ],
+            [
+                "hive",
+                20.140625
+            ],
+            [
+                "magicbrush",
+                19.453125
+            ],
+            [
+                "instruct-diffusion",
+                19.171875
+            ],
+            [
+                "iedit",
+                18.359375
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "10": {
+        "image": "0010.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Convert the image into a stark and dramatic black and white composition",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                27.453125
+            ],
+            [
+                "hive",
+                27.09375
+            ],
+            [
+                "instructpix2pix",
+                26.375
+            ],
+            [
+                "any2pix",
+                25.40625
+            ],
+            [
+                "mgie",
+                25.125
+            ],
+            [
+                "iedit",
+                24.28125
+            ],
+            [
+                "magicbrush",
+                23.4375
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "11": {
+        "image": "0011.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Transform the image into a vibrant watercolor painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                32.65625
+            ],
+            [
+                "hive",
+                24.671875
+            ],
+            [
+                "magicbrush",
+                24.578125
+            ],
+            [
+                "instructpix2pix",
+                22.640625
+            ],
+            [
+                "mgie",
+                22.5
+            ],
+            [
+                "instruct-diffusion",
+                22.171875
+            ],
+            [
+                "iedit",
+                17.84375
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "12": {
+        "image": "0012.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Infuse the image with the neon-lit atmosphere of cyberpunk",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                29.1875
+            ],
+            [
+                "mgie",
+                27.046875
+            ],
+            [
+                "any2pix",
+                24.703125
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "magicbrush",
+                17.953125
+            ],
+            [
+                "instructpix2pix",
+                17.765625
+            ],
+            [
+                "iedit",
+                15.8046875
+            ],
+            [
+                "instruct-diffusion",
+                14.8828125
+            ]
+        ]
+    },
+    "13": {
+        "image": "0013.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Evoke the texture and depth of an oil painting in the image",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.796875
+            ],
+            [
+                "magicbrush",
+                24.125
+            ],
+            [
+                "instructpix2pix",
+                22.125
+            ],
+            [
+                "mgie",
+                21.546875
+            ],
+            [
+                "instruct-diffusion",
+                21.546875
+            ],
+            [
+                "iedit",
+                21.265625
+            ],
+            [
+                "hive",
+                20.828125
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "14": {
+        "image": "0014.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Create a captivating monochromatic composition with black and white styling",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                26.75
+            ],
+            [
+                "any2pix",
+                25.75
+            ],
+            [
+                "mgie",
+                25.40625
+            ],
+            [
+                "instructpix2pix",
+                25.0625
+            ],
+            [
+                "hive",
+                24.703125
+            ],
+            [
+                "iedit",
+                19.859375
+            ],
+            [
+                "instruct-diffusion",
+                19.625
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "15": {
+        "image": "0015.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Immerse the image in the fluidity and softness of watercolor painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                31.140625
+            ],
+            [
+                "any2pix",
+                29.171875
+            ],
+            [
+                "mgie",
+                22.390625
+            ],
+            [
+                "iedit",
+                21.40625
+            ],
+            [
+                "instructpix2pix",
+                20.609375
+            ],
+            [
+                "instruct-diffusion",
+                18.25
+            ],
+            [
+                "magicbrush",
+                18.03125
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "16": {
+        "image": "0016.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Craft a futuristic and dystopian scene with cyberpunk aesthetics",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                31.171875
+            ],
+            [
+                "instruct-diffusion",
+                30.28125
+            ],
+            [
+                "instructpix2pix",
+                27.015625
+            ],
+            [
+                "mgie",
+                23.234375
+            ],
+            [
+                "any2pix",
+                22.03125
+            ],
+            [
+                "hive",
+                19.265625
+            ],
+            [
+                "hqedit",
+                19.109375
+            ],
+            [
+                "iedit",
+                17.25
+            ]
+        ]
+    },
+    "17": {
+        "image": "0017.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Render the image with the richness and brushstrokes of oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "iedit",
+                25.625
+            ],
+            [
+                "any2pix",
+                25.375
+            ],
+            [
+                "hive",
+                25.046875
+            ],
+            [
+                "mgie",
+                24.015625
+            ],
+            [
+                "instructpix2pix",
+                16.484375
+            ],
+            [
+                "instruct-diffusion",
+                15.5546875
+            ],
+            [
+                "magicbrush",
+                15.515625
+            ],
+            [
+                "hqedit",
+                14.3671875
+            ]
+        ]
+    },
+    "18": {
+        "image": "0018.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Give the image a timeless and striking look with black and white treatment",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                25.0
+            ],
+            [
+                "hive",
+                24.875
+            ],
+            [
+                "instruct-diffusion",
+                22.09375
+            ],
+            [
+                "mgie",
+                20.421875
+            ],
+            [
+                "instructpix2pix",
+                19.484375
+            ],
+            [
+                "hqedit",
+                16.875
+            ],
+            [
+                "magicbrush",
+                15.5
+            ],
+            [
+                "iedit",
+                15.21875
+            ]
+        ]
+    },
+    "19": {
+        "image": "0019.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Capture the transparency and luminosity of watercolor painting in the image",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "mgie",
+                25.8125
+            ],
+            [
+                "magicbrush",
+                25.71875
+            ],
+            [
+                "hive",
+                25.296875
+            ],
+            [
+                "instructpix2pix",
+                24.140625
+            ],
+            [
+                "instruct-diffusion",
+                20.0
+            ],
+            [
+                "any2pix",
+                19.84375
+            ],
+            [
+                "iedit",
+                18.03125
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "20": {
+        "image": "0020.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Transform the image into a cyberpunk-inspired urban landscape",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                31.84375
+            ],
+            [
+                "instructpix2pix",
+                28.34375
+            ],
+            [
+                "any2pix",
+                24.390625
+            ],
+            [
+                "mgie",
+                24.296875
+            ],
+            [
+                "hive",
+                23.84375
+            ],
+            [
+                "instruct-diffusion",
+                22.34375
+            ],
+            [
+                "hqedit",
+                19.28125
+            ],
+            [
+                "iedit",
+                16.3125
+            ]
+        ]
+    },
+    "21": {
+        "image": "0021.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Infuse the image with the timeless charm and texture of an oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "iedit",
+                24.6875
+            ],
+            [
+                "any2pix",
+                23.015625
+            ],
+            [
+                "hive",
+                22.6875
+            ],
+            [
+                "magicbrush",
+                19.8125
+            ],
+            [
+                "instruct-diffusion",
+                19.765625
+            ],
+            [
+                "instructpix2pix",
+                19.625
+            ],
+            [
+                "mgie",
+                19.5
+            ],
+            [
+                "hqedit",
+                14.71875
+            ]
+        ]
+    },
+    "22": {
+        "image": "0022.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Create a stark and dramatic visual narrative with black and white styling",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                25.6875
+            ],
+            [
+                "instruct-diffusion",
+                20.703125
+            ],
+            [
+                "any2pix",
+                20.265625
+            ],
+            [
+                "mgie",
+                20.046875
+            ],
+            [
+                "magicbrush",
+                17.1875
+            ],
+            [
+                "hqedit",
+                16.875
+            ],
+            [
+                "iedit",
+                15.6796875
+            ],
+            [
+                "hive",
+                15.1640625
+            ]
+        ]
+    },
+    "23": {
+        "image": "0023.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Immerse the image in the fluidity and expressive strokes of watercolor painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                23.78125
+            ],
+            [
+                "mgie",
+                23.1875
+            ],
+            [
+                "hive",
+                20.5
+            ],
+            [
+                "iedit",
+                18.421875
+            ],
+            [
+                "magicbrush",
+                18.328125
+            ],
+            [
+                "instructpix2pix",
+                18.296875
+            ],
+            [
+                "instruct-diffusion",
+                17.953125
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "24": {
+        "image": "0024.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Transport the image into a futuristic and gritty cyberpunk dystopia",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                29.65625
+            ],
+            [
+                "mgie",
+                27.015625
+            ],
+            [
+                "any2pix",
+                26.828125
+            ],
+            [
+                "instructpix2pix",
+                26.203125
+            ],
+            [
+                "instruct-diffusion",
+                23.734375
+            ],
+            [
+                "hive",
+                23.109375
+            ],
+            [
+                "iedit",
+                22.890625
+            ],
+            [
+                "hqedit",
+                19.0625
+            ]
+        ]
+    },
+    "25": {
+        "image": "0025.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Evoke a sense of classic artistry and depth with oil painting techniques",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.671875
+            ],
+            [
+                "iedit",
+                29.484375
+            ],
+            [
+                "mgie",
+                27.6875
+            ],
+            [
+                "instructpix2pix",
+                26.875
+            ],
+            [
+                "hive",
+                26.640625
+            ],
+            [
+                "magicbrush",
+                26.640625
+            ],
+            [
+                "instruct-diffusion",
+                25.4375
+            ],
+            [
+                "hqedit",
+                14.8046875
+            ]
+        ]
+    },
+    "26": {
+        "image": "0026.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Strip the image down to its essence, emphasizing contrast and form in black and white",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                27.140625
+            ],
+            [
+                "any2pix",
+                25.640625
+            ],
+            [
+                "instructpix2pix",
+                25.28125
+            ],
+            [
+                "magicbrush",
+                22.765625
+            ],
+            [
+                "iedit",
+                21.734375
+            ],
+            [
+                "instruct-diffusion",
+                21.71875
+            ],
+            [
+                "mgie",
+                20.796875
+            ],
+            [
+                "hqedit",
+                15.0390625
+            ]
+        ]
+    },
+    "27": {
+        "image": "0027.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Illuminate the image with the gentle hues and translucency of watercolor painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                27.96875
+            ],
+            [
+                "any2pix",
+                24.734375
+            ],
+            [
+                "mgie",
+                22.375
+            ],
+            [
+                "instructpix2pix",
+                21.46875
+            ],
+            [
+                "magicbrush",
+                19.25
+            ],
+            [
+                "iedit",
+                18.421875
+            ],
+            [
+                "instruct-diffusion",
+                18.34375
+            ],
+            [
+                "hqedit",
+                14.078125
+            ]
+        ]
+    },
+    "28": {
+        "image": "0028.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Immerse the image in the neon-lit streets and high-tech intrigue of cyberpunk",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                33.28125
+            ],
+            [
+                "hive",
+                28.984375
+            ],
+            [
+                "instructpix2pix",
+                25.578125
+            ],
+            [
+                "any2pix",
+                22.515625
+            ],
+            [
+                "mgie",
+                21.515625
+            ],
+            [
+                "instruct-diffusion",
+                21.453125
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "iedit",
+                18.203125
+            ]
+        ]
+    },
+    "29": {
+        "image": "0029.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Capture the richness and vibrancy of the scene through the medium of oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                27.96875
+            ],
+            [
+                "any2pix",
+                27.171875
+            ],
+            [
+                "mgie",
+                25.375
+            ],
+            [
+                "iedit",
+                24.09375
+            ],
+            [
+                "instructpix2pix",
+                23.96875
+            ],
+            [
+                "magicbrush",
+                21.28125
+            ],
+            [
+                "instruct-diffusion",
+                20.75
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "30": {
+        "image": "0030.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Craft a visually striking composition with the bold contrasts of black and white",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                26.8125
+            ],
+            [
+                "instructpix2pix",
+                26.234375
+            ],
+            [
+                "mgie",
+                23.78125
+            ],
+            [
+                "any2pix",
+                20.203125
+            ],
+            [
+                "magicbrush",
+                18.375
+            ],
+            [
+                "iedit",
+                17.890625
+            ],
+            [
+                "instruct-diffusion",
+                17.28125
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "31": {
+        "image": "0031.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Drench the image in the soft, flowing colors characteristic of watercolor painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                28.828125
+            ],
+            [
+                "any2pix",
+                23.921875
+            ],
+            [
+                "mgie",
+                22.15625
+            ],
+            [
+                "iedit",
+                20.625
+            ],
+            [
+                "magicbrush",
+                20.375
+            ],
+            [
+                "instructpix2pix",
+                20.25
+            ],
+            [
+                "instruct-diffusion",
+                19.984375
+            ],
+            [
+                "hqedit",
+                13.6875
+            ]
+        ]
+    },
+    "32": {
+        "image": "0032.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Immerse the image in the neon-lit, futuristic world of cyberpunk aesthetics",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                29.578125
+            ],
+            [
+                "magicbrush",
+                24.765625
+            ],
+            [
+                "mgie",
+                24.0
+            ],
+            [
+                "any2pix",
+                21.90625
+            ],
+            [
+                "instructpix2pix",
+                20.125
+            ],
+            [
+                "instruct-diffusion",
+                19.796875
+            ],
+            [
+                "iedit",
+                18.046875
+            ],
+            [
+                "hqedit",
+                16.8125
+            ]
+        ]
+    },
+    "33": {
+        "image": "0033.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Express the depth and texture of the scene through the medium of oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                28.96875
+            ],
+            [
+                "magicbrush",
+                20.03125
+            ],
+            [
+                "instructpix2pix",
+                18.546875
+            ],
+            [
+                "iedit",
+                18.34375
+            ],
+            [
+                "mgie",
+                17.453125
+            ],
+            [
+                "instruct-diffusion",
+                16.84375
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ],
+            [
+                "hive",
+                15.6171875
+            ]
+        ]
+    },
+    "34": {
+        "image": "0034.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Create a compelling visual narrative using the stark contrasts of black and white",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                26.5625
+            ],
+            [
+                "instructpix2pix",
+                26.125
+            ],
+            [
+                "any2pix",
+                22.671875
+            ],
+            [
+                "instruct-diffusion",
+                18.59375
+            ],
+            [
+                "iedit",
+                18.484375
+            ],
+            [
+                "mgie",
+                18.40625
+            ],
+            [
+                "magicbrush",
+                18.21875
+            ],
+            [
+                "hqedit",
+                16.8125
+            ]
+        ]
+    },
+    "35": {
+        "image": "0035.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Infuse the image with the delicate transparency and luminosity of watercolor painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                26.640625
+            ],
+            [
+                "mgie",
+                26.1875
+            ],
+            [
+                "hive",
+                21.984375
+            ],
+            [
+                "iedit",
+                20.78125
+            ],
+            [
+                "instructpix2pix",
+                20.375
+            ],
+            [
+                "instruct-diffusion",
+                20.21875
+            ],
+            [
+                "magicbrush",
+                17.0625
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "36": {
+        "image": "0036.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Project the image into a dark and edgy cyberpunk-inspired setting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                30.84375
+            ],
+            [
+                "any2pix",
+                23.703125
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "mgie",
+                18.71875
+            ],
+            [
+                "instructpix2pix",
+                16.8125
+            ],
+            [
+                "iedit",
+                16.75
+            ],
+            [
+                "hive",
+                16.0
+            ],
+            [
+                "instruct-diffusion",
+                15.796875
+            ]
+        ]
+    },
+    "37": {
+        "image": "0037.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Transform the image into a rich and textured masterpiece with oil painting techniques",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                27.71875
+            ],
+            [
+                "hive",
+                25.84375
+            ],
+            [
+                "magicbrush",
+                25.59375
+            ],
+            [
+                "instruct-diffusion",
+                24.921875
+            ],
+            [
+                "instructpix2pix",
+                22.484375
+            ],
+            [
+                "mgie",
+                22.109375
+            ],
+            [
+                "iedit",
+                21.375
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "38": {
+        "image": "0038.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Craft a minimalist yet powerful composition with the simplicity of black and white",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                24.90625
+            ],
+            [
+                "instructpix2pix",
+                24.859375
+            ],
+            [
+                "mgie",
+                24.78125
+            ],
+            [
+                "any2pix",
+                22.921875
+            ],
+            [
+                "iedit",
+                19.46875
+            ],
+            [
+                "magicbrush",
+                18.34375
+            ],
+            [
+                "instruct-diffusion",
+                18.15625
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "39": {
+        "image": "0039.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Evoke a sense of fluidity and emotion with the soft washes of watercolor painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                30.234375
+            ],
+            [
+                "magicbrush",
+                27.515625
+            ],
+            [
+                "hive",
+                20.640625
+            ],
+            [
+                "mgie",
+                20.53125
+            ],
+            [
+                "instructpix2pix",
+                19.90625
+            ],
+            [
+                "instruct-diffusion",
+                19.765625
+            ],
+            [
+                "iedit",
+                18.890625
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "40": {
+        "image": "0040.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Immerse the image in the gritty, high-energy world of cyberpunk styling",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                26.625
+            ],
+            [
+                "mgie",
+                25.046875
+            ],
+            [
+                "iedit",
+                22.28125
+            ],
+            [
+                "instructpix2pix",
+                22.109375
+            ],
+            [
+                "magicbrush",
+                19.703125
+            ],
+            [
+                "hive",
+                19.609375
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "instruct-diffusion",
+                18.203125
+            ]
+        ]
+    },
+    "41": {
+        "image": "0041.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Illuminate the image with the timeless beauty and texture of an oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                28.65625
+            ],
+            [
+                "iedit",
+                26.796875
+            ],
+            [
+                "magicbrush",
+                25.953125
+            ],
+            [
+                "instruct-diffusion",
+                25.140625
+            ],
+            [
+                "mgie",
+                24.609375
+            ],
+            [
+                "instructpix2pix",
+                22.703125
+            ],
+            [
+                "hive",
+                20.84375
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "42": {
+        "image": "0042.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Craft a captivating monochromatic narrative with black and white styling",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                27.609375
+            ],
+            [
+                "mgie",
+                26.484375
+            ],
+            [
+                "any2pix",
+                23.25
+            ],
+            [
+                "magicbrush",
+                20.4375
+            ],
+            [
+                "instruct-diffusion",
+                20.015625
+            ],
+            [
+                "hive",
+                19.953125
+            ],
+            [
+                "iedit",
+                19.875
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "43": {
+        "image": "0043.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Immerse the image in the fluidity and expressiveness of watercolor painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.25
+            ],
+            [
+                "mgie",
+                27.75
+            ],
+            [
+                "magicbrush",
+                25.0
+            ],
+            [
+                "instructpix2pix",
+                24.328125
+            ],
+            [
+                "hive",
+                23.015625
+            ],
+            [
+                "iedit",
+                22.296875
+            ],
+            [
+                "instruct-diffusion",
+                21.484375
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "44": {
+        "image": "0044.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Transport the image into the neon-lit, high-tech world of cyberpunk aesthetics",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                24.484375
+            ],
+            [
+                "any2pix",
+                21.640625
+            ],
+            [
+                "instructpix2pix",
+                19.40625
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "iedit",
+                16.671875
+            ],
+            [
+                "hive",
+                15.03125
+            ],
+            [
+                "instruct-diffusion",
+                13.7109375
+            ],
+            [
+                "mgie",
+                13.390625
+            ]
+        ]
+    },
+    "45": {
+        "image": "0045.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Infuse the image with the rich and layered textures characteristic of oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                27.1875
+            ],
+            [
+                "hive",
+                25.328125
+            ],
+            [
+                "magicbrush",
+                24.03125
+            ],
+            [
+                "iedit",
+                20.78125
+            ],
+            [
+                "mgie",
+                19.171875
+            ],
+            [
+                "instructpix2pix",
+                18.9375
+            ],
+            [
+                "instruct-diffusion",
+                18.015625
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "46": {
+        "image": "0046.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Create a striking visual contrast with the simplicity and elegance of black and white",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                24.703125
+            ],
+            [
+                "hive",
+                23.953125
+            ],
+            [
+                "any2pix",
+                19.75
+            ],
+            [
+                "mgie",
+                19.046875
+            ],
+            [
+                "instruct-diffusion",
+                18.375
+            ],
+            [
+                "iedit",
+                17.40625
+            ],
+            [
+                "magicbrush",
+                17.34375
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "47": {
+        "image": "0047.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Drench the image in the soft, flowing colors reminiscent of watercolor painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                31.0625
+            ],
+            [
+                "mgie",
+                26.625
+            ],
+            [
+                "hive",
+                22.140625
+            ],
+            [
+                "instructpix2pix",
+                22.0
+            ],
+            [
+                "iedit",
+                21.890625
+            ],
+            [
+                "magicbrush",
+                21.796875
+            ],
+            [
+                "instruct-diffusion",
+                21.453125
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "48": {
+        "image": "0048.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Project the image into a dystopian future with the edgy vibes of cyberpunk styling",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "mgie",
+                25.765625
+            ],
+            [
+                "any2pix",
+                24.578125
+            ],
+            [
+                "instructpix2pix",
+                21.921875
+            ],
+            [
+                "instruct-diffusion",
+                21.109375
+            ],
+            [
+                "hive",
+                19.390625
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "iedit",
+                16.578125
+            ],
+            [
+                "magicbrush",
+                16.234375
+            ]
+        ]
+    },
+    "49": {
+        "image": "0049.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Capture the essence of the scene with the depth and richness of oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                27.5
+            ],
+            [
+                "magicbrush",
+                27.140625
+            ],
+            [
+                "any2pix",
+                23.046875
+            ],
+            [
+                "mgie",
+                21.453125
+            ],
+            [
+                "instructpix2pix",
+                21.03125
+            ],
+            [
+                "iedit",
+                20.640625
+            ],
+            [
+                "instruct-diffusion",
+                19.75
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "50": {
+        "image": "0050.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Craft a timeless composition with the stark contrasts and clarity of black and white",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                26.484375
+            ],
+            [
+                "any2pix",
+                26.28125
+            ],
+            [
+                "instructpix2pix",
+                22.328125
+            ],
+            [
+                "magicbrush",
+                21.765625
+            ],
+            [
+                "iedit",
+                21.34375
+            ],
+            [
+                "instruct-diffusion",
+                21.03125
+            ],
+            [
+                "mgie",
+                21.015625
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "51": {
+        "image": "0051.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Evoke emotion and fluidity with the delicate washes and transparency of watercolor.",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "mgie",
+                22.328125
+            ],
+            [
+                "instructpix2pix",
+                21.109375
+            ],
+            [
+                "instruct-diffusion",
+                20.421875
+            ],
+            [
+                "hive",
+                19.9375
+            ],
+            [
+                "magicbrush",
+                19.140625
+            ],
+            [
+                "iedit",
+                18.78125
+            ],
+            [
+                "any2pix",
+                17.453125
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "52": {
+        "image": "0052.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Immerse the image in the futuristic, tech-infused world of cyberpunk aesthetics",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                30.09375
+            ],
+            [
+                "any2pix",
+                29.28125
+            ],
+            [
+                "hive",
+                26.4375
+            ],
+            [
+                "mgie",
+                25.734375
+            ],
+            [
+                "instructpix2pix",
+                21.46875
+            ],
+            [
+                "iedit",
+                20.875
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "instruct-diffusion",
+                17.4375
+            ]
+        ]
+    },
+    "53": {
+        "image": "0053.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Express the scene's textures and nuances through the medium of oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.046875
+            ],
+            [
+                "hive",
+                25.390625
+            ],
+            [
+                "instruct-diffusion",
+                24.875
+            ],
+            [
+                "instructpix2pix",
+                22.625
+            ],
+            [
+                "magicbrush",
+                22.140625
+            ],
+            [
+                "mgie",
+                21.21875
+            ],
+            [
+                "iedit",
+                21.078125
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "54": {
+        "image": "0054.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Tell a compelling story with the bold contrasts and simplicity of black and white",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "mgie",
+                27.125
+            ],
+            [
+                "instructpix2pix",
+                26.015625
+            ],
+            [
+                "magicbrush",
+                21.875
+            ],
+            [
+                "iedit",
+                21.21875
+            ],
+            [
+                "any2pix",
+                20.84375
+            ],
+            [
+                "instruct-diffusion",
+                19.984375
+            ],
+            [
+                "hive",
+                19.859375
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "55": {
+        "image": "0055.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Drench the image in the soft, dreamy hues characteristic of watercolor painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                28.328125
+            ],
+            [
+                "any2pix",
+                23.421875
+            ],
+            [
+                "mgie",
+                21.953125
+            ],
+            [
+                "magicbrush",
+                19.859375
+            ],
+            [
+                "instructpix2pix",
+                18.96875
+            ],
+            [
+                "iedit",
+                16.65625
+            ],
+            [
+                "instruct-diffusion",
+                16.421875
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "56": {
+        "image": "0056.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Transform the scene into a cyberpunk-inspired vision of the future",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                21.8125
+            ],
+            [
+                "hive",
+                19.171875
+            ],
+            [
+                "hqedit",
+                18.5
+            ],
+            [
+                "mgie",
+                18.375
+            ],
+            [
+                "magicbrush",
+                17.21875
+            ],
+            [
+                "instructpix2pix",
+                16.25
+            ],
+            [
+                "instruct-diffusion",
+                13.1953125
+            ],
+            [
+                "iedit",
+                12.03125
+            ]
+        ]
+    },
+    "57": {
+        "image": "0057.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Infuse the image with the richness and depth of an oil painting masterpiece",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                27.578125
+            ],
+            [
+                "any2pix",
+                27.453125
+            ],
+            [
+                "iedit",
+                23.203125
+            ],
+            [
+                "instructpix2pix",
+                19.484375
+            ],
+            [
+                "mgie",
+                19.34375
+            ],
+            [
+                "magicbrush",
+                18.859375
+            ],
+            [
+                "instruct-diffusion",
+                18.734375
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "58": {
+        "image": "0058.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Craft a minimalist yet powerful narrative with the timeless appeal of black and white",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                25.90625
+            ],
+            [
+                "instructpix2pix",
+                25.734375
+            ],
+            [
+                "any2pix",
+                22.78125
+            ],
+            [
+                "mgie",
+                21.765625
+            ],
+            [
+                "magicbrush",
+                19.953125
+            ],
+            [
+                "instruct-diffusion",
+                19.953125
+            ],
+            [
+                "iedit",
+                17.234375
+            ],
+            [
+                "hqedit",
+                15.5390625
+            ]
+        ]
+    },
+    "59": {
+        "image": "0059.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Evoke a sense of tranquility and fluidity with the gentle strokes of watercolor",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                30.296875
+            ],
+            [
+                "hive",
+                27.0625
+            ],
+            [
+                "instructpix2pix",
+                24.703125
+            ],
+            [
+                "mgie",
+                24.3125
+            ],
+            [
+                "magicbrush",
+                21.71875
+            ],
+            [
+                "iedit",
+                21.375
+            ],
+            [
+                "instruct-diffusion",
+                19.578125
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "60": {
+        "image": "0060.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Immerse the image in the high-energy, neon-lit world of cyberpunk aesthetics",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "mgie",
+                30.84375
+            ],
+            [
+                "magicbrush",
+                28.484375
+            ],
+            [
+                "any2pix",
+                21.4375
+            ],
+            [
+                "instructpix2pix",
+                20.5
+            ],
+            [
+                "instruct-diffusion",
+                19.796875
+            ],
+            [
+                "hqedit",
+                17.359375
+            ],
+            [
+                "hive",
+                17.03125
+            ],
+            [
+                "iedit",
+                16.875
+            ]
+        ]
+    },
+    "61": {
+        "image": "0061.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Express the scene's beauty and depth through the medium of oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                28.75
+            ],
+            [
+                "hive",
+                26.46875
+            ],
+            [
+                "instructpix2pix",
+                19.984375
+            ],
+            [
+                "mgie",
+                19.484375
+            ],
+            [
+                "instruct-diffusion",
+                19.46875
+            ],
+            [
+                "magicbrush",
+                19.21875
+            ],
+            [
+                "iedit",
+                19.046875
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "62": {
+        "image": "0062.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Create a striking visual impact with the stark contrast of black and white",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                27.09375
+            ],
+            [
+                "any2pix",
+                25.34375
+            ],
+            [
+                "mgie",
+                24.40625
+            ],
+            [
+                "instructpix2pix",
+                24.078125
+            ],
+            [
+                "magicbrush",
+                21.859375
+            ],
+            [
+                "iedit",
+                20.890625
+            ],
+            [
+                "instruct-diffusion",
+                20.3125
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "63": {
+        "image": "0063.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Capture the scene's essence with the soft and luminous quality of watercolor",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.9375
+            ],
+            [
+                "magicbrush",
+                26.640625
+            ],
+            [
+                "instructpix2pix",
+                23.75
+            ],
+            [
+                "mgie",
+                22.953125
+            ],
+            [
+                "instruct-diffusion",
+                22.203125
+            ],
+            [
+                "hive",
+                21.84375
+            ],
+            [
+                "iedit",
+                21.015625
+            ],
+            [
+                "hqedit",
+                13.390625
+            ]
+        ]
+    },
+    "64": {
+        "image": "0064.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Transport the image into a futuristic world filled with cyberpunk intrigue",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                30.671875
+            ],
+            [
+                "magicbrush",
+                30.1875
+            ],
+            [
+                "mgie",
+                27.015625
+            ],
+            [
+                "instruct-diffusion",
+                25.75
+            ],
+            [
+                "instructpix2pix",
+                23.140625
+            ],
+            [
+                "iedit",
+                21.234375
+            ],
+            [
+                "hive",
+                19.53125
+            ],
+            [
+                "hqedit",
+                19.0625
+            ]
+        ]
+    },
+    "65": {
+        "image": "0065.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Infuse the image with the richness and texture of an oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                30.015625
+            ],
+            [
+                "mgie",
+                23.28125
+            ],
+            [
+                "magicbrush",
+                21.25
+            ],
+            [
+                "hive",
+                21.1875
+            ],
+            [
+                "iedit",
+                20.6875
+            ],
+            [
+                "instructpix2pix",
+                20.5
+            ],
+            [
+                "instruct-diffusion",
+                19.90625
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "66": {
+        "image": "0066.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Craft a timeless and elegant composition with the simplicity of black and white",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                26.28125
+            ],
+            [
+                "any2pix",
+                25.875
+            ],
+            [
+                "mgie",
+                25.109375
+            ],
+            [
+                "magicbrush",
+                23.890625
+            ],
+            [
+                "iedit",
+                19.375
+            ],
+            [
+                "hive",
+                19.0
+            ],
+            [
+                "instruct-diffusion",
+                18.453125
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "67": {
+        "image": "0067.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Evoke a sense of emotion and movement with the fluidity of watercolor",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                30.109375
+            ],
+            [
+                "mgie",
+                23.71875
+            ],
+            [
+                "hive",
+                20.203125
+            ],
+            [
+                "magicbrush",
+                20.03125
+            ],
+            [
+                "instructpix2pix",
+                19.9375
+            ],
+            [
+                "iedit",
+                18.046875
+            ],
+            [
+                "instruct-diffusion",
+                17.25
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "68": {
+        "image": "0068.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Immerse the image in the gritty and edgy aesthetic of cyberpunk",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "mgie",
+                21.953125
+            ],
+            [
+                "any2pix",
+                19.875
+            ],
+            [
+                "instructpix2pix",
+                19.65625
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "magicbrush",
+                17.125
+            ],
+            [
+                "iedit",
+                16.921875
+            ],
+            [
+                "hive",
+                16.109375
+            ],
+            [
+                "instruct-diffusion",
+                15.953125
+            ]
+        ]
+    },
+    "69": {
+        "image": "0069.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Express the scene's details and nuances through the medium of oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                28.921875
+            ],
+            [
+                "iedit",
+                19.109375
+            ],
+            [
+                "hive",
+                18.015625
+            ],
+            [
+                "instruct-diffusion",
+                17.90625
+            ],
+            [
+                "instructpix2pix",
+                17.8125
+            ],
+            [
+                "magicbrush",
+                17.46875
+            ],
+            [
+                "mgie",
+                17.46875
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "70": {
+        "image": "0070.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Create a bold and impactful visual narrative with the contrast of black and white",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                27.15625
+            ],
+            [
+                "instructpix2pix",
+                26.234375
+            ],
+            [
+                "any2pix",
+                23.46875
+            ],
+            [
+                "magicbrush",
+                19.484375
+            ],
+            [
+                "mgie",
+                19.0
+            ],
+            [
+                "iedit",
+                18.734375
+            ],
+            [
+                "instruct-diffusion",
+                18.65625
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "71": {
+        "image": "0071.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Drench the image in the soft, ethereal colors of watercolor painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                26.40625
+            ],
+            [
+                "mgie",
+                25.671875
+            ],
+            [
+                "magicbrush",
+                25.234375
+            ],
+            [
+                "any2pix",
+                25.0625
+            ],
+            [
+                "instructpix2pix",
+                24.296875
+            ],
+            [
+                "instruct-diffusion",
+                23.953125
+            ],
+            [
+                "iedit",
+                21.765625
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "72": {
+        "image": "0072.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Transport the viewer into a futuristic dystopia with cyberpunk styling",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                29.75
+            ],
+            [
+                "any2pix",
+                27.75
+            ],
+            [
+                "mgie",
+                24.875
+            ],
+            [
+                "instructpix2pix",
+                21.3125
+            ],
+            [
+                "iedit",
+                21.109375
+            ],
+            [
+                "instruct-diffusion",
+                19.34375
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "hive",
+                18.5
+            ]
+        ]
+    },
+    "73": {
+        "image": "0073.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Infuse the image with the richness and depth of an oil painting masterpiece",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                28.40625
+            ],
+            [
+                "hive",
+                27.28125
+            ],
+            [
+                "iedit",
+                27.21875
+            ],
+            [
+                "mgie",
+                23.28125
+            ],
+            [
+                "instruct-diffusion",
+                22.984375
+            ],
+            [
+                "magicbrush",
+                22.90625
+            ],
+            [
+                "instructpix2pix",
+                22.875
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "74": {
+        "image": "0074.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Craft a captivating narrative with the timeless simplicity of black and white",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "mgie",
+                25.796875
+            ],
+            [
+                "hive",
+                25.34375
+            ],
+            [
+                "instructpix2pix",
+                24.546875
+            ],
+            [
+                "any2pix",
+                23.078125
+            ],
+            [
+                "magicbrush",
+                20.84375
+            ],
+            [
+                "instruct-diffusion",
+                20.515625
+            ],
+            [
+                "iedit",
+                17.84375
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "75": {
+        "image": "0075.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Evoke a sense of serenity and emotion with the gentle washes of watercolor",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                25.640625
+            ],
+            [
+                "instructpix2pix",
+                22.828125
+            ],
+            [
+                "mgie",
+                22.421875
+            ],
+            [
+                "magicbrush",
+                21.6875
+            ],
+            [
+                "instruct-diffusion",
+                16.46875
+            ],
+            [
+                "hive",
+                15.4921875
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ],
+            [
+                "iedit",
+                14.3125
+            ]
+        ]
+    },
+    "76": {
+        "image": "0076.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Immerse the image in the dark and futuristic world of cyberpunk aesthetics",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                28.5
+            ],
+            [
+                "magicbrush",
+                28.21875
+            ],
+            [
+                "instructpix2pix",
+                27.0
+            ],
+            [
+                "mgie",
+                24.28125
+            ],
+            [
+                "iedit",
+                20.0
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "instruct-diffusion",
+                16.78125
+            ],
+            [
+                "hive",
+                13.640625
+            ]
+        ]
+    },
+    "77": {
+        "image": "0077.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Express the scene's textures and details through the medium of oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.390625
+            ],
+            [
+                "iedit",
+                22.484375
+            ],
+            [
+                "mgie",
+                22.28125
+            ],
+            [
+                "instruct-diffusion",
+                20.390625
+            ],
+            [
+                "instructpix2pix",
+                19.859375
+            ],
+            [
+                "hive",
+                19.546875
+            ],
+            [
+                "magicbrush",
+                19.328125
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "78": {
+        "image": "0078.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Create a striking visual impact with the stark contrast of black and white",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                27.765625
+            ],
+            [
+                "mgie",
+                26.015625
+            ],
+            [
+                "any2pix",
+                24.328125
+            ],
+            [
+                "hive",
+                22.453125
+            ],
+            [
+                "magicbrush",
+                20.8125
+            ],
+            [
+                "instruct-diffusion",
+                19.140625
+            ],
+            [
+                "iedit",
+                18.296875
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "79": {
+        "image": "0079.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Drench the image in the soft, flowing colors reminiscent of watercolor painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                25.921875
+            ],
+            [
+                "mgie",
+                24.09375
+            ],
+            [
+                "hive",
+                23.984375
+            ],
+            [
+                "magicbrush",
+                22.96875
+            ],
+            [
+                "iedit",
+                22.796875
+            ],
+            [
+                "instructpix2pix",
+                19.703125
+            ],
+            [
+                "instruct-diffusion",
+                17.984375
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "80": {
+        "image": "0080.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Transport the image into a cyberpunk-inspired world filled with intrigue",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                32.6875
+            ],
+            [
+                "instructpix2pix",
+                29.84375
+            ],
+            [
+                "any2pix",
+                26.296875
+            ],
+            [
+                "mgie",
+                21.59375
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "instruct-diffusion",
+                19.015625
+            ],
+            [
+                "hive",
+                18.578125
+            ],
+            [
+                "iedit",
+                18.328125
+            ]
+        ]
+    },
+    "81": {
+        "image": "0081.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Infuse the image with the richness and vibrancy of an oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                25.671875
+            ],
+            [
+                "instructpix2pix",
+                20.484375
+            ],
+            [
+                "magicbrush",
+                20.1875
+            ],
+            [
+                "iedit",
+                20.171875
+            ],
+            [
+                "mgie",
+                20.140625
+            ],
+            [
+                "hive",
+                18.640625
+            ],
+            [
+                "instruct-diffusion",
+                18.546875
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "82": {
+        "image": "0082.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Craft a timeless composition with the stark contrasts and clarity of black and white",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                27.859375
+            ],
+            [
+                "mgie",
+                25.859375
+            ],
+            [
+                "magicbrush",
+                24.421875
+            ],
+            [
+                "iedit",
+                22.234375
+            ],
+            [
+                "any2pix",
+                21.75
+            ],
+            [
+                "instruct-diffusion",
+                20.75
+            ],
+            [
+                "hive",
+                19.640625
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "83": {
+        "image": "0083.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Drench the image in the soft, flowing colors reminiscent of watercolor painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                26.515625
+            ],
+            [
+                "mgie",
+                24.609375
+            ],
+            [
+                "magicbrush",
+                23.75
+            ],
+            [
+                "instructpix2pix",
+                23.59375
+            ],
+            [
+                "hive",
+                21.671875
+            ],
+            [
+                "instruct-diffusion",
+                21.015625
+            ],
+            [
+                "iedit",
+                20.390625
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "84": {
+        "image": "0084.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Immerse the image in the neon-lit, high-tech world of cyberpunk aesthetics",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.65625
+            ],
+            [
+                "magicbrush",
+                26.25
+            ],
+            [
+                "mgie",
+                25.765625
+            ],
+            [
+                "instructpix2pix",
+                22.453125
+            ],
+            [
+                "hive",
+                20.84375
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "iedit",
+                16.921875
+            ],
+            [
+                "instruct-diffusion",
+                13.6953125
+            ]
+        ]
+    },
+    "85": {
+        "image": "0085.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Infuse the image with the rich and layered textures characteristic of oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "iedit",
+                25.046875
+            ],
+            [
+                "hive",
+                24.203125
+            ],
+            [
+                "any2pix",
+                23.8125
+            ],
+            [
+                "magicbrush",
+                22.828125
+            ],
+            [
+                "instructpix2pix",
+                22.40625
+            ],
+            [
+                "instruct-diffusion",
+                21.921875
+            ],
+            [
+                "mgie",
+                21.421875
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "86": {
+        "image": "0086.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Create a striking visual impact with the simplicity and elegance of black and white",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                27.171875
+            ],
+            [
+                "instructpix2pix",
+                24.9375
+            ],
+            [
+                "mgie",
+                23.203125
+            ],
+            [
+                "any2pix",
+                22.453125
+            ],
+            [
+                "iedit",
+                20.28125
+            ],
+            [
+                "magicbrush",
+                19.421875
+            ],
+            [
+                "instruct-diffusion",
+                18.359375
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "87": {
+        "image": "0087.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Evoke emotion and fluidity with the delicate washes and transparency of watercolor",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.53125
+            ],
+            [
+                "instructpix2pix",
+                24.28125
+            ],
+            [
+                "mgie",
+                22.40625
+            ],
+            [
+                "instruct-diffusion",
+                21.1875
+            ],
+            [
+                "magicbrush",
+                19.953125
+            ],
+            [
+                "hive",
+                19.125
+            ],
+            [
+                "iedit",
+                18.890625
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "88": {
+        "image": "0088.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Project the image into a dystopian future with the edgy vibes of cyberpunk styling",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "mgie",
+                27.125
+            ],
+            [
+                "any2pix",
+                24.71875
+            ],
+            [
+                "instructpix2pix",
+                22.875
+            ],
+            [
+                "magicbrush",
+                22.71875
+            ],
+            [
+                "instruct-diffusion",
+                20.484375
+            ],
+            [
+                "hive",
+                20.4375
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "iedit",
+                18.390625
+            ]
+        ]
+    },
+    "89": {
+        "image": "0089.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Capture the essence of the scene with the depth and richness of oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                27.859375
+            ],
+            [
+                "magicbrush",
+                24.1875
+            ],
+            [
+                "instructpix2pix",
+                22.875
+            ],
+            [
+                "instruct-diffusion",
+                22.75
+            ],
+            [
+                "mgie",
+                21.25
+            ],
+            [
+                "hive",
+                20.1875
+            ],
+            [
+                "iedit",
+                19.78125
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "90": {
+        "image": "0090.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Craft a minimalist yet powerful narrative with the timeless appeal of black and white",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                26.65625
+            ],
+            [
+                "mgie",
+                25.890625
+            ],
+            [
+                "instructpix2pix",
+                25.515625
+            ],
+            [
+                "magicbrush",
+                21.703125
+            ],
+            [
+                "instruct-diffusion",
+                21.359375
+            ],
+            [
+                "hive",
+                19.765625
+            ],
+            [
+                "iedit",
+                19.484375
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "91": {
+        "image": "0091.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Drench the image in the soft, flowing colors reminiscent of watercolor painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                25.171875
+            ],
+            [
+                "mgie",
+                22.828125
+            ],
+            [
+                "hive",
+                19.34375
+            ],
+            [
+                "instructpix2pix",
+                17.890625
+            ],
+            [
+                "iedit",
+                16.8125
+            ],
+            [
+                "magicbrush",
+                16.359375
+            ],
+            [
+                "instruct-diffusion",
+                15.09375
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "92": {
+        "image": "0092.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Immerse the image in the neon-lit, high-tech world of cyberpunk aesthetics",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "mgie",
+                26.828125
+            ],
+            [
+                "hive",
+                24.328125
+            ],
+            [
+                "any2pix",
+                23.046875
+            ],
+            [
+                "magicbrush",
+                22.296875
+            ],
+            [
+                "instructpix2pix",
+                21.875
+            ],
+            [
+                "hqedit",
+                19.265625
+            ],
+            [
+                "instruct-diffusion",
+                16.734375
+            ],
+            [
+                "iedit",
+                16.578125
+            ]
+        ]
+    },
+    "93": {
+        "image": "0093.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Infuse the image with the rich and layered textures characteristic of oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                28.1875
+            ],
+            [
+                "hive",
+                26.515625
+            ],
+            [
+                "mgie",
+                23.3125
+            ],
+            [
+                "magicbrush",
+                23.046875
+            ],
+            [
+                "instruct-diffusion",
+                22.84375
+            ],
+            [
+                "iedit",
+                21.90625
+            ],
+            [
+                "instructpix2pix",
+                21.640625
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "94": {
+        "image": "0094.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Create a striking visual impact with the simplicity and elegance of black and white",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                26.0625
+            ],
+            [
+                "any2pix",
+                25.921875
+            ],
+            [
+                "mgie",
+                24.875
+            ],
+            [
+                "instructpix2pix",
+                22.984375
+            ],
+            [
+                "iedit",
+                20.1875
+            ],
+            [
+                "magicbrush",
+                19.03125
+            ],
+            [
+                "instruct-diffusion",
+                18.4375
+            ],
+            [
+                "hqedit",
+                16.046875
+            ]
+        ]
+    },
+    "95": {
+        "image": "0095.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Evoke emotion and fluidity with the delicate washes and transparency of watercolor",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.765625
+            ],
+            [
+                "iedit",
+                24.09375
+            ],
+            [
+                "instructpix2pix",
+                23.15625
+            ],
+            [
+                "hive",
+                22.28125
+            ],
+            [
+                "instruct-diffusion",
+                22.046875
+            ],
+            [
+                "mgie",
+                21.84375
+            ],
+            [
+                "magicbrush",
+                21.578125
+            ],
+            [
+                "hqedit",
+                13.4453125
+            ]
+        ]
+    },
+    "96": {
+        "image": "0096.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Project the image into a dystopian future with the edgy vibes of cyberpunk styling",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                32.25
+            ],
+            [
+                "any2pix",
+                29.765625
+            ],
+            [
+                "instructpix2pix",
+                26.734375
+            ],
+            [
+                "iedit",
+                19.71875
+            ],
+            [
+                "mgie",
+                19.375
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "instruct-diffusion",
+                18.796875
+            ],
+            [
+                "hive",
+                18.15625
+            ]
+        ]
+    },
+    "97": {
+        "image": "0097.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Capture the essence of the scene with the depth and richness of oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                27.28125
+            ],
+            [
+                "hive",
+                22.96875
+            ],
+            [
+                "iedit",
+                22.640625
+            ],
+            [
+                "instructpix2pix",
+                22.390625
+            ],
+            [
+                "instruct-diffusion",
+                21.78125
+            ],
+            [
+                "magicbrush",
+                21.765625
+            ],
+            [
+                "mgie",
+                21.3125
+            ],
+            [
+                "hqedit",
+                15.765625
+            ]
+        ]
+    },
+    "98": {
+        "image": "0098.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Craft a minimalist yet powerful narrative with the timeless appeal of black and white",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                27.3125
+            ],
+            [
+                "iedit",
+                27.109375
+            ],
+            [
+                "mgie",
+                27.0
+            ],
+            [
+                "instructpix2pix",
+                26.234375
+            ],
+            [
+                "instruct-diffusion",
+                25.875
+            ],
+            [
+                "magicbrush",
+                25.515625
+            ],
+            [
+                "hive",
+                24.125
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "99": {
+        "image": "0099.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Drench the image in the soft, flowing colors reminiscent of watercolor painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                26.640625
+            ],
+            [
+                "mgie",
+                25.296875
+            ],
+            [
+                "magicbrush",
+                24.84375
+            ],
+            [
+                "instructpix2pix",
+                24.453125
+            ],
+            [
+                "any2pix",
+                21.078125
+            ],
+            [
+                "iedit",
+                18.28125
+            ],
+            [
+                "instruct-diffusion",
+                17.78125
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "100": {
+        "image": "0100.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Transform the image into a cyberpunk masterpiece, vibrant and electrifying",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                30.75
+            ],
+            [
+                "any2pix",
+                29.359375
+            ],
+            [
+                "hive",
+                27.375
+            ],
+            [
+                "instructpix2pix",
+                26.828125
+            ],
+            [
+                "mgie",
+                24.15625
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "iedit",
+                14.203125
+            ],
+            [
+                "instruct-diffusion",
+                10.6171875
+            ]
+        ]
+    },
+    "101": {
+        "image": "0101.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Illuminate the image with the luminous hues and expressive strokes of oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                26.171875
+            ],
+            [
+                "hive",
+                25.96875
+            ],
+            [
+                "any2pix",
+                25.34375
+            ],
+            [
+                "magicbrush",
+                23.25
+            ],
+            [
+                "iedit",
+                22.78125
+            ],
+            [
+                "mgie",
+                22.53125
+            ],
+            [
+                "instruct-diffusion",
+                18.625
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "102": {
+        "image": "0102.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Convey mood and contrast through the classic tones of black and white",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                28.078125
+            ],
+            [
+                "any2pix",
+                27.515625
+            ],
+            [
+                "instructpix2pix",
+                26.21875
+            ],
+            [
+                "magicbrush",
+                20.890625
+            ],
+            [
+                "instruct-diffusion",
+                20.4375
+            ],
+            [
+                "mgie",
+                19.734375
+            ],
+            [
+                "iedit",
+                19.625
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "103": {
+        "image": "0103.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Blend fluidity and spontaneity into the image with watercolor-inspired effects",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                27.296875
+            ],
+            [
+                "magicbrush",
+                23.828125
+            ],
+            [
+                "hive",
+                23.171875
+            ],
+            [
+                "instructpix2pix",
+                22.984375
+            ],
+            [
+                "mgie",
+                22.328125
+            ],
+            [
+                "instruct-diffusion",
+                21.484375
+            ],
+            [
+                "iedit",
+                20.359375
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "104": {
+        "image": "0104.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Immerse the image in the atmospheric glow of cyberpunk aesthetics",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                27.234375
+            ],
+            [
+                "magicbrush",
+                23.84375
+            ],
+            [
+                "mgie",
+                19.6875
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "instructpix2pix",
+                18.8125
+            ],
+            [
+                "iedit",
+                16.75
+            ],
+            [
+                "hive",
+                15.6796875
+            ],
+            [
+                "instruct-diffusion",
+                13.71875
+            ]
+        ]
+    },
+    "105": {
+        "image": "0105.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Embark on a visual journey with the textured depth of oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                30.34375
+            ],
+            [
+                "magicbrush",
+                23.703125
+            ],
+            [
+                "mgie",
+                23.59375
+            ],
+            [
+                "instructpix2pix",
+                23.09375
+            ],
+            [
+                "hive",
+                21.84375
+            ],
+            [
+                "instruct-diffusion",
+                21.65625
+            ],
+            [
+                "iedit",
+                21.234375
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "106": {
+        "image": "0106.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Explore the interplay of light and shadow in a monochromatic world",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                24.875
+            ],
+            [
+                "mgie",
+                24.65625
+            ],
+            [
+                "any2pix",
+                22.71875
+            ],
+            [
+                "instructpix2pix",
+                22.09375
+            ],
+            [
+                "iedit",
+                17.671875
+            ],
+            [
+                "magicbrush",
+                17.421875
+            ],
+            [
+                "instruct-diffusion",
+                16.890625
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "107": {
+        "image": "0107.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Infuse the image with the gentle, dreamlike quality of watercolor",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                27.078125
+            ],
+            [
+                "any2pix",
+                26.328125
+            ],
+            [
+                "instructpix2pix",
+                24.65625
+            ],
+            [
+                "mgie",
+                20.6875
+            ],
+            [
+                "instruct-diffusion",
+                19.671875
+            ],
+            [
+                "iedit",
+                17.859375
+            ],
+            [
+                "magicbrush",
+                17.40625
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "108": {
+        "image": "0108.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Transport the image to a futuristic realm with cyberpunk-inspired elements",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                32.03125
+            ],
+            [
+                "any2pix",
+                27.40625
+            ],
+            [
+                "mgie",
+                27.25
+            ],
+            [
+                "instruct-diffusion",
+                22.484375
+            ],
+            [
+                "instructpix2pix",
+                19.6875
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "hive",
+                16.65625
+            ],
+            [
+                "iedit",
+                16.21875
+            ]
+        ]
+    },
+    "109": {
+        "image": "0109.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Dive into the rich, expressive world of oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                27.46875
+            ],
+            [
+                "any2pix",
+                26.125
+            ],
+            [
+                "iedit",
+                23.671875
+            ],
+            [
+                "mgie",
+                22.46875
+            ],
+            [
+                "instructpix2pix",
+                22.0
+            ],
+            [
+                "magicbrush",
+                21.078125
+            ],
+            [
+                "instruct-diffusion",
+                20.9375
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "110": {
+        "image": "0110.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Craft a narrative of contrasts and clarity with black and white aesthetics",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "mgie",
+                25.078125
+            ],
+            [
+                "hive",
+                24.140625
+            ],
+            [
+                "instructpix2pix",
+                23.609375
+            ],
+            [
+                "any2pix",
+                21.03125
+            ],
+            [
+                "instruct-diffusion",
+                18.75
+            ],
+            [
+                "magicbrush",
+                18.375
+            ],
+            [
+                "iedit",
+                18.28125
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "111": {
+        "image": "0111.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Infuse the image with the translucent and fluid qualities of watercolor painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.21875
+            ],
+            [
+                "mgie",
+                25.390625
+            ],
+            [
+                "iedit",
+                25.140625
+            ],
+            [
+                "hive",
+                24.796875
+            ],
+            [
+                "instruct-diffusion",
+                24.46875
+            ],
+            [
+                "instructpix2pix",
+                23.28125
+            ],
+            [
+                "magicbrush",
+                21.234375
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "112": {
+        "image": "0112.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Immerse the image in the neon-soaked streets and futuristic elements of cyberpunk",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                30.375
+            ],
+            [
+                "mgie",
+                24.796875
+            ],
+            [
+                "any2pix",
+                24.5625
+            ],
+            [
+                "instructpix2pix",
+                22.3125
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "instruct-diffusion",
+                16.625
+            ],
+            [
+                "iedit",
+                15.703125
+            ],
+            [
+                "hive",
+                15.1328125
+            ]
+        ]
+    },
+    "113": {
+        "image": "0113.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Elevate the image with the rich textures and depth of oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                27.359375
+            ],
+            [
+                "hive",
+                20.96875
+            ],
+            [
+                "instructpix2pix",
+                19.828125
+            ],
+            [
+                "magicbrush",
+                19.8125
+            ],
+            [
+                "instruct-diffusion",
+                16.890625
+            ],
+            [
+                "mgie",
+                16.71875
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ],
+            [
+                "iedit",
+                14.7265625
+            ]
+        ]
+    },
+    "114": {
+        "image": "0114.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Create a timeless and dramatic effect with the classic contrast of black and white",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                26.890625
+            ],
+            [
+                "hive",
+                26.140625
+            ],
+            [
+                "instructpix2pix",
+                25.921875
+            ],
+            [
+                "mgie",
+                22.25
+            ],
+            [
+                "iedit",
+                19.9375
+            ],
+            [
+                "magicbrush",
+                19.78125
+            ],
+            [
+                "instruct-diffusion",
+                19.09375
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "115": {
+        "image": "0115.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Enhance the image with the ethereal and delicate nature of watercolor painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "mgie",
+                29.5
+            ],
+            [
+                "any2pix",
+                28.40625
+            ],
+            [
+                "instructpix2pix",
+                25.859375
+            ],
+            [
+                "iedit",
+                23.703125
+            ],
+            [
+                "hive",
+                22.859375
+            ],
+            [
+                "magicbrush",
+                21.359375
+            ],
+            [
+                "instruct-diffusion",
+                19.859375
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "116": {
+        "image": "0116.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Transport the image into a high-tech dystopian world with cyberpunk aesthetics",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                31.0625
+            ],
+            [
+                "mgie",
+                24.796875
+            ],
+            [
+                "any2pix",
+                23.625
+            ],
+            [
+                "instructpix2pix",
+                20.515625
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "instruct-diffusion",
+                17.984375
+            ],
+            [
+                "hive",
+                16.296875
+            ],
+            [
+                "iedit",
+                16.125
+            ]
+        ]
+    },
+    "117": {
+        "image": "0117.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Capture the essence of the scene with the vibrant colors and bold strokes of oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                28.453125
+            ],
+            [
+                "hive",
+                23.890625
+            ],
+            [
+                "mgie",
+                22.90625
+            ],
+            [
+                "instructpix2pix",
+                22.21875
+            ],
+            [
+                "magicbrush",
+                21.796875
+            ],
+            [
+                "instruct-diffusion",
+                21.78125
+            ],
+            [
+                "iedit",
+                21.265625
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "118": {
+        "image": "0118.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Craft a compelling narrative with the simplicity and elegance of black and white",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "mgie",
+                25.578125
+            ],
+            [
+                "instructpix2pix",
+                24.9375
+            ],
+            [
+                "any2pix",
+                24.578125
+            ],
+            [
+                "instruct-diffusion",
+                22.578125
+            ],
+            [
+                "magicbrush",
+                22.0625
+            ],
+            [
+                "iedit",
+                21.78125
+            ],
+            [
+                "hive",
+                21.6875
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "119": {
+        "image": "0119.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Convey emotion and atmosphere through the soft, flowing tones of watercolor",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "mgie",
+                25.921875
+            ],
+            [
+                "any2pix",
+                25.890625
+            ],
+            [
+                "instructpix2pix",
+                23.625
+            ],
+            [
+                "magicbrush",
+                23.4375
+            ],
+            [
+                "instruct-diffusion",
+                19.984375
+            ],
+            [
+                "iedit",
+                16.984375
+            ],
+            [
+                "hive",
+                16.796875
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "120": {
+        "image": "0120.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Immerse the image in the gritty, futuristic ambiance of cyberpunk styling",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                34.03125
+            ],
+            [
+                "mgie",
+                31.890625
+            ],
+            [
+                "any2pix",
+                28.296875
+            ],
+            [
+                "iedit",
+                24.5
+            ],
+            [
+                "instructpix2pix",
+                24.0
+            ],
+            [
+                "hive",
+                20.90625
+            ],
+            [
+                "instruct-diffusion",
+                20.21875
+            ],
+            [
+                "hqedit",
+                19.0625
+            ]
+        ]
+    },
+    "121": {
+        "image": "0121.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Transform the image into a captivating masterpiece with the textures of oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.203125
+            ],
+            [
+                "hive",
+                26.875
+            ],
+            [
+                "instructpix2pix",
+                26.703125
+            ],
+            [
+                "magicbrush",
+                23.28125
+            ],
+            [
+                "iedit",
+                21.046875
+            ],
+            [
+                "instruct-diffusion",
+                20.875
+            ],
+            [
+                "mgie",
+                20.578125
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "122": {
+        "image": "0122.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Highlight the beauty of simplicity and complexity in a monochromatic black and white",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                28.359375
+            ],
+            [
+                "magicbrush",
+                27.171875
+            ],
+            [
+                "hive",
+                27.125
+            ],
+            [
+                "any2pix",
+                24.671875
+            ],
+            [
+                "instruct-diffusion",
+                22.65625
+            ],
+            [
+                "mgie",
+                21.328125
+            ],
+            [
+                "iedit",
+                21.125
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "123": {
+        "image": "0123.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Infuse the image with the spontaneity and charm of watercolor painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                28.546875
+            ],
+            [
+                "instructpix2pix",
+                27.109375
+            ],
+            [
+                "hive",
+                24.953125
+            ],
+            [
+                "mgie",
+                23.671875
+            ],
+            [
+                "magicbrush",
+                22.5
+            ],
+            [
+                "instruct-diffusion",
+                22.46875
+            ],
+            [
+                "iedit",
+                22.0625
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "124": {
+        "image": "0124.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Enter a world of neon lights and cybernetic landscapes with cyberpunk-inspired visuals",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                30.65625
+            ],
+            [
+                "mgie",
+                27.046875
+            ],
+            [
+                "any2pix",
+                25.046875
+            ],
+            [
+                "instructpix2pix",
+                25.015625
+            ],
+            [
+                "instruct-diffusion",
+                23.890625
+            ],
+            [
+                "iedit",
+                20.234375
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "hive",
+                17.296875
+            ]
+        ]
+    },
+    "125": {
+        "image": "0125.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Illuminate the image with the luminous hues and intricate details of oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                25.703125
+            ],
+            [
+                "instruct-diffusion",
+                22.21875
+            ],
+            [
+                "instructpix2pix",
+                21.1875
+            ],
+            [
+                "magicbrush",
+                19.984375
+            ],
+            [
+                "iedit",
+                18.78125
+            ],
+            [
+                "hive",
+                18.59375
+            ],
+            [
+                "mgie",
+                18.203125
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "126": {
+        "image": "0126.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Explore the interplay of light and shadow in a black and white composition",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                26.6875
+            ],
+            [
+                "mgie",
+                25.625
+            ],
+            [
+                "instructpix2pix",
+                24.546875
+            ],
+            [
+                "magicbrush",
+                22.390625
+            ],
+            [
+                "any2pix",
+                20.90625
+            ],
+            [
+                "instruct-diffusion",
+                19.375
+            ],
+            [
+                "iedit",
+                19.296875
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "127": {
+        "image": "0127.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Evoke a sense of tranquility and serenity with the soft, flowing colors of watercolor",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "mgie",
+                27.625
+            ],
+            [
+                "any2pix",
+                27.5625
+            ],
+            [
+                "magicbrush",
+                21.40625
+            ],
+            [
+                "instructpix2pix",
+                21.359375
+            ],
+            [
+                "iedit",
+                20.453125
+            ],
+            [
+                "hive",
+                19.28125
+            ],
+            [
+                "instruct-diffusion",
+                17.640625
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "128": {
+        "image": "0128.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Immerse the image in the pulsating energy and chaos of cyberpunk aesthetics",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                29.015625
+            ],
+            [
+                "hive",
+                27.8125
+            ],
+            [
+                "any2pix",
+                21.65625
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "mgie",
+                17.171875
+            ],
+            [
+                "iedit",
+                15.34375
+            ],
+            [
+                "instructpix2pix",
+                15.0625
+            ],
+            [
+                "instruct-diffusion",
+                13.6484375
+            ]
+        ]
+    },
+    "129": {
+        "image": "0129.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Express depth and dimensionality through the rich textures and layers of oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                29.703125
+            ],
+            [
+                "hive",
+                25.46875
+            ],
+            [
+                "magicbrush",
+                22.0625
+            ],
+            [
+                "instructpix2pix",
+                21.734375
+            ],
+            [
+                "mgie",
+                21.3125
+            ],
+            [
+                "iedit",
+                20.71875
+            ],
+            [
+                "instruct-diffusion",
+                20.328125
+            ],
+            [
+                "hqedit",
+                14.5
+            ]
+        ]
+    },
+    "130": {
+        "image": "0130.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Create a bold statement with the stark contrast and simplicity of black and white",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                25.390625
+            ],
+            [
+                "magicbrush",
+                21.75
+            ],
+            [
+                "any2pix",
+                20.859375
+            ],
+            [
+                "mgie",
+                20.671875
+            ],
+            [
+                "instruct-diffusion",
+                20.578125
+            ],
+            [
+                "hive",
+                19.984375
+            ],
+            [
+                "iedit",
+                19.421875
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "131": {
+        "image": "0131.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Capture the fluidity and transparency of watercolor painting in the image",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                27.328125
+            ],
+            [
+                "hive",
+                27.078125
+            ],
+            [
+                "instructpix2pix",
+                25.90625
+            ],
+            [
+                "mgie",
+                24.71875
+            ],
+            [
+                "any2pix",
+                23.609375
+            ],
+            [
+                "instruct-diffusion",
+                21.875
+            ],
+            [
+                "iedit",
+                18.15625
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "132": {
+        "image": "0132.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Enter a futuristic realm where cyberpunk elements dominate the visual landscape",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                30.234375
+            ],
+            [
+                "hive",
+                29.625
+            ],
+            [
+                "any2pix",
+                29.0
+            ],
+            [
+                "instructpix2pix",
+                28.40625
+            ],
+            [
+                "mgie",
+                25.78125
+            ],
+            [
+                "iedit",
+                25.203125
+            ],
+            [
+                "instruct-diffusion",
+                24.65625
+            ],
+            [
+                "hqedit",
+                19.0625
+            ]
+        ]
+    },
+    "133": {
+        "image": "0133.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Transform the image into a dynamic and captivating scene with oil painting techniques",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                30.578125
+            ],
+            [
+                "mgie",
+                27.96875
+            ],
+            [
+                "magicbrush",
+                27.609375
+            ],
+            [
+                "instructpix2pix",
+                21.75
+            ],
+            [
+                "hive",
+                21.640625
+            ],
+            [
+                "instruct-diffusion",
+                21.5625
+            ],
+            [
+                "iedit",
+                20.15625
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "134": {
+        "image": "0134.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Craft a narrative of contrast and clarity using the timeless appeal of black and white",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                26.578125
+            ],
+            [
+                "instructpix2pix",
+                25.984375
+            ],
+            [
+                "any2pix",
+                24.46875
+            ],
+            [
+                "instruct-diffusion",
+                21.78125
+            ],
+            [
+                "magicbrush",
+                20.5
+            ],
+            [
+                "iedit",
+                20.4375
+            ],
+            [
+                "mgie",
+                18.5
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "135": {
+        "image": "0135.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Infuse the image with the delicate and ethereal qualities of watercolor painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                23.109375
+            ],
+            [
+                "mgie",
+                21.546875
+            ],
+            [
+                "instructpix2pix",
+                20.234375
+            ],
+            [
+                "instruct-diffusion",
+                19.546875
+            ],
+            [
+                "hive",
+                19.421875
+            ],
+            [
+                "iedit",
+                17.375
+            ],
+            [
+                "magicbrush",
+                16.390625
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "136": {
+        "image": "0136.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Immerse the image in the neon-drenched streets and urban decay of cyberpunk",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "magicbrush",
+                31.640625
+            ],
+            [
+                "hive",
+                28.75
+            ],
+            [
+                "any2pix",
+                27.84375
+            ],
+            [
+                "mgie",
+                24.15625
+            ],
+            [
+                "instructpix2pix",
+                22.59375
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "instruct-diffusion",
+                18.71875
+            ],
+            [
+                "iedit",
+                17.578125
+            ]
+        ]
+    },
+    "137": {
+        "image": "0137.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Explore the depths of color and texture with the richness of oil painting",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                21.75
+            ],
+            [
+                "any2pix",
+                21.484375
+            ],
+            [
+                "mgie",
+                21.453125
+            ],
+            [
+                "instruct-diffusion",
+                19.96875
+            ],
+            [
+                "iedit",
+                18.78125
+            ],
+            [
+                "magicbrush",
+                18.703125
+            ],
+            [
+                "hive",
+                18.28125
+            ],
+            [
+                "hqedit",
+                15.7734375
+            ]
+        ]
+    },
+    "138": {
+        "image": "0138.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Create a sense of timelessness and drama with the stark simplicity of black and white",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "mgie",
+                26.640625
+            ],
+            [
+                "instructpix2pix",
+                25.953125
+            ],
+            [
+                "hive",
+                20.953125
+            ],
+            [
+                "magicbrush",
+                20.21875
+            ],
+            [
+                "any2pix",
+                19.984375
+            ],
+            [
+                "instruct-diffusion",
+                17.890625
+            ],
+            [
+                "iedit",
+                17.765625
+            ],
+            [
+                "hqedit",
+                16.875
+            ]
+        ]
+    },
+    "139": {
+        "image": "0139.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Capture the ephemeral beauty of fleeting moments with the fluidity of watercolor",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "hive",
+                29.828125
+            ],
+            [
+                "instructpix2pix",
+                24.625
+            ],
+            [
+                "any2pix",
+                22.140625
+            ],
+            [
+                "mgie",
+                21.578125
+            ],
+            [
+                "instruct-diffusion",
+                21.28125
+            ],
+            [
+                "iedit",
+                20.453125
+            ],
+            [
+                "magicbrush",
+                20.03125
+            ],
+            [
+                "hqedit",
+                14.7109375
+            ]
+        ]
+    },
+    "140": {
+        "image": "0140.jpg",
+        "dataset": "StyleAlteration",
+        "prompt": "Transport the image into a futuristic dystopia with the gritty allure of cyberpunk",
+        "evaluation": "clip_score",
+        "model_rank": [
+            [
+                "any2pix",
+                31.84375
+            ],
+            [
+                "magicbrush",
+                29.921875
+            ],
+            [
+                "hive",
+                27.84375
+            ],
+            [
+                "mgie",
+                27.796875
+            ],
+            [
+                "instructpix2pix",
+                21.8125
+            ],
+            [
+                "hqedit",
+                19.0625
+            ],
+            [
+                "iedit",
+                15.2109375
+            ],
+            [
+                "instruct-diffusion",
+                14.140625
+            ]
+        ]
+    }
+}

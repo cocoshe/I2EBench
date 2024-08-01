@@ -1,0 +1,3199 @@
+{
+    "1": {
+        "image": "COCO_val2014_000000000042.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a cat to the shoe rack",
+        "evaluation": "VLM_judgement",
+        "question": "How many cats are there on the shoe rack?",
+        "gt": "One",
+        "type": "animal",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "2": {
+        "image": "COCO_val2014_000000000074.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a dog to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many dogs are on the image?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instruct-diffusion",
+                "any2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "3": {
+        "image": "COCO_val2014_000000000133.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two birds to the desk",
+        "evaluation": "VLM_judgement",
+        "question": "How many birds are on the image?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "4": {
+        "image": "COCO_val2014_000000000283.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two cats to the desk",
+        "evaluation": "VLM_judgement",
+        "question": "How many cats are on the desk?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "5": {
+        "image": "COCO_val2014_000000000589.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a bear to the grass",
+        "evaluation": "VLM_judgement",
+        "question": "How many bears are on the grass?",
+        "gt": "One",
+        "type": "animal",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "any2pix",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "magicbrush",
+                "instruct-diffusion",
+                "iedit"
+            ]
+        }
+    },
+    "6": {
+        "image": "COCO_val2014_000000000711.jpg",
+        "dataset": "Counting",
+        "prompt": "Add three cats to the couch",
+        "evaluation": "VLM_judgement",
+        "question": "How many cats are on the couch?",
+        "gt": "Three",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "7": {
+        "image": "COCO_val2014_000000000772.jpg",
+        "dataset": "Counting",
+        "prompt": "Add four dogs to the grass",
+        "evaluation": "VLM_judgement",
+        "question": "How many dogs are on the grass?",
+        "gt": "Four",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix"
+            ],
+            "wrong_models": [
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "8": {
+        "image": "COCO_val2014_000000000827.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a zebra to the grass",
+        "evaluation": "VLM_judgement",
+        "question": "How many zebras are on the grass?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "9": {
+        "image": "COCO_val2014_000000001063.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a giraffe to the grass",
+        "evaluation": "VLM_judgement",
+        "question": "How many giraffes are on the grass?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "10": {
+        "image": "COCO_val2014_000000001083.jpg",
+        "dataset": "Counting",
+        "prompt": "Add three cows to the grass",
+        "evaluation": "VLM_judgement",
+        "question": "How many cows are on the grass?",
+        "gt": "Six",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "iedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "hqedit"
+            ]
+        }
+    },
+    "11": {
+        "image": "COCO_val2014_000000001369.jpg",
+        "dataset": "Counting",
+        "prompt": "Add four birds to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many birds are on the image?",
+        "gt": "Four",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "12": {
+        "image": "COCO_val2014_000000001374.jpg",
+        "dataset": "Counting",
+        "prompt": "Add three birds to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many birds are on the image?",
+        "gt": "Three",
+        "type": "animal",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "13": {
+        "image": "COCO_val2014_000000001442.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a bear to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many bears are on the image?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix"
+            ],
+            "wrong_models": [
+                "magicbrush",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "14": {
+        "image": "COCO_val2014_000000001448.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a dog to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many dogs are on the image?",
+        "gt": "One",
+        "type": "animal",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "instruct-diffusion",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "15": {
+        "image": "COCO_val2014_000000001464.jpg",
+        "dataset": "Counting",
+        "prompt": "Add five dogs to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many dogs are on the image?",
+        "gt": "Five",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "16": {
+        "image": "COCO_val2014_000000001490.jpg",
+        "dataset": "Counting",
+        "prompt": "Add seven birds to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many birds are on the image?",
+        "gt": "Seven",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "any2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "17": {
+        "image": "COCO_val2014_000000001561.jpg",
+        "dataset": "Counting",
+        "prompt": "Add three birds to the skateboard",
+        "evaluation": "VLM_judgement",
+        "question": "How many birds are on the skateboard?",
+        "gt": "Four",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "18": {
+        "image": "COCO_val2014_000000001655.jpg",
+        "dataset": "Counting",
+        "prompt": "Add eight birds to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many birds are on the image?",
+        "gt": "Eight",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "19": {
+        "image": "COCO_val2014_000000001803.jpg",
+        "dataset": "Counting",
+        "prompt": "Add three cats to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many cats are on the image?",
+        "gt": "Three",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "20": {
+        "image": "COCO_val2014_000000001955.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a horse to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many horses are on the image?",
+        "gt": "One",
+        "type": "animal",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "any2pix",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "instruct-diffusion",
+                "iedit"
+            ]
+        }
+    },
+    "21": {
+        "image": "COCO_val2014_000000001993.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a cat to the bed",
+        "evaluation": "VLM_judgement",
+        "question": "How many cats are on the bed?",
+        "gt": "One",
+        "type": "animal",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "instruct-diffusion",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "22": {
+        "image": "COCO_val2014_000000002164.jpg",
+        "dataset": "Counting",
+        "prompt": "Add an elephant to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many elephants are on the image?",
+        "gt": "One",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "23": {
+        "image": "COCO_val2014_000000002212.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two dogs to the couch",
+        "evaluation": "VLM_judgement",
+        "question": "How many dogs are on the couch?",
+        "gt": "Four",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "24": {
+        "image": "COCO_val2014_000000002302.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a horse to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many horses are on the image?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "iedit"
+            ],
+            "wrong_models": [
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "hqedit"
+            ]
+        }
+    },
+    "25": {
+        "image": "COCO_val2014_000000002684.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a giraffe to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many giraffes are on the image?",
+        "gt": "One",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "26": {
+        "image": "COCO_val2014_000000002753.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two cats to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many cats are on the image?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "any2pix",
+                "iedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "hqedit"
+            ]
+        }
+    },
+    "27": {
+        "image": "COCO_val2014_000000003035.jpg",
+        "dataset": "Counting",
+        "prompt": "Add four birds to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many birds are on the image?",
+        "gt": "Four",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "28": {
+        "image": "COCO_val2014_000000003067.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a cat to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many cats are on the image?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "29": {
+        "image": "COCO_val2014_000000012887.jpg",
+        "dataset": "Counting",
+        "prompt": "Add three dogs to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many dogs are on the image?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instruct-diffusion",
+                "any2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "30": {
+        "image": "COCO_val2014_000000012927.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a bird to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many birds are on the image?",
+        "gt": "One",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "iedit"
+            ],
+            "wrong_models": [
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "hqedit"
+            ]
+        }
+    },
+    "31": {
+        "image": "COCO_val2014_000000012938.jpg",
+        "dataset": "Counting",
+        "prompt": "Add five dogs to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many dogs are on the image?",
+        "gt": "Five",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "32": {
+        "image": "COCO_val2014_000000012943.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two cats to the desk",
+        "evaluation": "VLM_judgement",
+        "question": "How many cats are on the image?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No.",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush",
+                "any2pix"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "33": {
+        "image": "COCO_val2014_000000012959.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two birds to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many birds are on the image?",
+        "gt": "Three",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "34": {
+        "image": "COCO_val2014_000000012966.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a dog to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many dogs are on the image?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "35": {
+        "image": "COCO_val2014_000000012991.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a cat to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many cats are on the image?",
+        "gt": "One",
+        "type": "animal",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "magicbrush",
+                "instruct-diffusion"
+            ]
+        }
+    },
+    "36": {
+        "image": "COCO_val2014_000000003109.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a boy to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Two",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "mgie"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "37": {
+        "image": "COCO_val2014_000000003125.jpg",
+        "dataset": "Counting",
+        "prompt": "Add three girls to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Three",
+        "type": "human",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "38": {
+        "image": "COCO_val2014_000000003134.jpg",
+        "dataset": "Counting",
+        "prompt": "Add three girls to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Three",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "39": {
+        "image": "COCO_val2014_000000003145.jpg",
+        "dataset": "Counting",
+        "prompt": "Add four men to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "four",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "iedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "hqedit"
+            ]
+        }
+    },
+    "40": {
+        "image": "COCO_val2014_000000003217.jpg",
+        "dataset": "Counting",
+        "prompt": "Add four men to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "four",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "41": {
+        "image": "COCO_val2014_000000003335.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a boy to the toilet",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "One",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "42": {
+        "image": "COCO_val2014_000000003342.jpg",
+        "dataset": "Counting",
+        "prompt": "Add five elderly persons to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Five",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "mgie"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "43": {
+        "image": "COCO_val2014_000000003425.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two boys to the bed",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Two",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "44": {
+        "image": "COCO_val2014_000000003480.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two men to the grass",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Two",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "mgie",
+                "any2pix",
+                "iedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "hqedit"
+            ]
+        }
+    },
+    "45": {
+        "image": "COCO_val2014_000000003488.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two football players to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Three",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "46": {
+        "image": "COCO_val2014_000000003580.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a boy to the sofa",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Two",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "47": {
+        "image": "COCO_val2014_000000003716.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a man to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Two",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "48": {
+        "image": "COCO_val2014_000000003964.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two girls to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Three",
+        "type": "human",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "instruct-diffusion",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "49": {
+        "image": "COCO_val2014_000000004125.jpg",
+        "dataset": "Counting",
+        "prompt": "Add four women to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Four",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "50": {
+        "image": "COCO_val2014_000000004296.jpg",
+        "dataset": "Counting",
+        "prompt": "Add five men to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Five",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "51": {
+        "image": "COCO_val2014_000000004498.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a boy to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Two",
+        "type": "human",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "52": {
+        "image": "COCO_val2014_000000004688.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two men to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Three",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "53": {
+        "image": "COCO_val2014_000000004742.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a man to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Two",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "54": {
+        "image": "COCO_val2014_000000004760.jpg",
+        "dataset": "Counting",
+        "prompt": "Add six men to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Six",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "55": {
+        "image": "COCO_val2014_000000005314.jpg",
+        "dataset": "Counting",
+        "prompt": "Add three boys to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Three",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "any2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "56": {
+        "image": "COCO_val2014_000000005820.jpg",
+        "dataset": "Counting",
+        "prompt": "Add three boys to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Three",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "57": {
+        "image": "COCO_val2014_000000007088.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a boy to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Two",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "58": {
+        "image": "COCO_val2014_000000007394.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two women to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Three",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "mgie"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "59": {
+        "image": "COCO_val2014_000000007795.jpg",
+        "dataset": "Counting",
+        "prompt": "Add six men to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Six",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "mgie"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "60": {
+        "image": "COCO_val2014_000000007977.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a boy to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Two",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "any2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "61": {
+        "image": "COCO_val2014_000000012993.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two men to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Three",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "62": {
+        "image": "COCO_val2014_000000013081.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a boy to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Three",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "63": {
+        "image": "COCO_val2014_000000013132.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two women to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Four",
+        "type": "human",
+        "final_judgement": "No.",
+        "model_rank": {
+            "right_models": [
+                "mgie",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "64": {
+        "image": "COCO_val2014_000000013159.jpg",
+        "dataset": "Counting",
+        "prompt": "Add three policemen to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Three",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "any2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "65": {
+        "image": "COCO_val2014_000000013291.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a boy to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Five",
+        "type": "human",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "66": {
+        "image": "COCO_val2014_000000013333.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a boy to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "One",
+        "type": "human",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "iedit"
+            ]
+        }
+    },
+    "67": {
+        "image": "COCO_val2014_000000013546.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two girls to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many people are on the image?",
+        "gt": "Three",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "68": {
+        "image": "COCO_val2014_000000008603.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a kite to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many kites are on the image?",
+        "gt": "One",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "any2pix",
+                "iedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "hqedit"
+            ]
+        }
+    },
+    "69": {
+        "image": "COCO_val2014_000000008676.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two handbags to the bed",
+        "evaluation": "VLM_judgement",
+        "question": "How many handbags are on the image?",
+        "gt": "Two",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "any2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "70": {
+        "image": "COCO_val2014_000000008711.jpg",
+        "dataset": "Counting",
+        "prompt": "Add three foxes to the book",
+        "evaluation": "VLM_judgement",
+        "question": "How many foxes are on the image?",
+        "gt": "Three",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "iedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "hqedit"
+            ]
+        }
+    },
+    "71": {
+        "image": "COCO_val2014_000000008718.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a bowl to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many bowls are on the image?",
+        "gt": "Two",
+        "type": "object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "72": {
+        "image": "COCO_val2014_000000008721.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a mouse to the desk",
+        "evaluation": "VLM_judgement",
+        "question": "How many mouses are on the image?",
+        "gt": "Two",
+        "type": "object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush"
+            ]
+        }
+    },
+    "73": {
+        "image": "COCO_val2014_000000008749.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two forks to the pizza",
+        "evaluation": "VLM_judgement",
+        "question": "How many forks are on the image?",
+        "gt": "Two",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "74": {
+        "image": "COCO_val2014_000000008771.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two snowboards to the snow",
+        "evaluation": "VLM_judgement",
+        "question": "How many snowboards are on the image?",
+        "gt": "Three",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "75": {
+        "image": "COCO_val2014_000000008775.jpg",
+        "dataset": "Counting",
+        "prompt": "Add five books to the bed",
+        "evaluation": "VLM_judgement",
+        "question": "How many books are on the image?",
+        "gt": "Five",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "76": {
+        "image": "COCO_val2014_000000008832.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a wine glass to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many wine glasses are on the image?",
+        "gt": "One",
+        "type": "object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "mgie",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "77": {
+        "image": "COCO_val2014_000000008899.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a bench to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many benches are on the image?",
+        "gt": "One",
+        "type": "object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "instruct-diffusion",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "78": {
+        "image": "COCO_val2014_000000009002.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a cake to the table",
+        "evaluation": "VLM_judgement",
+        "question": "How many cakes are on the image?",
+        "gt": "One",
+        "type": "object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "mgie",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "instruct-diffusion",
+                "any2pix"
+            ]
+        }
+    },
+    "79": {
+        "image": "COCO_val2014_000000009007.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a tie to the man",
+        "evaluation": "VLM_judgement",
+        "question": "How many ties are on the image?",
+        "gt": "One",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "hqedit"
+            ]
+        }
+    },
+    "80": {
+        "image": "COCO_val2014_000000009050.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a cup to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many cups are on the image?",
+        "gt": "One",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "81": {
+        "image": "COCO_val2014_000000009497.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a train to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many trains are on the image?",
+        "gt": "One",
+        "type": "object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "mgie",
+                "instruct-diffusion"
+            ]
+        }
+    },
+    "82": {
+        "image": "COCO_val2014_000000009527.jpg",
+        "dataset": "Counting",
+        "prompt": "Add three cell phones to the desk",
+        "evaluation": "VLM_judgement",
+        "question": "How many cell phones are on the image?",
+        "gt": "Three",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "83": {
+        "image": "COCO_val2014_000000009603.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a aeroplane to the sky",
+        "evaluation": "VLM_judgement",
+        "question": "How many aeroplanes are on the image?",
+        "gt": "One",
+        "type": "object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "any2pix",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "iedit"
+            ]
+        }
+    },
+    "84": {
+        "image": "COCO_val2014_000000009668.jpg",
+        "dataset": "Counting",
+        "prompt": "Add seven spoons to the desk",
+        "evaluation": "VLM_judgement",
+        "question": "How many spoons are on the image?",
+        "gt": "Seven",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "85": {
+        "image": "COCO_val2014_000000009857.jpg",
+        "dataset": "Counting",
+        "prompt": "Add four laptops to the bed",
+        "evaluation": "VLM_judgement",
+        "question": "How many laptops are on the image?",
+        "gt": "Four",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "86": {
+        "image": "COCO_val2014_000000009941.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a car to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many cars are on the image?",
+        "gt": "Two",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush",
+                "any2pix"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "87": {
+        "image": "COCO_val2014_000000010205.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two refrigerators to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many refrigerators are on the image?",
+        "gt": "Two",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "88": {
+        "image": "COCO_val2014_000000010256.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two fire hydrant to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many fire hydrants are on the image?",
+        "gt": "Three",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "89": {
+        "image": "COCO_val2014_000000010263.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a bed to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many beds are on the image?",
+        "gt": "One",
+        "type": "object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush",
+                "mgie",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "90": {
+        "image": "COCO_val2014_000000010428.jpg",
+        "dataset": "Counting",
+        "prompt": "Add three bottles to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many bottles are on the image?",
+        "gt": "Three",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "91": {
+        "image": "COCO_val2014_000000010678.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a ball to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many balls are on the image?",
+        "gt": "One",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "92": {
+        "image": "COCO_val2014_000000010995.jpg",
+        "dataset": "Counting",
+        "prompt": "Add three teddy bears to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many teddy bears are on the image?",
+        "gt": "Three",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "mgie"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "93": {
+        "image": "COCO_val2014_000000011181.jpg",
+        "dataset": "Counting",
+        "prompt": "Add four motorbikes to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many motorbikes are on the image?",
+        "gt": "Four",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "mgie",
+                "iedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "hqedit"
+            ]
+        }
+    },
+    "94": {
+        "image": "COCO_val2014_000000011525.jpg",
+        "dataset": "Counting",
+        "prompt": "Add an airplane to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many airplanes are on the image?",
+        "gt": "Two",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush"
+            ],
+            "wrong_models": [
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "95": {
+        "image": "COCO_val2014_000000013597.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a fork to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many forks are on the image?",
+        "gt": "One",
+        "type": "object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "mgie",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "96": {
+        "image": "COCO_val2014_000000013637.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a stop sign to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many stop signs are on the image?",
+        "gt": "One",
+        "type": "object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "mgie",
+                "any2pix",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "instruct-diffusion",
+                "iedit"
+            ]
+        }
+    },
+    "97": {
+        "image": "COCO_val2014_000000013783.jpg",
+        "dataset": "Counting",
+        "prompt": "Add three cups to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many cups are on the image?",
+        "gt": "Three",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "98": {
+        "image": "COCO_val2014_000000013876.jpg",
+        "dataset": "Counting",
+        "prompt": "Add four handbags to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many handbags are on the image?",
+        "gt": "Four",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "99": {
+        "image": "COCO_val2014_000000014567.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a airplane to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many airplanes are on the image?",
+        "gt": "Two",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "any2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "100": {
+        "image": "COCO_val2014_000000015542.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two forks to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many forks are on the image?",
+        "gt": "Two",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush",
+                "iedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "hqedit"
+            ]
+        }
+    },
+    "101": {
+        "image": "COCO_val2014_000000011347.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a umbrella to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many umbrellas are on the image?",
+        "gt": "One",
+        "type": "object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "102": {
+        "image": "COCO_val2014_000000012896.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two apple trees to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many apple trees are on the image?",
+        "gt": "Two",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "103": {
+        "image": "COCO_val2014_000000015614.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a pine tree to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many pine trees are on the image?",
+        "gt": "One",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "104": {
+        "image": "COCO_val2014_000000015850.jpg",
+        "dataset": "Counting",
+        "prompt": "Add three apples to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many apples are on the image?",
+        "gt": "Three",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "any2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "105": {
+        "image": "COCO_val2014_000000016439.jpg",
+        "dataset": "Counting",
+        "prompt": "Add six strawberrys to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many strawberrys are on the image?",
+        "gt": "Six",
+        "type": "plant",
+        "final_judgement": "no",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "106": {
+        "image": "COCO_val2014_000000016606.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a carrot to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many carrots are on the image?",
+        "gt": "One",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "107": {
+        "image": "COCO_val2014_000000017366.jpg",
+        "dataset": "Counting",
+        "prompt": "Add three potatoes to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many potatoes are on the image?",
+        "gt": "Three",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "108": {
+        "image": "COCO_val2014_000000017379.jpg",
+        "dataset": "Counting",
+        "prompt": "Add three cherries to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many cherries are on the image?",
+        "gt": "Three",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "109": {
+        "image": "COCO_val2014_000000017409.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a banana to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many bananas are on the image?",
+        "gt": "One",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "mgie"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "110": {
+        "image": "COCO_val2014_000000017655.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two oranges to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many oranges are on the image?",
+        "gt": "Two",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "111": {
+        "image": "COCO_val2014_000000017707.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two coconut trees to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many coconut trees are on the image?",
+        "gt": "Two",
+        "type": "plant",
+        "final_judgement": "No.",
+        "model_rank": {
+            "right_models": [
+                "iedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "hqedit"
+            ]
+        }
+    },
+    "112": {
+        "image": "COCO_val2014_000000017708.jpg",
+        "dataset": "Counting",
+        "prompt": "Add Three oak trees to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many oak trees are on the image?",
+        "gt": "Three",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "113": {
+        "image": "COCO_val2014_000000017714.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a cucumber to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many cucumbers are on the image?",
+        "gt": "One",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "114": {
+        "image": "COCO_val2014_000000017867.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two apples to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many apples are on the image?",
+        "gt": "Two",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "115": {
+        "image": "COCO_val2014_000000018291.jpg",
+        "dataset": "Counting",
+        "prompt": "Add five tomatoes to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many tomatoes are on the image?",
+        "gt": "Five",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "116": {
+        "image": "COCO_val2014_000000018336.jpg",
+        "dataset": "Counting",
+        "prompt": "Add an apple to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many apples are on the image?",
+        "gt": "Two",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "mgie",
+                "instruct-diffusion",
+                "any2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "117": {
+        "image": "COCO_val2014_000000018442.jpg",
+        "dataset": "Counting",
+        "prompt": "Add an watermelon to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many watermelon are on the image?",
+        "gt": "One",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "118": {
+        "image": "COCO_val2014_000000018957.jpg",
+        "dataset": "Counting",
+        "prompt": "Add an apple to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many apples are on the image?",
+        "gt": "One",
+        "type": "plant",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "119": {
+        "image": "COCO_val2014_000000019036.jpg",
+        "dataset": "Counting",
+        "prompt": "Add an apple to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many apples are on the image?",
+        "gt": "One",
+        "type": "plant",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "any2pix",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "iedit"
+            ]
+        }
+    },
+    "120": {
+        "image": "COCO_val2014_000000019226.jpg",
+        "dataset": "Counting",
+        "prompt": "Add three strawberrys to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many strawberrys are on the image?",
+        "gt": "Three",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "121": {
+        "image": "COCO_val2014_000000019253.jpg",
+        "dataset": "Counting",
+        "prompt": "Add three pine trees to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many pine trees are on the image?",
+        "gt": "Three",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "122": {
+        "image": "COCO_val2014_000000019275.jpg",
+        "dataset": "Counting",
+        "prompt": "Add four pears to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many pears are on the image?",
+        "gt": "Four",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "123": {
+        "image": "COCO_val2014_000000019333.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two lemons to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many lemons are on the image?",
+        "gt": "Two",
+        "type": "plant",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "124": {
+        "image": "COCO_val2014_000000019544.jpg",
+        "dataset": "Counting",
+        "prompt": "Add three peachs to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many peachs are on the image?",
+        "gt": "Three",
+        "type": "plant",
+        "final_judgement": "No.",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "125": {
+        "image": "COCO_val2014_000000019579.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a grape to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many grapes are on the image?",
+        "gt": "One",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "126": {
+        "image": "COCO_val2014_000000019723.jpg",
+        "dataset": "Counting",
+        "prompt": "Add three pears to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many pears are on the image?",
+        "gt": "Three",
+        "type": "plant",
+        "final_judgement": "No.",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "127": {
+        "image": "COCO_val2014_000000019742.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a pineapple to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many pineapples are on the image?",
+        "gt": "One",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie"
+            ],
+            "wrong_models": [
+                "hive",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "128": {
+        "image": "COCO_val2014_000000019916.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two bananas to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many bananas are on the image?",
+        "gt": "Two",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "129": {
+        "image": "COCO_val2014_000000020207.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two cherries to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many cherries are on the image?",
+        "gt": "Two",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "130": {
+        "image": "COCO_val2014_000000020465.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a carrot to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many carrots are on the image?",
+        "gt": "One",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "mgie"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "131": {
+        "image": "COCO_val2014_000000020481.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two potatoes to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many potatoes are on the image?",
+        "gt": "Two",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "132": {
+        "image": "COCO_val2014_000000020485.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a tomato to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many tomatoes are on the image?",
+        "gt": "One",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "133": {
+        "image": "COCO_val2014_000000020641.jpg",
+        "dataset": "Counting",
+        "prompt": "Add four lemons to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many lemons are on the image?",
+        "gt": "Four",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "134": {
+        "image": "COCO_val2014_000000020788.jpg",
+        "dataset": "Counting",
+        "prompt": "Add six blueberries to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many blueberries are on the image?",
+        "gt": "Six",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "135": {
+        "image": "COCO_val2014_000000020913.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two cherries to the image",
+        "evaluation": "VLM_judgement",
+        "question": "How many cherries are on the image?",
+        "gt": "Two",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "mgie"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    }
+}

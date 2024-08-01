@@ -1,0 +1,5742 @@
+{
+    "1": {
+        "image": "0001.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5083
+            ],
+            [
+                "hive",
+                0.4648
+            ],
+            [
+                "instructpix2pix",
+                0.4237
+            ],
+            [
+                "instruct-diffusion",
+                0.3663
+            ],
+            [
+                "any2pix",
+                0.348
+            ],
+            [
+                "iedit",
+                0.3239
+            ],
+            [
+                "hqedit",
+                0.2612
+            ],
+            [
+                "mgie",
+                0.1584
+            ]
+        ]
+    },
+    "2": {
+        "image": "0002.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4875
+            ],
+            [
+                "hive",
+                0.4839
+            ],
+            [
+                "instructpix2pix",
+                0.4678
+            ],
+            [
+                "iedit",
+                0.3849
+            ],
+            [
+                "hqedit",
+                0.3536
+            ],
+            [
+                "mgie",
+                0.3402
+            ],
+            [
+                "any2pix",
+                0.3362
+            ],
+            [
+                "instruct-diffusion",
+                0.2194
+            ]
+        ]
+    },
+    "3": {
+        "image": "0003.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2645
+            ],
+            [
+                "hive",
+                0.2282
+            ],
+            [
+                "instructpix2pix",
+                0.194
+            ],
+            [
+                "magicbrush",
+                0.1939
+            ],
+            [
+                "instruct-diffusion",
+                0.1701
+            ],
+            [
+                "any2pix",
+                0.1692
+            ],
+            [
+                "hqedit",
+                0.1433
+            ],
+            [
+                "iedit",
+                0.1369
+            ]
+        ]
+    },
+    "4": {
+        "image": "0004.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2543
+            ],
+            [
+                "hive",
+                0.2108
+            ],
+            [
+                "instructpix2pix",
+                0.2
+            ],
+            [
+                "any2pix",
+                0.1614
+            ],
+            [
+                "instruct-diffusion",
+                0.1462
+            ],
+            [
+                "hqedit",
+                0.1456
+            ],
+            [
+                "magicbrush",
+                0.1442
+            ],
+            [
+                "iedit",
+                0.1442
+            ]
+        ]
+    },
+    "5": {
+        "image": "0005.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2195
+            ],
+            [
+                "hive",
+                0.1528
+            ],
+            [
+                "any2pix",
+                0.141
+            ],
+            [
+                "magicbrush",
+                0.1246
+            ],
+            [
+                "instruct-diffusion",
+                0.1245
+            ],
+            [
+                "instructpix2pix",
+                0.124
+            ],
+            [
+                "iedit",
+                0.1105
+            ],
+            [
+                "hqedit",
+                0.0988
+            ]
+        ]
+    },
+    "6": {
+        "image": "0006.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.3361
+            ],
+            [
+                "instruct-diffusion",
+                0.3071
+            ],
+            [
+                "mgie",
+                0.2403
+            ],
+            [
+                "instructpix2pix",
+                0.24
+            ],
+            [
+                "iedit",
+                0.1982
+            ],
+            [
+                "hqedit",
+                0.1919
+            ],
+            [
+                "any2pix",
+                0.1911
+            ],
+            [
+                "hive",
+                0.1563
+            ]
+        ]
+    },
+    "7": {
+        "image": "0007.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.1041
+            ],
+            [
+                "magicbrush",
+                0.1002
+            ],
+            [
+                "instructpix2pix",
+                0.0972
+            ],
+            [
+                "any2pix",
+                0.0954
+            ],
+            [
+                "mgie",
+                0.0831
+            ],
+            [
+                "hqedit",
+                0.0823
+            ],
+            [
+                "instruct-diffusion",
+                0.0775
+            ],
+            [
+                "iedit",
+                0.0767
+            ]
+        ]
+    },
+    "8": {
+        "image": "0008.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4187
+            ],
+            [
+                "hive",
+                0.3295
+            ],
+            [
+                "instructpix2pix",
+                0.2859
+            ],
+            [
+                "instruct-diffusion",
+                0.2558
+            ],
+            [
+                "magicbrush",
+                0.2409
+            ],
+            [
+                "iedit",
+                0.2247
+            ],
+            [
+                "any2pix",
+                0.2191
+            ],
+            [
+                "hqedit",
+                0.2124
+            ]
+        ]
+    },
+    "9": {
+        "image": "0009.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3485
+            ],
+            [
+                "magicbrush",
+                0.2878
+            ],
+            [
+                "instructpix2pix",
+                0.2854
+            ],
+            [
+                "hive",
+                0.2375
+            ],
+            [
+                "instruct-diffusion",
+                0.2067
+            ],
+            [
+                "hqedit",
+                0.1821
+            ],
+            [
+                "iedit",
+                0.1816
+            ],
+            [
+                "any2pix",
+                0.1573
+            ]
+        ]
+    },
+    "10": {
+        "image": "0010.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4202
+            ],
+            [
+                "instructpix2pix",
+                0.2907
+            ],
+            [
+                "magicbrush",
+                0.2904
+            ],
+            [
+                "hive",
+                0.2343
+            ],
+            [
+                "instruct-diffusion",
+                0.2152
+            ],
+            [
+                "iedit",
+                0.1896
+            ],
+            [
+                "hqedit",
+                0.1528
+            ],
+            [
+                "any2pix",
+                0.1231
+            ]
+        ]
+    },
+    "11": {
+        "image": "0011.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2705
+            ],
+            [
+                "hive",
+                0.1136
+            ],
+            [
+                "magicbrush",
+                0.1075
+            ],
+            [
+                "any2pix",
+                0.1057
+            ],
+            [
+                "instructpix2pix",
+                0.1048
+            ],
+            [
+                "hqedit",
+                0.1019
+            ],
+            [
+                "instruct-diffusion",
+                0.0871
+            ],
+            [
+                "iedit",
+                0.0829
+            ]
+        ]
+    },
+    "12": {
+        "image": "0012.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2867
+            ],
+            [
+                "magicbrush",
+                0.1069
+            ],
+            [
+                "hive",
+                0.1066
+            ],
+            [
+                "instructpix2pix",
+                0.1043
+            ],
+            [
+                "any2pix",
+                0.0981
+            ],
+            [
+                "hqedit",
+                0.0954
+            ],
+            [
+                "instruct-diffusion",
+                0.0877
+            ],
+            [
+                "iedit",
+                0.0838
+            ]
+        ]
+    },
+    "13": {
+        "image": "0013.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2829
+            ],
+            [
+                "hive",
+                0.1144
+            ],
+            [
+                "magicbrush",
+                0.1066
+            ],
+            [
+                "instructpix2pix",
+                0.1033
+            ],
+            [
+                "any2pix",
+                0.0956
+            ],
+            [
+                "instruct-diffusion",
+                0.0862
+            ],
+            [
+                "iedit",
+                0.0833
+            ],
+            [
+                "hqedit",
+                0.0701
+            ]
+        ]
+    },
+    "14": {
+        "image": "0014.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6236
+            ],
+            [
+                "magicbrush",
+                0.62
+            ],
+            [
+                "instruct-diffusion",
+                0.6161
+            ],
+            [
+                "instructpix2pix",
+                0.6065
+            ],
+            [
+                "hqedit",
+                0.5821
+            ],
+            [
+                "any2pix",
+                0.483
+            ],
+            [
+                "iedit",
+                0.447
+            ],
+            [
+                "hive",
+                0.4078
+            ]
+        ]
+    },
+    "15": {
+        "image": "0015.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.4489
+            ],
+            [
+                "magicbrush",
+                0.4403
+            ],
+            [
+                "instruct-diffusion",
+                0.3854
+            ],
+            [
+                "hqedit",
+                0.3395
+            ],
+            [
+                "iedit",
+                0.3289
+            ],
+            [
+                "instructpix2pix",
+                0.3163
+            ],
+            [
+                "any2pix",
+                0.2441
+            ],
+            [
+                "mgie",
+                0.1668
+            ]
+        ]
+    },
+    "16": {
+        "image": "0016.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.4502
+            ],
+            [
+                "magicbrush",
+                0.4347
+            ],
+            [
+                "hqedit",
+                0.3549
+            ],
+            [
+                "iedit",
+                0.3383
+            ],
+            [
+                "instruct-diffusion",
+                0.3059
+            ],
+            [
+                "any2pix",
+                0.2287
+            ],
+            [
+                "mgie",
+                0.1876
+            ],
+            [
+                "instructpix2pix",
+                0.1872
+            ]
+        ]
+    },
+    "17": {
+        "image": "0017.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4803
+            ],
+            [
+                "hive",
+                0.4553
+            ],
+            [
+                "instructpix2pix",
+                0.4273
+            ],
+            [
+                "instruct-diffusion",
+                0.3935
+            ],
+            [
+                "hqedit",
+                0.3385
+            ],
+            [
+                "iedit",
+                0.3321
+            ],
+            [
+                "any2pix",
+                0.2217
+            ],
+            [
+                "mgie",
+                0.0681
+            ]
+        ]
+    },
+    "18": {
+        "image": "0018.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4281
+            ],
+            [
+                "hive",
+                0.3645
+            ],
+            [
+                "instructpix2pix",
+                0.3562
+            ],
+            [
+                "iedit",
+                0.3494
+            ],
+            [
+                "hqedit",
+                0.2648
+            ],
+            [
+                "instruct-diffusion",
+                0.2182
+            ],
+            [
+                "any2pix",
+                0.2068
+            ],
+            [
+                "mgie",
+                0.0758
+            ]
+        ]
+    },
+    "19": {
+        "image": "0019.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.4623
+            ],
+            [
+                "magicbrush",
+                0.4136
+            ],
+            [
+                "instructpix2pix",
+                0.3998
+            ],
+            [
+                "instruct-diffusion",
+                0.3699
+            ],
+            [
+                "iedit",
+                0.3192
+            ],
+            [
+                "hqedit",
+                0.2552
+            ],
+            [
+                "any2pix",
+                0.1461
+            ],
+            [
+                "mgie",
+                0.0333
+            ]
+        ]
+    },
+    "20": {
+        "image": "0020.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.3641
+            ],
+            [
+                "mgie",
+                0.321
+            ],
+            [
+                "magicbrush",
+                0.3137
+            ],
+            [
+                "instructpix2pix",
+                0.3055
+            ],
+            [
+                "instruct-diffusion",
+                0.3004
+            ],
+            [
+                "any2pix",
+                0.236
+            ],
+            [
+                "iedit",
+                0.2131
+            ],
+            [
+                "hqedit",
+                0.1507
+            ]
+        ]
+    },
+    "21": {
+        "image": "0021.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.2931
+            ],
+            [
+                "instructpix2pix",
+                0.2807
+            ],
+            [
+                "magicbrush",
+                0.2751
+            ],
+            [
+                "iedit",
+                0.2166
+            ],
+            [
+                "any2pix",
+                0.1572
+            ],
+            [
+                "hqedit",
+                0.1462
+            ],
+            [
+                "instruct-diffusion",
+                0.1277
+            ],
+            [
+                "mgie",
+                0.0439
+            ]
+        ]
+    },
+    "22": {
+        "image": "0022.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.5146
+            ],
+            [
+                "hive",
+                0.505
+            ],
+            [
+                "magicbrush",
+                0.4904
+            ],
+            [
+                "hqedit",
+                0.424
+            ],
+            [
+                "iedit",
+                0.4066
+            ],
+            [
+                "any2pix",
+                0.3748
+            ],
+            [
+                "instruct-diffusion",
+                0.1593
+            ],
+            [
+                "mgie",
+                0.1419
+            ]
+        ]
+    },
+    "23": {
+        "image": "0023.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.4969
+            ],
+            [
+                "iedit",
+                0.4161
+            ],
+            [
+                "instructpix2pix",
+                0.4125
+            ],
+            [
+                "magicbrush",
+                0.4077
+            ],
+            [
+                "hqedit",
+                0.4017
+            ],
+            [
+                "any2pix",
+                0.3129
+            ],
+            [
+                "instruct-diffusion",
+                0.1369
+            ],
+            [
+                "mgie",
+                0.0731
+            ]
+        ]
+    },
+    "24": {
+        "image": "0024.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.4448
+            ],
+            [
+                "magicbrush",
+                0.4402
+            ],
+            [
+                "any2pix",
+                0.4123
+            ],
+            [
+                "hive",
+                0.3819
+            ],
+            [
+                "iedit",
+                0.3786
+            ],
+            [
+                "hqedit",
+                0.3724
+            ],
+            [
+                "mgie",
+                0.186
+            ],
+            [
+                "instruct-diffusion",
+                0.1249
+            ]
+        ]
+    },
+    "25": {
+        "image": "0025.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.4328
+            ],
+            [
+                "instruct-diffusion",
+                0.3606
+            ],
+            [
+                "magicbrush",
+                0.3596
+            ],
+            [
+                "instructpix2pix",
+                0.3518
+            ],
+            [
+                "iedit",
+                0.2946
+            ],
+            [
+                "hqedit",
+                0.2746
+            ],
+            [
+                "any2pix",
+                0.223
+            ],
+            [
+                "mgie",
+                0.0384
+            ]
+        ]
+    },
+    "26": {
+        "image": "0026.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.4008
+            ],
+            [
+                "magicbrush",
+                0.3686
+            ],
+            [
+                "instruct-diffusion",
+                0.3358
+            ],
+            [
+                "iedit",
+                0.2908
+            ],
+            [
+                "any2pix",
+                0.2537
+            ],
+            [
+                "hqedit",
+                0.2504
+            ],
+            [
+                "instructpix2pix",
+                0.2473
+            ],
+            [
+                "mgie",
+                0.1789
+            ]
+        ]
+    },
+    "27": {
+        "image": "0027.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.4715
+            ],
+            [
+                "magicbrush",
+                0.4574
+            ],
+            [
+                "instructpix2pix",
+                0.4456
+            ],
+            [
+                "hqedit",
+                0.3639
+            ],
+            [
+                "iedit",
+                0.3599
+            ],
+            [
+                "any2pix",
+                0.3584
+            ],
+            [
+                "instruct-diffusion",
+                0.2416
+            ],
+            [
+                "mgie",
+                0.1778
+            ]
+        ]
+    },
+    "28": {
+        "image": "0028.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4156
+            ],
+            [
+                "instructpix2pix",
+                0.3992
+            ],
+            [
+                "hive",
+                0.3973
+            ],
+            [
+                "hqedit",
+                0.3365
+            ],
+            [
+                "iedit",
+                0.3299
+            ],
+            [
+                "any2pix",
+                0.3146
+            ],
+            [
+                "mgie",
+                0.2681
+            ],
+            [
+                "instruct-diffusion",
+                0.2405
+            ]
+        ]
+    },
+    "29": {
+        "image": "0029.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.2598
+            ],
+            [
+                "instruct-diffusion",
+                0.2516
+            ],
+            [
+                "iedit",
+                0.2511
+            ],
+            [
+                "any2pix",
+                0.2473
+            ],
+            [
+                "hqedit",
+                0.223
+            ],
+            [
+                "instructpix2pix",
+                0.216
+            ],
+            [
+                "mgie",
+                0.1766
+            ],
+            [
+                "hive",
+                0.1491
+            ]
+        ]
+    },
+    "30": {
+        "image": "0030.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.3106
+            ],
+            [
+                "magicbrush",
+                0.2641
+            ],
+            [
+                "instructpix2pix",
+                0.2635
+            ],
+            [
+                "instruct-diffusion",
+                0.2229
+            ],
+            [
+                "iedit",
+                0.2116
+            ],
+            [
+                "any2pix",
+                0.202
+            ],
+            [
+                "hqedit",
+                0.1413
+            ],
+            [
+                "mgie",
+                0.0105
+            ]
+        ]
+    },
+    "31": {
+        "image": "0031.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.3018
+            ],
+            [
+                "magicbrush",
+                0.2563
+            ],
+            [
+                "instructpix2pix",
+                0.2132
+            ],
+            [
+                "instruct-diffusion",
+                0.212
+            ],
+            [
+                "iedit",
+                0.1984
+            ],
+            [
+                "hqedit",
+                0.1786
+            ],
+            [
+                "mgie",
+                0.1744
+            ],
+            [
+                "any2pix",
+                0.1744
+            ]
+        ]
+    },
+    "32": {
+        "image": "0032.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6839
+            ],
+            [
+                "any2pix",
+                0.664
+            ],
+            [
+                "iedit",
+                0.6331
+            ],
+            [
+                "hqedit",
+                0.5864
+            ],
+            [
+                "magicbrush",
+                0.4932
+            ],
+            [
+                "instructpix2pix",
+                0.4883
+            ],
+            [
+                "hive",
+                0.3121
+            ],
+            [
+                "mgie",
+                0.0279
+            ]
+        ]
+    },
+    "33": {
+        "image": "0033.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "any2pix",
+                0.3998
+            ],
+            [
+                "instruct-diffusion",
+                0.3991
+            ],
+            [
+                "magicbrush",
+                0.3946
+            ],
+            [
+                "iedit",
+                0.3767
+            ],
+            [
+                "hqedit",
+                0.3319
+            ],
+            [
+                "instructpix2pix",
+                0.3217
+            ],
+            [
+                "hive",
+                0.3187
+            ],
+            [
+                "mgie",
+                0.266
+            ]
+        ]
+    },
+    "34": {
+        "image": "0034.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "any2pix",
+                0.365
+            ],
+            [
+                "magicbrush",
+                0.3511
+            ],
+            [
+                "iedit",
+                0.32
+            ],
+            [
+                "hive",
+                0.3003
+            ],
+            [
+                "instructpix2pix",
+                0.2847
+            ],
+            [
+                "instruct-diffusion",
+                0.2528
+            ],
+            [
+                "hqedit",
+                0.2482
+            ],
+            [
+                "mgie",
+                0.2381
+            ]
+        ]
+    },
+    "35": {
+        "image": "0035.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3975
+            ],
+            [
+                "instruct-diffusion",
+                0.3464
+            ],
+            [
+                "any2pix",
+                0.3248
+            ],
+            [
+                "hqedit",
+                0.31
+            ],
+            [
+                "magicbrush",
+                0.3055
+            ],
+            [
+                "hive",
+                0.2744
+            ],
+            [
+                "iedit",
+                0.2666
+            ],
+            [
+                "instructpix2pix",
+                0.2594
+            ]
+        ]
+    },
+    "36": {
+        "image": "0036.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "any2pix",
+                0.3726
+            ],
+            [
+                "instruct-diffusion",
+                0.2988
+            ],
+            [
+                "hqedit",
+                0.2914
+            ],
+            [
+                "iedit",
+                0.2779
+            ],
+            [
+                "hive",
+                0.2528
+            ],
+            [
+                "mgie",
+                0.2174
+            ],
+            [
+                "instructpix2pix",
+                0.1995
+            ],
+            [
+                "magicbrush",
+                0.1517
+            ]
+        ]
+    },
+    "37": {
+        "image": "0037.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "any2pix",
+                0.3618
+            ],
+            [
+                "instruct-diffusion",
+                0.3248
+            ],
+            [
+                "magicbrush",
+                0.3069
+            ],
+            [
+                "iedit",
+                0.2874
+            ],
+            [
+                "mgie",
+                0.2468
+            ],
+            [
+                "hive",
+                0.2465
+            ],
+            [
+                "hqedit",
+                0.2419
+            ],
+            [
+                "instructpix2pix",
+                0.2137
+            ]
+        ]
+    },
+    "38": {
+        "image": "0038.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "any2pix",
+                0.3551
+            ],
+            [
+                "mgie",
+                0.333
+            ],
+            [
+                "magicbrush",
+                0.3263
+            ],
+            [
+                "instruct-diffusion",
+                0.322
+            ],
+            [
+                "hive",
+                0.3165
+            ],
+            [
+                "hqedit",
+                0.2944
+            ],
+            [
+                "iedit",
+                0.2782
+            ],
+            [
+                "instructpix2pix",
+                0.1749
+            ]
+        ]
+    },
+    "39": {
+        "image": "0039.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "any2pix",
+                0.4148
+            ],
+            [
+                "iedit",
+                0.39
+            ],
+            [
+                "magicbrush",
+                0.3701
+            ],
+            [
+                "hive",
+                0.3591
+            ],
+            [
+                "hqedit",
+                0.3381
+            ],
+            [
+                "instructpix2pix",
+                0.2662
+            ],
+            [
+                "mgie",
+                0.2305
+            ],
+            [
+                "instruct-diffusion",
+                0.2076
+            ]
+        ]
+    },
+    "40": {
+        "image": "0040.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "any2pix",
+                0.3532
+            ],
+            [
+                "hive",
+                0.324
+            ],
+            [
+                "hqedit",
+                0.3154
+            ],
+            [
+                "mgie",
+                0.3074
+            ],
+            [
+                "instruct-diffusion",
+                0.2988
+            ],
+            [
+                "instructpix2pix",
+                0.2832
+            ],
+            [
+                "iedit",
+                0.2725
+            ],
+            [
+                "magicbrush",
+                0.2682
+            ]
+        ]
+    },
+    "41": {
+        "image": "0041.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.3364
+            ],
+            [
+                "any2pix",
+                0.3284
+            ],
+            [
+                "iedit",
+                0.3071
+            ],
+            [
+                "hqedit",
+                0.3061
+            ],
+            [
+                "magicbrush",
+                0.2759
+            ],
+            [
+                "mgie",
+                0.257
+            ],
+            [
+                "instructpix2pix",
+                0.2071
+            ],
+            [
+                "instruct-diffusion",
+                0.0955
+            ]
+        ]
+    },
+    "42": {
+        "image": "0042.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.3964
+            ],
+            [
+                "any2pix",
+                0.3813
+            ],
+            [
+                "iedit",
+                0.3753
+            ],
+            [
+                "instruct-diffusion",
+                0.3665
+            ],
+            [
+                "hqedit",
+                0.3282
+            ],
+            [
+                "hive",
+                0.3262
+            ],
+            [
+                "instructpix2pix",
+                0.2823
+            ],
+            [
+                "mgie",
+                0.2169
+            ]
+        ]
+    },
+    "43": {
+        "image": "0043.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "any2pix",
+                0.4019
+            ],
+            [
+                "magicbrush",
+                0.3865
+            ],
+            [
+                "hqedit",
+                0.3846
+            ],
+            [
+                "iedit",
+                0.367
+            ],
+            [
+                "instruct-diffusion",
+                0.3422
+            ],
+            [
+                "hive",
+                0.3108
+            ],
+            [
+                "instructpix2pix",
+                0.2701
+            ],
+            [
+                "mgie",
+                0.1463
+            ]
+        ]
+    },
+    "44": {
+        "image": "0044.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.2366
+            ],
+            [
+                "mgie",
+                0.2328
+            ],
+            [
+                "instructpix2pix",
+                0.1916
+            ],
+            [
+                "any2pix",
+                0.1808
+            ],
+            [
+                "instruct-diffusion",
+                0.1589
+            ],
+            [
+                "magicbrush",
+                0.152
+            ],
+            [
+                "iedit",
+                0.1349
+            ],
+            [
+                "hqedit",
+                0.1334
+            ]
+        ]
+    },
+    "45": {
+        "image": "0045.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2071
+            ],
+            [
+                "hive",
+                0.1552
+            ],
+            [
+                "instructpix2pix",
+                0.1419
+            ],
+            [
+                "magicbrush",
+                0.1224
+            ],
+            [
+                "any2pix",
+                0.1187
+            ],
+            [
+                "instruct-diffusion",
+                0.1092
+            ],
+            [
+                "iedit",
+                0.1027
+            ],
+            [
+                "hqedit",
+                0.0781
+            ]
+        ]
+    },
+    "46": {
+        "image": "0046.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2638
+            ],
+            [
+                "hive",
+                0.2019
+            ],
+            [
+                "instructpix2pix",
+                0.1783
+            ],
+            [
+                "magicbrush",
+                0.1453
+            ],
+            [
+                "any2pix",
+                0.1169
+            ],
+            [
+                "iedit",
+                0.1151
+            ],
+            [
+                "instruct-diffusion",
+                0.1135
+            ],
+            [
+                "hqedit",
+                0.0824
+            ]
+        ]
+    },
+    "47": {
+        "image": "0047.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2035
+            ],
+            [
+                "magicbrush",
+                0.1505
+            ],
+            [
+                "hive",
+                0.1445
+            ],
+            [
+                "instructpix2pix",
+                0.1303
+            ],
+            [
+                "any2pix",
+                0.1091
+            ],
+            [
+                "instruct-diffusion",
+                0.0974
+            ],
+            [
+                "hqedit",
+                0.0956
+            ],
+            [
+                "iedit",
+                0.0908
+            ]
+        ]
+    },
+    "48": {
+        "image": "0048.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "any2pix",
+                0.692
+            ],
+            [
+                "iedit",
+                0.6608
+            ],
+            [
+                "instruct-diffusion",
+                0.6225
+            ],
+            [
+                "magicbrush",
+                0.5976
+            ],
+            [
+                "mgie",
+                0.5557
+            ],
+            [
+                "hqedit",
+                0.5515
+            ],
+            [
+                "hive",
+                0.4272
+            ],
+            [
+                "instructpix2pix",
+                0.3748
+            ]
+        ]
+    },
+    "49": {
+        "image": "0049.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "any2pix",
+                0.667
+            ],
+            [
+                "iedit",
+                0.6282
+            ],
+            [
+                "magicbrush",
+                0.6188
+            ],
+            [
+                "hqedit",
+                0.4374
+            ],
+            [
+                "hive",
+                0.3076
+            ],
+            [
+                "instructpix2pix",
+                0.3008
+            ],
+            [
+                "mgie",
+                0.2719
+            ],
+            [
+                "instruct-diffusion",
+                0.1879
+            ]
+        ]
+    },
+    "50": {
+        "image": "0050.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "any2pix",
+                0.6195
+            ],
+            [
+                "mgie",
+                0.59
+            ],
+            [
+                "magicbrush",
+                0.5898
+            ],
+            [
+                "instruct-diffusion",
+                0.5869
+            ],
+            [
+                "iedit",
+                0.5827
+            ],
+            [
+                "hqedit",
+                0.5353
+            ],
+            [
+                "hive",
+                0.4544
+            ],
+            [
+                "instructpix2pix",
+                0.3943
+            ]
+        ]
+    },
+    "51": {
+        "image": "0051.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "any2pix",
+                0.5797
+            ],
+            [
+                "instruct-diffusion",
+                0.5203
+            ],
+            [
+                "magicbrush",
+                0.5
+            ],
+            [
+                "iedit",
+                0.4718
+            ],
+            [
+                "hqedit",
+                0.4443
+            ],
+            [
+                "hive",
+                0.4126
+            ],
+            [
+                "instructpix2pix",
+                0.2018
+            ],
+            [
+                "mgie",
+                0.1998
+            ]
+        ]
+    },
+    "52": {
+        "image": "0052.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4171
+            ],
+            [
+                "magicbrush",
+                0.3474
+            ],
+            [
+                "hqedit",
+                0.3352
+            ],
+            [
+                "instructpix2pix",
+                0.3294
+            ],
+            [
+                "instruct-diffusion",
+                0.2832
+            ],
+            [
+                "iedit",
+                0.2531
+            ],
+            [
+                "hive",
+                0.2154
+            ],
+            [
+                "any2pix",
+                0.1914
+            ]
+        ]
+    },
+    "53": {
+        "image": "0053.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3915
+            ],
+            [
+                "magicbrush",
+                0.3436
+            ],
+            [
+                "instructpix2pix",
+                0.3294
+            ],
+            [
+                "hqedit",
+                0.3267
+            ],
+            [
+                "instruct-diffusion",
+                0.2906
+            ],
+            [
+                "iedit",
+                0.2762
+            ],
+            [
+                "hive",
+                0.2012
+            ],
+            [
+                "any2pix",
+                0.1631
+            ]
+        ]
+    },
+    "54": {
+        "image": "0054.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3169
+            ],
+            [
+                "hive",
+                0.1905
+            ],
+            [
+                "instructpix2pix",
+                0.1595
+            ],
+            [
+                "instruct-diffusion",
+                0.1476
+            ],
+            [
+                "any2pix",
+                0.119
+            ],
+            [
+                "hqedit",
+                0.1106
+            ],
+            [
+                "magicbrush",
+                0.102
+            ],
+            [
+                "iedit",
+                0.0914
+            ]
+        ]
+    },
+    "55": {
+        "image": "0055.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3499
+            ],
+            [
+                "hive",
+                0.1785
+            ],
+            [
+                "magicbrush",
+                0.1628
+            ],
+            [
+                "instructpix2pix",
+                0.1502
+            ],
+            [
+                "instruct-diffusion",
+                0.1403
+            ],
+            [
+                "any2pix",
+                0.1161
+            ],
+            [
+                "hqedit",
+                0.1059
+            ],
+            [
+                "iedit",
+                0.0909
+            ]
+        ]
+    },
+    "56": {
+        "image": "0056.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.285
+            ],
+            [
+                "hive",
+                0.1738
+            ],
+            [
+                "instructpix2pix",
+                0.1568
+            ],
+            [
+                "instruct-diffusion",
+                0.1253
+            ],
+            [
+                "any2pix",
+                0.1096
+            ],
+            [
+                "hqedit",
+                0.1006
+            ],
+            [
+                "iedit",
+                0.0944
+            ],
+            [
+                "magicbrush",
+                0.0861
+            ]
+        ]
+    },
+    "57": {
+        "image": "0057.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3583
+            ],
+            [
+                "magicbrush",
+                0.2089
+            ],
+            [
+                "hive",
+                0.1755
+            ],
+            [
+                "instructpix2pix",
+                0.1686
+            ],
+            [
+                "instruct-diffusion",
+                0.1606
+            ],
+            [
+                "hqedit",
+                0.1477
+            ],
+            [
+                "iedit",
+                0.1357
+            ],
+            [
+                "any2pix",
+                0.135
+            ]
+        ]
+    },
+    "58": {
+        "image": "0058.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3656
+            ],
+            [
+                "instructpix2pix",
+                0.2107
+            ],
+            [
+                "magicbrush",
+                0.2003
+            ],
+            [
+                "hive",
+                0.1941
+            ],
+            [
+                "instruct-diffusion",
+                0.1591
+            ],
+            [
+                "any2pix",
+                0.1495
+            ],
+            [
+                "hqedit",
+                0.1422
+            ],
+            [
+                "iedit",
+                0.1406
+            ]
+        ]
+    },
+    "59": {
+        "image": "0059.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2818
+            ],
+            [
+                "magicbrush",
+                0.2031
+            ],
+            [
+                "any2pix",
+                0.1912
+            ],
+            [
+                "instruct-diffusion",
+                0.1627
+            ],
+            [
+                "instructpix2pix",
+                0.1502
+            ],
+            [
+                "hive",
+                0.1494
+            ],
+            [
+                "hqedit",
+                0.1439
+            ],
+            [
+                "iedit",
+                0.1404
+            ]
+        ]
+    },
+    "60": {
+        "image": "0060.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4302
+            ],
+            [
+                "magicbrush",
+                0.3055
+            ],
+            [
+                "any2pix",
+                0.2767
+            ],
+            [
+                "instructpix2pix",
+                0.2732
+            ],
+            [
+                "iedit",
+                0.2196
+            ],
+            [
+                "hqedit",
+                0.2097
+            ],
+            [
+                "instruct-diffusion",
+                0.19
+            ],
+            [
+                "hive",
+                0.137
+            ]
+        ]
+    },
+    "61": {
+        "image": "0061.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.2946
+            ],
+            [
+                "hive",
+                0.2727
+            ],
+            [
+                "iedit",
+                0.2423
+            ],
+            [
+                "any2pix",
+                0.2395
+            ],
+            [
+                "hqedit",
+                0.2128
+            ],
+            [
+                "mgie",
+                0.1885
+            ],
+            [
+                "instructpix2pix",
+                0.1802
+            ],
+            [
+                "magicbrush",
+                0.1489
+            ]
+        ]
+    },
+    "62": {
+        "image": "0062.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6183
+            ],
+            [
+                "instruct-diffusion",
+                0.601
+            ],
+            [
+                "iedit",
+                0.5953
+            ],
+            [
+                "any2pix",
+                0.5893
+            ],
+            [
+                "hive",
+                0.5847
+            ],
+            [
+                "hqedit",
+                0.5535
+            ],
+            [
+                "instructpix2pix",
+                0.4936
+            ],
+            [
+                "mgie",
+                0.2403
+            ]
+        ]
+    },
+    "63": {
+        "image": "0063.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5997
+            ],
+            [
+                "instruct-diffusion",
+                0.5709
+            ],
+            [
+                "iedit",
+                0.5366
+            ],
+            [
+                "any2pix",
+                0.5235
+            ],
+            [
+                "mgie",
+                0.49
+            ],
+            [
+                "hqedit",
+                0.4622
+            ],
+            [
+                "hive",
+                0.3242
+            ],
+            [
+                "instructpix2pix",
+                0.2977
+            ]
+        ]
+    },
+    "64": {
+        "image": "0064.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.803
+            ],
+            [
+                "magicbrush",
+                0.7151
+            ],
+            [
+                "instruct-diffusion",
+                0.6993
+            ],
+            [
+                "instructpix2pix",
+                0.6779
+            ],
+            [
+                "iedit",
+                0.6256
+            ],
+            [
+                "any2pix",
+                0.575
+            ],
+            [
+                "hqedit",
+                0.5662
+            ],
+            [
+                "hive",
+                0.4962
+            ]
+        ]
+    },
+    "65": {
+        "image": "0065.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.8367
+            ],
+            [
+                "magicbrush",
+                0.7438
+            ],
+            [
+                "instruct-diffusion",
+                0.7321
+            ],
+            [
+                "any2pix",
+                0.6548
+            ],
+            [
+                "iedit",
+                0.6395
+            ],
+            [
+                "hqedit",
+                0.5612
+            ],
+            [
+                "hive",
+                0.4007
+            ],
+            [
+                "instructpix2pix",
+                0.3959
+            ]
+        ]
+    },
+    "66": {
+        "image": "0066.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7462
+            ],
+            [
+                "instruct-diffusion",
+                0.7121
+            ],
+            [
+                "magicbrush",
+                0.6966
+            ],
+            [
+                "any2pix",
+                0.6337
+            ],
+            [
+                "iedit",
+                0.6232
+            ],
+            [
+                "hqedit",
+                0.5515
+            ],
+            [
+                "hive",
+                0.4514
+            ],
+            [
+                "instructpix2pix",
+                0.3246
+            ]
+        ]
+    },
+    "67": {
+        "image": "0067.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.8197
+            ],
+            [
+                "instruct-diffusion",
+                0.8021
+            ],
+            [
+                "magicbrush",
+                0.7416
+            ],
+            [
+                "iedit",
+                0.6873
+            ],
+            [
+                "instructpix2pix",
+                0.6822
+            ],
+            [
+                "any2pix",
+                0.6696
+            ],
+            [
+                "hqedit",
+                0.5244
+            ],
+            [
+                "hive",
+                0.4851
+            ]
+        ]
+    },
+    "68": {
+        "image": "0068.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7472
+            ],
+            [
+                "mgie",
+                0.7334
+            ],
+            [
+                "instruct-diffusion",
+                0.7132
+            ],
+            [
+                "magicbrush",
+                0.7069
+            ],
+            [
+                "any2pix",
+                0.7005
+            ],
+            [
+                "iedit",
+                0.6998
+            ],
+            [
+                "instructpix2pix",
+                0.6473
+            ],
+            [
+                "hqedit",
+                0.5924
+            ]
+        ]
+    },
+    "69": {
+        "image": "0069.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7439
+            ],
+            [
+                "instruct-diffusion",
+                0.7409
+            ],
+            [
+                "magicbrush",
+                0.7362
+            ],
+            [
+                "iedit",
+                0.7011
+            ],
+            [
+                "instructpix2pix",
+                0.6787
+            ],
+            [
+                "any2pix",
+                0.5968
+            ],
+            [
+                "hqedit",
+                0.5674
+            ],
+            [
+                "mgie",
+                0.2586
+            ]
+        ]
+    },
+    "70": {
+        "image": "0070.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7559
+            ],
+            [
+                "hive",
+                0.7493
+            ],
+            [
+                "magicbrush",
+                0.7377
+            ],
+            [
+                "iedit",
+                0.7004
+            ],
+            [
+                "any2pix",
+                0.6973
+            ],
+            [
+                "instructpix2pix",
+                0.6525
+            ],
+            [
+                "hqedit",
+                0.4887
+            ],
+            [
+                "mgie",
+                0.3023
+            ]
+        ]
+    },
+    "71": {
+        "image": "0071.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7847
+            ],
+            [
+                "instruct-diffusion",
+                0.7542
+            ],
+            [
+                "magicbrush",
+                0.7431
+            ],
+            [
+                "iedit",
+                0.7356
+            ],
+            [
+                "hive",
+                0.7139
+            ],
+            [
+                "any2pix",
+                0.6573
+            ],
+            [
+                "hqedit",
+                0.5637
+            ],
+            [
+                "mgie",
+                0.3231
+            ]
+        ]
+    },
+    "72": {
+        "image": "0072.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.747
+            ],
+            [
+                "instruct-diffusion",
+                0.7413
+            ],
+            [
+                "hive",
+                0.7339
+            ],
+            [
+                "magicbrush",
+                0.717
+            ],
+            [
+                "iedit",
+                0.6905
+            ],
+            [
+                "any2pix",
+                0.6727
+            ],
+            [
+                "hqedit",
+                0.6667
+            ],
+            [
+                "instructpix2pix",
+                0.5631
+            ]
+        ]
+    },
+    "73": {
+        "image": "0073.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6381
+            ],
+            [
+                "instruct-diffusion",
+                0.5756
+            ],
+            [
+                "magicbrush",
+                0.5586
+            ],
+            [
+                "iedit",
+                0.4994
+            ],
+            [
+                "hqedit",
+                0.4938
+            ],
+            [
+                "any2pix",
+                0.4601
+            ],
+            [
+                "instructpix2pix",
+                0.4132
+            ],
+            [
+                "mgie",
+                0.1336
+            ]
+        ]
+    },
+    "74": {
+        "image": "0074.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6277
+            ],
+            [
+                "magicbrush",
+                0.5809
+            ],
+            [
+                "instruct-diffusion",
+                0.569
+            ],
+            [
+                "instructpix2pix",
+                0.5537
+            ],
+            [
+                "any2pix",
+                0.5412
+            ],
+            [
+                "mgie",
+                0.5238
+            ],
+            [
+                "iedit",
+                0.4838
+            ],
+            [
+                "hqedit",
+                0.338
+            ]
+        ]
+    },
+    "75": {
+        "image": "0075.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.6485
+            ],
+            [
+                "magicbrush",
+                0.6198
+            ],
+            [
+                "instructpix2pix",
+                0.5983
+            ],
+            [
+                "instruct-diffusion",
+                0.5724
+            ],
+            [
+                "any2pix",
+                0.5283
+            ],
+            [
+                "iedit",
+                0.508
+            ],
+            [
+                "mgie",
+                0.47
+            ],
+            [
+                "hqedit",
+                0.3786
+            ]
+        ]
+    },
+    "76": {
+        "image": "0076.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2934
+            ],
+            [
+                "magicbrush",
+                0.1233
+            ],
+            [
+                "instruct-diffusion",
+                0.1157
+            ],
+            [
+                "instructpix2pix",
+                0.1155
+            ],
+            [
+                "hqedit",
+                0.1118
+            ],
+            [
+                "hive",
+                0.1094
+            ],
+            [
+                "iedit",
+                0.0861
+            ],
+            [
+                "any2pix",
+                0.07
+            ]
+        ]
+    },
+    "77": {
+        "image": "0077.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3325
+            ],
+            [
+                "magicbrush",
+                0.1239
+            ],
+            [
+                "instructpix2pix",
+                0.1238
+            ],
+            [
+                "hive",
+                0.1225
+            ],
+            [
+                "hqedit",
+                0.1097
+            ],
+            [
+                "instruct-diffusion",
+                0.1041
+            ],
+            [
+                "iedit",
+                0.0869
+            ],
+            [
+                "any2pix",
+                0.0769
+            ]
+        ]
+    },
+    "78": {
+        "image": "0078.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3383
+            ],
+            [
+                "magicbrush",
+                0.1426
+            ],
+            [
+                "hive",
+                0.1343
+            ],
+            [
+                "instructpix2pix",
+                0.1319
+            ],
+            [
+                "hqedit",
+                0.1217
+            ],
+            [
+                "instruct-diffusion",
+                0.1136
+            ],
+            [
+                "any2pix",
+                0.1056
+            ],
+            [
+                "iedit",
+                0.0909
+            ]
+        ]
+    },
+    "79": {
+        "image": "0079.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.1539
+            ],
+            [
+                "instructpix2pix",
+                0.1446
+            ],
+            [
+                "hive",
+                0.1374
+            ],
+            [
+                "hqedit",
+                0.1343
+            ],
+            [
+                "any2pix",
+                0.1229
+            ],
+            [
+                "instruct-diffusion",
+                0.1192
+            ],
+            [
+                "mgie",
+                0.097
+            ],
+            [
+                "iedit",
+                0.0948
+            ]
+        ]
+    },
+    "80": {
+        "image": "0080.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7831
+            ],
+            [
+                "any2pix",
+                0.7728
+            ],
+            [
+                "hqedit",
+                0.7692
+            ],
+            [
+                "instructpix2pix",
+                0.7559
+            ],
+            [
+                "mgie",
+                0.7479
+            ],
+            [
+                "iedit",
+                0.7303
+            ],
+            [
+                "instruct-diffusion",
+                0.5563
+            ],
+            [
+                "hive",
+                0.2121
+            ]
+        ]
+    },
+    "81": {
+        "image": "0081.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.8919
+            ],
+            [
+                "iedit",
+                0.8198
+            ],
+            [
+                "any2pix",
+                0.8014
+            ],
+            [
+                "instructpix2pix",
+                0.7894
+            ],
+            [
+                "hqedit",
+                0.7234
+            ],
+            [
+                "instruct-diffusion",
+                0.7057
+            ],
+            [
+                "hive",
+                0.4587
+            ],
+            [
+                "mgie",
+                0.3463
+            ]
+        ]
+    },
+    "82": {
+        "image": "0082.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.8546
+            ],
+            [
+                "any2pix",
+                0.8161
+            ],
+            [
+                "magicbrush",
+                0.7966
+            ],
+            [
+                "iedit",
+                0.7865
+            ],
+            [
+                "hive",
+                0.658
+            ],
+            [
+                "hqedit",
+                0.6422
+            ],
+            [
+                "instruct-diffusion",
+                0.6229
+            ],
+            [
+                "instructpix2pix",
+                0.5527
+            ]
+        ]
+    },
+    "83": {
+        "image": "0083.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6663
+            ],
+            [
+                "magicbrush",
+                0.656
+            ],
+            [
+                "iedit",
+                0.6535
+            ],
+            [
+                "hqedit",
+                0.6522
+            ],
+            [
+                "any2pix",
+                0.6459
+            ],
+            [
+                "mgie",
+                0.6373
+            ],
+            [
+                "hive",
+                0.59
+            ],
+            [
+                "instructpix2pix",
+                0.2366
+            ]
+        ]
+    },
+    "84": {
+        "image": "0084.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7434
+            ],
+            [
+                "magicbrush",
+                0.743
+            ],
+            [
+                "any2pix",
+                0.7277
+            ],
+            [
+                "hqedit",
+                0.7016
+            ],
+            [
+                "hive",
+                0.637
+            ],
+            [
+                "instruct-diffusion",
+                0.4844
+            ],
+            [
+                "mgie",
+                0.4649
+            ],
+            [
+                "instructpix2pix",
+                0.2511
+            ]
+        ]
+    },
+    "85": {
+        "image": "0085.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7744
+            ],
+            [
+                "hive",
+                0.7518
+            ],
+            [
+                "magicbrush",
+                0.7467
+            ],
+            [
+                "instructpix2pix",
+                0.6653
+            ],
+            [
+                "any2pix",
+                0.6625
+            ],
+            [
+                "instruct-diffusion",
+                0.6624
+            ],
+            [
+                "hqedit",
+                0.6566
+            ],
+            [
+                "mgie",
+                0.6128
+            ]
+        ]
+    },
+    "86": {
+        "image": "0086.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7847
+            ],
+            [
+                "iedit",
+                0.7699
+            ],
+            [
+                "hive",
+                0.7671
+            ],
+            [
+                "magicbrush",
+                0.7335
+            ],
+            [
+                "any2pix",
+                0.7128
+            ],
+            [
+                "instructpix2pix",
+                0.6967
+            ],
+            [
+                "hqedit",
+                0.6386
+            ],
+            [
+                "mgie",
+                0.5089
+            ]
+        ]
+    },
+    "87": {
+        "image": "0087.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.8675
+            ],
+            [
+                "magicbrush",
+                0.8352
+            ],
+            [
+                "instruct-diffusion",
+                0.8138
+            ],
+            [
+                "iedit",
+                0.7969
+            ],
+            [
+                "any2pix",
+                0.7002
+            ],
+            [
+                "instructpix2pix",
+                0.7
+            ],
+            [
+                "hive",
+                0.5284
+            ],
+            [
+                "hqedit",
+                0.4846
+            ]
+        ]
+    },
+    "88": {
+        "image": "0088.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7949
+            ],
+            [
+                "mgie",
+                0.7132
+            ],
+            [
+                "magicbrush",
+                0.6904
+            ],
+            [
+                "iedit",
+                0.6899
+            ],
+            [
+                "instruct-diffusion",
+                0.679
+            ],
+            [
+                "instructpix2pix",
+                0.6684
+            ],
+            [
+                "any2pix",
+                0.6443
+            ],
+            [
+                "hqedit",
+                0.5752
+            ]
+        ]
+    },
+    "89": {
+        "image": "0089.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7836
+            ],
+            [
+                "instruct-diffusion",
+                0.7623
+            ],
+            [
+                "magicbrush",
+                0.7493
+            ],
+            [
+                "instructpix2pix",
+                0.711
+            ],
+            [
+                "iedit",
+                0.7076
+            ],
+            [
+                "any2pix",
+                0.6869
+            ],
+            [
+                "hive",
+                0.6743
+            ],
+            [
+                "hqedit",
+                0.524
+            ]
+        ]
+    },
+    "90": {
+        "image": "0090.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6766
+            ],
+            [
+                "hive",
+                0.6708
+            ],
+            [
+                "any2pix",
+                0.6543
+            ],
+            [
+                "mgie",
+                0.6529
+            ],
+            [
+                "iedit",
+                0.6451
+            ],
+            [
+                "instructpix2pix",
+                0.6411
+            ],
+            [
+                "hqedit",
+                0.5279
+            ],
+            [
+                "instruct-diffusion",
+                0.4706
+            ]
+        ]
+    },
+    "91": {
+        "image": "0091.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7456
+            ],
+            [
+                "iedit",
+                0.7201
+            ],
+            [
+                "mgie",
+                0.7111
+            ],
+            [
+                "magicbrush",
+                0.7078
+            ],
+            [
+                "hive",
+                0.6862
+            ],
+            [
+                "any2pix",
+                0.6426
+            ],
+            [
+                "instruct-diffusion",
+                0.573
+            ],
+            [
+                "hqedit",
+                0.3943
+            ]
+        ]
+    },
+    "92": {
+        "image": "0092.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7916
+            ],
+            [
+                "iedit",
+                0.7848
+            ],
+            [
+                "hive",
+                0.7732
+            ],
+            [
+                "mgie",
+                0.7616
+            ],
+            [
+                "instructpix2pix",
+                0.7462
+            ],
+            [
+                "any2pix",
+                0.6178
+            ],
+            [
+                "instruct-diffusion",
+                0.539
+            ],
+            [
+                "hqedit",
+                0.4792
+            ]
+        ]
+    },
+    "93": {
+        "image": "0093.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6948
+            ],
+            [
+                "instruct-diffusion",
+                0.6762
+            ],
+            [
+                "iedit",
+                0.6681
+            ],
+            [
+                "any2pix",
+                0.65
+            ],
+            [
+                "hqedit",
+                0.6387
+            ],
+            [
+                "hive",
+                0.6244
+            ],
+            [
+                "mgie",
+                0.5198
+            ],
+            [
+                "instructpix2pix",
+                0.2704
+            ]
+        ]
+    },
+    "94": {
+        "image": "0094.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7633
+            ],
+            [
+                "iedit",
+                0.6915
+            ],
+            [
+                "magicbrush",
+                0.6897
+            ],
+            [
+                "any2pix",
+                0.6864
+            ],
+            [
+                "instruct-diffusion",
+                0.6676
+            ],
+            [
+                "hive",
+                0.5855
+            ],
+            [
+                "hqedit",
+                0.5728
+            ],
+            [
+                "instructpix2pix",
+                0.231
+            ]
+        ]
+    },
+    "95": {
+        "image": "0095.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4359
+            ],
+            [
+                "instructpix2pix",
+                0.4267
+            ],
+            [
+                "iedit",
+                0.3547
+            ],
+            [
+                "instruct-diffusion",
+                0.3539
+            ],
+            [
+                "hive",
+                0.3107
+            ],
+            [
+                "hqedit",
+                0.2905
+            ],
+            [
+                "mgie",
+                0.2901
+            ],
+            [
+                "any2pix",
+                0.2728
+            ]
+        ]
+    },
+    "96": {
+        "image": "0096.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4536
+            ],
+            [
+                "magicbrush",
+                0.4499
+            ],
+            [
+                "hive",
+                0.4412
+            ],
+            [
+                "instructpix2pix",
+                0.4212
+            ],
+            [
+                "instruct-diffusion",
+                0.3553
+            ],
+            [
+                "iedit",
+                0.343
+            ],
+            [
+                "any2pix",
+                0.2882
+            ],
+            [
+                "hqedit",
+                0.2829
+            ]
+        ]
+    },
+    "97": {
+        "image": "0097.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.345
+            ],
+            [
+                "magicbrush",
+                0.3334
+            ],
+            [
+                "iedit",
+                0.2771
+            ],
+            [
+                "hqedit",
+                0.2735
+            ],
+            [
+                "any2pix",
+                0.2695
+            ],
+            [
+                "hive",
+                0.246
+            ],
+            [
+                "instructpix2pix",
+                0.2355
+            ],
+            [
+                "mgie",
+                0.1058
+            ]
+        ]
+    },
+    "98": {
+        "image": "0098.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4767
+            ],
+            [
+                "hive",
+                0.3991
+            ],
+            [
+                "magicbrush",
+                0.3609
+            ],
+            [
+                "iedit",
+                0.3284
+            ],
+            [
+                "instruct-diffusion",
+                0.325
+            ],
+            [
+                "any2pix",
+                0.3201
+            ],
+            [
+                "hqedit",
+                0.3136
+            ],
+            [
+                "instructpix2pix",
+                0.3081
+            ]
+        ]
+    },
+    "99": {
+        "image": "0099.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5696
+            ],
+            [
+                "magicbrush",
+                0.5045
+            ],
+            [
+                "instructpix2pix",
+                0.4971
+            ],
+            [
+                "hive",
+                0.4728
+            ],
+            [
+                "any2pix",
+                0.4714
+            ],
+            [
+                "instruct-diffusion",
+                0.4248
+            ],
+            [
+                "iedit",
+                0.4047
+            ],
+            [
+                "hqedit",
+                0.3617
+            ]
+        ]
+    },
+    "100": {
+        "image": "0100.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5829
+            ],
+            [
+                "magicbrush",
+                0.523
+            ],
+            [
+                "any2pix",
+                0.4772
+            ],
+            [
+                "instruct-diffusion",
+                0.4614
+            ],
+            [
+                "hive",
+                0.415
+            ],
+            [
+                "iedit",
+                0.4083
+            ],
+            [
+                "hqedit",
+                0.3708
+            ],
+            [
+                "instructpix2pix",
+                0.2964
+            ]
+        ]
+    },
+    "101": {
+        "image": "0101.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5854
+            ],
+            [
+                "magicbrush",
+                0.523
+            ],
+            [
+                "any2pix",
+                0.4703
+            ],
+            [
+                "instruct-diffusion",
+                0.4409
+            ],
+            [
+                "iedit",
+                0.4106
+            ],
+            [
+                "hive",
+                0.4073
+            ],
+            [
+                "hqedit",
+                0.3618
+            ],
+            [
+                "instructpix2pix",
+                0.3504
+            ]
+        ]
+    },
+    "102": {
+        "image": "0102.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5321
+            ],
+            [
+                "magicbrush",
+                0.4421
+            ],
+            [
+                "hive",
+                0.4093
+            ],
+            [
+                "instruct-diffusion",
+                0.3825
+            ],
+            [
+                "any2pix",
+                0.3769
+            ],
+            [
+                "iedit",
+                0.3524
+            ],
+            [
+                "instructpix2pix",
+                0.3448
+            ],
+            [
+                "hqedit",
+                0.3138
+            ]
+        ]
+    },
+    "103": {
+        "image": "0103.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5042
+            ],
+            [
+                "magicbrush",
+                0.4292
+            ],
+            [
+                "instructpix2pix",
+                0.4128
+            ],
+            [
+                "hive",
+                0.3657
+            ],
+            [
+                "instruct-diffusion",
+                0.3596
+            ],
+            [
+                "any2pix",
+                0.3552
+            ],
+            [
+                "iedit",
+                0.3339
+            ],
+            [
+                "hqedit",
+                0.2901
+            ]
+        ]
+    },
+    "104": {
+        "image": "0104.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.511
+            ],
+            [
+                "magicbrush",
+                0.44
+            ],
+            [
+                "instruct-diffusion",
+                0.3711
+            ],
+            [
+                "hqedit",
+                0.3668
+            ],
+            [
+                "hive",
+                0.3634
+            ],
+            [
+                "any2pix",
+                0.3597
+            ],
+            [
+                "iedit",
+                0.3525
+            ],
+            [
+                "instructpix2pix",
+                0.3206
+            ]
+        ]
+    },
+    "105": {
+        "image": "0105.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4752
+            ],
+            [
+                "mgie",
+                0.4385
+            ],
+            [
+                "hqedit",
+                0.4286
+            ],
+            [
+                "instruct-diffusion",
+                0.3912
+            ],
+            [
+                "iedit",
+                0.3701
+            ],
+            [
+                "any2pix",
+                0.3658
+            ],
+            [
+                "hive",
+                0.3645
+            ],
+            [
+                "instructpix2pix",
+                0.2615
+            ]
+        ]
+    },
+    "106": {
+        "image": "0106.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.417
+            ],
+            [
+                "magicbrush",
+                0.3519
+            ],
+            [
+                "instruct-diffusion",
+                0.3319
+            ],
+            [
+                "instructpix2pix",
+                0.2964
+            ],
+            [
+                "hqedit",
+                0.2945
+            ],
+            [
+                "any2pix",
+                0.2928
+            ],
+            [
+                "iedit",
+                0.2915
+            ],
+            [
+                "hive",
+                0.23
+            ]
+        ]
+    },
+    "107": {
+        "image": "0107.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4503
+            ],
+            [
+                "magicbrush",
+                0.3656
+            ],
+            [
+                "hive",
+                0.3484
+            ],
+            [
+                "instruct-diffusion",
+                0.3236
+            ],
+            [
+                "iedit",
+                0.3048
+            ],
+            [
+                "any2pix",
+                0.2942
+            ],
+            [
+                "hqedit",
+                0.2746
+            ],
+            [
+                "instructpix2pix",
+                0.241
+            ]
+        ]
+    },
+    "108": {
+        "image": "0108.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4184
+            ],
+            [
+                "hive",
+                0.3764
+            ],
+            [
+                "magicbrush",
+                0.3467
+            ],
+            [
+                "any2pix",
+                0.3222
+            ],
+            [
+                "instruct-diffusion",
+                0.3215
+            ],
+            [
+                "hqedit",
+                0.3098
+            ],
+            [
+                "instructpix2pix",
+                0.301
+            ],
+            [
+                "iedit",
+                0.2932
+            ]
+        ]
+    },
+    "109": {
+        "image": "0109.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4216
+            ],
+            [
+                "any2pix",
+                0.3708
+            ],
+            [
+                "hive",
+                0.3655
+            ],
+            [
+                "magicbrush",
+                0.3632
+            ],
+            [
+                "hqedit",
+                0.3485
+            ],
+            [
+                "instruct-diffusion",
+                0.3268
+            ],
+            [
+                "instructpix2pix",
+                0.3069
+            ],
+            [
+                "iedit",
+                0.2996
+            ]
+        ]
+    },
+    "110": {
+        "image": "0110.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3775
+            ],
+            [
+                "hive",
+                0.3753
+            ],
+            [
+                "instructpix2pix",
+                0.3349
+            ],
+            [
+                "magicbrush",
+                0.3303
+            ],
+            [
+                "instruct-diffusion",
+                0.3149
+            ],
+            [
+                "iedit",
+                0.2908
+            ],
+            [
+                "hqedit",
+                0.281
+            ],
+            [
+                "any2pix",
+                0.2754
+            ]
+        ]
+    },
+    "111": {
+        "image": "0111.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5261
+            ],
+            [
+                "instruct-diffusion",
+                0.5086
+            ],
+            [
+                "hive",
+                0.4718
+            ],
+            [
+                "iedit",
+                0.4211
+            ],
+            [
+                "any2pix",
+                0.416
+            ],
+            [
+                "hqedit",
+                0.3691
+            ],
+            [
+                "magicbrush",
+                0.3524
+            ],
+            [
+                "instructpix2pix",
+                0.2777
+            ]
+        ]
+    },
+    "112": {
+        "image": "0112.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.427
+            ],
+            [
+                "any2pix",
+                0.3906
+            ],
+            [
+                "hive",
+                0.3739
+            ],
+            [
+                "magicbrush",
+                0.369
+            ],
+            [
+                "instruct-diffusion",
+                0.3468
+            ],
+            [
+                "iedit",
+                0.3088
+            ],
+            [
+                "hqedit",
+                0.2956
+            ],
+            [
+                "instructpix2pix",
+                0.2178
+            ]
+        ]
+    },
+    "113": {
+        "image": "0113.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hqedit",
+                0.4855
+            ],
+            [
+                "hive",
+                0.4829
+            ],
+            [
+                "instruct-diffusion",
+                0.4727
+            ],
+            [
+                "iedit",
+                0.4086
+            ],
+            [
+                "any2pix",
+                0.3811
+            ],
+            [
+                "mgie",
+                0.3644
+            ],
+            [
+                "instructpix2pix",
+                0.2987
+            ],
+            [
+                "magicbrush",
+                0.2179
+            ]
+        ]
+    },
+    "114": {
+        "image": "0114.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6317
+            ],
+            [
+                "mgie",
+                0.5725
+            ],
+            [
+                "instruct-diffusion",
+                0.5509
+            ],
+            [
+                "hive",
+                0.5444
+            ],
+            [
+                "iedit",
+                0.4929
+            ],
+            [
+                "hqedit",
+                0.4785
+            ],
+            [
+                "instructpix2pix",
+                0.4651
+            ],
+            [
+                "any2pix",
+                0.4567
+            ]
+        ]
+    },
+    "115": {
+        "image": "0115.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5654
+            ],
+            [
+                "magicbrush",
+                0.5282
+            ],
+            [
+                "instruct-diffusion",
+                0.5265
+            ],
+            [
+                "hive",
+                0.498
+            ],
+            [
+                "any2pix",
+                0.4328
+            ],
+            [
+                "iedit",
+                0.4303
+            ],
+            [
+                "hqedit",
+                0.3915
+            ],
+            [
+                "instructpix2pix",
+                0.3058
+            ]
+        ]
+    },
+    "116": {
+        "image": "0116.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6191
+            ],
+            [
+                "instruct-diffusion",
+                0.5626
+            ],
+            [
+                "hive",
+                0.548
+            ],
+            [
+                "mgie",
+                0.5381
+            ],
+            [
+                "iedit",
+                0.4748
+            ],
+            [
+                "hqedit",
+                0.4507
+            ],
+            [
+                "any2pix",
+                0.427
+            ],
+            [
+                "instructpix2pix",
+                0.3924
+            ]
+        ]
+    },
+    "117": {
+        "image": "0117.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.677
+            ],
+            [
+                "mgie",
+                0.6478
+            ],
+            [
+                "magicbrush",
+                0.6262
+            ],
+            [
+                "instruct-diffusion",
+                0.5766
+            ],
+            [
+                "iedit",
+                0.5415
+            ],
+            [
+                "hive",
+                0.4991
+            ],
+            [
+                "hqedit",
+                0.425
+            ],
+            [
+                "any2pix",
+                0.405
+            ]
+        ]
+    },
+    "118": {
+        "image": "0118.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.299
+            ],
+            [
+                "magicbrush",
+                0.195
+            ],
+            [
+                "hive",
+                0.1718
+            ],
+            [
+                "iedit",
+                0.1473
+            ],
+            [
+                "instruct-diffusion",
+                0.1355
+            ],
+            [
+                "hqedit",
+                0.1287
+            ],
+            [
+                "instructpix2pix",
+                0.1284
+            ],
+            [
+                "any2pix",
+                0.1214
+            ]
+        ]
+    },
+    "119": {
+        "image": "0119.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2378
+            ],
+            [
+                "instruct-diffusion",
+                0.132
+            ],
+            [
+                "iedit",
+                0.132
+            ],
+            [
+                "hive",
+                0.1291
+            ],
+            [
+                "magicbrush",
+                0.1272
+            ],
+            [
+                "instructpix2pix",
+                0.1264
+            ],
+            [
+                "any2pix",
+                0.1131
+            ],
+            [
+                "hqedit",
+                0.0929
+            ]
+        ]
+    },
+    "120": {
+        "image": "0120.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.1653
+            ],
+            [
+                "instructpix2pix",
+                0.1438
+            ],
+            [
+                "hive",
+                0.1433
+            ],
+            [
+                "instruct-diffusion",
+                0.1412
+            ],
+            [
+                "iedit",
+                0.13
+            ],
+            [
+                "hqedit",
+                0.113
+            ],
+            [
+                "any2pix",
+                0.1059
+            ],
+            [
+                "mgie",
+                0.0543
+            ]
+        ]
+    },
+    "121": {
+        "image": "0121.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.2283
+            ],
+            [
+                "iedit",
+                0.1913
+            ],
+            [
+                "instruct-diffusion",
+                0.1879
+            ],
+            [
+                "instructpix2pix",
+                0.161
+            ],
+            [
+                "any2pix",
+                0.1549
+            ],
+            [
+                "hive",
+                0.152
+            ],
+            [
+                "hqedit",
+                0.1457
+            ],
+            [
+                "mgie",
+                0.1363
+            ]
+        ]
+    },
+    "122": {
+        "image": "0122.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3703
+            ],
+            [
+                "magicbrush",
+                0.2213
+            ],
+            [
+                "instruct-diffusion",
+                0.208
+            ],
+            [
+                "hive",
+                0.2079
+            ],
+            [
+                "iedit",
+                0.1988
+            ],
+            [
+                "instructpix2pix",
+                0.1956
+            ],
+            [
+                "any2pix",
+                0.1569
+            ],
+            [
+                "hqedit",
+                0.1562
+            ]
+        ]
+    },
+    "123": {
+        "image": "0123.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3224
+            ],
+            [
+                "magicbrush",
+                0.2608
+            ],
+            [
+                "instruct-diffusion",
+                0.2127
+            ],
+            [
+                "iedit",
+                0.1958
+            ],
+            [
+                "hive",
+                0.1712
+            ],
+            [
+                "instructpix2pix",
+                0.1634
+            ],
+            [
+                "any2pix",
+                0.1604
+            ],
+            [
+                "hqedit",
+                0.1587
+            ]
+        ]
+    },
+    "124": {
+        "image": "0124.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3467
+            ],
+            [
+                "magicbrush",
+                0.2557
+            ],
+            [
+                "hive",
+                0.2166
+            ],
+            [
+                "instruct-diffusion",
+                0.2158
+            ],
+            [
+                "iedit",
+                0.209
+            ],
+            [
+                "instructpix2pix",
+                0.1683
+            ],
+            [
+                "any2pix",
+                0.1577
+            ],
+            [
+                "hqedit",
+                0.136
+            ]
+        ]
+    },
+    "125": {
+        "image": "0125.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2559
+            ],
+            [
+                "instruct-diffusion",
+                0.1923
+            ],
+            [
+                "iedit",
+                0.192
+            ],
+            [
+                "any2pix",
+                0.1879
+            ],
+            [
+                "hqedit",
+                0.1714
+            ],
+            [
+                "instructpix2pix",
+                0.1659
+            ],
+            [
+                "hive",
+                0.158
+            ],
+            [
+                "magicbrush",
+                0.1503
+            ]
+        ]
+    },
+    "126": {
+        "image": "0126.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2898
+            ],
+            [
+                "magicbrush",
+                0.2285
+            ],
+            [
+                "instruct-diffusion",
+                0.1925
+            ],
+            [
+                "iedit",
+                0.1865
+            ],
+            [
+                "hqedit",
+                0.1702
+            ],
+            [
+                "instructpix2pix",
+                0.1648
+            ],
+            [
+                "any2pix",
+                0.1419
+            ],
+            [
+                "hive",
+                0.1343
+            ]
+        ]
+    },
+    "127": {
+        "image": "0127.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2317
+            ],
+            [
+                "magicbrush",
+                0.2058
+            ],
+            [
+                "instruct-diffusion",
+                0.1945
+            ],
+            [
+                "iedit",
+                0.1731
+            ],
+            [
+                "any2pix",
+                0.1625
+            ],
+            [
+                "hqedit",
+                0.1536
+            ],
+            [
+                "instructpix2pix",
+                0.14
+            ],
+            [
+                "hive",
+                0.137
+            ]
+        ]
+    },
+    "128": {
+        "image": "0128.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.2122
+            ],
+            [
+                "instructpix2pix",
+                0.2099
+            ],
+            [
+                "instruct-diffusion",
+                0.1977
+            ],
+            [
+                "iedit",
+                0.1846
+            ],
+            [
+                "hqedit",
+                0.1777
+            ],
+            [
+                "any2pix",
+                0.1666
+            ],
+            [
+                "hive",
+                0.1366
+            ],
+            [
+                "mgie",
+                0.074
+            ]
+        ]
+    },
+    "129": {
+        "image": "0129.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5766
+            ],
+            [
+                "instruct-diffusion",
+                0.5529
+            ],
+            [
+                "hive",
+                0.5184
+            ],
+            [
+                "instructpix2pix",
+                0.4471
+            ],
+            [
+                "mgie",
+                0.4325
+            ],
+            [
+                "hqedit",
+                0.4152
+            ],
+            [
+                "iedit",
+                0.4151
+            ],
+            [
+                "any2pix",
+                0.3745
+            ]
+        ]
+    },
+    "130": {
+        "image": "0130.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5692
+            ],
+            [
+                "instruct-diffusion",
+                0.5464
+            ],
+            [
+                "hive",
+                0.4927
+            ],
+            [
+                "hqedit",
+                0.4345
+            ],
+            [
+                "mgie",
+                0.426
+            ],
+            [
+                "iedit",
+                0.3999
+            ],
+            [
+                "any2pix",
+                0.3698
+            ],
+            [
+                "instructpix2pix",
+                0.2359
+            ]
+        ]
+    },
+    "131": {
+        "image": "0131.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6027
+            ],
+            [
+                "instructpix2pix",
+                0.5933
+            ],
+            [
+                "instruct-diffusion",
+                0.5316
+            ],
+            [
+                "hive",
+                0.5206
+            ],
+            [
+                "mgie",
+                0.4879
+            ],
+            [
+                "iedit",
+                0.4037
+            ],
+            [
+                "any2pix",
+                0.3648
+            ],
+            [
+                "hqedit",
+                0.3378
+            ]
+        ]
+    },
+    "132": {
+        "image": "0132.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4756
+            ],
+            [
+                "hive",
+                0.4557
+            ],
+            [
+                "instruct-diffusion",
+                0.4234
+            ],
+            [
+                "any2pix",
+                0.4093
+            ],
+            [
+                "iedit",
+                0.3912
+            ],
+            [
+                "hqedit",
+                0.3582
+            ],
+            [
+                "mgie",
+                0.2669
+            ],
+            [
+                "instructpix2pix",
+                0.2618
+            ]
+        ]
+    },
+    "133": {
+        "image": "0133.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.427
+            ],
+            [
+                "hive",
+                0.4045
+            ],
+            [
+                "mgie",
+                0.4
+            ],
+            [
+                "magicbrush",
+                0.3896
+            ],
+            [
+                "hqedit",
+                0.3753
+            ],
+            [
+                "iedit",
+                0.3349
+            ],
+            [
+                "any2pix",
+                0.3187
+            ],
+            [
+                "instructpix2pix",
+                0.258
+            ]
+        ]
+    },
+    "134": {
+        "image": "0134.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4473
+            ],
+            [
+                "hive",
+                0.4468
+            ],
+            [
+                "instruct-diffusion",
+                0.4348
+            ],
+            [
+                "hqedit",
+                0.3929
+            ],
+            [
+                "any2pix",
+                0.374
+            ],
+            [
+                "iedit",
+                0.3647
+            ],
+            [
+                "instructpix2pix",
+                0.313
+            ],
+            [
+                "mgie",
+                0.0334
+            ]
+        ]
+    },
+    "135": {
+        "image": "0135.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.4114
+            ],
+            [
+                "hive",
+                0.3831
+            ],
+            [
+                "instructpix2pix",
+                0.3628
+            ],
+            [
+                "magicbrush",
+                0.3604
+            ],
+            [
+                "hqedit",
+                0.3467
+            ],
+            [
+                "any2pix",
+                0.3282
+            ],
+            [
+                "iedit",
+                0.3025
+            ],
+            [
+                "mgie",
+                0.1655
+            ]
+        ]
+    },
+    "136": {
+        "image": "0136.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.484
+            ],
+            [
+                "any2pix",
+                0.4712
+            ],
+            [
+                "instruct-diffusion",
+                0.4634
+            ],
+            [
+                "instructpix2pix",
+                0.4313
+            ],
+            [
+                "hive",
+                0.431
+            ],
+            [
+                "iedit",
+                0.4164
+            ],
+            [
+                "hqedit",
+                0.3987
+            ],
+            [
+                "mgie",
+                0.3254
+            ]
+        ]
+    },
+    "137": {
+        "image": "0137.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7367
+            ],
+            [
+                "instructpix2pix",
+                0.7321
+            ],
+            [
+                "mgie",
+                0.7094
+            ],
+            [
+                "instruct-diffusion",
+                0.6256
+            ],
+            [
+                "hive",
+                0.5808
+            ],
+            [
+                "iedit",
+                0.5141
+            ],
+            [
+                "any2pix",
+                0.3304
+            ],
+            [
+                "hqedit",
+                0.283
+            ]
+        ]
+    },
+    "138": {
+        "image": "0138.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7268
+            ],
+            [
+                "magicbrush",
+                0.7076
+            ],
+            [
+                "instruct-diffusion",
+                0.667
+            ],
+            [
+                "hive",
+                0.6296
+            ],
+            [
+                "iedit",
+                0.5062
+            ],
+            [
+                "hqedit",
+                0.3565
+            ],
+            [
+                "instructpix2pix",
+                0.3451
+            ],
+            [
+                "any2pix",
+                0.3257
+            ]
+        ]
+    },
+    "139": {
+        "image": "0139.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3813
+            ],
+            [
+                "instructpix2pix",
+                0.3255
+            ],
+            [
+                "any2pix",
+                0.2956
+            ],
+            [
+                "instruct-diffusion",
+                0.2864
+            ],
+            [
+                "magicbrush",
+                0.2863
+            ],
+            [
+                "hqedit",
+                0.2809
+            ],
+            [
+                "iedit",
+                0.2762
+            ],
+            [
+                "hive",
+                0.1777
+            ]
+        ]
+    },
+    "140": {
+        "image": "0140.png",
+        "dataset": "ShadowRemoval",
+        "prompt": "Remove the shadow from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.3553
+            ],
+            [
+                "magicbrush",
+                0.3539
+            ],
+            [
+                "instruct-diffusion",
+                0.3466
+            ],
+            [
+                "hqedit",
+                0.318
+            ],
+            [
+                "instructpix2pix",
+                0.2824
+            ],
+            [
+                "iedit",
+                0.2737
+            ],
+            [
+                "any2pix",
+                0.2534
+            ],
+            [
+                "mgie",
+                0.1673
+            ]
+        ]
+    }
+}

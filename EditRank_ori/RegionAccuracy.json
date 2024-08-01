@@ -1,0 +1,5742 @@
+{
+    "0": {
+        "image": "0000.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the bear to brown",
+        "evaluation": "RegionAccuracy",
+        "type": "animal",
+        "model_rank": [
+            [
+                "iedit",
+                0.4744
+            ],
+            [
+                "mgie",
+                0.4445
+            ],
+            [
+                "any2pix",
+                0.3
+            ],
+            [
+                "hive",
+                0.2715
+            ],
+            [
+                "instruct-diffusion",
+                0.2681
+            ],
+            [
+                "magicbrush",
+                0.2671
+            ],
+            [
+                "instructpix2pix",
+                0.2563
+            ],
+            [
+                "hqedit",
+                0.2528
+            ]
+        ]
+    },
+    "1": {
+        "image": "0001.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the clothes on man to red",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.8715
+            ],
+            [
+                "mgie",
+                0.8627
+            ],
+            [
+                "magicbrush",
+                0.5859
+            ],
+            [
+                "instruct-diffusion",
+                0.5784
+            ],
+            [
+                "instructpix2pix",
+                0.5512
+            ],
+            [
+                "hive",
+                0.5015
+            ],
+            [
+                "any2pix",
+                0.4922
+            ],
+            [
+                "hqedit",
+                0.3487
+            ]
+        ]
+    },
+    "2": {
+        "image": "0002.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the sky to black",
+        "evaluation": "RegionAccuracy",
+        "type": "scenery",
+        "model_rank": [
+            [
+                "iedit",
+                0.7636
+            ],
+            [
+                "magicbrush",
+                0.7295
+            ],
+            [
+                "mgie",
+                0.7258
+            ],
+            [
+                "instruct-diffusion",
+                0.7227
+            ],
+            [
+                "instructpix2pix",
+                0.6702
+            ],
+            [
+                "hive",
+                0.6638
+            ],
+            [
+                "hqedit",
+                0.5308
+            ],
+            [
+                "any2pix",
+                0.5042
+            ]
+        ]
+    },
+    "3": {
+        "image": "0003.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the banana to green",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.6261
+            ],
+            [
+                "mgie",
+                0.5789
+            ],
+            [
+                "magicbrush",
+                0.5727
+            ],
+            [
+                "instruct-diffusion",
+                0.5673
+            ],
+            [
+                "instructpix2pix",
+                0.566
+            ],
+            [
+                "hive",
+                0.4581
+            ],
+            [
+                "hqedit",
+                0.2714
+            ],
+            [
+                "any2pix",
+                0.2204
+            ]
+        ]
+    },
+    "4": {
+        "image": "0004.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the cake to blue",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.9173
+            ],
+            [
+                "mgie",
+                0.898
+            ],
+            [
+                "magicbrush",
+                0.7042
+            ],
+            [
+                "instruct-diffusion",
+                0.7007
+            ],
+            [
+                "instructpix2pix",
+                0.6801
+            ],
+            [
+                "hqedit",
+                0.6436
+            ],
+            [
+                "any2pix",
+                0.5992
+            ],
+            [
+                "hive",
+                0.5599
+            ]
+        ]
+    },
+    "5": {
+        "image": "0005.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the sheep to white",
+        "evaluation": "RegionAccuracy",
+        "type": "animal",
+        "model_rank": [
+            [
+                "iedit",
+                0.6236
+            ],
+            [
+                "mgie",
+                0.6038
+            ],
+            [
+                "magicbrush",
+                0.5572
+            ],
+            [
+                "instruct-diffusion",
+                0.5534
+            ],
+            [
+                "hive",
+                0.5405
+            ],
+            [
+                "instructpix2pix",
+                0.5242
+            ],
+            [
+                "any2pix",
+                0.4391
+            ],
+            [
+                "hqedit",
+                0.4245
+            ]
+        ]
+    },
+    "6": {
+        "image": "0006.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the train to red",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "mgie",
+                0.5504
+            ],
+            [
+                "iedit",
+                0.5412
+            ],
+            [
+                "hive",
+                0.3857
+            ],
+            [
+                "instruct-diffusion",
+                0.3342
+            ],
+            [
+                "magicbrush",
+                0.3304
+            ],
+            [
+                "instructpix2pix",
+                0.3265
+            ],
+            [
+                "any2pix",
+                0.2805
+            ],
+            [
+                "hqedit",
+                0.2678
+            ]
+        ]
+    },
+    "7": {
+        "image": "0007.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the land to white",
+        "evaluation": "RegionAccuracy",
+        "type": "scenery",
+        "model_rank": [
+            [
+                "iedit",
+                0.8042
+            ],
+            [
+                "hive",
+                0.5456
+            ],
+            [
+                "mgie",
+                0.5372
+            ],
+            [
+                "hqedit",
+                0.51
+            ],
+            [
+                "any2pix",
+                0.5065
+            ],
+            [
+                "instructpix2pix",
+                0.4751
+            ],
+            [
+                "instruct-diffusion",
+                0.4691
+            ],
+            [
+                "magicbrush",
+                0.4593
+            ]
+        ]
+    },
+    "8": {
+        "image": "0008.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the flowers to yellow",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.8361
+            ],
+            [
+                "mgie",
+                0.7429
+            ],
+            [
+                "instruct-diffusion",
+                0.677
+            ],
+            [
+                "magicbrush",
+                0.6577
+            ],
+            [
+                "any2pix",
+                0.5355
+            ],
+            [
+                "hive",
+                0.4267
+            ],
+            [
+                "instructpix2pix",
+                0.4144
+            ],
+            [
+                "hqedit",
+                0.3156
+            ]
+        ]
+    },
+    "9": {
+        "image": "0009.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the boy's hair to black",
+        "evaluation": "RegionAccuracy",
+        "type": "human",
+        "model_rank": [
+            [
+                "iedit",
+                0.7266
+            ],
+            [
+                "mgie",
+                0.7232
+            ],
+            [
+                "magicbrush",
+                0.6799
+            ],
+            [
+                "instruct-diffusion",
+                0.6664
+            ],
+            [
+                "instructpix2pix",
+                0.6365
+            ],
+            [
+                "hive",
+                0.5536
+            ],
+            [
+                "any2pix",
+                0.3766
+            ],
+            [
+                "hqedit",
+                0.2979
+            ]
+        ]
+    },
+    "10": {
+        "image": "0010.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the bear to black",
+        "evaluation": "RegionAccuracy",
+        "type": "animal",
+        "model_rank": [
+            [
+                "iedit",
+                0.488
+            ],
+            [
+                "mgie",
+                0.4751
+            ],
+            [
+                "magicbrush",
+                0.4347
+            ],
+            [
+                "instruct-diffusion",
+                0.4257
+            ],
+            [
+                "hive",
+                0.4035
+            ],
+            [
+                "instructpix2pix",
+                0.3597
+            ],
+            [
+                "any2pix",
+                0.2151
+            ],
+            [
+                "hqedit",
+                0.1758
+            ]
+        ]
+    },
+    "11": {
+        "image": "0011.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the umbrella to green",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.7433
+            ],
+            [
+                "mgie",
+                0.7318
+            ],
+            [
+                "magicbrush",
+                0.665
+            ],
+            [
+                "instruct-diffusion",
+                0.6635
+            ],
+            [
+                "instructpix2pix",
+                0.6215
+            ],
+            [
+                "hive",
+                0.4947
+            ],
+            [
+                "any2pix",
+                0.3559
+            ],
+            [
+                "hqedit",
+                0.2585
+            ]
+        ]
+    },
+    "12": {
+        "image": "0012.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the flowers to purple",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.8851
+            ],
+            [
+                "mgie",
+                0.876
+            ],
+            [
+                "magicbrush",
+                0.8249
+            ],
+            [
+                "instruct-diffusion",
+                0.8207
+            ],
+            [
+                "hive",
+                0.7482
+            ],
+            [
+                "instructpix2pix",
+                0.7339
+            ],
+            [
+                "any2pix",
+                0.5878
+            ],
+            [
+                "hqedit",
+                0.5245
+            ]
+        ]
+    },
+    "13": {
+        "image": "0013.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the koala to black",
+        "evaluation": "RegionAccuracy",
+        "type": "animal",
+        "model_rank": [
+            [
+                "iedit",
+                0.9612
+            ],
+            [
+                "hive",
+                0.9369
+            ],
+            [
+                "instruct-diffusion",
+                0.9352
+            ],
+            [
+                "instructpix2pix",
+                0.9331
+            ],
+            [
+                "magicbrush",
+                0.925
+            ],
+            [
+                "mgie",
+                0.913
+            ],
+            [
+                "any2pix",
+                0.892
+            ],
+            [
+                "hqedit",
+                0.8212
+            ]
+        ]
+    },
+    "14": {
+        "image": "0014.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the bus to blue",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "mgie",
+                0.9334
+            ],
+            [
+                "iedit",
+                0.9226
+            ],
+            [
+                "instruct-diffusion",
+                0.9085
+            ],
+            [
+                "magicbrush",
+                0.902
+            ],
+            [
+                "hive",
+                0.8805
+            ],
+            [
+                "instructpix2pix",
+                0.8249
+            ],
+            [
+                "any2pix",
+                0.747
+            ],
+            [
+                "hqedit",
+                0.7232
+            ]
+        ]
+    },
+    "15": {
+        "image": "0015.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the cap of the woman to white",
+        "evaluation": "RegionAccuracy",
+        "type": "human",
+        "model_rank": [
+            [
+                "mgie",
+                0.7746
+            ],
+            [
+                "iedit",
+                0.7486
+            ],
+            [
+                "instruct-diffusion",
+                0.3414
+            ],
+            [
+                "magicbrush",
+                0.3381
+            ],
+            [
+                "any2pix",
+                0.3289
+            ],
+            [
+                "hqedit",
+                0.2915
+            ],
+            [
+                "instructpix2pix",
+                0.2902
+            ],
+            [
+                "hive",
+                0.2276
+            ]
+        ]
+    },
+    "16": {
+        "image": "0016.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the horse to black",
+        "evaluation": "RegionAccuracy",
+        "type": "animal",
+        "model_rank": [
+            [
+                "iedit",
+                0.4341
+            ],
+            [
+                "instruct-diffusion",
+                0.3965
+            ],
+            [
+                "instructpix2pix",
+                0.3928
+            ],
+            [
+                "magicbrush",
+                0.391
+            ],
+            [
+                "mgie",
+                0.3696
+            ],
+            [
+                "hive",
+                0.3621
+            ],
+            [
+                "any2pix",
+                0.2713
+            ],
+            [
+                "hqedit",
+                0.2708
+            ]
+        ]
+    },
+    "17": {
+        "image": "0017.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the toilet to yellow",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.8493
+            ],
+            [
+                "magicbrush",
+                0.8311
+            ],
+            [
+                "mgie",
+                0.8279
+            ],
+            [
+                "instruct-diffusion",
+                0.8242
+            ],
+            [
+                "hqedit",
+                0.6851
+            ],
+            [
+                "instructpix2pix",
+                0.6073
+            ],
+            [
+                "hive",
+                0.5332
+            ],
+            [
+                "any2pix",
+                0.5243
+            ]
+        ]
+    },
+    "18": {
+        "image": "0018.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the seawater to blue",
+        "evaluation": "RegionAccuracy",
+        "type": "scenery",
+        "model_rank": [
+            [
+                "iedit",
+                0.987
+            ],
+            [
+                "mgie",
+                0.9852
+            ],
+            [
+                "instruct-diffusion",
+                0.9765
+            ],
+            [
+                "magicbrush",
+                0.9764
+            ],
+            [
+                "hive",
+                0.9762
+            ],
+            [
+                "instructpix2pix",
+                0.9756
+            ],
+            [
+                "any2pix",
+                0.9735
+            ],
+            [
+                "hqedit",
+                0.97
+            ]
+        ]
+    },
+    "19": {
+        "image": "0019.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the apple to blue",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.9222
+            ],
+            [
+                "any2pix",
+                0.8256
+            ],
+            [
+                "mgie",
+                0.8216
+            ],
+            [
+                "instructpix2pix",
+                0.7972
+            ],
+            [
+                "instruct-diffusion",
+                0.7806
+            ],
+            [
+                "magicbrush",
+                0.7791
+            ],
+            [
+                "hive",
+                0.7736
+            ],
+            [
+                "hqedit",
+                0.6221
+            ]
+        ]
+    },
+    "20": {
+        "image": "0020.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the clothes on the girl to yellow",
+        "evaluation": "RegionAccuracy",
+        "type": "human",
+        "model_rank": [
+            [
+                "mgie",
+                0.8737
+            ],
+            [
+                "iedit",
+                0.8686
+            ],
+            [
+                "magicbrush",
+                0.8449
+            ],
+            [
+                "instruct-diffusion",
+                0.8446
+            ],
+            [
+                "instructpix2pix",
+                0.8237
+            ],
+            [
+                "hive",
+                0.7763
+            ],
+            [
+                "any2pix",
+                0.6368
+            ],
+            [
+                "hqedit",
+                0.5318
+            ]
+        ]
+    },
+    "21": {
+        "image": "0021.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the cup to green",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "mgie",
+                0.5863
+            ],
+            [
+                "iedit",
+                0.538
+            ],
+            [
+                "hqedit",
+                0.3963
+            ],
+            [
+                "magicbrush",
+                0.3911
+            ],
+            [
+                "any2pix",
+                0.3902
+            ],
+            [
+                "hive",
+                0.3863
+            ],
+            [
+                "instruct-diffusion",
+                0.3842
+            ],
+            [
+                "instructpix2pix",
+                0.3807
+            ]
+        ]
+    },
+    "22": {
+        "image": "0022.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the dog to brown",
+        "evaluation": "RegionAccuracy",
+        "type": "animal",
+        "model_rank": [
+            [
+                "iedit",
+                0.4929
+            ],
+            [
+                "mgie",
+                0.4676
+            ],
+            [
+                "any2pix",
+                0.3858
+            ],
+            [
+                "hive",
+                0.3831
+            ],
+            [
+                "hqedit",
+                0.367
+            ],
+            [
+                "magicbrush",
+                0.3551
+            ],
+            [
+                "instruct-diffusion",
+                0.3465
+            ],
+            [
+                "instructpix2pix",
+                0.3288
+            ]
+        ]
+    },
+    "23": {
+        "image": "0023.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the teddy bear to red",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.8952
+            ],
+            [
+                "mgie",
+                0.8825
+            ],
+            [
+                "magicbrush",
+                0.8803
+            ],
+            [
+                "instruct-diffusion",
+                0.8739
+            ],
+            [
+                "instructpix2pix",
+                0.8027
+            ],
+            [
+                "hive",
+                0.7654
+            ],
+            [
+                "any2pix",
+                0.6806
+            ],
+            [
+                "hqedit",
+                0.6373
+            ]
+        ]
+    },
+    "24": {
+        "image": "0024.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the dog to brown",
+        "evaluation": "RegionAccuracy",
+        "type": "animal",
+        "model_rank": [
+            [
+                "mgie",
+                0.555
+            ],
+            [
+                "iedit",
+                0.5538
+            ],
+            [
+                "magicbrush",
+                0.5413
+            ],
+            [
+                "instruct-diffusion",
+                0.5321
+            ],
+            [
+                "hive",
+                0.5302
+            ],
+            [
+                "instructpix2pix",
+                0.5271
+            ],
+            [
+                "any2pix",
+                0.3617
+            ],
+            [
+                "hqedit",
+                0.2511
+            ]
+        ]
+    },
+    "25": {
+        "image": "0025.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the horse to red",
+        "evaluation": "RegionAccuracy",
+        "type": "animal",
+        "model_rank": [
+            [
+                "iedit",
+                0.5096
+            ],
+            [
+                "mgie",
+                0.5046
+            ],
+            [
+                "magicbrush",
+                0.4999
+            ],
+            [
+                "instruct-diffusion",
+                0.4936
+            ],
+            [
+                "instructpix2pix",
+                0.4884
+            ],
+            [
+                "hive",
+                0.4568
+            ],
+            [
+                "any2pix",
+                0.3738
+            ],
+            [
+                "hqedit",
+                0.2676
+            ]
+        ]
+    },
+    "26": {
+        "image": "0026.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the car to white",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.8164
+            ],
+            [
+                "mgie",
+                0.8033
+            ],
+            [
+                "hive",
+                0.7416
+            ],
+            [
+                "instruct-diffusion",
+                0.7292
+            ],
+            [
+                "magicbrush",
+                0.7285
+            ],
+            [
+                "instructpix2pix",
+                0.7112
+            ],
+            [
+                "any2pix",
+                0.6567
+            ],
+            [
+                "hqedit",
+                0.6115
+            ]
+        ]
+    },
+    "27": {
+        "image": "0027.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the phone to white",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.7744
+            ],
+            [
+                "any2pix",
+                0.6699
+            ],
+            [
+                "hive",
+                0.6428
+            ],
+            [
+                "hqedit",
+                0.6367
+            ],
+            [
+                "instruct-diffusion",
+                0.6188
+            ],
+            [
+                "magicbrush",
+                0.6071
+            ],
+            [
+                "instructpix2pix",
+                0.5242
+            ],
+            [
+                "mgie",
+                0.0641
+            ]
+        ]
+    },
+    "28": {
+        "image": "0028.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the apple to green",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "mgie",
+                0.8771
+            ],
+            [
+                "iedit",
+                0.875
+            ],
+            [
+                "magicbrush",
+                0.8589
+            ],
+            [
+                "instruct-diffusion",
+                0.8546
+            ],
+            [
+                "instructpix2pix",
+                0.8069
+            ],
+            [
+                "hive",
+                0.7863
+            ],
+            [
+                "hqedit",
+                0.667
+            ],
+            [
+                "any2pix",
+                0.4849
+            ]
+        ]
+    },
+    "29": {
+        "image": "0029.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the woman's hat to pink",
+        "evaluation": "RegionAccuracy",
+        "type": "human",
+        "model_rank": [
+            [
+                "iedit",
+                0.4529
+            ],
+            [
+                "mgie",
+                0.4208
+            ],
+            [
+                "magicbrush",
+                0.3962
+            ],
+            [
+                "instruct-diffusion",
+                0.3891
+            ],
+            [
+                "instructpix2pix",
+                0.3822
+            ],
+            [
+                "hive",
+                0.3545
+            ],
+            [
+                "any2pix",
+                0.2268
+            ],
+            [
+                "hqedit",
+                0.1916
+            ]
+        ]
+    },
+    "30": {
+        "image": "0030.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the cattle to black",
+        "evaluation": "RegionAccuracy",
+        "type": "animal",
+        "model_rank": [
+            [
+                "iedit",
+                0.7359
+            ],
+            [
+                "mgie",
+                0.7289
+            ],
+            [
+                "hqedit",
+                0.6336
+            ],
+            [
+                "hive",
+                0.5793
+            ],
+            [
+                "magicbrush",
+                0.5674
+            ],
+            [
+                "instruct-diffusion",
+                0.5669
+            ],
+            [
+                "any2pix",
+                0.513
+            ],
+            [
+                "instructpix2pix",
+                0.4865
+            ]
+        ]
+    },
+    "31": {
+        "image": "0031.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the motorcycle to blue",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.8384
+            ],
+            [
+                "mgie",
+                0.8197
+            ],
+            [
+                "magicbrush",
+                0.6365
+            ],
+            [
+                "hive",
+                0.6355
+            ],
+            [
+                "instruct-diffusion",
+                0.6351
+            ],
+            [
+                "instructpix2pix",
+                0.6288
+            ],
+            [
+                "hqedit",
+                0.6023
+            ],
+            [
+                "any2pix",
+                0.5985
+            ]
+        ]
+    },
+    "32": {
+        "image": "0032.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the football field to blue",
+        "evaluation": "RegionAccuracy",
+        "type": "scenery",
+        "model_rank": [
+            [
+                "iedit",
+                0.8117
+            ],
+            [
+                "magicbrush",
+                0.7667
+            ],
+            [
+                "instruct-diffusion",
+                0.7606
+            ],
+            [
+                "hive",
+                0.7244
+            ],
+            [
+                "instructpix2pix",
+                0.7193
+            ],
+            [
+                "hqedit",
+                0.4528
+            ],
+            [
+                "any2pix",
+                0.4421
+            ],
+            [
+                "mgie",
+                0.4101
+            ]
+        ]
+    },
+    "33": {
+        "image": "0033.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the orange to green",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.97
+            ],
+            [
+                "mgie",
+                0.9657
+            ],
+            [
+                "hive",
+                0.8755
+            ],
+            [
+                "magicbrush",
+                0.8724
+            ],
+            [
+                "instructpix2pix",
+                0.8278
+            ],
+            [
+                "instruct-diffusion",
+                0.8177
+            ],
+            [
+                "any2pix",
+                0.8122
+            ],
+            [
+                "hqedit",
+                0.7829
+            ]
+        ]
+    },
+    "34": {
+        "image": "0034.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the woman's pinafore to red",
+        "evaluation": "RegionAccuracy",
+        "type": "human",
+        "model_rank": [
+            [
+                "mgie",
+                0.879
+            ],
+            [
+                "iedit",
+                0.8511
+            ],
+            [
+                "hive",
+                0.7028
+            ],
+            [
+                "instruct-diffusion",
+                0.6733
+            ],
+            [
+                "magicbrush",
+                0.6662
+            ],
+            [
+                "any2pix",
+                0.62
+            ],
+            [
+                "instructpix2pix",
+                0.5903
+            ],
+            [
+                "hqedit",
+                0.5561
+            ]
+        ]
+    },
+    "35": {
+        "image": "0035.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the parrot to yellow",
+        "evaluation": "RegionAccuracy",
+        "type": "animal",
+        "model_rank": [
+            [
+                "iedit",
+                0.6176
+            ],
+            [
+                "mgie",
+                0.6031
+            ],
+            [
+                "magicbrush",
+                0.5912
+            ],
+            [
+                "instruct-diffusion",
+                0.5843
+            ],
+            [
+                "hive",
+                0.5742
+            ],
+            [
+                "instructpix2pix",
+                0.5145
+            ],
+            [
+                "any2pix",
+                0.4797
+            ],
+            [
+                "hqedit",
+                0.4718
+            ]
+        ]
+    },
+    "36": {
+        "image": "0036.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the arch bridge to black",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.612
+            ],
+            [
+                "mgie",
+                0.5876
+            ],
+            [
+                "magicbrush",
+                0.5856
+            ],
+            [
+                "instruct-diffusion",
+                0.5759
+            ],
+            [
+                "instructpix2pix",
+                0.5653
+            ],
+            [
+                "hive",
+                0.5291
+            ],
+            [
+                "any2pix",
+                0.4265
+            ],
+            [
+                "hqedit",
+                0.3891
+            ]
+        ]
+    },
+    "37": {
+        "image": "0037.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the river to blue",
+        "evaluation": "RegionAccuracy",
+        "type": "scenery",
+        "model_rank": [
+            [
+                "iedit",
+                0.7424
+            ],
+            [
+                "mgie",
+                0.7291
+            ],
+            [
+                "hqedit",
+                0.5515
+            ],
+            [
+                "magicbrush",
+                0.5386
+            ],
+            [
+                "hive",
+                0.5339
+            ],
+            [
+                "instructpix2pix",
+                0.5286
+            ],
+            [
+                "instruct-diffusion",
+                0.5213
+            ],
+            [
+                "any2pix",
+                0.5149
+            ]
+        ]
+    },
+    "38": {
+        "image": "0038.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the broccoli to blue",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.9336
+            ],
+            [
+                "mgie",
+                0.9086
+            ],
+            [
+                "magicbrush",
+                0.7632
+            ],
+            [
+                "hqedit",
+                0.7629
+            ],
+            [
+                "hive",
+                0.7494
+            ],
+            [
+                "any2pix",
+                0.7467
+            ],
+            [
+                "instruct-diffusion",
+                0.7424
+            ],
+            [
+                "instructpix2pix",
+                0.6802
+            ]
+        ]
+    },
+    "39": {
+        "image": "0039.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the woman's shoes to yellow",
+        "evaluation": "RegionAccuracy",
+        "type": "human",
+        "model_rank": [
+            [
+                "iedit",
+                0.8207
+            ],
+            [
+                "mgie",
+                0.8073
+            ],
+            [
+                "magicbrush",
+                0.6034
+            ],
+            [
+                "instruct-diffusion",
+                0.5993
+            ],
+            [
+                "hqedit",
+                0.5486
+            ],
+            [
+                "hive",
+                0.5147
+            ],
+            [
+                "any2pix",
+                0.5087
+            ],
+            [
+                "instructpix2pix",
+                0.4244
+            ]
+        ]
+    },
+    "40": {
+        "image": "0040.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the cat to white",
+        "evaluation": "RegionAccuracy",
+        "type": "animal",
+        "model_rank": [
+            [
+                "mgie",
+                0.6998
+            ],
+            [
+                "iedit",
+                0.6957
+            ],
+            [
+                "magicbrush",
+                0.6652
+            ],
+            [
+                "instruct-diffusion",
+                0.6643
+            ],
+            [
+                "instructpix2pix",
+                0.6492
+            ],
+            [
+                "hive",
+                0.6008
+            ],
+            [
+                "any2pix",
+                0.4672
+            ],
+            [
+                "hqedit",
+                0.4397
+            ]
+        ]
+    },
+    "41": {
+        "image": "0041.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the fire hydrants to yellow",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.5171
+            ],
+            [
+                "instruct-diffusion",
+                0.4554
+            ],
+            [
+                "instructpix2pix",
+                0.4549
+            ],
+            [
+                "hive",
+                0.444
+            ],
+            [
+                "mgie",
+                0.4429
+            ],
+            [
+                "magicbrush",
+                0.4419
+            ],
+            [
+                "hqedit",
+                0.2396
+            ],
+            [
+                "any2pix",
+                0.2366
+            ]
+        ]
+    },
+    "42": {
+        "image": "0042.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the rose to blue",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.9588
+            ],
+            [
+                "instruct-diffusion",
+                0.9347
+            ],
+            [
+                "magicbrush",
+                0.9319
+            ],
+            [
+                "mgie",
+                0.926
+            ],
+            [
+                "any2pix",
+                0.6672
+            ],
+            [
+                "instructpix2pix",
+                0.4879
+            ],
+            [
+                "hive",
+                0.4676
+            ],
+            [
+                "hqedit",
+                0.2828
+            ]
+        ]
+    },
+    "43": {
+        "image": "0043.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the baby from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "human",
+        "model_rank": [
+            [
+                "hqedit",
+                0.5746
+            ],
+            [
+                "magicbrush",
+                0.4987
+            ],
+            [
+                "hive",
+                0.4983
+            ],
+            [
+                "instruct-diffusion",
+                0.4958
+            ],
+            [
+                "iedit",
+                0.4937
+            ],
+            [
+                "instructpix2pix",
+                0.4921
+            ],
+            [
+                "mgie",
+                0.4906
+            ],
+            [
+                "any2pix",
+                0.4694
+            ]
+        ]
+    },
+    "44": {
+        "image": "0044.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the man's helmet to red",
+        "evaluation": "RegionAccuracy",
+        "type": "human",
+        "model_rank": [
+            [
+                "iedit",
+                0.4379
+            ],
+            [
+                "mgie",
+                0.4218
+            ],
+            [
+                "hive",
+                0.1979
+            ],
+            [
+                "any2pix",
+                0.1614
+            ],
+            [
+                "instruct-diffusion",
+                0.1311
+            ],
+            [
+                "magicbrush",
+                0.1269
+            ],
+            [
+                "hqedit",
+                0.1269
+            ],
+            [
+                "instructpix2pix",
+                0.1215
+            ]
+        ]
+    },
+    "45": {
+        "image": "0045.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the horse to black",
+        "evaluation": "RegionAccuracy",
+        "type": "animal",
+        "model_rank": [
+            [
+                "iedit",
+                0.9374
+            ],
+            [
+                "mgie",
+                0.8691
+            ],
+            [
+                "magicbrush",
+                0.6966
+            ],
+            [
+                "hive",
+                0.6672
+            ],
+            [
+                "instructpix2pix",
+                0.6641
+            ],
+            [
+                "instruct-diffusion",
+                0.6598
+            ],
+            [
+                "any2pix",
+                0.6323
+            ],
+            [
+                "hqedit",
+                0.6095
+            ]
+        ]
+    },
+    "46": {
+        "image": "0046.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the airplane to blue",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.7522
+            ],
+            [
+                "mgie",
+                0.7413
+            ],
+            [
+                "magicbrush",
+                0.7228
+            ],
+            [
+                "instruct-diffusion",
+                0.7184
+            ],
+            [
+                "instructpix2pix",
+                0.7117
+            ],
+            [
+                "hive",
+                0.7079
+            ],
+            [
+                "hqedit",
+                0.6246
+            ],
+            [
+                "any2pix",
+                0.5456
+            ]
+        ]
+    },
+    "47": {
+        "image": "0047.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the baseball field to yellow",
+        "evaluation": "RegionAccuracy",
+        "type": "scenery",
+        "model_rank": [
+            [
+                "iedit",
+                0.9806
+            ],
+            [
+                "instruct-diffusion",
+                0.9757
+            ],
+            [
+                "instructpix2pix",
+                0.9745
+            ],
+            [
+                "mgie",
+                0.974
+            ],
+            [
+                "magicbrush",
+                0.9723
+            ],
+            [
+                "hive",
+                0.9655
+            ],
+            [
+                "hqedit",
+                0.9453
+            ],
+            [
+                "any2pix",
+                0.94
+            ]
+        ]
+    },
+    "48": {
+        "image": "0048.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the grove to green",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.7855
+            ],
+            [
+                "hive",
+                0.6691
+            ],
+            [
+                "mgie",
+                0.618
+            ],
+            [
+                "magicbrush",
+                0.5981
+            ],
+            [
+                "instruct-diffusion",
+                0.5919
+            ],
+            [
+                "hqedit",
+                0.5693
+            ],
+            [
+                "any2pix",
+                0.5575
+            ],
+            [
+                "instructpix2pix",
+                0.5007
+            ]
+        ]
+    },
+    "49": {
+        "image": "0049.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the man's clothes to red",
+        "evaluation": "RegionAccuracy",
+        "type": "human",
+        "model_rank": [
+            [
+                "iedit",
+                0.8164
+            ],
+            [
+                "magicbrush",
+                0.8058
+            ],
+            [
+                "mgie",
+                0.7929
+            ],
+            [
+                "instruct-diffusion",
+                0.7867
+            ],
+            [
+                "instructpix2pix",
+                0.7126
+            ],
+            [
+                "hqedit",
+                0.5862
+            ],
+            [
+                "any2pix",
+                0.564
+            ],
+            [
+                "hive",
+                0.5229
+            ]
+        ]
+    },
+    "50": {
+        "image": "0050.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the bicycle from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.4419
+            ],
+            [
+                "mgie",
+                0.4078
+            ],
+            [
+                "instruct-diffusion",
+                0.3932
+            ],
+            [
+                "magicbrush",
+                0.3813
+            ],
+            [
+                "instructpix2pix",
+                0.3697
+            ],
+            [
+                "hive",
+                0.2955
+            ],
+            [
+                "any2pix",
+                0.2396
+            ],
+            [
+                "hqedit",
+                0.2083
+            ]
+        ]
+    },
+    "51": {
+        "image": "0051.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the fire hydrant from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.7505
+            ],
+            [
+                "mgie",
+                0.7394
+            ],
+            [
+                "instruct-diffusion",
+                0.6644
+            ],
+            [
+                "magicbrush",
+                0.655
+            ],
+            [
+                "instructpix2pix",
+                0.5173
+            ],
+            [
+                "any2pix",
+                0.4599
+            ],
+            [
+                "hqedit",
+                0.4277
+            ],
+            [
+                "hive",
+                0.3428
+            ]
+        ]
+    },
+    "52": {
+        "image": "0052.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the bench from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.8515
+            ],
+            [
+                "magicbrush",
+                0.8126
+            ],
+            [
+                "mgie",
+                0.8107
+            ],
+            [
+                "instruct-diffusion",
+                0.8091
+            ],
+            [
+                "instructpix2pix",
+                0.7158
+            ],
+            [
+                "hive",
+                0.6518
+            ],
+            [
+                "hqedit",
+                0.4957
+            ],
+            [
+                "any2pix",
+                0.4584
+            ]
+        ]
+    },
+    "53": {
+        "image": "0053.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Change the color of the sky to black",
+        "evaluation": "RegionAccuracy",
+        "type": "scenery",
+        "model_rank": [
+            [
+                "iedit",
+                0.5067
+            ],
+            [
+                "hqedit",
+                0.5047
+            ],
+            [
+                "magicbrush",
+                0.5014
+            ],
+            [
+                "hive",
+                0.4989
+            ],
+            [
+                "instruct-diffusion",
+                0.4987
+            ],
+            [
+                "any2pix",
+                0.4903
+            ],
+            [
+                "instructpix2pix",
+                0.4759
+            ],
+            [
+                "mgie",
+                0.4679
+            ]
+        ]
+    },
+    "54": {
+        "image": "0054.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the cat from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "animal",
+        "model_rank": [
+            [
+                "iedit",
+                0.6298
+            ],
+            [
+                "magicbrush",
+                0.6053
+            ],
+            [
+                "instruct-diffusion",
+                0.5977
+            ],
+            [
+                "instructpix2pix",
+                0.5919
+            ],
+            [
+                "hive",
+                0.4869
+            ],
+            [
+                "any2pix",
+                0.4412
+            ],
+            [
+                "mgie",
+                0.3654
+            ],
+            [
+                "hqedit",
+                0.3591
+            ]
+        ]
+    },
+    "55": {
+        "image": "0055.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the sun from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "scenery",
+        "model_rank": [
+            [
+                "iedit",
+                0.8983
+            ],
+            [
+                "hive",
+                0.8042
+            ],
+            [
+                "any2pix",
+                0.652
+            ],
+            [
+                "instruct-diffusion",
+                0.5842
+            ],
+            [
+                "magicbrush",
+                0.4601
+            ],
+            [
+                "mgie",
+                0.4456
+            ],
+            [
+                "hqedit",
+                0.387
+            ],
+            [
+                "instructpix2pix",
+                0.302
+            ]
+        ]
+    },
+    "56": {
+        "image": "0056.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the zebra from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "animal",
+        "model_rank": [
+            [
+                "iedit",
+                0.649
+            ],
+            [
+                "mgie",
+                0.4212
+            ],
+            [
+                "any2pix",
+                0.2413
+            ],
+            [
+                "hqedit",
+                0.2403
+            ],
+            [
+                "instruct-diffusion",
+                0.2358
+            ],
+            [
+                "magicbrush",
+                0.2124
+            ],
+            [
+                "hive",
+                0.2101
+            ],
+            [
+                "instructpix2pix",
+                0.1746
+            ]
+        ]
+    },
+    "57": {
+        "image": "0057.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the bucket from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.8498
+            ],
+            [
+                "instruct-diffusion",
+                0.837
+            ],
+            [
+                "magicbrush",
+                0.8306
+            ],
+            [
+                "mgie",
+                0.7554
+            ],
+            [
+                "instructpix2pix",
+                0.7404
+            ],
+            [
+                "hqedit",
+                0.582
+            ],
+            [
+                "any2pix",
+                0.566
+            ],
+            [
+                "hive",
+                0.4079
+            ]
+        ]
+    },
+    "58": {
+        "image": "0058.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the birds from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "animal",
+        "model_rank": [
+            [
+                "iedit",
+                0.2863
+            ],
+            [
+                "hive",
+                0.2595
+            ],
+            [
+                "mgie",
+                0.2588
+            ],
+            [
+                "magicbrush",
+                0.2578
+            ],
+            [
+                "instruct-diffusion",
+                0.2545
+            ],
+            [
+                "instructpix2pix",
+                0.2532
+            ],
+            [
+                "any2pix",
+                0.2034
+            ],
+            [
+                "hqedit",
+                0.1848
+            ]
+        ]
+    },
+    "59": {
+        "image": "0059.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the leaves from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.8934
+            ],
+            [
+                "mgie",
+                0.8837
+            ],
+            [
+                "magicbrush",
+                0.8665
+            ],
+            [
+                "instruct-diffusion",
+                0.8569
+            ],
+            [
+                "instructpix2pix",
+                0.8471
+            ],
+            [
+                "hive",
+                0.8061
+            ],
+            [
+                "hqedit",
+                0.6452
+            ],
+            [
+                "any2pix",
+                0.6167
+            ]
+        ]
+    },
+    "60": {
+        "image": "0060.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the little baby from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "human",
+        "model_rank": [
+            [
+                "iedit",
+                0.9115
+            ],
+            [
+                "hive",
+                0.7014
+            ],
+            [
+                "instruct-diffusion",
+                0.6218
+            ],
+            [
+                "any2pix",
+                0.6188
+            ],
+            [
+                "magicbrush",
+                0.6184
+            ],
+            [
+                "instructpix2pix",
+                0.6154
+            ],
+            [
+                "hqedit",
+                0.4653
+            ],
+            [
+                "mgie",
+                0.3327
+            ]
+        ]
+    },
+    "61": {
+        "image": "0061.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the cattle from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "animal",
+        "model_rank": [
+            [
+                "iedit",
+                0.6735
+            ],
+            [
+                "mgie",
+                0.6577
+            ],
+            [
+                "magicbrush",
+                0.6295
+            ],
+            [
+                "hive",
+                0.6285
+            ],
+            [
+                "instruct-diffusion",
+                0.6272
+            ],
+            [
+                "instructpix2pix",
+                0.6223
+            ],
+            [
+                "any2pix",
+                0.4661
+            ],
+            [
+                "hqedit",
+                0.3477
+            ]
+        ]
+    },
+    "62": {
+        "image": "0062.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the cup from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.5559
+            ],
+            [
+                "magicbrush",
+                0.5256
+            ],
+            [
+                "instruct-diffusion",
+                0.5185
+            ],
+            [
+                "mgie",
+                0.5107
+            ],
+            [
+                "hqedit",
+                0.379
+            ],
+            [
+                "any2pix",
+                0.354
+            ],
+            [
+                "instructpix2pix",
+                0.3354
+            ],
+            [
+                "hive",
+                0.2931
+            ]
+        ]
+    },
+    "63": {
+        "image": "0063.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the boy from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "human",
+        "model_rank": [
+            [
+                "iedit",
+                0.6655
+            ],
+            [
+                "any2pix",
+                0.4198
+            ],
+            [
+                "instruct-diffusion",
+                0.3872
+            ],
+            [
+                "magicbrush",
+                0.3864
+            ],
+            [
+                "instructpix2pix",
+                0.3753
+            ],
+            [
+                "hive",
+                0.3654
+            ],
+            [
+                "hqedit",
+                0.3653
+            ],
+            [
+                "mgie",
+                0.236
+            ]
+        ]
+    },
+    "64": {
+        "image": "0064.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the flowers from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.8579
+            ],
+            [
+                "magicbrush",
+                0.8324
+            ],
+            [
+                "instruct-diffusion",
+                0.8282
+            ],
+            [
+                "hive",
+                0.7994
+            ],
+            [
+                "instructpix2pix",
+                0.6983
+            ],
+            [
+                "mgie",
+                0.6772
+            ],
+            [
+                "any2pix",
+                0.5475
+            ],
+            [
+                "hqedit",
+                0.5354
+            ]
+        ]
+    },
+    "65": {
+        "image": "0065.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the river from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "scenery",
+        "model_rank": [
+            [
+                "iedit",
+                0.7888
+            ],
+            [
+                "mgie",
+                0.7707
+            ],
+            [
+                "instruct-diffusion",
+                0.7477
+            ],
+            [
+                "magicbrush",
+                0.7258
+            ],
+            [
+                "instructpix2pix",
+                0.68
+            ],
+            [
+                "hive",
+                0.661
+            ],
+            [
+                "any2pix",
+                0.593
+            ],
+            [
+                "hqedit",
+                0.5185
+            ]
+        ]
+    },
+    "66": {
+        "image": "0066.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the cattle from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "animal",
+        "model_rank": [
+            [
+                "iedit",
+                0.6454
+            ],
+            [
+                "mgie",
+                0.6188
+            ],
+            [
+                "any2pix",
+                0.5299
+            ],
+            [
+                "hive",
+                0.4942
+            ],
+            [
+                "hqedit",
+                0.4894
+            ],
+            [
+                "magicbrush",
+                0.4512
+            ],
+            [
+                "instruct-diffusion",
+                0.4476
+            ],
+            [
+                "instructpix2pix",
+                0.4468
+            ]
+        ]
+    },
+    "67": {
+        "image": "0067.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the clock from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.7619
+            ],
+            [
+                "mgie",
+                0.74
+            ],
+            [
+                "magicbrush",
+                0.6517
+            ],
+            [
+                "instruct-diffusion",
+                0.6391
+            ],
+            [
+                "hive",
+                0.489
+            ],
+            [
+                "instructpix2pix",
+                0.474
+            ],
+            [
+                "any2pix",
+                0.3035
+            ],
+            [
+                "hqedit",
+                0.2459
+            ]
+        ]
+    },
+    "68": {
+        "image": "0068.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the bus from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.7227
+            ],
+            [
+                "mgie",
+                0.6861
+            ],
+            [
+                "hive",
+                0.5945
+            ],
+            [
+                "any2pix",
+                0.5785
+            ],
+            [
+                "hqedit",
+                0.5689
+            ],
+            [
+                "magicbrush",
+                0.5597
+            ],
+            [
+                "instructpix2pix",
+                0.5507
+            ],
+            [
+                "instruct-diffusion",
+                0.5501
+            ]
+        ]
+    },
+    "69": {
+        "image": "0069.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the brown bear from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "animal",
+        "model_rank": [
+            [
+                "iedit",
+                0.628
+            ],
+            [
+                "mgie",
+                0.5764
+            ],
+            [
+                "hqedit",
+                0.3942
+            ],
+            [
+                "instruct-diffusion",
+                0.3856
+            ],
+            [
+                "magicbrush",
+                0.3778
+            ],
+            [
+                "instructpix2pix",
+                0.3698
+            ],
+            [
+                "hive",
+                0.3314
+            ],
+            [
+                "any2pix",
+                0.3286
+            ]
+        ]
+    },
+    "70": {
+        "image": "0070.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the apple from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "mgie",
+                0.8899
+            ],
+            [
+                "iedit",
+                0.8885
+            ],
+            [
+                "magicbrush",
+                0.8616
+            ],
+            [
+                "instruct-diffusion",
+                0.8527
+            ],
+            [
+                "instructpix2pix",
+                0.8307
+            ],
+            [
+                "hive",
+                0.5208
+            ],
+            [
+                "hqedit",
+                0.4669
+            ],
+            [
+                "any2pix",
+                0.4648
+            ]
+        ]
+    },
+    "71": {
+        "image": "0071.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the horse from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "animal",
+        "model_rank": [
+            [
+                "iedit",
+                0.8161
+            ],
+            [
+                "mgie",
+                0.8087
+            ],
+            [
+                "magicbrush",
+                0.7943
+            ],
+            [
+                "instruct-diffusion",
+                0.7943
+            ],
+            [
+                "instructpix2pix",
+                0.7794
+            ],
+            [
+                "any2pix",
+                0.6229
+            ],
+            [
+                "hqedit",
+                0.602
+            ],
+            [
+                "hive",
+                0.5394
+            ]
+        ]
+    },
+    "72": {
+        "image": "0072.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the woman from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "human",
+        "model_rank": [
+            [
+                "iedit",
+                0.8814
+            ],
+            [
+                "instruct-diffusion",
+                0.8633
+            ],
+            [
+                "magicbrush",
+                0.8506
+            ],
+            [
+                "mgie",
+                0.8393
+            ],
+            [
+                "instructpix2pix",
+                0.836
+            ],
+            [
+                "hive",
+                0.833
+            ],
+            [
+                "any2pix",
+                0.7248
+            ],
+            [
+                "hqedit",
+                0.7043
+            ]
+        ]
+    },
+    "73": {
+        "image": "0073.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the tree from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.9081
+            ],
+            [
+                "mgie",
+                0.9008
+            ],
+            [
+                "magicbrush",
+                0.8228
+            ],
+            [
+                "instruct-diffusion",
+                0.8084
+            ],
+            [
+                "any2pix",
+                0.7716
+            ],
+            [
+                "hive",
+                0.7082
+            ],
+            [
+                "hqedit",
+                0.6921
+            ],
+            [
+                "instructpix2pix",
+                0.6893
+            ]
+        ]
+    },
+    "74": {
+        "image": "0074.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the toothbrushes from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.8397
+            ],
+            [
+                "mgie",
+                0.8278
+            ],
+            [
+                "hive",
+                0.5709
+            ],
+            [
+                "magicbrush",
+                0.5529
+            ],
+            [
+                "hqedit",
+                0.5326
+            ],
+            [
+                "instruct-diffusion",
+                0.5313
+            ],
+            [
+                "any2pix",
+                0.4777
+            ],
+            [
+                "instructpix2pix",
+                0.2672
+            ]
+        ]
+    },
+    "75": {
+        "image": "0075.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the mountains from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "scenery",
+        "model_rank": [
+            [
+                "iedit",
+                0.7655
+            ],
+            [
+                "mgie",
+                0.7409
+            ],
+            [
+                "hive",
+                0.5712
+            ],
+            [
+                "magicbrush",
+                0.5677
+            ],
+            [
+                "any2pix",
+                0.5672
+            ],
+            [
+                "instruct-diffusion",
+                0.5641
+            ],
+            [
+                "instructpix2pix",
+                0.5486
+            ],
+            [
+                "hqedit",
+                0.536
+            ]
+        ]
+    },
+    "76": {
+        "image": "0076.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the cat from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "animal",
+        "model_rank": [
+            [
+                "iedit",
+                0.9242
+            ],
+            [
+                "instruct-diffusion",
+                0.7918
+            ],
+            [
+                "mgie",
+                0.7884
+            ],
+            [
+                "magicbrush",
+                0.7759
+            ],
+            [
+                "instructpix2pix",
+                0.762
+            ],
+            [
+                "any2pix",
+                0.7118
+            ],
+            [
+                "hqedit",
+                0.6938
+            ],
+            [
+                "hive",
+                0.6387
+            ]
+        ]
+    },
+    "77": {
+        "image": "0077.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the woman from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "human",
+        "model_rank": [
+            [
+                "iedit",
+                0.7797
+            ],
+            [
+                "magicbrush",
+                0.7605
+            ],
+            [
+                "instructpix2pix",
+                0.7564
+            ],
+            [
+                "instruct-diffusion",
+                0.7556
+            ],
+            [
+                "hive",
+                0.656
+            ],
+            [
+                "any2pix",
+                0.4848
+            ],
+            [
+                "mgie",
+                0.4612
+            ],
+            [
+                "hqedit",
+                0.4429
+            ]
+        ]
+    },
+    "78": {
+        "image": "0078.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the cherry from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.8664
+            ],
+            [
+                "instruct-diffusion",
+                0.8501
+            ],
+            [
+                "magicbrush",
+                0.8415
+            ],
+            [
+                "mgie",
+                0.8404
+            ],
+            [
+                "instructpix2pix",
+                0.8134
+            ],
+            [
+                "hive",
+                0.775
+            ],
+            [
+                "any2pix",
+                0.59
+            ],
+            [
+                "hqedit",
+                0.5145
+            ]
+        ]
+    },
+    "79": {
+        "image": "0079.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the bear from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "animal",
+        "model_rank": [
+            [
+                "iedit",
+                0.5619
+            ],
+            [
+                "mgie",
+                0.5185
+            ],
+            [
+                "instruct-diffusion",
+                0.4984
+            ],
+            [
+                "magicbrush",
+                0.4943
+            ],
+            [
+                "instructpix2pix",
+                0.4659
+            ],
+            [
+                "any2pix",
+                0.3653
+            ],
+            [
+                "hive",
+                0.3561
+            ],
+            [
+                "hqedit",
+                0.3034
+            ]
+        ]
+    },
+    "80": {
+        "image": "0080.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the chair from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.6866
+            ],
+            [
+                "mgie",
+                0.6516
+            ],
+            [
+                "hive",
+                0.468
+            ],
+            [
+                "any2pix",
+                0.4561
+            ],
+            [
+                "instructpix2pix",
+                0.4146
+            ],
+            [
+                "instruct-diffusion",
+                0.4145
+            ],
+            [
+                "magicbrush",
+                0.4064
+            ],
+            [
+                "hqedit",
+                0.401
+            ]
+        ]
+    },
+    "81": {
+        "image": "0081.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the setting sun from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "scenery",
+        "model_rank": [
+            [
+                "iedit",
+                0.7917
+            ],
+            [
+                "magicbrush",
+                0.7673
+            ],
+            [
+                "instruct-diffusion",
+                0.7637
+            ],
+            [
+                "any2pix",
+                0.5763
+            ],
+            [
+                "hive",
+                0.5755
+            ],
+            [
+                "instructpix2pix",
+                0.5475
+            ],
+            [
+                "hqedit",
+                0.456
+            ],
+            [
+                "mgie",
+                0.2878
+            ]
+        ]
+    },
+    "82": {
+        "image": "0082.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the sunflower from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.9241
+            ],
+            [
+                "magicbrush",
+                0.918
+            ],
+            [
+                "instruct-diffusion",
+                0.9166
+            ],
+            [
+                "mgie",
+                0.9164
+            ],
+            [
+                "instructpix2pix",
+                0.8234
+            ],
+            [
+                "any2pix",
+                0.7841
+            ],
+            [
+                "hive",
+                0.7771
+            ],
+            [
+                "hqedit",
+                0.7491
+            ]
+        ]
+    },
+    "83": {
+        "image": "0083.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the snow mountain from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "scenery",
+        "model_rank": [
+            [
+                "iedit",
+                0.8747
+            ],
+            [
+                "mgie",
+                0.8682
+            ],
+            [
+                "hqedit",
+                0.6769
+            ],
+            [
+                "magicbrush",
+                0.6726
+            ],
+            [
+                "any2pix",
+                0.6682
+            ],
+            [
+                "instruct-diffusion",
+                0.6536
+            ],
+            [
+                "hive",
+                0.5569
+            ],
+            [
+                "instructpix2pix",
+                0.5397
+            ]
+        ]
+    },
+    "84": {
+        "image": "0084.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the bill from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.8841
+            ],
+            [
+                "magicbrush",
+                0.866
+            ],
+            [
+                "instruct-diffusion",
+                0.8582
+            ],
+            [
+                "hqedit",
+                0.7842
+            ],
+            [
+                "instructpix2pix",
+                0.7608
+            ],
+            [
+                "any2pix",
+                0.6337
+            ],
+            [
+                "hive",
+                0.402
+            ],
+            [
+                "mgie",
+                0.2756
+            ]
+        ]
+    },
+    "85": {
+        "image": "0085.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the black people from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "human",
+        "model_rank": [
+            [
+                "iedit",
+                0.6497
+            ],
+            [
+                "mgie",
+                0.6207
+            ],
+            [
+                "instruct-diffusion",
+                0.3885
+            ],
+            [
+                "magicbrush",
+                0.3865
+            ],
+            [
+                "hqedit",
+                0.3675
+            ],
+            [
+                "instructpix2pix",
+                0.3629
+            ],
+            [
+                "hive",
+                0.3588
+            ],
+            [
+                "any2pix",
+                0.3162
+            ]
+        ]
+    },
+    "86": {
+        "image": "0086.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the pineapple from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.9081
+            ],
+            [
+                "magicbrush",
+                0.8465
+            ],
+            [
+                "instruct-diffusion",
+                0.8405
+            ],
+            [
+                "any2pix",
+                0.7064
+            ],
+            [
+                "instructpix2pix",
+                0.5218
+            ],
+            [
+                "hive",
+                0.3752
+            ],
+            [
+                "hqedit",
+                0.26
+            ],
+            [
+                "mgie",
+                0.1971
+            ]
+        ]
+    },
+    "87": {
+        "image": "0087.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the camera from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.7101
+            ],
+            [
+                "mgie",
+                0.6806
+            ],
+            [
+                "magicbrush",
+                0.6654
+            ],
+            [
+                "instruct-diffusion",
+                0.6625
+            ],
+            [
+                "instructpix2pix",
+                0.6418
+            ],
+            [
+                "hive",
+                0.6126
+            ],
+            [
+                "any2pix",
+                0.4386
+            ],
+            [
+                "hqedit",
+                0.3804
+            ]
+        ]
+    },
+    "88": {
+        "image": "0088.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the fat lady from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "human",
+        "model_rank": [
+            [
+                "iedit",
+                0.8366
+            ],
+            [
+                "instruct-diffusion",
+                0.466
+            ],
+            [
+                "magicbrush",
+                0.4623
+            ],
+            [
+                "instructpix2pix",
+                0.4519
+            ],
+            [
+                "hive",
+                0.4465
+            ],
+            [
+                "hqedit",
+                0.3872
+            ],
+            [
+                "mgie",
+                0.387
+            ],
+            [
+                "any2pix",
+                0.3867
+            ]
+        ]
+    },
+    "89": {
+        "image": "0089.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the koala from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "animal",
+        "model_rank": [
+            [
+                "iedit",
+                0.9603
+            ],
+            [
+                "instruct-diffusion",
+                0.9381
+            ],
+            [
+                "magicbrush",
+                0.9373
+            ],
+            [
+                "hive",
+                0.8978
+            ],
+            [
+                "any2pix",
+                0.8849
+            ],
+            [
+                "hqedit",
+                0.8828
+            ],
+            [
+                "instructpix2pix",
+                0.8782
+            ],
+            [
+                "mgie",
+                0.8314
+            ]
+        ]
+    },
+    "90": {
+        "image": "0090.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the lamb from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "animal",
+        "model_rank": [
+            [
+                "iedit",
+                0.7981
+            ],
+            [
+                "magicbrush",
+                0.7374
+            ],
+            [
+                "instruct-diffusion",
+                0.7365
+            ],
+            [
+                "hive",
+                0.7246
+            ],
+            [
+                "instructpix2pix",
+                0.7222
+            ],
+            [
+                "any2pix",
+                0.6892
+            ],
+            [
+                "mgie",
+                0.6148
+            ],
+            [
+                "hqedit",
+                0.5987
+            ]
+        ]
+    },
+    "91": {
+        "image": "0091.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the closestool from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.723
+            ],
+            [
+                "mgie",
+                0.7083
+            ],
+            [
+                "magicbrush",
+                0.6853
+            ],
+            [
+                "instructpix2pix",
+                0.6074
+            ],
+            [
+                "instruct-diffusion",
+                0.6063
+            ],
+            [
+                "hive",
+                0.5246
+            ],
+            [
+                "hqedit",
+                0.3985
+            ],
+            [
+                "any2pix",
+                0.3416
+            ]
+        ]
+    },
+    "92": {
+        "image": "0092.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the snowfield from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "scenery",
+        "model_rank": [
+            [
+                "iedit",
+                0.9762
+            ],
+            [
+                "mgie",
+                0.9685
+            ],
+            [
+                "magicbrush",
+                0.945
+            ],
+            [
+                "instruct-diffusion",
+                0.945
+            ],
+            [
+                "instructpix2pix",
+                0.9296
+            ],
+            [
+                "any2pix",
+                0.9296
+            ],
+            [
+                "hive",
+                0.9161
+            ],
+            [
+                "hqedit",
+                0.8786
+            ]
+        ]
+    },
+    "93": {
+        "image": "0093.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the pear from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.8443
+            ],
+            [
+                "instructpix2pix",
+                0.8155
+            ],
+            [
+                "magicbrush",
+                0.8054
+            ],
+            [
+                "instruct-diffusion",
+                0.8027
+            ],
+            [
+                "mgie",
+                0.8017
+            ],
+            [
+                "hive",
+                0.6741
+            ],
+            [
+                "any2pix",
+                0.6474
+            ],
+            [
+                "hqedit",
+                0.5702
+            ]
+        ]
+    },
+    "94": {
+        "image": "0094.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the boy from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "human",
+        "model_rank": [
+            [
+                "iedit",
+                0.9389
+            ],
+            [
+                "mgie",
+                0.855
+            ],
+            [
+                "hqedit",
+                0.7354
+            ],
+            [
+                "instruct-diffusion",
+                0.6583
+            ],
+            [
+                "instructpix2pix",
+                0.6544
+            ],
+            [
+                "magicbrush",
+                0.6538
+            ],
+            [
+                "any2pix",
+                0.6448
+            ],
+            [
+                "hive",
+                0.4956
+            ]
+        ]
+    },
+    "95": {
+        "image": "0095.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the cow from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "animal",
+        "model_rank": [
+            [
+                "iedit",
+                0.5486
+            ],
+            [
+                "mgie",
+                0.5164
+            ],
+            [
+                "hqedit",
+                0.3586
+            ],
+            [
+                "any2pix",
+                0.3568
+            ],
+            [
+                "instruct-diffusion",
+                0.3259
+            ],
+            [
+                "magicbrush",
+                0.3237
+            ],
+            [
+                "hive",
+                0.3191
+            ],
+            [
+                "instructpix2pix",
+                0.311
+            ]
+        ]
+    },
+    "96": {
+        "image": "0096.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the scissors from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.7176
+            ],
+            [
+                "mgie",
+                0.6964
+            ],
+            [
+                "hive",
+                0.5954
+            ],
+            [
+                "magicbrush",
+                0.5827
+            ],
+            [
+                "instruct-diffusion",
+                0.5804
+            ],
+            [
+                "hqedit",
+                0.5354
+            ],
+            [
+                "instructpix2pix",
+                0.5054
+            ],
+            [
+                "any2pix",
+                0.4755
+            ]
+        ]
+    },
+    "97": {
+        "image": "0097.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the apple from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.9781
+            ],
+            [
+                "mgie",
+                0.9476
+            ],
+            [
+                "instructpix2pix",
+                0.8219
+            ],
+            [
+                "instruct-diffusion",
+                0.819
+            ],
+            [
+                "any2pix",
+                0.7863
+            ],
+            [
+                "magicbrush",
+                0.7811
+            ],
+            [
+                "hive",
+                0.7496
+            ],
+            [
+                "hqedit",
+                0.7269
+            ]
+        ]
+    },
+    "98": {
+        "image": "0098.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the elephant from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "animal",
+        "model_rank": [
+            [
+                "iedit",
+                0.4283
+            ],
+            [
+                "mgie",
+                0.4171
+            ],
+            [
+                "hive",
+                0.2471
+            ],
+            [
+                "any2pix",
+                0.24
+            ],
+            [
+                "instruct-diffusion",
+                0.2326
+            ],
+            [
+                "instructpix2pix",
+                0.2289
+            ],
+            [
+                "magicbrush",
+                0.2269
+            ],
+            [
+                "hqedit",
+                0.2216
+            ]
+        ]
+    },
+    "99": {
+        "image": "0099.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "Remove the cherry tomato from the image",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.6613
+            ],
+            [
+                "magicbrush",
+                0.6365
+            ],
+            [
+                "instruct-diffusion",
+                0.6266
+            ],
+            [
+                "mgie",
+                0.6027
+            ],
+            [
+                "hive",
+                0.5669
+            ],
+            [
+                "instructpix2pix",
+                0.5577
+            ],
+            [
+                "any2pix",
+                0.3857
+            ],
+            [
+                "hqedit",
+                0.3479
+            ]
+        ]
+    },
+    "100": {
+        "image": "0100.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace computer with cup",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.8659
+            ],
+            [
+                "mgie",
+                0.8263
+            ],
+            [
+                "instruct-diffusion",
+                0.4955
+            ],
+            [
+                "instructpix2pix",
+                0.491
+            ],
+            [
+                "magicbrush",
+                0.4823
+            ],
+            [
+                "hive",
+                0.4741
+            ],
+            [
+                "any2pix",
+                0.4493
+            ],
+            [
+                "hqedit",
+                0.3227
+            ]
+        ]
+    },
+    "101": {
+        "image": "0101.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace kite with frisbee",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.9396
+            ],
+            [
+                "mgie",
+                0.917
+            ],
+            [
+                "instruct-diffusion",
+                0.8846
+            ],
+            [
+                "hive",
+                0.8567
+            ],
+            [
+                "magicbrush",
+                0.8426
+            ],
+            [
+                "instructpix2pix",
+                0.8026
+            ],
+            [
+                "any2pix",
+                0.7551
+            ],
+            [
+                "hqedit",
+                0.6882
+            ]
+        ]
+    },
+    "102": {
+        "image": "0102.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace cow with bike",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.5431
+            ],
+            [
+                "magicbrush",
+                0.5337
+            ],
+            [
+                "instruct-diffusion",
+                0.5306
+            ],
+            [
+                "hive",
+                0.526
+            ],
+            [
+                "instructpix2pix",
+                0.5243
+            ],
+            [
+                "mgie",
+                0.5191
+            ],
+            [
+                "any2pix",
+                0.5048
+            ],
+            [
+                "hqedit",
+                0.3877
+            ]
+        ]
+    },
+    "103": {
+        "image": "0103.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace computer with ball",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.9597
+            ],
+            [
+                "magicbrush",
+                0.9305
+            ],
+            [
+                "instruct-diffusion",
+                0.9262
+            ],
+            [
+                "instructpix2pix",
+                0.9151
+            ],
+            [
+                "mgie",
+                0.8482
+            ],
+            [
+                "hive",
+                0.7991
+            ],
+            [
+                "any2pix",
+                0.6412
+            ],
+            [
+                "hqedit",
+                0.4712
+            ]
+        ]
+    },
+    "104": {
+        "image": "0104.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace plane with kite",
+        "evaluation": "RegionAccuracy",
+        "type": "object",
+        "model_rank": [
+            [
+                "iedit",
+                0.8574
+            ],
+            [
+                "mgie",
+                0.8437
+            ],
+            [
+                "magicbrush",
+                0.8266
+            ],
+            [
+                "any2pix",
+                0.8254
+            ],
+            [
+                "instructpix2pix",
+                0.8155
+            ],
+            [
+                "instruct-diffusion",
+                0.8153
+            ],
+            [
+                "hive",
+                0.8015
+            ],
+            [
+                "hqedit",
+                0.797
+            ]
+        ]
+    },
+    "105": {
+        "image": "0105.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace cake with apple",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.9405
+            ],
+            [
+                "magicbrush",
+                0.9313
+            ],
+            [
+                "instruct-diffusion",
+                0.9307
+            ],
+            [
+                "instructpix2pix",
+                0.928
+            ],
+            [
+                "mgie",
+                0.9185
+            ],
+            [
+                "hive",
+                0.8892
+            ],
+            [
+                "any2pix",
+                0.6569
+            ],
+            [
+                "hqedit",
+                0.4704
+            ]
+        ]
+    },
+    "106": {
+        "image": "0106.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace flower with banana",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.9674
+            ],
+            [
+                "mgie",
+                0.9602
+            ],
+            [
+                "magicbrush",
+                0.9575
+            ],
+            [
+                "hive",
+                0.9333
+            ],
+            [
+                "instruct-diffusion",
+                0.8793
+            ],
+            [
+                "hqedit",
+                0.8304
+            ],
+            [
+                "instructpix2pix",
+                0.7747
+            ],
+            [
+                "any2pix",
+                0.6809
+            ]
+        ]
+    },
+    "107": {
+        "image": "0107.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace bench with tree",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.7794
+            ],
+            [
+                "mgie",
+                0.3658
+            ],
+            [
+                "instruct-diffusion",
+                0.2525
+            ],
+            [
+                "hqedit",
+                0.2242
+            ],
+            [
+                "magicbrush",
+                0.2111
+            ],
+            [
+                "hive",
+                0.1994
+            ],
+            [
+                "instructpix2pix",
+                0.1935
+            ],
+            [
+                "any2pix",
+                0.1928
+            ]
+        ]
+    },
+    "108": {
+        "image": "0108.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace cat with pear",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "mgie",
+                0.8283
+            ],
+            [
+                "iedit",
+                0.8276
+            ],
+            [
+                "magicbrush",
+                0.7999
+            ],
+            [
+                "instruct-diffusion",
+                0.7965
+            ],
+            [
+                "instructpix2pix",
+                0.793
+            ],
+            [
+                "hive",
+                0.6767
+            ],
+            [
+                "any2pix",
+                0.5701
+            ],
+            [
+                "hqedit",
+                0.4218
+            ]
+        ]
+    },
+    "109": {
+        "image": "0109.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace bag with apple",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.7768
+            ],
+            [
+                "mgie",
+                0.7587
+            ],
+            [
+                "magicbrush",
+                0.7515
+            ],
+            [
+                "instruct-diffusion",
+                0.7459
+            ],
+            [
+                "instructpix2pix",
+                0.734
+            ],
+            [
+                "hive",
+                0.6521
+            ],
+            [
+                "any2pix",
+                0.6284
+            ],
+            [
+                "hqedit",
+                0.4919
+            ]
+        ]
+    },
+    "110": {
+        "image": "0110.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace cake with apple",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.8966
+            ],
+            [
+                "mgie",
+                0.8947
+            ],
+            [
+                "instruct-diffusion",
+                0.8788
+            ],
+            [
+                "instructpix2pix",
+                0.8726
+            ],
+            [
+                "magicbrush",
+                0.8721
+            ],
+            [
+                "hive",
+                0.7026
+            ],
+            [
+                "any2pix",
+                0.6089
+            ],
+            [
+                "hqedit",
+                0.546
+            ]
+        ]
+    },
+    "111": {
+        "image": "0111.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace computer with orange",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.7876
+            ],
+            [
+                "magicbrush",
+                0.7646
+            ],
+            [
+                "instruct-diffusion",
+                0.7574
+            ],
+            [
+                "instructpix2pix",
+                0.7239
+            ],
+            [
+                "mgie",
+                0.7228
+            ],
+            [
+                "hive",
+                0.53
+            ],
+            [
+                "any2pix",
+                0.4326
+            ],
+            [
+                "hqedit",
+                0.3737
+            ]
+        ]
+    },
+    "112": {
+        "image": "0112.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace cat with lemon",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.8593
+            ],
+            [
+                "mgie",
+                0.8532
+            ],
+            [
+                "magicbrush",
+                0.6554
+            ],
+            [
+                "instruct-diffusion",
+                0.6518
+            ],
+            [
+                "instructpix2pix",
+                0.6321
+            ],
+            [
+                "hive",
+                0.5065
+            ],
+            [
+                "any2pix",
+                0.4362
+            ],
+            [
+                "hqedit",
+                0.3691
+            ]
+        ]
+    },
+    "113": {
+        "image": "0113.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace banana with grape",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.9041
+            ],
+            [
+                "instruct-diffusion",
+                0.8937
+            ],
+            [
+                "mgie",
+                0.8329
+            ],
+            [
+                "magicbrush",
+                0.8245
+            ],
+            [
+                "hive",
+                0.7847
+            ],
+            [
+                "hqedit",
+                0.768
+            ],
+            [
+                "instructpix2pix",
+                0.717
+            ],
+            [
+                "any2pix",
+                0.7033
+            ]
+        ]
+    },
+    "114": {
+        "image": "0114.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace cat with peach",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.8949
+            ],
+            [
+                "magicbrush",
+                0.8796
+            ],
+            [
+                "instructpix2pix",
+                0.8779
+            ],
+            [
+                "instruct-diffusion",
+                0.8764
+            ],
+            [
+                "mgie",
+                0.8704
+            ],
+            [
+                "hive",
+                0.7134
+            ],
+            [
+                "any2pix",
+                0.5943
+            ],
+            [
+                "hqedit",
+                0.4553
+            ]
+        ]
+    },
+    "115": {
+        "image": "0115.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace mouse with apple",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.8059
+            ],
+            [
+                "mgie",
+                0.799
+            ],
+            [
+                "magicbrush",
+                0.7785
+            ],
+            [
+                "instructpix2pix",
+                0.776
+            ],
+            [
+                "instruct-diffusion",
+                0.7729
+            ],
+            [
+                "hive",
+                0.5145
+            ],
+            [
+                "any2pix",
+                0.3782
+            ],
+            [
+                "hqedit",
+                0.275
+            ]
+        ]
+    },
+    "116": {
+        "image": "0116.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace cat with pear",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.8453
+            ],
+            [
+                "mgie",
+                0.8383
+            ],
+            [
+                "magicbrush",
+                0.7153
+            ],
+            [
+                "instructpix2pix",
+                0.7066
+            ],
+            [
+                "instruct-diffusion",
+                0.7007
+            ],
+            [
+                "hive",
+                0.6603
+            ],
+            [
+                "any2pix",
+                0.6311
+            ],
+            [
+                "hqedit",
+                0.5968
+            ]
+        ]
+    },
+    "117": {
+        "image": "0117.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace pizza with cherry",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.8868
+            ],
+            [
+                "instructpix2pix",
+                0.879
+            ],
+            [
+                "mgie",
+                0.8697
+            ],
+            [
+                "magicbrush",
+                0.8687
+            ],
+            [
+                "instruct-diffusion",
+                0.8595
+            ],
+            [
+                "hive",
+                0.7898
+            ],
+            [
+                "any2pix",
+                0.617
+            ],
+            [
+                "hqedit",
+                0.5158
+            ]
+        ]
+    },
+    "118": {
+        "image": "0118.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace computer with orange",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.7503
+            ],
+            [
+                "mgie",
+                0.7388
+            ],
+            [
+                "magicbrush",
+                0.72
+            ],
+            [
+                "instruct-diffusion",
+                0.7133
+            ],
+            [
+                "instructpix2pix",
+                0.7035
+            ],
+            [
+                "hive",
+                0.4198
+            ],
+            [
+                "any2pix",
+                0.3496
+            ],
+            [
+                "hqedit",
+                0.253
+            ]
+        ]
+    },
+    "119": {
+        "image": "0119.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace bench with tree",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.7178
+            ],
+            [
+                "instruct-diffusion",
+                0.6794
+            ],
+            [
+                "mgie",
+                0.6667
+            ],
+            [
+                "magicbrush",
+                0.6581
+            ],
+            [
+                "instructpix2pix",
+                0.6244
+            ],
+            [
+                "hqedit",
+                0.5759
+            ],
+            [
+                "any2pix",
+                0.5579
+            ],
+            [
+                "hive",
+                0.4659
+            ]
+        ]
+    },
+    "120": {
+        "image": "0120.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace bird with strawberry",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.9524
+            ],
+            [
+                "mgie",
+                0.8287
+            ],
+            [
+                "magicbrush",
+                0.8189
+            ],
+            [
+                "instructpix2pix",
+                0.8181
+            ],
+            [
+                "any2pix",
+                0.8052
+            ],
+            [
+                "instruct-diffusion",
+                0.8026
+            ],
+            [
+                "hqedit",
+                0.78
+            ],
+            [
+                "hive",
+                0.7684
+            ]
+        ]
+    },
+    "121": {
+        "image": "0121.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace pizza with cherry",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.9328
+            ],
+            [
+                "magicbrush",
+                0.9321
+            ],
+            [
+                "mgie",
+                0.9281
+            ],
+            [
+                "instruct-diffusion",
+                0.928
+            ],
+            [
+                "instructpix2pix",
+                0.9279
+            ],
+            [
+                "hive",
+                0.8978
+            ],
+            [
+                "any2pix",
+                0.856
+            ],
+            [
+                "hqedit",
+                0.7197
+            ]
+        ]
+    },
+    "122": {
+        "image": "0122.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace book with banana",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.8619
+            ],
+            [
+                "mgie",
+                0.8588
+            ],
+            [
+                "magicbrush",
+                0.6831
+            ],
+            [
+                "instruct-diffusion",
+                0.6669
+            ],
+            [
+                "instructpix2pix",
+                0.6657
+            ],
+            [
+                "any2pix",
+                0.6627
+            ],
+            [
+                "hive",
+                0.617
+            ],
+            [
+                "hqedit",
+                0.5365
+            ]
+        ]
+    },
+    "123": {
+        "image": "0123.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace dog with watermelon",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.6081
+            ],
+            [
+                "instruct-diffusion",
+                0.5464
+            ],
+            [
+                "magicbrush",
+                0.5432
+            ],
+            [
+                "mgie",
+                0.5352
+            ],
+            [
+                "instructpix2pix",
+                0.5244
+            ],
+            [
+                "hive",
+                0.3502
+            ],
+            [
+                "any2pix",
+                0.2623
+            ],
+            [
+                "hqedit",
+                0.1975
+            ]
+        ]
+    },
+    "124": {
+        "image": "0124.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace bench with banana",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.414
+            ],
+            [
+                "mgie",
+                0.3603
+            ],
+            [
+                "hive",
+                0.2315
+            ],
+            [
+                "instruct-diffusion",
+                0.224
+            ],
+            [
+                "instructpix2pix",
+                0.2237
+            ],
+            [
+                "hqedit",
+                0.219
+            ],
+            [
+                "magicbrush",
+                0.2183
+            ],
+            [
+                "any2pix",
+                0.181
+            ]
+        ]
+    },
+    "125": {
+        "image": "0125.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace phone with apple",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.6337
+            ],
+            [
+                "hqedit",
+                0.3912
+            ],
+            [
+                "mgie",
+                0.3007
+            ],
+            [
+                "instruct-diffusion",
+                0.2482
+            ],
+            [
+                "instructpix2pix",
+                0.2432
+            ],
+            [
+                "magicbrush",
+                0.2426
+            ],
+            [
+                "hive",
+                0.2399
+            ],
+            [
+                "any2pix",
+                0.2014
+            ]
+        ]
+    },
+    "126": {
+        "image": "0126.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace bird with orange",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.9339
+            ],
+            [
+                "mgie",
+                0.9192
+            ],
+            [
+                "any2pix",
+                0.8538
+            ],
+            [
+                "hive",
+                0.8235
+            ],
+            [
+                "instruct-diffusion",
+                0.8204
+            ],
+            [
+                "magicbrush",
+                0.8168
+            ],
+            [
+                "instructpix2pix",
+                0.7882
+            ],
+            [
+                "hqedit",
+                0.7116
+            ]
+        ]
+    },
+    "127": {
+        "image": "0127.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace kite with strawberry",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.4117
+            ],
+            [
+                "mgie",
+                0.3829
+            ],
+            [
+                "magicbrush",
+                0.3828
+            ],
+            [
+                "instruct-diffusion",
+                0.3803
+            ],
+            [
+                "instructpix2pix",
+                0.3699
+            ],
+            [
+                "hive",
+                0.301
+            ],
+            [
+                "hqedit",
+                0.2906
+            ],
+            [
+                "any2pix",
+                0.252
+            ]
+        ]
+    },
+    "128": {
+        "image": "0128.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace ball with apple",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.7426
+            ],
+            [
+                "mgie",
+                0.7172
+            ],
+            [
+                "magicbrush",
+                0.6676
+            ],
+            [
+                "instruct-diffusion",
+                0.6673
+            ],
+            [
+                "instructpix2pix",
+                0.6599
+            ],
+            [
+                "hive",
+                0.4121
+            ],
+            [
+                "hqedit",
+                0.4
+            ],
+            [
+                "any2pix",
+                0.3857
+            ]
+        ]
+    },
+    "129": {
+        "image": "0129.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace pizza with pear",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.9803
+            ],
+            [
+                "magicbrush",
+                0.9791
+            ],
+            [
+                "instruct-diffusion",
+                0.9767
+            ],
+            [
+                "mgie",
+                0.9758
+            ],
+            [
+                "instructpix2pix",
+                0.9532
+            ],
+            [
+                "hive",
+                0.9464
+            ],
+            [
+                "hqedit",
+                0.9124
+            ],
+            [
+                "any2pix",
+                0.9123
+            ]
+        ]
+    },
+    "130": {
+        "image": "0130.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace plane with tree",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.8597
+            ],
+            [
+                "mgie",
+                0.7895
+            ],
+            [
+                "any2pix",
+                0.6419
+            ],
+            [
+                "magicbrush",
+                0.6322
+            ],
+            [
+                "instruct-diffusion",
+                0.6193
+            ],
+            [
+                "hqedit",
+                0.4755
+            ],
+            [
+                "hive",
+                0.3982
+            ],
+            [
+                "instructpix2pix",
+                0.3592
+            ]
+        ]
+    },
+    "131": {
+        "image": "0131.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace computer with grape",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.8866
+            ],
+            [
+                "mgie",
+                0.8666
+            ],
+            [
+                "magicbrush",
+                0.8369
+            ],
+            [
+                "instruct-diffusion",
+                0.8357
+            ],
+            [
+                "instructpix2pix",
+                0.8354
+            ],
+            [
+                "hive",
+                0.3966
+            ],
+            [
+                "any2pix",
+                0.3925
+            ],
+            [
+                "hqedit",
+                0.3397
+            ]
+        ]
+    },
+    "132": {
+        "image": "0132.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace pumpkin with apple",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.4496
+            ],
+            [
+                "mgie",
+                0.4371
+            ],
+            [
+                "magicbrush",
+                0.3988
+            ],
+            [
+                "instruct-diffusion",
+                0.3877
+            ],
+            [
+                "instructpix2pix",
+                0.3632
+            ],
+            [
+                "hive",
+                0.2875
+            ],
+            [
+                "hqedit",
+                0.2755
+            ],
+            [
+                "any2pix",
+                0.2339
+            ]
+        ]
+    },
+    "133": {
+        "image": "0133.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace toast with pear",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.8052
+            ],
+            [
+                "mgie",
+                0.7832
+            ],
+            [
+                "magicbrush",
+                0.7542
+            ],
+            [
+                "instructpix2pix",
+                0.7487
+            ],
+            [
+                "instruct-diffusion",
+                0.738
+            ],
+            [
+                "hive",
+                0.5947
+            ],
+            [
+                "any2pix",
+                0.4426
+            ],
+            [
+                "hqedit",
+                0.3644
+            ]
+        ]
+    },
+    "134": {
+        "image": "0134.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace book with peach",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.9281
+            ],
+            [
+                "magicbrush",
+                0.8933
+            ],
+            [
+                "instructpix2pix",
+                0.8783
+            ],
+            [
+                "instruct-diffusion",
+                0.8648
+            ],
+            [
+                "mgie",
+                0.8383
+            ],
+            [
+                "hive",
+                0.7051
+            ],
+            [
+                "any2pix",
+                0.4715
+            ],
+            [
+                "hqedit",
+                0.4055
+            ]
+        ]
+    },
+    "135": {
+        "image": "0135.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace phone with grape",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.8455
+            ],
+            [
+                "mgie",
+                0.8397
+            ],
+            [
+                "instruct-diffusion",
+                0.8343
+            ],
+            [
+                "magicbrush",
+                0.8294
+            ],
+            [
+                "instructpix2pix",
+                0.8058
+            ],
+            [
+                "hive",
+                0.7732
+            ],
+            [
+                "any2pix",
+                0.6406
+            ],
+            [
+                "hqedit",
+                0.5997
+            ]
+        ]
+    },
+    "136": {
+        "image": "0136.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace mouse with lemon",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "mgie",
+                0.7982
+            ],
+            [
+                "iedit",
+                0.7934
+            ],
+            [
+                "instructpix2pix",
+                0.7608
+            ],
+            [
+                "magicbrush",
+                0.7601
+            ],
+            [
+                "instruct-diffusion",
+                0.7549
+            ],
+            [
+                "hive",
+                0.4729
+            ],
+            [
+                "any2pix",
+                0.4205
+            ],
+            [
+                "hqedit",
+                0.3224
+            ]
+        ]
+    },
+    "137": {
+        "image": "0137.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace pizza with strawberry",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.9797
+            ],
+            [
+                "mgie",
+                0.9715
+            ],
+            [
+                "magicbrush",
+                0.9698
+            ],
+            [
+                "instruct-diffusion",
+                0.9648
+            ],
+            [
+                "instructpix2pix",
+                0.9594
+            ],
+            [
+                "hive",
+                0.8765
+            ],
+            [
+                "hqedit",
+                0.8462
+            ],
+            [
+                "any2pix",
+                0.8059
+            ]
+        ]
+    },
+    "138": {
+        "image": "0138.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace fork with apple",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.9194
+            ],
+            [
+                "instruct-diffusion",
+                0.9072
+            ],
+            [
+                "mgie",
+                0.8915
+            ],
+            [
+                "instructpix2pix",
+                0.8882
+            ],
+            [
+                "magicbrush",
+                0.8823
+            ],
+            [
+                "hive",
+                0.7044
+            ],
+            [
+                "any2pix",
+                0.656
+            ],
+            [
+                "hqedit",
+                0.5913
+            ]
+        ]
+    },
+    "139": {
+        "image": "0139.jpg",
+        "dataset": "RegionAccuracy",
+        "prompt": "replace boy with watermelon",
+        "evaluation": "RegionAccuracy",
+        "type": "plant",
+        "model_rank": [
+            [
+                "iedit",
+                0.9186
+            ],
+            [
+                "hive",
+                0.9131
+            ],
+            [
+                "mgie",
+                0.8996
+            ],
+            [
+                "magicbrush",
+                0.8962
+            ],
+            [
+                "instructpix2pix",
+                0.8718
+            ],
+            [
+                "instruct-diffusion",
+                0.8452
+            ],
+            [
+                "hqedit",
+                0.6237
+            ],
+            [
+                "any2pix",
+                0.5705
+            ]
+        ]
+    }
+}

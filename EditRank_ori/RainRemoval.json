@@ -1,0 +1,5742 @@
+{
+    "1": {
+        "image": "0001.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7263
+            ],
+            [
+                "iedit",
+                0.6585
+            ],
+            [
+                "instructpix2pix",
+                0.6403
+            ],
+            [
+                "mgie",
+                0.6273
+            ],
+            [
+                "hive",
+                0.5582
+            ],
+            [
+                "magicbrush",
+                0.3999
+            ],
+            [
+                "hqedit",
+                0.389
+            ],
+            [
+                "any2pix",
+                0.17
+            ]
+        ]
+    },
+    "2": {
+        "image": "0002.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7277
+            ],
+            [
+                "iedit",
+                0.6511
+            ],
+            [
+                "mgie",
+                0.5732
+            ],
+            [
+                "magicbrush",
+                0.5363
+            ],
+            [
+                "hive",
+                0.517
+            ],
+            [
+                "instructpix2pix",
+                0.4245
+            ],
+            [
+                "hqedit",
+                0.2908
+            ],
+            [
+                "any2pix",
+                0.1704
+            ]
+        ]
+    },
+    "3": {
+        "image": "0003.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7492
+            ],
+            [
+                "hive",
+                0.712
+            ],
+            [
+                "iedit",
+                0.6371
+            ],
+            [
+                "mgie",
+                0.5861
+            ],
+            [
+                "instructpix2pix",
+                0.5464
+            ],
+            [
+                "any2pix",
+                0.4671
+            ],
+            [
+                "magicbrush",
+                0.3761
+            ],
+            [
+                "hqedit",
+                0.2939
+            ]
+        ]
+    },
+    "4": {
+        "image": "0004.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7174
+            ],
+            [
+                "hive",
+                0.6765
+            ],
+            [
+                "mgie",
+                0.6346
+            ],
+            [
+                "instruct-diffusion",
+                0.5287
+            ],
+            [
+                "any2pix",
+                0.4768
+            ],
+            [
+                "magicbrush",
+                0.4262
+            ],
+            [
+                "instructpix2pix",
+                0.3942
+            ],
+            [
+                "hqedit",
+                0.2607
+            ]
+        ]
+    },
+    "5": {
+        "image": "0005.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7169
+            ],
+            [
+                "instructpix2pix",
+                0.6709
+            ],
+            [
+                "magicbrush",
+                0.6627
+            ],
+            [
+                "iedit",
+                0.6545
+            ],
+            [
+                "hive",
+                0.6451
+            ],
+            [
+                "mgie",
+                0.4434
+            ],
+            [
+                "hqedit",
+                0.343
+            ],
+            [
+                "any2pix",
+                0.2735
+            ]
+        ]
+    },
+    "6": {
+        "image": "0006.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.7093
+            ],
+            [
+                "iedit",
+                0.6374
+            ],
+            [
+                "instruct-diffusion",
+                0.5948
+            ],
+            [
+                "mgie",
+                0.5808
+            ],
+            [
+                "hqedit",
+                0.4589
+            ],
+            [
+                "magicbrush",
+                0.3736
+            ],
+            [
+                "instructpix2pix",
+                0.3509
+            ],
+            [
+                "any2pix",
+                0.1899
+            ]
+        ]
+    },
+    "7": {
+        "image": "0007.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7009
+            ],
+            [
+                "instruct-diffusion",
+                0.6933
+            ],
+            [
+                "instructpix2pix",
+                0.6726
+            ],
+            [
+                "iedit",
+                0.6594
+            ],
+            [
+                "any2pix",
+                0.5171
+            ],
+            [
+                "hive",
+                0.4829
+            ],
+            [
+                "hqedit",
+                0.3457
+            ],
+            [
+                "mgie",
+                0.3318
+            ]
+        ]
+    },
+    "8": {
+        "image": "0008.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7705
+            ],
+            [
+                "iedit",
+                0.7595
+            ],
+            [
+                "instruct-diffusion",
+                0.7569
+            ],
+            [
+                "instructpix2pix",
+                0.7481
+            ],
+            [
+                "any2pix",
+                0.6012
+            ],
+            [
+                "hive",
+                0.5975
+            ],
+            [
+                "hqedit",
+                0.49
+            ],
+            [
+                "mgie",
+                0.3488
+            ]
+        ]
+    },
+    "9": {
+        "image": "0009.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7152
+            ],
+            [
+                "instruct-diffusion",
+                0.6864
+            ],
+            [
+                "iedit",
+                0.6401
+            ],
+            [
+                "hive",
+                0.5844
+            ],
+            [
+                "any2pix",
+                0.4738
+            ],
+            [
+                "hqedit",
+                0.4253
+            ],
+            [
+                "magicbrush",
+                0.3265
+            ],
+            [
+                "instructpix2pix",
+                0.25
+            ]
+        ]
+    },
+    "10": {
+        "image": "0010.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7829
+            ],
+            [
+                "mgie",
+                0.7339
+            ],
+            [
+                "instruct-diffusion",
+                0.6992
+            ],
+            [
+                "magicbrush",
+                0.6967
+            ],
+            [
+                "hive",
+                0.6107
+            ],
+            [
+                "instructpix2pix",
+                0.5707
+            ],
+            [
+                "hqedit",
+                0.5041
+            ],
+            [
+                "any2pix",
+                0.4893
+            ]
+        ]
+    },
+    "11": {
+        "image": "0011.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7418
+            ],
+            [
+                "instruct-diffusion",
+                0.692
+            ],
+            [
+                "mgie",
+                0.6633
+            ],
+            [
+                "magicbrush",
+                0.5509
+            ],
+            [
+                "hive",
+                0.5015
+            ],
+            [
+                "instructpix2pix",
+                0.4583
+            ],
+            [
+                "hqedit",
+                0.4485
+            ],
+            [
+                "any2pix",
+                0.4019
+            ]
+        ]
+    },
+    "12": {
+        "image": "0012.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7522
+            ],
+            [
+                "magicbrush",
+                0.7119
+            ],
+            [
+                "instructpix2pix",
+                0.6824
+            ],
+            [
+                "iedit",
+                0.6699
+            ],
+            [
+                "mgie",
+                0.5595
+            ],
+            [
+                "any2pix",
+                0.5271
+            ],
+            [
+                "hive",
+                0.4092
+            ],
+            [
+                "hqedit",
+                0.4085
+            ]
+        ]
+    },
+    "13": {
+        "image": "0013.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "any2pix",
+                0.5339
+            ],
+            [
+                "magicbrush",
+                0.508
+            ],
+            [
+                "instruct-diffusion",
+                0.5026
+            ],
+            [
+                "instructpix2pix",
+                0.4784
+            ],
+            [
+                "iedit",
+                0.4713
+            ],
+            [
+                "hive",
+                0.4284
+            ],
+            [
+                "hqedit",
+                0.393
+            ],
+            [
+                "mgie",
+                0.3247
+            ]
+        ]
+    },
+    "14": {
+        "image": "0014.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5766
+            ],
+            [
+                "iedit",
+                0.5725
+            ],
+            [
+                "instruct-diffusion",
+                0.5635
+            ],
+            [
+                "mgie",
+                0.5313
+            ],
+            [
+                "instructpix2pix",
+                0.4335
+            ],
+            [
+                "any2pix",
+                0.3618
+            ],
+            [
+                "hive",
+                0.2224
+            ],
+            [
+                "hqedit",
+                0.2154
+            ]
+        ]
+    },
+    "15": {
+        "image": "0015.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5591
+            ],
+            [
+                "instruct-diffusion",
+                0.5431
+            ],
+            [
+                "iedit",
+                0.5351
+            ],
+            [
+                "mgie",
+                0.4964
+            ],
+            [
+                "instructpix2pix",
+                0.366
+            ],
+            [
+                "any2pix",
+                0.3628
+            ],
+            [
+                "hive",
+                0.2566
+            ],
+            [
+                "hqedit",
+                0.2487
+            ]
+        ]
+    },
+    "16": {
+        "image": "0016.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6605
+            ],
+            [
+                "iedit",
+                0.5995
+            ],
+            [
+                "instructpix2pix",
+                0.5379
+            ],
+            [
+                "mgie",
+                0.4909
+            ],
+            [
+                "magicbrush",
+                0.4904
+            ],
+            [
+                "any2pix",
+                0.4069
+            ],
+            [
+                "hive",
+                0.3533
+            ],
+            [
+                "hqedit",
+                0.3363
+            ]
+        ]
+    },
+    "17": {
+        "image": "0017.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6696
+            ],
+            [
+                "iedit",
+                0.5981
+            ],
+            [
+                "mgie",
+                0.5801
+            ],
+            [
+                "any2pix",
+                0.4595
+            ],
+            [
+                "hive",
+                0.4515
+            ],
+            [
+                "magicbrush",
+                0.4391
+            ],
+            [
+                "instructpix2pix",
+                0.3743
+            ],
+            [
+                "hqedit",
+                0.2722
+            ]
+        ]
+    },
+    "18": {
+        "image": "0018.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6458
+            ],
+            [
+                "instruct-diffusion",
+                0.6318
+            ],
+            [
+                "iedit",
+                0.5974
+            ],
+            [
+                "instructpix2pix",
+                0.4437
+            ],
+            [
+                "hive",
+                0.4304
+            ],
+            [
+                "any2pix",
+                0.3893
+            ],
+            [
+                "hqedit",
+                0.3794
+            ],
+            [
+                "magicbrush",
+                0.2937
+            ]
+        ]
+    },
+    "19": {
+        "image": "0019.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8804
+            ],
+            [
+                "instructpix2pix",
+                0.8698
+            ],
+            [
+                "magicbrush",
+                0.8686
+            ],
+            [
+                "hive",
+                0.8293
+            ],
+            [
+                "iedit",
+                0.8179
+            ],
+            [
+                "any2pix",
+                0.6838
+            ],
+            [
+                "hqedit",
+                0.3915
+            ],
+            [
+                "mgie",
+                0.2049
+            ]
+        ]
+    },
+    "20": {
+        "image": "0020.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.9476
+            ],
+            [
+                "instructpix2pix",
+                0.9472
+            ],
+            [
+                "instruct-diffusion",
+                0.9358
+            ],
+            [
+                "iedit",
+                0.924
+            ],
+            [
+                "hive",
+                0.8452
+            ],
+            [
+                "any2pix",
+                0.7672
+            ],
+            [
+                "hqedit",
+                0.668
+            ],
+            [
+                "mgie",
+                0.2908
+            ]
+        ]
+    },
+    "21": {
+        "image": "0021.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.9578
+            ],
+            [
+                "instruct-diffusion",
+                0.9482
+            ],
+            [
+                "mgie",
+                0.9397
+            ],
+            [
+                "instructpix2pix",
+                0.9301
+            ],
+            [
+                "iedit",
+                0.9094
+            ],
+            [
+                "any2pix",
+                0.7993
+            ],
+            [
+                "hqedit",
+                0.7776
+            ],
+            [
+                "hive",
+                0.7665
+            ]
+        ]
+    },
+    "22": {
+        "image": "0022.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7858
+            ],
+            [
+                "magicbrush",
+                0.7606
+            ],
+            [
+                "iedit",
+                0.7315
+            ],
+            [
+                "instructpix2pix",
+                0.6927
+            ],
+            [
+                "mgie",
+                0.6532
+            ],
+            [
+                "any2pix",
+                0.6131
+            ],
+            [
+                "hive",
+                0.5723
+            ],
+            [
+                "hqedit",
+                0.4665
+            ]
+        ]
+    },
+    "23": {
+        "image": "0023.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7192
+            ],
+            [
+                "magicbrush",
+                0.6861
+            ],
+            [
+                "instructpix2pix",
+                0.6291
+            ],
+            [
+                "iedit",
+                0.6269
+            ],
+            [
+                "any2pix",
+                0.5595
+            ],
+            [
+                "hqedit",
+                0.5461
+            ],
+            [
+                "mgie",
+                0.5294
+            ],
+            [
+                "hive",
+                0.467
+            ]
+        ]
+    },
+    "24": {
+        "image": "0024.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4959
+            ],
+            [
+                "instruct-diffusion",
+                0.473
+            ],
+            [
+                "iedit",
+                0.4588
+            ],
+            [
+                "mgie",
+                0.4326
+            ],
+            [
+                "instructpix2pix",
+                0.3702
+            ],
+            [
+                "any2pix",
+                0.3127
+            ],
+            [
+                "hive",
+                0.2822
+            ],
+            [
+                "hqedit",
+                0.1826
+            ]
+        ]
+    },
+    "25": {
+        "image": "0025.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5623
+            ],
+            [
+                "instructpix2pix",
+                0.533
+            ],
+            [
+                "iedit",
+                0.5195
+            ],
+            [
+                "instruct-diffusion",
+                0.4977
+            ],
+            [
+                "mgie",
+                0.4898
+            ],
+            [
+                "any2pix",
+                0.3717
+            ],
+            [
+                "hqedit",
+                0.1913
+            ],
+            [
+                "hive",
+                0.1455
+            ]
+        ]
+    },
+    "26": {
+        "image": "0026.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5957
+            ],
+            [
+                "instruct-diffusion",
+                0.585
+            ],
+            [
+                "iedit",
+                0.5669
+            ],
+            [
+                "instructpix2pix",
+                0.5609
+            ],
+            [
+                "mgie",
+                0.5353
+            ],
+            [
+                "any2pix",
+                0.29
+            ],
+            [
+                "hive",
+                0.2493
+            ],
+            [
+                "hqedit",
+                0.2185
+            ]
+        ]
+    },
+    "27": {
+        "image": "0027.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.3903
+            ],
+            [
+                "instructpix2pix",
+                0.3845
+            ],
+            [
+                "any2pix",
+                0.3276
+            ],
+            [
+                "magicbrush",
+                0.2451
+            ],
+            [
+                "hive",
+                0.2327
+            ],
+            [
+                "hqedit",
+                0.225
+            ],
+            [
+                "instruct-diffusion",
+                0.1878
+            ],
+            [
+                "mgie",
+                0.0885
+            ]
+        ]
+    },
+    "28": {
+        "image": "0028.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.4756
+            ],
+            [
+                "magicbrush",
+                0.4703
+            ],
+            [
+                "mgie",
+                0.4585
+            ],
+            [
+                "iedit",
+                0.4475
+            ],
+            [
+                "instruct-diffusion",
+                0.4157
+            ],
+            [
+                "any2pix",
+                0.3476
+            ],
+            [
+                "hive",
+                0.2937
+            ],
+            [
+                "hqedit",
+                0.2117
+            ]
+        ]
+    },
+    "29": {
+        "image": "0029.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9176
+            ],
+            [
+                "iedit",
+                0.9126
+            ],
+            [
+                "any2pix",
+                0.9038
+            ],
+            [
+                "hive",
+                0.897
+            ],
+            [
+                "hqedit",
+                0.7916
+            ],
+            [
+                "mgie",
+                0.7373
+            ],
+            [
+                "magicbrush",
+                0.5711
+            ],
+            [
+                "instructpix2pix",
+                0.541
+            ]
+        ]
+    },
+    "30": {
+        "image": "0030.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7664
+            ],
+            [
+                "iedit",
+                0.7026
+            ],
+            [
+                "mgie",
+                0.6925
+            ],
+            [
+                "instructpix2pix",
+                0.6309
+            ],
+            [
+                "any2pix",
+                0.563
+            ],
+            [
+                "magicbrush",
+                0.4995
+            ],
+            [
+                "hqedit",
+                0.3472
+            ],
+            [
+                "hive",
+                0.3169
+            ]
+        ]
+    },
+    "31": {
+        "image": "0031.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7798
+            ],
+            [
+                "iedit",
+                0.7767
+            ],
+            [
+                "instruct-diffusion",
+                0.7725
+            ],
+            [
+                "instructpix2pix",
+                0.7311
+            ],
+            [
+                "any2pix",
+                0.6898
+            ],
+            [
+                "hqedit",
+                0.6645
+            ],
+            [
+                "hive",
+                0.6401
+            ],
+            [
+                "magicbrush",
+                0.3792
+            ]
+        ]
+    },
+    "32": {
+        "image": "0032.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6955
+            ],
+            [
+                "magicbrush",
+                0.691
+            ],
+            [
+                "iedit",
+                0.617
+            ],
+            [
+                "instructpix2pix",
+                0.5525
+            ],
+            [
+                "any2pix",
+                0.5458
+            ],
+            [
+                "hqedit",
+                0.4624
+            ],
+            [
+                "mgie",
+                0.4066
+            ],
+            [
+                "hive",
+                0.3021
+            ]
+        ]
+    },
+    "33": {
+        "image": "0033.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7711
+            ],
+            [
+                "instructpix2pix",
+                0.7437
+            ],
+            [
+                "instruct-diffusion",
+                0.7359
+            ],
+            [
+                "iedit",
+                0.7158
+            ],
+            [
+                "mgie",
+                0.5995
+            ],
+            [
+                "hive",
+                0.5285
+            ],
+            [
+                "any2pix",
+                0.4988
+            ],
+            [
+                "hqedit",
+                0.2853
+            ]
+        ]
+    },
+    "34": {
+        "image": "0034.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6695
+            ],
+            [
+                "instruct-diffusion",
+                0.664
+            ],
+            [
+                "iedit",
+                0.6561
+            ],
+            [
+                "instructpix2pix",
+                0.6506
+            ],
+            [
+                "mgie",
+                0.5982
+            ],
+            [
+                "any2pix",
+                0.4875
+            ],
+            [
+                "hive",
+                0.4011
+            ],
+            [
+                "hqedit",
+                0.3099
+            ]
+        ]
+    },
+    "35": {
+        "image": "0035.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7231
+            ],
+            [
+                "mgie",
+                0.7021
+            ],
+            [
+                "instruct-diffusion",
+                0.6992
+            ],
+            [
+                "iedit",
+                0.6367
+            ],
+            [
+                "any2pix",
+                0.6352
+            ],
+            [
+                "instructpix2pix",
+                0.5852
+            ],
+            [
+                "hqedit",
+                0.3856
+            ],
+            [
+                "hive",
+                0.3072
+            ]
+        ]
+    },
+    "36": {
+        "image": "0036.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5874
+            ],
+            [
+                "instruct-diffusion",
+                0.5799
+            ],
+            [
+                "instructpix2pix",
+                0.5507
+            ],
+            [
+                "any2pix",
+                0.5127
+            ],
+            [
+                "iedit",
+                0.5047
+            ],
+            [
+                "mgie",
+                0.461
+            ],
+            [
+                "hqedit",
+                0.3802
+            ],
+            [
+                "hive",
+                0.2984
+            ]
+        ]
+    },
+    "37": {
+        "image": "0037.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.5959
+            ],
+            [
+                "magicbrush",
+                0.5855
+            ],
+            [
+                "instruct-diffusion",
+                0.5465
+            ],
+            [
+                "iedit",
+                0.5393
+            ],
+            [
+                "any2pix",
+                0.4857
+            ],
+            [
+                "mgie",
+                0.4571
+            ],
+            [
+                "hive",
+                0.3356
+            ],
+            [
+                "hqedit",
+                0.2914
+            ]
+        ]
+    },
+    "38": {
+        "image": "0038.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hqedit",
+                0.6065
+            ],
+            [
+                "iedit",
+                0.5406
+            ],
+            [
+                "instruct-diffusion",
+                0.5379
+            ],
+            [
+                "mgie",
+                0.4884
+            ],
+            [
+                "any2pix",
+                0.4706
+            ],
+            [
+                "magicbrush",
+                0.4329
+            ],
+            [
+                "instructpix2pix",
+                0.3963
+            ],
+            [
+                "hive",
+                0.0738
+            ]
+        ]
+    },
+    "39": {
+        "image": "0039.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "any2pix",
+                0.7959
+            ],
+            [
+                "hqedit",
+                0.7596
+            ],
+            [
+                "instruct-diffusion",
+                0.744
+            ],
+            [
+                "iedit",
+                0.6161
+            ],
+            [
+                "mgie",
+                0.5439
+            ],
+            [
+                "magicbrush",
+                0.525
+            ],
+            [
+                "instructpix2pix",
+                0.488
+            ],
+            [
+                "hive",
+                0.0937
+            ]
+        ]
+    },
+    "40": {
+        "image": "0040.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6908
+            ],
+            [
+                "hive",
+                0.5902
+            ],
+            [
+                "hqedit",
+                0.582
+            ],
+            [
+                "any2pix",
+                0.5261
+            ],
+            [
+                "iedit",
+                0.4794
+            ],
+            [
+                "magicbrush",
+                0.4649
+            ],
+            [
+                "instructpix2pix",
+                0.3113
+            ],
+            [
+                "mgie",
+                0.1286
+            ]
+        ]
+    },
+    "41": {
+        "image": "0041.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.9396
+            ],
+            [
+                "instructpix2pix",
+                0.9314
+            ],
+            [
+                "iedit",
+                0.9172
+            ],
+            [
+                "instruct-diffusion",
+                0.8947
+            ],
+            [
+                "hive",
+                0.871
+            ],
+            [
+                "any2pix",
+                0.7978
+            ],
+            [
+                "hqedit",
+                0.7828
+            ],
+            [
+                "mgie",
+                0.7433
+            ]
+        ]
+    },
+    "42": {
+        "image": "0042.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.9421
+            ],
+            [
+                "hive",
+                0.9217
+            ],
+            [
+                "instruct-diffusion",
+                0.8949
+            ],
+            [
+                "iedit",
+                0.8766
+            ],
+            [
+                "hqedit",
+                0.7772
+            ],
+            [
+                "magicbrush",
+                0.7083
+            ],
+            [
+                "mgie",
+                0.6535
+            ],
+            [
+                "any2pix",
+                0.4746
+            ]
+        ]
+    },
+    "43": {
+        "image": "0043.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7
+            ],
+            [
+                "magicbrush",
+                0.679
+            ],
+            [
+                "instruct-diffusion",
+                0.6771
+            ],
+            [
+                "any2pix",
+                0.6463
+            ],
+            [
+                "iedit",
+                0.6356
+            ],
+            [
+                "mgie",
+                0.5846
+            ],
+            [
+                "hive",
+                0.4574
+            ],
+            [
+                "hqedit",
+                0.3706
+            ]
+        ]
+    },
+    "44": {
+        "image": "0044.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.8291
+            ],
+            [
+                "instruct-diffusion",
+                0.7542
+            ],
+            [
+                "any2pix",
+                0.6399
+            ],
+            [
+                "mgie",
+                0.5871
+            ],
+            [
+                "iedit",
+                0.5578
+            ],
+            [
+                "hive",
+                0.4433
+            ],
+            [
+                "hqedit",
+                0.4394
+            ],
+            [
+                "instructpix2pix",
+                0.248
+            ]
+        ]
+    },
+    "45": {
+        "image": "0045.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7479
+            ],
+            [
+                "instruct-diffusion",
+                0.7243
+            ],
+            [
+                "instructpix2pix",
+                0.7078
+            ],
+            [
+                "iedit",
+                0.7032
+            ],
+            [
+                "mgie",
+                0.4844
+            ],
+            [
+                "any2pix",
+                0.4787
+            ],
+            [
+                "hqedit",
+                0.348
+            ],
+            [
+                "hive",
+                0.2879
+            ]
+        ]
+    },
+    "46": {
+        "image": "0046.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5558
+            ],
+            [
+                "hqedit",
+                0.5372
+            ],
+            [
+                "mgie",
+                0.4603
+            ],
+            [
+                "iedit",
+                0.4495
+            ],
+            [
+                "instruct-diffusion",
+                0.4243
+            ],
+            [
+                "instructpix2pix",
+                0.3661
+            ],
+            [
+                "hive",
+                0.3455
+            ],
+            [
+                "any2pix",
+                0.3206
+            ]
+        ]
+    },
+    "47": {
+        "image": "0047.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.74
+            ],
+            [
+                "mgie",
+                0.4793
+            ],
+            [
+                "magicbrush",
+                0.4747
+            ],
+            [
+                "any2pix",
+                0.4734
+            ],
+            [
+                "iedit",
+                0.4503
+            ],
+            [
+                "instructpix2pix",
+                0.4366
+            ],
+            [
+                "hive",
+                0.3608
+            ],
+            [
+                "hqedit",
+                0.2156
+            ]
+        ]
+    },
+    "48": {
+        "image": "0048.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5552
+            ],
+            [
+                "iedit",
+                0.4543
+            ],
+            [
+                "hive",
+                0.4238
+            ],
+            [
+                "any2pix",
+                0.3959
+            ],
+            [
+                "hqedit",
+                0.3108
+            ],
+            [
+                "instructpix2pix",
+                0.2524
+            ],
+            [
+                "magicbrush",
+                0.2079
+            ],
+            [
+                "mgie",
+                0.0893
+            ]
+        ]
+    },
+    "49": {
+        "image": "0049.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5607
+            ],
+            [
+                "instruct-diffusion",
+                0.547
+            ],
+            [
+                "iedit",
+                0.5385
+            ],
+            [
+                "hive",
+                0.4598
+            ],
+            [
+                "hqedit",
+                0.4245
+            ],
+            [
+                "any2pix",
+                0.3819
+            ],
+            [
+                "instructpix2pix",
+                0.1978
+            ],
+            [
+                "magicbrush",
+                0.1884
+            ]
+        ]
+    },
+    "50": {
+        "image": "0050.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6291
+            ],
+            [
+                "iedit",
+                0.6222
+            ],
+            [
+                "instructpix2pix",
+                0.6033
+            ],
+            [
+                "instruct-diffusion",
+                0.6012
+            ],
+            [
+                "mgie",
+                0.576
+            ],
+            [
+                "any2pix",
+                0.4322
+            ],
+            [
+                "hive",
+                0.3837
+            ],
+            [
+                "hqedit",
+                0.1449
+            ]
+        ]
+    },
+    "51": {
+        "image": "0051.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4909
+            ],
+            [
+                "instruct-diffusion",
+                0.4663
+            ],
+            [
+                "iedit",
+                0.4656
+            ],
+            [
+                "mgie",
+                0.4556
+            ],
+            [
+                "hive",
+                0.3689
+            ],
+            [
+                "any2pix",
+                0.3414
+            ],
+            [
+                "instructpix2pix",
+                0.269
+            ],
+            [
+                "hqedit",
+                0.1999
+            ]
+        ]
+    },
+    "52": {
+        "image": "0052.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7621
+            ],
+            [
+                "magicbrush",
+                0.7495
+            ],
+            [
+                "instructpix2pix",
+                0.7001
+            ],
+            [
+                "iedit",
+                0.6655
+            ],
+            [
+                "hive",
+                0.6226
+            ],
+            [
+                "mgie",
+                0.576
+            ],
+            [
+                "any2pix",
+                0.4959
+            ],
+            [
+                "hqedit",
+                0.4637
+            ]
+        ]
+    },
+    "53": {
+        "image": "0053.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8204
+            ],
+            [
+                "mgie",
+                0.5482
+            ],
+            [
+                "iedit",
+                0.5095
+            ],
+            [
+                "any2pix",
+                0.4936
+            ],
+            [
+                "hive",
+                0.485
+            ],
+            [
+                "hqedit",
+                0.4482
+            ],
+            [
+                "instructpix2pix",
+                0.3291
+            ],
+            [
+                "magicbrush",
+                0.1922
+            ]
+        ]
+    },
+    "54": {
+        "image": "0054.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.8501
+            ],
+            [
+                "instruct-diffusion",
+                0.8429
+            ],
+            [
+                "iedit",
+                0.8229
+            ],
+            [
+                "instructpix2pix",
+                0.8128
+            ],
+            [
+                "hive",
+                0.6535
+            ],
+            [
+                "any2pix",
+                0.5805
+            ],
+            [
+                "mgie",
+                0.5423
+            ],
+            [
+                "hqedit",
+                0.4184
+            ]
+        ]
+    },
+    "55": {
+        "image": "0055.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "any2pix",
+                0.6851
+            ],
+            [
+                "hive",
+                0.672
+            ],
+            [
+                "mgie",
+                0.5818
+            ],
+            [
+                "iedit",
+                0.574
+            ],
+            [
+                "instruct-diffusion",
+                0.571
+            ],
+            [
+                "hqedit",
+                0.4964
+            ],
+            [
+                "instructpix2pix",
+                0.422
+            ],
+            [
+                "magicbrush",
+                0.3616
+            ]
+        ]
+    },
+    "56": {
+        "image": "0056.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.819
+            ],
+            [
+                "magicbrush",
+                0.8113
+            ],
+            [
+                "instruct-diffusion",
+                0.787
+            ],
+            [
+                "instructpix2pix",
+                0.768
+            ],
+            [
+                "iedit",
+                0.7424
+            ],
+            [
+                "any2pix",
+                0.583
+            ],
+            [
+                "hqedit",
+                0.5061
+            ],
+            [
+                "hive",
+                0.4998
+            ]
+        ]
+    },
+    "57": {
+        "image": "0057.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "any2pix",
+                0.5018
+            ],
+            [
+                "magicbrush",
+                0.4764
+            ],
+            [
+                "instruct-diffusion",
+                0.4462
+            ],
+            [
+                "iedit",
+                0.4291
+            ],
+            [
+                "mgie",
+                0.3665
+            ],
+            [
+                "hive",
+                0.2617
+            ],
+            [
+                "instructpix2pix",
+                0.2401
+            ],
+            [
+                "hqedit",
+                0.2334
+            ]
+        ]
+    },
+    "58": {
+        "image": "0058.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6211
+            ],
+            [
+                "any2pix",
+                0.5322
+            ],
+            [
+                "hqedit",
+                0.5304
+            ],
+            [
+                "magicbrush",
+                0.4608
+            ],
+            [
+                "mgie",
+                0.4554
+            ],
+            [
+                "iedit",
+                0.4104
+            ],
+            [
+                "instructpix2pix",
+                0.3254
+            ],
+            [
+                "hive",
+                0.1525
+            ]
+        ]
+    },
+    "59": {
+        "image": "0059.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5158
+            ],
+            [
+                "instruct-diffusion",
+                0.5082
+            ],
+            [
+                "iedit",
+                0.4836
+            ],
+            [
+                "mgie",
+                0.3826
+            ],
+            [
+                "instructpix2pix",
+                0.3752
+            ],
+            [
+                "hive",
+                0.356
+            ],
+            [
+                "hqedit",
+                0.3164
+            ],
+            [
+                "any2pix",
+                0.3059
+            ]
+        ]
+    },
+    "60": {
+        "image": "0060.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4317
+            ],
+            [
+                "iedit",
+                0.4273
+            ],
+            [
+                "instructpix2pix",
+                0.408
+            ],
+            [
+                "instruct-diffusion",
+                0.3848
+            ],
+            [
+                "mgie",
+                0.3674
+            ],
+            [
+                "any2pix",
+                0.3549
+            ],
+            [
+                "hive",
+                0.3163
+            ],
+            [
+                "hqedit",
+                0.206
+            ]
+        ]
+    },
+    "61": {
+        "image": "0061.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5133
+            ],
+            [
+                "iedit",
+                0.51
+            ],
+            [
+                "instructpix2pix",
+                0.4928
+            ],
+            [
+                "instruct-diffusion",
+                0.4856
+            ],
+            [
+                "mgie",
+                0.4444
+            ],
+            [
+                "any2pix",
+                0.387
+            ],
+            [
+                "hive",
+                0.3708
+            ],
+            [
+                "hqedit",
+                0.1931
+            ]
+        ]
+    },
+    "62": {
+        "image": "0062.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6389
+            ],
+            [
+                "iedit",
+                0.5932
+            ],
+            [
+                "instructpix2pix",
+                0.5788
+            ],
+            [
+                "magicbrush",
+                0.563
+            ],
+            [
+                "instruct-diffusion",
+                0.556
+            ],
+            [
+                "any2pix",
+                0.3737
+            ],
+            [
+                "hive",
+                0.2367
+            ],
+            [
+                "hqedit",
+                0.163
+            ]
+        ]
+    },
+    "63": {
+        "image": "0063.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7524
+            ],
+            [
+                "instruct-diffusion",
+                0.7223
+            ],
+            [
+                "magicbrush",
+                0.6792
+            ],
+            [
+                "instructpix2pix",
+                0.6367
+            ],
+            [
+                "any2pix",
+                0.5621
+            ],
+            [
+                "hqedit",
+                0.4071
+            ],
+            [
+                "hive",
+                0.311
+            ],
+            [
+                "mgie",
+                0.1559
+            ]
+        ]
+    },
+    "64": {
+        "image": "0064.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4778
+            ],
+            [
+                "mgie",
+                0.4733
+            ],
+            [
+                "instruct-diffusion",
+                0.4566
+            ],
+            [
+                "iedit",
+                0.45
+            ],
+            [
+                "instructpix2pix",
+                0.4071
+            ],
+            [
+                "hive",
+                0.3535
+            ],
+            [
+                "any2pix",
+                0.3282
+            ],
+            [
+                "hqedit",
+                0.1776
+            ]
+        ]
+    },
+    "65": {
+        "image": "0065.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "any2pix",
+                0.6329
+            ],
+            [
+                "instruct-diffusion",
+                0.5925
+            ],
+            [
+                "magicbrush",
+                0.5906
+            ],
+            [
+                "iedit",
+                0.5715
+            ],
+            [
+                "instructpix2pix",
+                0.5615
+            ],
+            [
+                "hive",
+                0.4657
+            ],
+            [
+                "mgie",
+                0.4579
+            ],
+            [
+                "hqedit",
+                0.4543
+            ]
+        ]
+    },
+    "66": {
+        "image": "0066.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7844
+            ],
+            [
+                "magicbrush",
+                0.7838
+            ],
+            [
+                "instructpix2pix",
+                0.7617
+            ],
+            [
+                "instruct-diffusion",
+                0.7042
+            ],
+            [
+                "mgie",
+                0.6539
+            ],
+            [
+                "any2pix",
+                0.4456
+            ],
+            [
+                "hive",
+                0.378
+            ],
+            [
+                "hqedit",
+                0.3213
+            ]
+        ]
+    },
+    "67": {
+        "image": "0067.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7422
+            ],
+            [
+                "instruct-diffusion",
+                0.7321
+            ],
+            [
+                "instructpix2pix",
+                0.724
+            ],
+            [
+                "iedit",
+                0.6791
+            ],
+            [
+                "mgie",
+                0.659
+            ],
+            [
+                "any2pix",
+                0.4956
+            ],
+            [
+                "hive",
+                0.3863
+            ],
+            [
+                "hqedit",
+                0.271
+            ]
+        ]
+    },
+    "68": {
+        "image": "0068.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7443
+            ],
+            [
+                "iedit",
+                0.7393
+            ],
+            [
+                "instruct-diffusion",
+                0.6841
+            ],
+            [
+                "mgie",
+                0.6699
+            ],
+            [
+                "instructpix2pix",
+                0.5288
+            ],
+            [
+                "any2pix",
+                0.4183
+            ],
+            [
+                "hive",
+                0.3099
+            ],
+            [
+                "hqedit",
+                0.2019
+            ]
+        ]
+    },
+    "69": {
+        "image": "0069.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6829
+            ],
+            [
+                "iedit",
+                0.6744
+            ],
+            [
+                "mgie",
+                0.6647
+            ],
+            [
+                "instruct-diffusion",
+                0.641
+            ],
+            [
+                "instructpix2pix",
+                0.5421
+            ],
+            [
+                "hive",
+                0.5244
+            ],
+            [
+                "any2pix",
+                0.5082
+            ],
+            [
+                "hqedit",
+                0.4817
+            ]
+        ]
+    },
+    "70": {
+        "image": "0070.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7017
+            ],
+            [
+                "iedit",
+                0.7015
+            ],
+            [
+                "instruct-diffusion",
+                0.6934
+            ],
+            [
+                "instructpix2pix",
+                0.6724
+            ],
+            [
+                "mgie",
+                0.5847
+            ],
+            [
+                "hive",
+                0.5196
+            ],
+            [
+                "any2pix",
+                0.5022
+            ],
+            [
+                "hqedit",
+                0.2833
+            ]
+        ]
+    },
+    "71": {
+        "image": "0071.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5417
+            ],
+            [
+                "magicbrush",
+                0.5062
+            ],
+            [
+                "mgie",
+                0.4555
+            ],
+            [
+                "iedit",
+                0.4492
+            ],
+            [
+                "any2pix",
+                0.3833
+            ],
+            [
+                "hive",
+                0.3092
+            ],
+            [
+                "hqedit",
+                0.2828
+            ],
+            [
+                "instructpix2pix",
+                0.26
+            ]
+        ]
+    },
+    "72": {
+        "image": "0072.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7927
+            ],
+            [
+                "instructpix2pix",
+                0.7492
+            ],
+            [
+                "instruct-diffusion",
+                0.7214
+            ],
+            [
+                "mgie",
+                0.7072
+            ],
+            [
+                "iedit",
+                0.6583
+            ],
+            [
+                "any2pix",
+                0.5322
+            ],
+            [
+                "hive",
+                0.3478
+            ],
+            [
+                "hqedit",
+                0.3339
+            ]
+        ]
+    },
+    "73": {
+        "image": "0073.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.8719
+            ],
+            [
+                "instruct-diffusion",
+                0.8663
+            ],
+            [
+                "iedit",
+                0.8314
+            ],
+            [
+                "instructpix2pix",
+                0.7975
+            ],
+            [
+                "mgie",
+                0.7434
+            ],
+            [
+                "hive",
+                0.585
+            ],
+            [
+                "any2pix",
+                0.5541
+            ],
+            [
+                "hqedit",
+                0.3098
+            ]
+        ]
+    },
+    "74": {
+        "image": "0074.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.6965
+            ],
+            [
+                "magicbrush",
+                0.6956
+            ],
+            [
+                "instruct-diffusion",
+                0.6943
+            ],
+            [
+                "mgie",
+                0.6474
+            ],
+            [
+                "instructpix2pix",
+                0.6284
+            ],
+            [
+                "any2pix",
+                0.3756
+            ],
+            [
+                "hive",
+                0.375
+            ],
+            [
+                "hqedit",
+                0.3468
+            ]
+        ]
+    },
+    "75": {
+        "image": "0075.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7176
+            ],
+            [
+                "iedit",
+                0.7165
+            ],
+            [
+                "instruct-diffusion",
+                0.702
+            ],
+            [
+                "instructpix2pix",
+                0.7007
+            ],
+            [
+                "mgie",
+                0.6528
+            ],
+            [
+                "hive",
+                0.3587
+            ],
+            [
+                "any2pix",
+                0.3486
+            ],
+            [
+                "hqedit",
+                0.2723
+            ]
+        ]
+    },
+    "76": {
+        "image": "0076.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.5964
+            ],
+            [
+                "magicbrush",
+                0.5528
+            ],
+            [
+                "instruct-diffusion",
+                0.5495
+            ],
+            [
+                "iedit",
+                0.5446
+            ],
+            [
+                "mgie",
+                0.4401
+            ],
+            [
+                "any2pix",
+                0.4069
+            ],
+            [
+                "hive",
+                0.3254
+            ],
+            [
+                "hqedit",
+                0.2126
+            ]
+        ]
+    },
+    "77": {
+        "image": "0077.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.8087
+            ],
+            [
+                "instructpix2pix",
+                0.801
+            ],
+            [
+                "instruct-diffusion",
+                0.7923
+            ],
+            [
+                "iedit",
+                0.7768
+            ],
+            [
+                "mgie",
+                0.6133
+            ],
+            [
+                "any2pix",
+                0.5502
+            ],
+            [
+                "hive",
+                0.4789
+            ],
+            [
+                "hqedit",
+                0.4088
+            ]
+        ]
+    },
+    "78": {
+        "image": "0078.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.505
+            ],
+            [
+                "mgie",
+                0.5024
+            ],
+            [
+                "instruct-diffusion",
+                0.5013
+            ],
+            [
+                "instructpix2pix",
+                0.4848
+            ],
+            [
+                "iedit",
+                0.4785
+            ],
+            [
+                "any2pix",
+                0.3686
+            ],
+            [
+                "hive",
+                0.2846
+            ],
+            [
+                "hqedit",
+                0.1881
+            ]
+        ]
+    },
+    "79": {
+        "image": "0079.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5949
+            ],
+            [
+                "magicbrush",
+                0.5945
+            ],
+            [
+                "instructpix2pix",
+                0.5682
+            ],
+            [
+                "iedit",
+                0.5066
+            ],
+            [
+                "mgie",
+                0.4346
+            ],
+            [
+                "any2pix",
+                0.4318
+            ],
+            [
+                "hive",
+                0.3293
+            ],
+            [
+                "hqedit",
+                0.2547
+            ]
+        ]
+    },
+    "80": {
+        "image": "0080.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6701
+            ],
+            [
+                "any2pix",
+                0.5864
+            ],
+            [
+                "instructpix2pix",
+                0.5515
+            ],
+            [
+                "iedit",
+                0.5249
+            ],
+            [
+                "mgie",
+                0.5174
+            ],
+            [
+                "instruct-diffusion",
+                0.5092
+            ],
+            [
+                "hqedit",
+                0.4161
+            ],
+            [
+                "hive",
+                0.3007
+            ]
+        ]
+    },
+    "81": {
+        "image": "0081.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6345
+            ],
+            [
+                "magicbrush",
+                0.6247
+            ],
+            [
+                "instructpix2pix",
+                0.6067
+            ],
+            [
+                "iedit",
+                0.6018
+            ],
+            [
+                "any2pix",
+                0.4995
+            ],
+            [
+                "mgie",
+                0.4742
+            ],
+            [
+                "hive",
+                0.4157
+            ],
+            [
+                "hqedit",
+                0.3138
+            ]
+        ]
+    },
+    "82": {
+        "image": "0082.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.8524
+            ],
+            [
+                "instruct-diffusion",
+                0.8416
+            ],
+            [
+                "instructpix2pix",
+                0.8299
+            ],
+            [
+                "iedit",
+                0.7997
+            ],
+            [
+                "mgie",
+                0.5915
+            ],
+            [
+                "any2pix",
+                0.5912
+            ],
+            [
+                "hive",
+                0.5535
+            ],
+            [
+                "hqedit",
+                0.4026
+            ]
+        ]
+    },
+    "83": {
+        "image": "0083.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7732
+            ],
+            [
+                "instruct-diffusion",
+                0.7715
+            ],
+            [
+                "iedit",
+                0.7476
+            ],
+            [
+                "instructpix2pix",
+                0.7442
+            ],
+            [
+                "mgie",
+                0.5908
+            ],
+            [
+                "any2pix",
+                0.5753
+            ],
+            [
+                "hive",
+                0.4048
+            ],
+            [
+                "hqedit",
+                0.298
+            ]
+        ]
+    },
+    "84": {
+        "image": "0084.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7953
+            ],
+            [
+                "instruct-diffusion",
+                0.7947
+            ],
+            [
+                "magicbrush",
+                0.7903
+            ],
+            [
+                "mgie",
+                0.7048
+            ],
+            [
+                "hive",
+                0.6028
+            ],
+            [
+                "any2pix",
+                0.5448
+            ],
+            [
+                "instructpix2pix",
+                0.4057
+            ],
+            [
+                "hqedit",
+                0.3797
+            ]
+        ]
+    },
+    "85": {
+        "image": "0085.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7671
+            ],
+            [
+                "iedit",
+                0.7565
+            ],
+            [
+                "mgie",
+                0.7436
+            ],
+            [
+                "magicbrush",
+                0.7271
+            ],
+            [
+                "instructpix2pix",
+                0.6766
+            ],
+            [
+                "any2pix",
+                0.622
+            ],
+            [
+                "hive",
+                0.4984
+            ],
+            [
+                "hqedit",
+                0.349
+            ]
+        ]
+    },
+    "86": {
+        "image": "0086.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7285
+            ],
+            [
+                "instruct-diffusion",
+                0.7214
+            ],
+            [
+                "instructpix2pix",
+                0.7078
+            ],
+            [
+                "iedit",
+                0.657
+            ],
+            [
+                "hive",
+                0.4602
+            ],
+            [
+                "any2pix",
+                0.3643
+            ],
+            [
+                "mgie",
+                0.3257
+            ],
+            [
+                "hqedit",
+                0.2924
+            ]
+        ]
+    },
+    "87": {
+        "image": "0087.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6584
+            ],
+            [
+                "magicbrush",
+                0.6536
+            ],
+            [
+                "iedit",
+                0.6232
+            ],
+            [
+                "any2pix",
+                0.6094
+            ],
+            [
+                "mgie",
+                0.5049
+            ],
+            [
+                "hive",
+                0.4399
+            ],
+            [
+                "instructpix2pix",
+                0.3941
+            ],
+            [
+                "hqedit",
+                0.3333
+            ]
+        ]
+    },
+    "88": {
+        "image": "0088.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7686
+            ],
+            [
+                "instruct-diffusion",
+                0.761
+            ],
+            [
+                "iedit",
+                0.7539
+            ],
+            [
+                "instructpix2pix",
+                0.7421
+            ],
+            [
+                "any2pix",
+                0.5924
+            ],
+            [
+                "mgie",
+                0.569
+            ],
+            [
+                "hqedit",
+                0.3516
+            ],
+            [
+                "hive",
+                0.3285
+            ]
+        ]
+    },
+    "89": {
+        "image": "0089.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7306
+            ],
+            [
+                "magicbrush",
+                0.7216
+            ],
+            [
+                "mgie",
+                0.7159
+            ],
+            [
+                "iedit",
+                0.7119
+            ],
+            [
+                "instructpix2pix",
+                0.7011
+            ],
+            [
+                "any2pix",
+                0.613
+            ],
+            [
+                "hqedit",
+                0.4383
+            ],
+            [
+                "hive",
+                0.1953
+            ]
+        ]
+    },
+    "90": {
+        "image": "0090.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.4877
+            ],
+            [
+                "magicbrush",
+                0.4294
+            ],
+            [
+                "iedit",
+                0.4261
+            ],
+            [
+                "any2pix",
+                0.4081
+            ],
+            [
+                "instruct-diffusion",
+                0.405
+            ],
+            [
+                "mgie",
+                0.4037
+            ],
+            [
+                "instructpix2pix",
+                0.3602
+            ],
+            [
+                "hqedit",
+                0.2235
+            ]
+        ]
+    },
+    "91": {
+        "image": "0091.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5178
+            ],
+            [
+                "mgie",
+                0.5077
+            ],
+            [
+                "instruct-diffusion",
+                0.5065
+            ],
+            [
+                "any2pix",
+                0.4816
+            ],
+            [
+                "iedit",
+                0.4364
+            ],
+            [
+                "instructpix2pix",
+                0.4288
+            ],
+            [
+                "hive",
+                0.4077
+            ],
+            [
+                "hqedit",
+                0.2692
+            ]
+        ]
+    },
+    "92": {
+        "image": "0092.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6462
+            ],
+            [
+                "iedit",
+                0.6314
+            ],
+            [
+                "instruct-diffusion",
+                0.5967
+            ],
+            [
+                "mgie",
+                0.5658
+            ],
+            [
+                "any2pix",
+                0.4884
+            ],
+            [
+                "hive",
+                0.4034
+            ],
+            [
+                "instructpix2pix",
+                0.3809
+            ],
+            [
+                "hqedit",
+                0.291
+            ]
+        ]
+    },
+    "93": {
+        "image": "0093.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7234
+            ],
+            [
+                "instruct-diffusion",
+                0.7091
+            ],
+            [
+                "iedit",
+                0.7058
+            ],
+            [
+                "instructpix2pix",
+                0.7009
+            ],
+            [
+                "mgie",
+                0.6792
+            ],
+            [
+                "hive",
+                0.4924
+            ],
+            [
+                "any2pix",
+                0.4732
+            ],
+            [
+                "hqedit",
+                0.2517
+            ]
+        ]
+    },
+    "94": {
+        "image": "0094.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.7814
+            ],
+            [
+                "instructpix2pix",
+                0.7601
+            ],
+            [
+                "instruct-diffusion",
+                0.7538
+            ],
+            [
+                "iedit",
+                0.7454
+            ],
+            [
+                "mgie",
+                0.6713
+            ],
+            [
+                "hive",
+                0.5087
+            ],
+            [
+                "any2pix",
+                0.5066
+            ],
+            [
+                "hqedit",
+                0.3549
+            ]
+        ]
+    },
+    "95": {
+        "image": "0095.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6047
+            ],
+            [
+                "any2pix",
+                0.592
+            ],
+            [
+                "magicbrush",
+                0.4686
+            ],
+            [
+                "instructpix2pix",
+                0.4399
+            ],
+            [
+                "iedit",
+                0.4313
+            ],
+            [
+                "mgie",
+                0.3414
+            ],
+            [
+                "hive",
+                0.2679
+            ],
+            [
+                "hqedit",
+                0.2333
+            ]
+        ]
+    },
+    "96": {
+        "image": "0096.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.4394
+            ],
+            [
+                "magicbrush",
+                0.4161
+            ],
+            [
+                "iedit",
+                0.4036
+            ],
+            [
+                "instructpix2pix",
+                0.3897
+            ],
+            [
+                "any2pix",
+                0.3546
+            ],
+            [
+                "mgie",
+                0.3381
+            ],
+            [
+                "hive",
+                0.319
+            ],
+            [
+                "hqedit",
+                0.2279
+            ]
+        ]
+    },
+    "97": {
+        "image": "0097.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6087
+            ],
+            [
+                "magicbrush",
+                0.5482
+            ],
+            [
+                "iedit",
+                0.5402
+            ],
+            [
+                "instructpix2pix",
+                0.4549
+            ],
+            [
+                "mgie",
+                0.4545
+            ],
+            [
+                "any2pix",
+                0.4475
+            ],
+            [
+                "hive",
+                0.3072
+            ],
+            [
+                "hqedit",
+                0.2911
+            ]
+        ]
+    },
+    "98": {
+        "image": "0098.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6733
+            ],
+            [
+                "instructpix2pix",
+                0.6516
+            ],
+            [
+                "iedit",
+                0.6514
+            ],
+            [
+                "instruct-diffusion",
+                0.647
+            ],
+            [
+                "mgie",
+                0.5976
+            ],
+            [
+                "any2pix",
+                0.4404
+            ],
+            [
+                "hive",
+                0.4368
+            ],
+            [
+                "hqedit",
+                0.3185
+            ]
+        ]
+    },
+    "99": {
+        "image": "0099.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.823
+            ],
+            [
+                "instruct-diffusion",
+                0.7882
+            ],
+            [
+                "instructpix2pix",
+                0.7666
+            ],
+            [
+                "iedit",
+                0.7199
+            ],
+            [
+                "any2pix",
+                0.6088
+            ],
+            [
+                "mgie",
+                0.5493
+            ],
+            [
+                "hqedit",
+                0.5234
+            ],
+            [
+                "hive",
+                0.359
+            ]
+        ]
+    },
+    "100": {
+        "image": "0100.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6319
+            ],
+            [
+                "mgie",
+                0.6281
+            ],
+            [
+                "iedit",
+                0.6268
+            ],
+            [
+                "instruct-diffusion",
+                0.6234
+            ],
+            [
+                "instructpix2pix",
+                0.6153
+            ],
+            [
+                "any2pix",
+                0.4317
+            ],
+            [
+                "hive",
+                0.3997
+            ],
+            [
+                "hqedit",
+                0.2638
+            ]
+        ]
+    },
+    "101": {
+        "image": "0101.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6585
+            ],
+            [
+                "magicbrush",
+                0.5273
+            ],
+            [
+                "instructpix2pix",
+                0.4943
+            ],
+            [
+                "iedit",
+                0.4885
+            ],
+            [
+                "any2pix",
+                0.4721
+            ],
+            [
+                "mgie",
+                0.4215
+            ],
+            [
+                "hive",
+                0.3493
+            ],
+            [
+                "hqedit",
+                0.3196
+            ]
+        ]
+    },
+    "102": {
+        "image": "0102.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7056
+            ],
+            [
+                "magicbrush",
+                0.5511
+            ],
+            [
+                "instructpix2pix",
+                0.526
+            ],
+            [
+                "iedit",
+                0.5041
+            ],
+            [
+                "any2pix",
+                0.5015
+            ],
+            [
+                "hqedit",
+                0.4537
+            ],
+            [
+                "mgie",
+                0.4172
+            ],
+            [
+                "hive",
+                0.3666
+            ]
+        ]
+    },
+    "103": {
+        "image": "0103.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.8478
+            ],
+            [
+                "mgie",
+                0.8321
+            ],
+            [
+                "instruct-diffusion",
+                0.8191
+            ],
+            [
+                "iedit",
+                0.8125
+            ],
+            [
+                "instructpix2pix",
+                0.8005
+            ],
+            [
+                "any2pix",
+                0.5673
+            ],
+            [
+                "hive",
+                0.5204
+            ],
+            [
+                "hqedit",
+                0.4642
+            ]
+        ]
+    },
+    "104": {
+        "image": "0104.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5079
+            ],
+            [
+                "iedit",
+                0.4792
+            ],
+            [
+                "mgie",
+                0.4706
+            ],
+            [
+                "instruct-diffusion",
+                0.4596
+            ],
+            [
+                "hive",
+                0.3454
+            ],
+            [
+                "instructpix2pix",
+                0.3353
+            ],
+            [
+                "any2pix",
+                0.3321
+            ],
+            [
+                "hqedit",
+                0.1663
+            ]
+        ]
+    },
+    "105": {
+        "image": "0105.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6448
+            ],
+            [
+                "iedit",
+                0.6136
+            ],
+            [
+                "magicbrush",
+                0.5386
+            ],
+            [
+                "mgie",
+                0.5335
+            ],
+            [
+                "instructpix2pix",
+                0.4513
+            ],
+            [
+                "any2pix",
+                0.3842
+            ],
+            [
+                "hive",
+                0.3247
+            ],
+            [
+                "hqedit",
+                0.301
+            ]
+        ]
+    },
+    "106": {
+        "image": "0106.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.4344
+            ],
+            [
+                "magicbrush",
+                0.4331
+            ],
+            [
+                "mgie",
+                0.4307
+            ],
+            [
+                "instructpix2pix",
+                0.4012
+            ],
+            [
+                "iedit",
+                0.3684
+            ],
+            [
+                "any2pix",
+                0.3566
+            ],
+            [
+                "hqedit",
+                0.3294
+            ],
+            [
+                "hive",
+                0.23
+            ]
+        ]
+    },
+    "107": {
+        "image": "0107.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4792
+            ],
+            [
+                "instruct-diffusion",
+                0.4644
+            ],
+            [
+                "iedit",
+                0.4629
+            ],
+            [
+                "instructpix2pix",
+                0.4466
+            ],
+            [
+                "mgie",
+                0.4258
+            ],
+            [
+                "any2pix",
+                0.3848
+            ],
+            [
+                "hive",
+                0.3267
+            ],
+            [
+                "hqedit",
+                0.2526
+            ]
+        ]
+    },
+    "108": {
+        "image": "0108.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.4531
+            ],
+            [
+                "any2pix",
+                0.3378
+            ],
+            [
+                "magicbrush",
+                0.2942
+            ],
+            [
+                "mgie",
+                0.2935
+            ],
+            [
+                "iedit",
+                0.2714
+            ],
+            [
+                "instructpix2pix",
+                0.2467
+            ],
+            [
+                "hqedit",
+                0.1822
+            ],
+            [
+                "hive",
+                0.1051
+            ]
+        ]
+    },
+    "109": {
+        "image": "0109.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.584
+            ],
+            [
+                "instruct-diffusion",
+                0.5788
+            ],
+            [
+                "iedit",
+                0.5716
+            ],
+            [
+                "mgie",
+                0.5358
+            ],
+            [
+                "instructpix2pix",
+                0.4979
+            ],
+            [
+                "any2pix",
+                0.4715
+            ],
+            [
+                "hive",
+                0.3793
+            ],
+            [
+                "hqedit",
+                0.1999
+            ]
+        ]
+    },
+    "110": {
+        "image": "0110.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.7755
+            ],
+            [
+                "magicbrush",
+                0.7239
+            ],
+            [
+                "instruct-diffusion",
+                0.5822
+            ],
+            [
+                "any2pix",
+                0.56
+            ],
+            [
+                "iedit",
+                0.5546
+            ],
+            [
+                "mgie",
+                0.5524
+            ],
+            [
+                "hqedit",
+                0.5402
+            ],
+            [
+                "hive",
+                0.3248
+            ]
+        ]
+    },
+    "111": {
+        "image": "0111.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.9562
+            ],
+            [
+                "mgie",
+                0.9524
+            ],
+            [
+                "iedit",
+                0.9158
+            ],
+            [
+                "instructpix2pix",
+                0.9
+            ],
+            [
+                "any2pix",
+                0.7776
+            ],
+            [
+                "hqedit",
+                0.7153
+            ],
+            [
+                "magicbrush",
+                0.6864
+            ],
+            [
+                "instruct-diffusion",
+                0.67
+            ]
+        ]
+    },
+    "112": {
+        "image": "0112.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.6054
+            ],
+            [
+                "instruct-diffusion",
+                0.5985
+            ],
+            [
+                "iedit",
+                0.5625
+            ],
+            [
+                "instructpix2pix",
+                0.4799
+            ],
+            [
+                "magicbrush",
+                0.4398
+            ],
+            [
+                "any2pix",
+                0.3696
+            ],
+            [
+                "hive",
+                0.3106
+            ],
+            [
+                "hqedit",
+                0.2804
+            ]
+        ]
+    },
+    "113": {
+        "image": "0113.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.5475
+            ],
+            [
+                "instruct-diffusion",
+                0.5309
+            ],
+            [
+                "instructpix2pix",
+                0.4882
+            ],
+            [
+                "iedit",
+                0.4602
+            ],
+            [
+                "any2pix",
+                0.3177
+            ],
+            [
+                "hqedit",
+                0.2352
+            ],
+            [
+                "magicbrush",
+                0.1915
+            ],
+            [
+                "hive",
+                0.1606
+            ]
+        ]
+    },
+    "114": {
+        "image": "0114.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5191
+            ],
+            [
+                "instruct-diffusion",
+                0.491
+            ],
+            [
+                "iedit",
+                0.4773
+            ],
+            [
+                "any2pix",
+                0.4524
+            ],
+            [
+                "instructpix2pix",
+                0.4467
+            ],
+            [
+                "mgie",
+                0.3511
+            ],
+            [
+                "hqedit",
+                0.3412
+            ],
+            [
+                "hive",
+                0.3402
+            ]
+        ]
+    },
+    "115": {
+        "image": "0115.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.9364
+            ],
+            [
+                "iedit",
+                0.9196
+            ],
+            [
+                "hive",
+                0.9154
+            ],
+            [
+                "instruct-diffusion",
+                0.8787
+            ],
+            [
+                "hqedit",
+                0.6849
+            ],
+            [
+                "instructpix2pix",
+                0.4953
+            ],
+            [
+                "any2pix",
+                0.4786
+            ],
+            [
+                "magicbrush",
+                0.3768
+            ]
+        ]
+    },
+    "116": {
+        "image": "0116.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.9468
+            ],
+            [
+                "iedit",
+                0.9366
+            ],
+            [
+                "instruct-diffusion",
+                0.9289
+            ],
+            [
+                "magicbrush",
+                0.9078
+            ],
+            [
+                "hive",
+                0.8385
+            ],
+            [
+                "mgie",
+                0.7698
+            ],
+            [
+                "any2pix",
+                0.5979
+            ],
+            [
+                "hqedit",
+                0.5627
+            ]
+        ]
+    },
+    "117": {
+        "image": "0117.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.9611
+            ],
+            [
+                "iedit",
+                0.9448
+            ],
+            [
+                "instruct-diffusion",
+                0.9258
+            ],
+            [
+                "magicbrush",
+                0.7754
+            ],
+            [
+                "instructpix2pix",
+                0.6906
+            ],
+            [
+                "any2pix",
+                0.6804
+            ],
+            [
+                "hive",
+                0.6548
+            ],
+            [
+                "hqedit",
+                0.5499
+            ]
+        ]
+    },
+    "118": {
+        "image": "0118.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.9207
+            ],
+            [
+                "iedit",
+                0.9072
+            ],
+            [
+                "instruct-diffusion",
+                0.9055
+            ],
+            [
+                "instructpix2pix",
+                0.8981
+            ],
+            [
+                "any2pix",
+                0.6952
+            ],
+            [
+                "hive",
+                0.6895
+            ],
+            [
+                "mgie",
+                0.6495
+            ],
+            [
+                "hqedit",
+                0.5637
+            ]
+        ]
+    },
+    "119": {
+        "image": "0119.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.9016
+            ],
+            [
+                "iedit",
+                0.8581
+            ],
+            [
+                "instructpix2pix",
+                0.834
+            ],
+            [
+                "magicbrush",
+                0.8017
+            ],
+            [
+                "any2pix",
+                0.6124
+            ],
+            [
+                "hive",
+                0.5868
+            ],
+            [
+                "hqedit",
+                0.5725
+            ],
+            [
+                "mgie",
+                0.5433
+            ]
+        ]
+    },
+    "120": {
+        "image": "0120.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5738
+            ],
+            [
+                "iedit",
+                0.5094
+            ],
+            [
+                "instruct-diffusion",
+                0.4907
+            ],
+            [
+                "mgie",
+                0.4658
+            ],
+            [
+                "instructpix2pix",
+                0.4457
+            ],
+            [
+                "any2pix",
+                0.3976
+            ],
+            [
+                "hive",
+                0.3123
+            ],
+            [
+                "hqedit",
+                0.2055
+            ]
+        ]
+    },
+    "121": {
+        "image": "0121.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5909
+            ],
+            [
+                "mgie",
+                0.5413
+            ],
+            [
+                "instruct-diffusion",
+                0.5157
+            ],
+            [
+                "iedit",
+                0.5156
+            ],
+            [
+                "instructpix2pix",
+                0.4848
+            ],
+            [
+                "any2pix",
+                0.3615
+            ],
+            [
+                "hive",
+                0.3281
+            ],
+            [
+                "hqedit",
+                0.1948
+            ]
+        ]
+    },
+    "122": {
+        "image": "0122.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.9364
+            ],
+            [
+                "mgie",
+                0.9291
+            ],
+            [
+                "iedit",
+                0.9208
+            ],
+            [
+                "instruct-diffusion",
+                0.9196
+            ],
+            [
+                "any2pix",
+                0.7763
+            ],
+            [
+                "instructpix2pix",
+                0.7026
+            ],
+            [
+                "hive",
+                0.6508
+            ],
+            [
+                "hqedit",
+                0.5559
+            ]
+        ]
+    },
+    "123": {
+        "image": "0123.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.8908
+            ],
+            [
+                "iedit",
+                0.8884
+            ],
+            [
+                "magicbrush",
+                0.8819
+            ],
+            [
+                "mgie",
+                0.8573
+            ],
+            [
+                "instruct-diffusion",
+                0.8193
+            ],
+            [
+                "hqedit",
+                0.6313
+            ],
+            [
+                "any2pix",
+                0.4742
+            ],
+            [
+                "hive",
+                0.3978
+            ]
+        ]
+    },
+    "124": {
+        "image": "0124.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6487
+            ],
+            [
+                "mgie",
+                0.594
+            ],
+            [
+                "magicbrush",
+                0.5865
+            ],
+            [
+                "any2pix",
+                0.5864
+            ],
+            [
+                "iedit",
+                0.553
+            ],
+            [
+                "hqedit",
+                0.4465
+            ],
+            [
+                "instructpix2pix",
+                0.4024
+            ],
+            [
+                "hive",
+                0.3668
+            ]
+        ]
+    },
+    "125": {
+        "image": "0125.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8717
+            ],
+            [
+                "iedit",
+                0.8285
+            ],
+            [
+                "mgie",
+                0.7392
+            ],
+            [
+                "any2pix",
+                0.732
+            ],
+            [
+                "hive",
+                0.6722
+            ],
+            [
+                "hqedit",
+                0.5579
+            ],
+            [
+                "instructpix2pix",
+                0.5311
+            ],
+            [
+                "magicbrush",
+                0.2494
+            ]
+        ]
+    },
+    "126": {
+        "image": "0126.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8995
+            ],
+            [
+                "iedit",
+                0.8768
+            ],
+            [
+                "magicbrush",
+                0.8682
+            ],
+            [
+                "hive",
+                0.7614
+            ],
+            [
+                "any2pix",
+                0.6175
+            ],
+            [
+                "hqedit",
+                0.5887
+            ],
+            [
+                "instructpix2pix",
+                0.4033
+            ],
+            [
+                "mgie",
+                0.3357
+            ]
+        ]
+    },
+    "127": {
+        "image": "0127.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.8377
+            ],
+            [
+                "instruct-diffusion",
+                0.8342
+            ],
+            [
+                "hive",
+                0.7228
+            ],
+            [
+                "instructpix2pix",
+                0.6699
+            ],
+            [
+                "any2pix",
+                0.6288
+            ],
+            [
+                "magicbrush",
+                0.619
+            ],
+            [
+                "mgie",
+                0.5952
+            ],
+            [
+                "hqedit",
+                0.4343
+            ]
+        ]
+    },
+    "128": {
+        "image": "0128.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.8137
+            ],
+            [
+                "iedit",
+                0.8121
+            ],
+            [
+                "instruct-diffusion",
+                0.8059
+            ],
+            [
+                "instructpix2pix",
+                0.6582
+            ],
+            [
+                "magicbrush",
+                0.6384
+            ],
+            [
+                "hqedit",
+                0.6213
+            ],
+            [
+                "hive",
+                0.5755
+            ],
+            [
+                "any2pix",
+                0.4868
+            ]
+        ]
+    },
+    "129": {
+        "image": "0129.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8656
+            ],
+            [
+                "iedit",
+                0.8035
+            ],
+            [
+                "magicbrush",
+                0.7664
+            ],
+            [
+                "hive",
+                0.7047
+            ],
+            [
+                "any2pix",
+                0.6947
+            ],
+            [
+                "mgie",
+                0.6692
+            ],
+            [
+                "hqedit",
+                0.6024
+            ],
+            [
+                "instructpix2pix",
+                0.487
+            ]
+        ]
+    },
+    "130": {
+        "image": "0130.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7086
+            ],
+            [
+                "magicbrush",
+                0.7028
+            ],
+            [
+                "instructpix2pix",
+                0.6865
+            ],
+            [
+                "mgie",
+                0.6465
+            ],
+            [
+                "iedit",
+                0.6404
+            ],
+            [
+                "any2pix",
+                0.5353
+            ],
+            [
+                "hive",
+                0.4038
+            ],
+            [
+                "hqedit",
+                0.2912
+            ]
+        ]
+    },
+    "131": {
+        "image": "0131.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7565
+            ],
+            [
+                "instruct-diffusion",
+                0.7415
+            ],
+            [
+                "magicbrush",
+                0.6668
+            ],
+            [
+                "instructpix2pix",
+                0.6486
+            ],
+            [
+                "mgie",
+                0.5863
+            ],
+            [
+                "hive",
+                0.5843
+            ],
+            [
+                "any2pix",
+                0.5653
+            ],
+            [
+                "hqedit",
+                0.4413
+            ]
+        ]
+    },
+    "132": {
+        "image": "0132.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.8275
+            ],
+            [
+                "iedit",
+                0.8156
+            ],
+            [
+                "instruct-diffusion",
+                0.7989
+            ],
+            [
+                "mgie",
+                0.6853
+            ],
+            [
+                "hqedit",
+                0.5975
+            ],
+            [
+                "instructpix2pix",
+                0.581
+            ],
+            [
+                "any2pix",
+                0.5694
+            ],
+            [
+                "hive",
+                0.5085
+            ]
+        ]
+    },
+    "133": {
+        "image": "0133.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.8141
+            ],
+            [
+                "iedit",
+                0.7805
+            ],
+            [
+                "mgie",
+                0.6858
+            ],
+            [
+                "hive",
+                0.672
+            ],
+            [
+                "any2pix",
+                0.5671
+            ],
+            [
+                "magicbrush",
+                0.4999
+            ],
+            [
+                "instructpix2pix",
+                0.4983
+            ],
+            [
+                "hqedit",
+                0.4917
+            ]
+        ]
+    },
+    "134": {
+        "image": "0134.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7685
+            ],
+            [
+                "instruct-diffusion",
+                0.7637
+            ],
+            [
+                "any2pix",
+                0.651
+            ],
+            [
+                "mgie",
+                0.6403
+            ],
+            [
+                "hive",
+                0.5742
+            ],
+            [
+                "hqedit",
+                0.4826
+            ],
+            [
+                "instructpix2pix",
+                0.4001
+            ],
+            [
+                "magicbrush",
+                0.365
+            ]
+        ]
+    },
+    "135": {
+        "image": "0135.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.7757
+            ],
+            [
+                "instruct-diffusion",
+                0.7737
+            ],
+            [
+                "mgie",
+                0.6826
+            ],
+            [
+                "any2pix",
+                0.6506
+            ],
+            [
+                "hive",
+                0.5877
+            ],
+            [
+                "instructpix2pix",
+                0.5873
+            ],
+            [
+                "magicbrush",
+                0.4183
+            ],
+            [
+                "hqedit",
+                0.417
+            ]
+        ]
+    },
+    "136": {
+        "image": "0136.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7736
+            ],
+            [
+                "mgie",
+                0.773
+            ],
+            [
+                "iedit",
+                0.7252
+            ],
+            [
+                "instructpix2pix",
+                0.6118
+            ],
+            [
+                "any2pix",
+                0.5627
+            ],
+            [
+                "hqedit",
+                0.4471
+            ],
+            [
+                "magicbrush",
+                0.4323
+            ],
+            [
+                "hive",
+                0.4107
+            ]
+        ]
+    },
+    "137": {
+        "image": "0137.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.7936
+            ],
+            [
+                "instruct-diffusion",
+                0.7771
+            ],
+            [
+                "iedit",
+                0.7374
+            ],
+            [
+                "instructpix2pix",
+                0.6604
+            ],
+            [
+                "hive",
+                0.6208
+            ],
+            [
+                "magicbrush",
+                0.5355
+            ],
+            [
+                "any2pix",
+                0.4677
+            ],
+            [
+                "hqedit",
+                0.3928
+            ]
+        ]
+    },
+    "138": {
+        "image": "0138.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5691
+            ],
+            [
+                "mgie",
+                0.5681
+            ],
+            [
+                "instruct-diffusion",
+                0.5652
+            ],
+            [
+                "instructpix2pix",
+                0.557
+            ],
+            [
+                "iedit",
+                0.5388
+            ],
+            [
+                "any2pix",
+                0.4825
+            ],
+            [
+                "hive",
+                0.3996
+            ],
+            [
+                "hqedit",
+                0.3058
+            ]
+        ]
+    },
+    "139": {
+        "image": "0139.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4484
+            ],
+            [
+                "iedit",
+                0.4166
+            ],
+            [
+                "instruct-diffusion",
+                0.391
+            ],
+            [
+                "instructpix2pix",
+                0.377
+            ],
+            [
+                "mgie",
+                0.3761
+            ],
+            [
+                "any2pix",
+                0.3437
+            ],
+            [
+                "hive",
+                0.3128
+            ],
+            [
+                "hqedit",
+                0.2673
+            ]
+        ]
+    },
+    "140": {
+        "image": "0140.png",
+        "dataset": "RainRemoval",
+        "prompt": "Remove the rain from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.8748
+            ],
+            [
+                "instruct-diffusion",
+                0.8686
+            ],
+            [
+                "instructpix2pix",
+                0.806
+            ],
+            [
+                "iedit",
+                0.7933
+            ],
+            [
+                "mgie",
+                0.7159
+            ],
+            [
+                "any2pix",
+                0.6079
+            ],
+            [
+                "hive",
+                0.5679
+            ],
+            [
+                "hqedit",
+                0.4397
+            ]
+        ]
+    }
+}

@@ -1,0 +1,1682 @@
+{
+    "1": {
+        "image": "COCO_val2014_000000000073.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace motorcycle with dog",
+        "question": "Is there a dog in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "type": "animal",
+        "gt": "Yes",
+        "final_judgement": "No."
+    },
+    "2": {
+        "image": "COCO_val2014_000000000074.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace dog with cat",
+        "question": "Is there a dog in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "animal",
+        "gt": "No",
+        "final_judgement": "Yes"
+    },
+    "3": {
+        "image": "COCO_val2014_000000000208.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace dinosaur with cat",
+        "question": "Is there a dinosaur in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "animal",
+        "gt": "No",
+        "final_judgement": "Yes"
+    },
+    "4": {
+        "image": "COCO_val2014_000000000283.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace wine bottle with dog",
+        "question": "Is there a dog in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "animal",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "5": {
+        "image": "COCO_val2014_000000000285.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace bear with zebra",
+        "question": "Is there a bear in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "animal",
+        "gt": "No",
+        "final_judgement": "Yes"
+    },
+    "6": {
+        "image": "COCO_val2014_000000000428.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace child with cat",
+        "question": "Is there a cat in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "type": "animal",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "7": {
+        "image": "COCO_val2014_000000000472.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace plane with bird",
+        "question": "Is there a plane in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "animal",
+        "gt": "No",
+        "final_judgement": "Yes"
+    },
+    "8": {
+        "image": "COCO_val2014_000000000474.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace boy with sheep",
+        "question": "Is there a sheep in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "animal",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "9": {
+        "image": "COCO_val2014_000000000502.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace bear with horse",
+        "question": "Is there a horse in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "animal",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "10": {
+        "image": "COCO_val2014_000000000589.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace man with zebra",
+        "question": "Is there a man in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "animal",
+        "gt": "No",
+        "final_judgement": "Yes"
+    },
+    "11": {
+        "image": "COCO_val2014_000000000599.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace cat with dog",
+        "question": "Is there a dog in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "animal",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "12": {
+        "image": "COCO_val2014_000000000675.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace cat with dog",
+        "question": "Is there a cat in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes, there is a cat visible in the image. The image shows a black and white cat sitting on a surface among various household objects like a lamp"
+        },
+        "type": "animal",
+        "gt": "No",
+        "final_judgement": "No"
+    },
+    "13": {
+        "image": "COCO_val2014_000000000693.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace girl with dog",
+        "question": "Is there a dog in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "type": "animal",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "14": {
+        "image": "COCO_val2014_000000000730.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace car with cow",
+        "question": "Is there a cow in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "type": "animal",
+        "gt": "Yes",
+        "final_judgement": "No."
+    },
+    "15": {
+        "image": "COCO_val2014_000000000757.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace elephant with bear",
+        "question": "Is there a bear in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "animal",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "16": {
+        "image": "COCO_val2014_000000000772.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace sheeps with giraffe",
+        "question": "Is there a giraffe in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "type": "animal",
+        "gt": "Yes",
+        "final_judgement": "No."
+    },
+    "17": {
+        "image": "COCO_val2014_000000000785.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace woman with dog",
+        "question": "Is there a dog in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "type": "animal",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "18": {
+        "image": "COCO_val2014_000000000827.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace zebra with horse",
+        "question": "Is there a zebra in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "animal",
+        "gt": "No",
+        "final_judgement": "Yes"
+    },
+    "19": {
+        "image": "COCO_val2014_000000001029.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace plane with bird",
+        "question": "Is there a bird in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No, there is no bird in this image. The image shows a commercial airplane silhouetted against a cloudy, stormy sky as it"
+        },
+        "type": "animal",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "20": {
+        "image": "COCO_val2014_000000001063.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace giraffe with cat",
+        "question": "Is there a cat in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "type": "animal",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "21": {
+        "image": "COCO_val2014_000000001398.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace cat with dog",
+        "question": "Is there a cat in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "animal",
+        "gt": "No",
+        "final_judgement": "Yes"
+    },
+    "22": {
+        "image": "COCO_val2014_000000001442.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace bear with sheep",
+        "question": "Is there a sheep in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "type": "animal",
+        "gt": "Yes",
+        "final_judgement": "No."
+    },
+    "23": {
+        "image": "COCO_val2014_000000001448.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace giraffe with bear",
+        "question": "Is there a bear in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes, there is a bear in the image."
+        },
+        "type": "animal",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "24": {
+        "image": "COCO_val2014_000000001490.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace man with bear",
+        "question": "Is there a man in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No, there is no man visible in this image. The image shows a killer whale or orca breaching the surface of what appears to be a"
+        },
+        "type": "animal",
+        "gt": "No",
+        "final_judgement": "Yes"
+    },
+    "25": {
+        "image": "COCO_val2014_000000001554.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace sheep with dog",
+        "question": "Is there a dog in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "animal",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "26": {
+        "image": "COCO_val2014_000000001561.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace bird with cat",
+        "question": "Is there a cat in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "animal",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "27": {
+        "image": "COCO_val2014_000000001592.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace child with dog",
+        "question": "Is there a dog in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "type": "animal",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "28": {
+        "image": "COCO_val2014_000000001675.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace cat with dog",
+        "question": "Is there a cat in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "animal",
+        "gt": "No",
+        "final_judgement": "No"
+    },
+    "29": {
+        "image": "COCO_val2014_000000001761.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace plane with bird",
+        "question": "Is there a bird in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "type": "animal",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "30": {
+        "image": "COCO_val2014_000000002753.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace dog with elephant",
+        "question": "Is there a elephant in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "animal",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "31": {
+        "image": "COCO_val2014_000000002988.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace cat with dog",
+        "question": "Is there a dog in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "animal",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "32": {
+        "image": "COCO_val2014_000000003067.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace cat with dog",
+        "question": "Is there a cat in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "animal",
+        "gt": "No",
+        "final_judgement": "Yes"
+    },
+    "33": {
+        "image": "COCO_val2014_000000003771.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace cow with horse",
+        "question": "Is there a horse in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "type": "animal",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "34": {
+        "image": "COCO_val2014_000000003932.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace sheep with horse",
+        "question": "Is there a horse in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "type": "animal",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "35": {
+        "image": "COCO_val2014_000000004212.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace cat with dog",
+        "question": "Is there a cat in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No, there is no cat in the image. The animal on the car appears to be a dog."
+        },
+        "type": "animal",
+        "gt": "No",
+        "final_judgement": "No"
+    },
+    "36": {
+        "image": "COCO_val2014_000000004227.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace man with woman",
+        "question": "Is there a woman in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "human",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "37": {
+        "image": "COCO_val2014_000000004243.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace child with woman",
+        "question": "Is there a child in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "type": "human",
+        "gt": "No",
+        "final_judgement": "No"
+    },
+    "38": {
+        "image": "COCO_val2014_000000004396.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace teddy bear with child",
+        "question": "Is there a child in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "human",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "39": {
+        "image": "COCO_val2014_000000004498.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace boy with girl",
+        "question": "Is there a girl in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "human",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "40": {
+        "image": "COCO_val2014_000000004509.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace woman with child",
+        "question": "Is there a woman in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "type": "human",
+        "gt": "No",
+        "final_judgement": "Yes"
+    },
+    "41": {
+        "image": "COCO_val2014_000000005076.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace tree with man",
+        "question": "Is there a man in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "human",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "42": {
+        "image": "COCO_val2014_000000005213.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace motorcycle with girl",
+        "question": "Is there a girl in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "human",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "43": {
+        "image": "COCO_val2014_000000005477.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace plane with man",
+        "question": "Is there a man in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "human",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "44": {
+        "image": "COCO_val2014_000000006347.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace horse with woman",
+        "question": "Is there a woman in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "human",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "45": {
+        "image": "COCO_val2014_000000006450.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace zebra with child",
+        "question": "Is there a child in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "human",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "46": {
+        "image": "COCO_val2014_000000006589.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace cat with child",
+        "question": "Is there a cat in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes, there are two cats visible in the image."
+        },
+        "type": "human",
+        "gt": "No",
+        "final_judgement": "No"
+    },
+    "47": {
+        "image": "COCO_val2014_000000007088.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace girl with boy",
+        "question": "Is there a boy in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "type": "human",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "48": {
+        "image": "COCO_val2014_000000007386.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace motorcycle with man",
+        "question": "Is there a man in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "human",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "49": {
+        "image": "COCO_val2014_000000007506.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace giraffe with man",
+        "question": "Is there a man in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "human",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "50": {
+        "image": "COCO_val2014_000000007522.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace zebra with child",
+        "question": "Is there a zebra in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes, there is a zebra in the image."
+        },
+        "type": "human",
+        "gt": "No",
+        "final_judgement": "No"
+    },
+    "51": {
+        "image": "COCO_val2014_000000007566.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace zebra with girl",
+        "question": "Is there a zebra in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes, there is a zebra in the image."
+        },
+        "type": "human",
+        "gt": "No",
+        "final_judgement": "No"
+    },
+    "52": {
+        "image": "COCO_val2014_000000007722.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace cat with child",
+        "question": "Is there a cat in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "human",
+        "gt": "No",
+        "final_judgement": "No"
+    },
+    "53": {
+        "image": "COCO_val2014_000000008181.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace motorcycle with girl",
+        "question": "Is there a motorcycle in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "human",
+        "gt": "No",
+        "final_judgement": "Yes"
+    },
+    "54": {
+        "image": "COCO_val2014_000000008603.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace giraffe with child",
+        "question": "Is there a giraffe in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "human",
+        "gt": "No",
+        "final_judgement": "No"
+    },
+    "55": {
+        "image": "COCO_val2014_000000008665.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace bird with boy",
+        "question": "Is there a boy in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "human",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "56": {
+        "image": "COCO_val2014_000000009041.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace cat with boy",
+        "question": "Is there a boy in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "human",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "57": {
+        "image": "COCO_val2014_000000009142.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace bird with man",
+        "question": "Is there a man in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "human",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "58": {
+        "image": "COCO_val2014_000000009214.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace zebra with boy",
+        "question": "Is there a boy in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "human",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "59": {
+        "image": "COCO_val2014_000000009466.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace cat with child",
+        "question": "Is there a child in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "human",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "60": {
+        "image": "COCO_val2014_000000009478.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace giraffe with woman",
+        "question": "Is there a woman in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "type": "human",
+        "gt": "Yes",
+        "final_judgement": "No."
+    },
+    "61": {
+        "image": "COCO_val2014_000000009830.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace cat with child",
+        "question": "Is there a child in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "type": "human",
+        "gt": "Yes",
+        "final_judgement": "No."
+    },
+    "62": {
+        "image": "COCO_val2014_000000010077.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace zebra with woman",
+        "question": "Is there a woman in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "type": "human",
+        "gt": "Yes",
+        "final_judgement": "No."
+    },
+    "63": {
+        "image": "COCO_val2014_000000010107.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace dog with boy",
+        "question": "Is there a boy in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "human",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "64": {
+        "image": "COCO_val2014_000000010219.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace dog with girl",
+        "question": "Is there a dog in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No, there is no dog in the image."
+        },
+        "type": "human",
+        "gt": "No",
+        "final_judgement": "Yes"
+    },
+    "65": {
+        "image": "COCO_val2014_000000010256.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace fire hydrant with boy",
+        "question": "Is there a boy in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "type": "human",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "66": {
+        "image": "COCO_val2014_000000010363.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace cat with boy",
+        "question": "Is there a boy in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "type": "human",
+        "gt": "Yes",
+        "final_judgement": "No."
+    },
+    "67": {
+        "image": "COCO_val2014_000000010822.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace zebra with man",
+        "question": "Is there a man in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "human",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "68": {
+        "image": "COCO_val2014_000000011169.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace cow with woman",
+        "question": "Is there a woman in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No, there is no woman in this image. The image shows a cow standing in a grassy field, and what appears to be a calf"
+        },
+        "type": "human",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "69": {
+        "image": "COCO_val2014_000000011300.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace boy with girl",
+        "question": "Is there a boy in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "human",
+        "gt": "No",
+        "final_judgement": "No"
+    },
+    "70": {
+        "image": "COCO_val2014_000000011347.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace plane with woman",
+        "question": "Is there a woman in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No, there is no woman depicted in this image. The image shows a large commercial airplane on a runway, likely a Boeing or Airbus aircraft"
+        },
+        "type": "human",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "71": {
+        "image": "COCO_val2014_000000011364.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace bear with bench",
+        "question": "Is there a bench in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "object",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "72": {
+        "image": "COCO_val2014_000000011374.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace plane with kite",
+        "question": "Is there a plane in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "object",
+        "gt": "No",
+        "final_judgement": "Yes"
+    },
+    "73": {
+        "image": "COCO_val2014_000000011525.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace plane with frisbee",
+        "question": "Is there a frisbee in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No, there is no frisbee in the image. The image shows a person gliding through the air using a powered paraglider or para"
+        },
+        "type": "object",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "74": {
+        "image": "COCO_val2014_000000011538.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace motorbike with bike",
+        "question": "Is there a bike in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "type": "object",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "75": {
+        "image": "COCO_val2014_000000012443.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace cat with bag",
+        "question": "Is there a bag in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "type": "object",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "76": {
+        "image": "COCO_val2014_000000012966.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace dog with bench",
+        "question": "Is there a bench in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "object",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "77": {
+        "image": "COCO_val2014_000000012991.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace computer with cup",
+        "question": "Is there a cup in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "type": "object",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "78": {
+        "image": "COCO_val2014_000000013348.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace plane with car",
+        "question": "Is there a plane in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "object",
+        "gt": "No",
+        "final_judgement": "No"
+    },
+    "79": {
+        "image": "COCO_val2014_000000013876.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace bench with bike",
+        "question": "Is there a bike in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "type": "object",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "80": {
+        "image": "COCO_val2014_000000014226.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace computer with bottle",
+        "question": "Is there a bottle in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes, there is a bottle visible in the image. The person depicted is working on a laptop while sitting on what appears to be a train, and"
+        },
+        "type": "object",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "81": {
+        "image": "COCO_val2014_000000014681.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace dog with bike",
+        "question": "Is there a bike in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "object",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "82": {
+        "image": "COCO_val2014_000000015567.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace cat with clock",
+        "question": "Is there a clock in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes, there is a round wall clock visible in the image, hanging on the wall."
+        },
+        "type": "object",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "83": {
+        "image": "COCO_val2014_000000015681.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace bird with handbag",
+        "question": "Is there a handbag in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "object",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "84": {
+        "image": "COCO_val2014_000000015709.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace plane with bench",
+        "question": "Is there a bench in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No, there is no bench visible in the provided image. The image shows airplanes on a tarmac or airport runway."
+        },
+        "type": "object",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "85": {
+        "image": "COCO_val2014_000000016180.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace dog with bottle",
+        "question": "Is there a dog in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "object",
+        "gt": "No",
+        "final_judgement": "No"
+    },
+    "86": {
+        "image": "COCO_val2014_000000016977.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace bench with bike",
+        "question": "Is there a bike in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "type": "object",
+        "gt": "Yes",
+        "final_judgement": "No."
+    },
+    "87": {
+        "image": "COCO_val2014_000000017655.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace dog with keyboard",
+        "question": "Is there a keyboard in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes, there appears to be a keyboard or set of piano keys visible at the bottom of the image, under the dog sitting on the couch."
+        },
+        "type": "object",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "88": {
+        "image": "COCO_val2014_000000018295.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace train with car",
+        "question": "Is there a train in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "object",
+        "gt": "No",
+        "final_judgement": "No"
+    },
+    "89": {
+        "image": "COCO_val2014_000000018426.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace motorbike with desk",
+        "question": "Is there a motorbike in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "object",
+        "gt": "No",
+        "final_judgement": "No"
+    },
+    "90": {
+        "image": "COCO_val2014_000000018485.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace bench with sofa",
+        "question": "Is there a sofa in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "object",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "91": {
+        "image": "COCO_val2014_000000018888.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace bench with bike",
+        "question": "Is there a bike in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "object",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "92": {
+        "image": "COCO_val2014_000000018893.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace cat with clock",
+        "question": "Is there a clock in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "object",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "93": {
+        "image": "COCO_val2014_000000018903.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace computer with bowl",
+        "question": "Is there a computer in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "object",
+        "gt": "No",
+        "final_judgement": "No"
+    },
+    "94": {
+        "image": "COCO_val2014_000000019226.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace cake with bottle",
+        "question": "Is there a cake in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "object",
+        "gt": "No",
+        "final_judgement": "Yes"
+    },
+    "95": {
+        "image": "COCO_val2014_000000019404.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace bird with bike",
+        "question": "Is there a bike in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "object",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "96": {
+        "image": "COCO_val2014_000000019783.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace bird with plane",
+        "question": "Is there a plane in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "object",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "97": {
+        "image": "COCO_val2014_000000019916.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace fork with mouse",
+        "question": "Is there a fork in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "object",
+        "gt": "No",
+        "final_judgement": "No"
+    },
+    "98": {
+        "image": "COCO_val2014_000000020207.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace cat with computer",
+        "question": "Is there a computer in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "object",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "99": {
+        "image": "COCO_val2014_000000020307.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace bike with bench",
+        "question": "Is there a bench in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "object",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "100": {
+        "image": "COCO_val2014_000000020481.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace computer with cup",
+        "question": "Is there a cup in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "object",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "101": {
+        "image": "COCO_val2014_000000020781.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace plane with motorbike",
+        "question": "Is there a motorbike in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "object",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "102": {
+        "image": "COCO_val2014_000000021215.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace kite with frisbee",
+        "question": "Is there a frisbee in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "type": "object",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "103": {
+        "image": "COCO_val2014_000000022168.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace cow with bike",
+        "question": "Is there a bike in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "object",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "104": {
+        "image": "COCO_val2014_000000022371.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace computer with ball",
+        "question": "Is there a ball in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "type": "object",
+        "gt": "Yes",
+        "final_judgement": "No."
+    },
+    "105": {
+        "image": "COCO_val2014_000000022396.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace plane with kite",
+        "question": "Is there a plane in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "object",
+        "gt": "No",
+        "final_judgement": "Yes"
+    },
+    "106": {
+        "image": "COCO_val2014_000000022474.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace cake with apple",
+        "question": "Is there an apple in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "plant",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "107": {
+        "image": "COCO_val2014_000000022563.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace flower with banana",
+        "question": "Is there a banana in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "plant",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "108": {
+        "image": "COCO_val2014_000000022660.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace bench with tree",
+        "question": "Is there a bench in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "plant",
+        "gt": "No",
+        "final_judgement": "No"
+    },
+    "109": {
+        "image": "COCO_val2014_000000022759.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace cat with pear",
+        "question": "Is there a pear in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "plant",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "110": {
+        "image": "COCO_val2014_000000023023.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace bag with apple",
+        "question": "Is there an apple in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "type": "plant",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "111": {
+        "image": "COCO_val2014_000000023320.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace cake with apple",
+        "question": "Is there a apple in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes, there is a red apple in the image, along with other items such as a green apple, a piece of cheese, and what appears to"
+        },
+        "type": "plant",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "112": {
+        "image": "COCO_val2014_000000023446.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace computer with orange",
+        "question": "Is there a computer in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes, there is a laptop computer visible in the image, which the person is using while seated at what appears to be a cafe or restaurant."
+        },
+        "type": "plant",
+        "gt": "No",
+        "final_judgement": "No"
+    },
+    "113": {
+        "image": "COCO_val2014_000000023731.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace cat with lemon",
+        "question": "Is there a lemon in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "plant",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "114": {
+        "image": "COCO_val2014_000000025316.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace banana with grape",
+        "question": "Is there a banana in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes, there is a banana in the image. The image shows several green, curved fruits that are clearly bananas, along with some red fruits that"
+        },
+        "type": "plant",
+        "gt": "No",
+        "final_judgement": "No"
+    },
+    "115": {
+        "image": "COCO_val2014_000000025560.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace cat with peach",
+        "question": "Is there a peach in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "type": "plant",
+        "gt": "Yes",
+        "final_judgement": "No."
+    },
+    "116": {
+        "image": "COCO_val2014_000000026564.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace mouse with apple",
+        "question": "Is there an apple in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "plant",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "117": {
+        "image": "COCO_val2014_000000026803.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace cat with pear",
+        "question": "Is there a pear in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "plant",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "118": {
+        "image": "COCO_val2014_000000027493.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace pizza with cherry",
+        "question": "Is there a cherry in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "plant",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "119": {
+        "image": "COCO_val2014_000000027620.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace computer with orange",
+        "question": "Is there an orange in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "plant",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "120": {
+        "image": "COCO_val2014_000000028826.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace bench with tree",
+        "question": "Is there a tree in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "plant",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "121": {
+        "image": "COCO_val2014_000000029160.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace bird with strawberry",
+        "question": "Is there a bird in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes, there is a bird in the image."
+        },
+        "type": "plant",
+        "gt": "No",
+        "final_judgement": "No"
+    },
+    "122": {
+        "image": "COCO_val2014_000000029357.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace pizza with cherry",
+        "question": "Is there a cherry in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "plant",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "123": {
+        "image": "COCO_val2014_000000029370.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace book with banana",
+        "question": "Is there a book in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "plant",
+        "gt": "No",
+        "final_judgement": "No"
+    },
+    "124": {
+        "image": "COCO_val2014_000000029393.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace dog with watermelon",
+        "question": "Is there a watermelon in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes, there appears to be a watermelon slice or object shaped like a watermelon slice in the image."
+        },
+        "type": "plant",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "125": {
+        "image": "COCO_val2014_000000029406.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace bench with banana",
+        "question": "Is there a bench in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "plant",
+        "gt": "No",
+        "final_judgement": "Yes"
+    },
+    "126": {
+        "image": "COCO_val2014_000000029430.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace phone with apple",
+        "question": "Is there a phone in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "plant",
+        "gt": "No",
+        "final_judgement": "No"
+    },
+    "127": {
+        "image": "COCO_val2014_000000029465.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace bird with orange",
+        "question": "Is there a orange in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "type": "plant",
+        "gt": "Yes",
+        "final_judgement": "No."
+    },
+    "128": {
+        "image": "COCO_val2014_000000029558.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace kite with strawberry",
+        "question": "Is there a strawberry in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No, there is no strawberry visible in the provided image."
+        },
+        "type": "plant",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "129": {
+        "image": "COCO_val2014_000000029719.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace ball with apple",
+        "question": "Is there a ball in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "plant",
+        "gt": "No",
+        "final_judgement": "No"
+    },
+    "130": {
+        "image": "COCO_val2014_000000030012.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace pizza with pear",
+        "question": "Is there a pear in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "type": "plant",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "131": {
+        "image": "COCO_val2014_000000030044.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace plane with tree",
+        "question": "Is there a tree in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "type": "plant",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "132": {
+        "image": "COCO_val2014_000000030143.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace computer with grape",
+        "question": "Is there a grape in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "type": "plant",
+        "gt": "Yes",
+        "final_judgement": "No."
+    },
+    "133": {
+        "image": "COCO_val2014_000000030156.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace pumpkin with apple",
+        "question": "Is there an apple in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "plant",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "134": {
+        "image": "COCO_val2014_000000030273.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace toast with pear",
+        "question": "Is there a toast in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No, there is no toast visible in the image. The image shows a plate with several pears or small green fruits that appear to have a bread"
+        },
+        "type": "plant",
+        "gt": "No",
+        "final_judgement": "Yes"
+    },
+    "135": {
+        "image": "COCO_val2014_000000030361.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace book with peach",
+        "question": "Is there a peach in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "plant",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "136": {
+        "image": "COCO_val2014_000000030407.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace phone with grape",
+        "question": "Is there a grape in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "type": "plant",
+        "gt": "Yes",
+        "final_judgement": "No"
+    },
+    "137": {
+        "image": "COCO_val2014_000000031773.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace mouse with lemon",
+        "question": "Is there a mouse in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "type": "plant",
+        "gt": "No",
+        "final_judgement": "Yes"
+    },
+    "138": {
+        "image": "COCO_val2014_000000031980.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace pizza with strawberry",
+        "question": "Is there a pizza in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "plant",
+        "gt": "No",
+        "final_judgement": "No"
+    },
+    "139": {
+        "image": "COCO_val2014_000000032625.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace fork with apple",
+        "question": "Is there an apple in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "type": "plant",
+        "gt": "Yes",
+        "final_judgement": "Yes"
+    },
+    "140": {
+        "image": "COCO_val2014_000000032645.jpg",
+        "dataset": "Replacement",
+        "prompt": "replace boy with watermelon",
+        "question": "Is there a watermelon in the image? Answer Yes or No.",
+        "evaluation": {
+            "VLM_judgement": "No, there is no actual watermelon in the image. The image shows a child holding plush or stuffed decorative representations of waterme"
+        },
+        "type": "plant",
+        "gt": "Yes",
+        "final_judgement": "No"
+    }
+}

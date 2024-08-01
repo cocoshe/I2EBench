@@ -1,0 +1,3287 @@
+{
+    "1": {
+        "image": "0000.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the bear to brown",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the bear",
+        "gt": "brown",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie"
+            ],
+            "wrong_models": [
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "2": {
+        "image": "0001.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the clothes on man to red",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the clothes on man",
+        "gt": "red",
+        "type": "human",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "mgie",
+                "instruct-diffusion",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "3": {
+        "image": "0002.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the sky to black",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the sky",
+        "gt": "black",
+        "type": "scenery",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "mgie"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "4": {
+        "image": "0003.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the banana to green",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the banana",
+        "gt": "green",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "5": {
+        "image": "0004.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the cake to blue",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the cake",
+        "gt": "blue",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "iedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "any2pix",
+                "hqedit"
+            ]
+        }
+    },
+    "6": {
+        "image": "0005.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the sheep to white",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the sheep",
+        "gt": "white",
+        "type": "animal",
+        "final_judgement": "yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "7": {
+        "image": "0006.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the train to red",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the train",
+        "gt": "red",
+        "type": "object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "magicbrush",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "8": {
+        "image": "0007.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the land to white",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the land",
+        "gt": "white",
+        "type": "scenery",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "9": {
+        "image": "0008.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the flowers to yellow",
+        "evaluation": "VLM_judgement",
+        "question": "What color are the flowers",
+        "gt": "yellow",
+        "type": "plant",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush",
+                "instruct-diffusion",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "mgie",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "10": {
+        "image": "0009.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the boy's hair to black",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the the boy's hair",
+        "gt": "black",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "11": {
+        "image": "0010.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the bear to black",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the bear",
+        "gt": "black",
+        "type": "animal",
+        "final_judgement": "no",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "12": {
+        "image": "0011.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the umbrella to green",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the umbrella",
+        "gt": "green",
+        "type": "object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "13": {
+        "image": "0012.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the flowers to purple",
+        "evaluation": "VLM_judgement",
+        "question": "What color are the flowers",
+        "gt": "purple",
+        "type": "plant",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "14": {
+        "image": "0013.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the ground to brown",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the ground",
+        "gt": "brown",
+        "type": "scenery",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "mgie",
+                "instruct-diffusion",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "15": {
+        "image": "0014.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the bus to blue",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the bus",
+        "gt": "blue",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "16": {
+        "image": "0015.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the cap of the woman to white",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the cap of the woman",
+        "gt": "white",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "17": {
+        "image": "0016.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the horse to black",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the horse",
+        "gt": "black",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "18": {
+        "image": "0017.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the toilet to yellow",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the toilet",
+        "gt": "yellow",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "19": {
+        "image": "0018.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the seawater to blue",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the seawater",
+        "gt": "blue",
+        "type": "scenery",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "mgie",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "20": {
+        "image": "0019.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the flowers to red",
+        "evaluation": "VLM_judgement",
+        "question": "What color are the flowers",
+        "gt": "red",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "21": {
+        "image": "0020.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the clothes on the girl to yellow",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the girl",
+        "gt": "yellow",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "22": {
+        "image": "0021.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the cup to green",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the cup",
+        "gt": "green",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "23": {
+        "image": "0022.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the dog to brown",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the dog",
+        "gt": "brown",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "24": {
+        "image": "0023.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the sea surface to green",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the sea surface",
+        "gt": "green",
+        "type": "scenery",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "25": {
+        "image": "0024.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the tree to yellow",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the tree",
+        "gt": "yellow",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "magicbrush",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "26": {
+        "image": "0025.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the horse to red",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the horse",
+        "gt": "red",
+        "type": "animal",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "27": {
+        "image": "0026.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the car to white",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the car",
+        "gt": "white",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "28": {
+        "image": "0027.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the grassland to yellow",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the grassland",
+        "gt": "yellow",
+        "type": "scenery",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "29": {
+        "image": "0028.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the apple to green",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the apple",
+        "gt": "green",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "30": {
+        "image": "0029.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the woman's hat to pink",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the woman's hat",
+        "gt": "pink",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "31": {
+        "image": "0030.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the cattle to black",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the cattle",
+        "gt": "black",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "32": {
+        "image": "0031.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the motorcycle to blue",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the motorcycle",
+        "gt": "blue",
+        "type": "object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "mgie"
+            ]
+        }
+    },
+    "33": {
+        "image": "0032.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the football field to blue",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the football field",
+        "gt": "blue",
+        "type": "scenery",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "34": {
+        "image": "0033.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the orange to green",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the orange",
+        "gt": "green",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "any2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "35": {
+        "image": "0034.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the woman's pinafore to red",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the woman's pinafore",
+        "gt": "red",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "36": {
+        "image": "0035.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the parrot to yellow",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the parrot",
+        "gt": "yellow",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "magicbrush",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "37": {
+        "image": "0036.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the arch bridge to black",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the arch bridge",
+        "gt": "black",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "38": {
+        "image": "0037.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the river to blue",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the river",
+        "gt": "blue",
+        "type": "scenery",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "mgie"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "39": {
+        "image": "0038.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the broccoli to blue",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the broccoli",
+        "gt": "blue",
+        "type": "plant",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "40": {
+        "image": "0039.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the woman's shoes to yellow",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the woman's shoes",
+        "gt": "yellow",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "41": {
+        "image": "0040.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the cat to white",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the cat",
+        "gt": "white",
+        "type": "animal",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "42": {
+        "image": "0041.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the fire hydrants to yellow",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the fire hydrants",
+        "gt": "yellow",
+        "type": "object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "43": {
+        "image": "0042.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the rose to blue",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the rose",
+        "gt": "blue",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "44": {
+        "image": "0043.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the mountain to green",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the mountain",
+        "gt": "green",
+        "type": "scenery",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion"
+            ]
+        }
+    },
+    "45": {
+        "image": "0044.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the man's helmet to red",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the helmet",
+        "gt": "red",
+        "type": "human",
+        "final_judgement": "no",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "46": {
+        "image": "0045.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the horse to black",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the horse",
+        "gt": "black",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "47": {
+        "image": "0046.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the airplane to blue",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the airplane",
+        "gt": "blue",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie"
+            ],
+            "wrong_models": [
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "48": {
+        "image": "0047.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the baseball field to yellow",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the baseball field",
+        "gt": "yellow",
+        "type": "scenery",
+        "final_judgement": "No.",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "49": {
+        "image": "0048.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the grove to green",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the grove",
+        "gt": "green",
+        "type": "plant",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "mgie",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "50": {
+        "image": "0049.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the man's clothes to red",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the man's clothes",
+        "gt": "red",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "51": {
+        "image": "0050.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the dog to white",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the dog",
+        "gt": "white",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "52": {
+        "image": "0051.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the leaves to yellow",
+        "evaluation": "VLM_judgement",
+        "question": "What color are the leaves",
+        "gt": "yellow",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "53": {
+        "image": "0052.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the laptop computer to black",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the laptop computer",
+        "gt": "black",
+        "type": "object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "mgie",
+                "any2pix"
+            ]
+        }
+    },
+    "54": {
+        "image": "0053.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the sky to black",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the sky",
+        "gt": "black",
+        "type": "scenery",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "55": {
+        "image": "0054.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the kid's trousers to yellow",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the kid's trousers",
+        "gt": "yellow",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "56": {
+        "image": "0055.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the cat to brown",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the cat",
+        "gt": "brown",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "57": {
+        "image": "0056.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the bed to red",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the bed",
+        "gt": "red",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "any2pix"
+            ],
+            "wrong_models": [
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "58": {
+        "image": "0057.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the land to brown",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the land",
+        "gt": "brown",
+        "type": "scenery",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "mgie",
+                "instruct-diffusion",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "59": {
+        "image": "0058.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of all the flowers to blue",
+        "evaluation": "VLM_judgement",
+        "question": "What color are the flowers",
+        "gt": "blue",
+        "type": "plant",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "mgie",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "60": {
+        "image": "0059.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the boy's bow tie to yellow",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the boy's bow tie",
+        "gt": "yellow",
+        "type": "human",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "61": {
+        "image": "0060.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the bird to white",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the bird",
+        "gt": "white",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "62": {
+        "image": "0061.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the bowl to blue",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the bowl",
+        "gt": "blue",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "any2pix"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "63": {
+        "image": "0062.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the leaves to yellow",
+        "evaluation": "VLM_judgement",
+        "question": "What color are the leaves",
+        "gt": "yellow",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "mgie"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "64": {
+        "image": "0063.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the man's necktie to black",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the necktie",
+        "gt": "black",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "65": {
+        "image": "0064.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the crane to red",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the crane",
+        "gt": "red",
+        "type": "animal",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "66": {
+        "image": "0065.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the television to yellow",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the television",
+        "gt": "yellow",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "67": {
+        "image": "0066.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the sky to blue",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the sky",
+        "gt": "blue",
+        "type": "scenery",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "68": {
+        "image": "0067.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the flowers to yellow",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the flowers",
+        "gt": "yellow",
+        "type": "plant",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "iedit"
+            ]
+        }
+    },
+    "69": {
+        "image": "0068.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the baby's hair to yellow",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the baby's hair",
+        "gt": "yellow",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "70": {
+        "image": "0069.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the men's skin to white",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the men's skin",
+        "gt": "white",
+        "type": "human",
+        "final_judgement": "no",
+        "model_rank": {
+            "right_models": [
+                "hive"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "71": {
+        "image": "0070.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the elephant to white",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the elephant",
+        "gt": "white",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "72": {
+        "image": "0071.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the kite to green",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the kite",
+        "gt": "green",
+        "type": "object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "73": {
+        "image": "0072.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the mountain to brown",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the mountain",
+        "gt": "brown",
+        "type": "scenery",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "74": {
+        "image": "0073.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the vegetable to blue",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the vegetable",
+        "gt": "blue",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "75": {
+        "image": "0074.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the boy's hair to black",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the boy's hair",
+        "gt": "black",
+        "type": "human",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "76": {
+        "image": "0075.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the giraffe to red",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the giraffe",
+        "gt": "red",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "77": {
+        "image": "0076.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the knife to blue",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the knife",
+        "gt": "blue",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "78": {
+        "image": "0077.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the kid's shoes to red",
+        "evaluation": "VLM_judgement",
+        "question": "What color are the kid's shoes",
+        "gt": "red",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "79": {
+        "image": "0078.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the leaves to black",
+        "evaluation": "VLM_judgement",
+        "question": "What color are the leaves",
+        "gt": "black",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "80": {
+        "image": "0079.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the chair to green",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the chair",
+        "gt": "green",
+        "type": "object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "iedit"
+            ]
+        }
+    },
+    "81": {
+        "image": "0080.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the dog to black",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the dog",
+        "gt": "black",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "82": {
+        "image": "0081.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the man's shirt to yellow",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the man's shirt",
+        "gt": "yellow",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "83": {
+        "image": "0082.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the lake surface to blue",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the lake surface",
+        "gt": "blue",
+        "type": "scenery",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "84": {
+        "image": "0083.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the strawberry to green",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the strawberry",
+        "gt": "green",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "85": {
+        "image": "0084.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the bird to white",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the bird",
+        "gt": "white",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "86": {
+        "image": "0085.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the road sign to blue",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the road sign",
+        "gt": "blue",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "87": {
+        "image": "0086.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the man's belt to white",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the man's belt",
+        "gt": "white",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "88": {
+        "image": "0087.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the river to green",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the river",
+        "gt": "green",
+        "type": "scenery",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "mgie",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "89": {
+        "image": "0088.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the potted plant to red",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the potted plant",
+        "gt": "red",
+        "type": "plant",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "mgie",
+                "any2pix"
+            ]
+        }
+    },
+    "90": {
+        "image": "0089.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the bear to white",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the bear",
+        "gt": "white",
+        "type": "animal",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "instruct-diffusion",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "magicbrush",
+                "mgie",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "91": {
+        "image": "0090.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the fork to green",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the fork",
+        "gt": "green",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "92": {
+        "image": "0091.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the flowers to purple",
+        "evaluation": "VLM_judgement",
+        "question": "What color are the flowers",
+        "gt": "purple",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie"
+            ],
+            "wrong_models": [
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "93": {
+        "image": "0093.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the wood to yellow",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the wood",
+        "gt": "yellow",
+        "type": "scenery",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "94": {
+        "image": "0094.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the cattle to white",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the cattle",
+        "gt": "white",
+        "type": "animal",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "95": {
+        "image": "0095.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the camera to green",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the camera",
+        "gt": "green",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "96": {
+        "image": "0096.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the carrot to blue",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the carrot",
+        "gt": "blue",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "97": {
+        "image": "0097.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the woman's T-shirt to red",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the woman's T-shirt",
+        "gt": "red",
+        "type": "human",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "98": {
+        "image": "0098.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the bear to yellow",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the bear",
+        "gt": "yellow",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "99": {
+        "image": "0099.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the clouds to red",
+        "evaluation": "VLM_judgement",
+        "question": "What color are the clouds",
+        "gt": "red",
+        "type": "scenery",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "100": {
+        "image": "0100.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the baseball to black",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the baseball",
+        "gt": "black",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "101": {
+        "image": "0101.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the vegetable to orange",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the vegetable",
+        "gt": "orange",
+        "type": "plant",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "mgie",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "102": {
+        "image": "0102.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the girl's T-shirt to red",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the T-shirt",
+        "gt": "red",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix"
+            ],
+            "wrong_models": [
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "103": {
+        "image": "0103.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the roof to black",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the roof",
+        "gt": "black",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "104": {
+        "image": "0104.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the football to green",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the football",
+        "gt": "green",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "magicbrush",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "105": {
+        "image": "0105.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the cat to yellow",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the cat",
+        "gt": "yellow",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "106": {
+        "image": "0106.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the lighthouse to brown",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the lighthouse",
+        "gt": "brown",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "107": {
+        "image": "0107.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the lake to blue",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the lake",
+        "gt": "blue",
+        "type": "scenery",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "magicbrush",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "108": {
+        "image": "0108.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the flowers to white",
+        "evaluation": "VLM_judgement",
+        "question": "What color are the flowers",
+        "gt": "white",
+        "type": "plant",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instruct-diffusion",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "109": {
+        "image": "0109.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the woman's eyes to blue",
+        "evaluation": "VLM_judgement",
+        "question": "What color are the woman's eyes",
+        "gt": "blue",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "magicbrush"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "110": {
+        "image": "0111.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the teddy bear to red",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the teddy bear",
+        "gt": "red",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "111": {
+        "image": "0112.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the woman's vest to black",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the woman's vest",
+        "gt": "black",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "112": {
+        "image": "0113.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the elephant to white",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the elephant",
+        "gt": "white",
+        "type": "animal",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "113": {
+        "image": "0114.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the vegetable leaves to yellow",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the vegetable leaves",
+        "gt": "yellow",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "114": {
+        "image": "0115.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the grassland to grey",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the grassland",
+        "gt": "grey",
+        "type": "scenery",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "115": {
+        "image": "0116.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the keyboard to green",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the keyboard",
+        "gt": "green",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie"
+            ],
+            "wrong_models": [
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "116": {
+        "image": "0117.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the orange to blue",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the orange",
+        "gt": "blue",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "117": {
+        "image": "0118.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the dog to brown",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the dog",
+        "gt": "brown",
+        "type": "animal",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "118": {
+        "image": "0119.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the baby's cap to pink",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the baby's cap",
+        "gt": "pink",
+        "type": "human",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "mgie",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "119": {
+        "image": "0120.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the phone to white",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the phone",
+        "gt": "white",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "120": {
+        "image": "0121.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the strawberry to yellow",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the strawberry",
+        "gt": "yellow",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "121": {
+        "image": "0122.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the goose to black",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the goose",
+        "gt": "black",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "122": {
+        "image": "0123.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the sky to white",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the sky",
+        "gt": "white",
+        "type": "scenery",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "magicbrush",
+                "any2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "123": {
+        "image": "0124.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the woman's scarf to green",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the woman's scarf",
+        "gt": "green",
+        "type": "human",
+        "final_judgement": "yes",
+        "model_rank": {
+            "right_models": [
+                "any2pix",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "iedit"
+            ]
+        }
+    },
+    "124": {
+        "image": "0125.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the apple to blue",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the apple",
+        "gt": "blue",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "125": {
+        "image": "0126.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the pizza to red",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the pizza",
+        "gt": "red",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "any2pix"
+            ],
+            "wrong_models": [
+                "hive",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "126": {
+        "image": "0127.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the clouds to yellow",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the clouds",
+        "gt": "yellow",
+        "type": "scenery",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "127": {
+        "image": "0128.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the bird to white",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the bird",
+        "gt": "white",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "128": {
+        "image": "0129.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the chrysanthemum to purple",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the chrysanthemum",
+        "gt": "purple",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "129": {
+        "image": "0130.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the boy's eyes to blue",
+        "evaluation": "VLM_judgement",
+        "question": "What color are the boy's eyes",
+        "gt": "blue",
+        "type": "human",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "any2pix",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "iedit"
+            ]
+        }
+    },
+    "130": {
+        "image": "0131.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the horses to white",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the horses",
+        "gt": "white",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "131": {
+        "image": "0132.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the sunflower to green",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the sunflower",
+        "gt": "green",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "132": {
+        "image": "0133.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the mountain to green",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the mountain",
+        "gt": "green",
+        "type": "scenery",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "mgie",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "magicbrush",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "133": {
+        "image": "0134.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the frisbee to red",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the frisbee",
+        "gt": "red",
+        "type": "object",
+        "final_judgement": "Yes",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "134": {
+        "image": "0135.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the man's beard to white",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the man's beard",
+        "gt": "white",
+        "type": "human",
+        "final_judgement": "yes",
+        "model_rank": {
+            "right_models": [
+                "hqedit"
+            ],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit"
+            ]
+        }
+    },
+    "135": {
+        "image": "0136.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the tree to yellow",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the tree",
+        "gt": "yellow",
+        "type": "plant",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "instructpix2pix",
+                "magicbrush",
+                "instruct-diffusion"
+            ],
+            "wrong_models": [
+                "hive",
+                "mgie",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "136": {
+        "image": "0137.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the skateboard to green",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the skateboard",
+        "gt": "green",
+        "type": "object",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix"
+            ],
+            "wrong_models": [
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "137": {
+        "image": "0138.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the koala to black",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the koala",
+        "gt": "black",
+        "type": "animal",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    },
+    "138": {
+        "image": "0139.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the land to green",
+        "evaluation": "VLM_judgement",
+        "question": "What color is the land",
+        "gt": "green",
+        "type": "scenery",
+        "final_judgement": "No",
+        "model_rank": {
+            "right_models": [],
+            "wrong_models": [
+                "hive",
+                "instructpix2pix",
+                "magicbrush",
+                "mgie",
+                "instruct-diffusion",
+                "any2pix",
+                "iedit",
+                "hqedit"
+            ]
+        }
+    }
+}

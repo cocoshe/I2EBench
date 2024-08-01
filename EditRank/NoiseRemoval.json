@@ -1,0 +1,4922 @@
+{
+    "1": {
+        "image": "0000.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Eliminate unwanted noise from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7929
+            ],
+            [
+                "any2pix",
+                0.7104
+            ],
+            [
+                "instructpix2pix",
+                0.6774
+            ],
+            [
+                "hive",
+                0.5573
+            ],
+            [
+                "mgie",
+                0.438
+            ],
+            [
+                "hqedit",
+                0.3854
+            ],
+            [
+                "magicbrush",
+                0.2466
+            ],
+            [
+                "iedit",
+                0.1972
+            ]
+        ]
+    },
+    "2": {
+        "image": "0001.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Get rid of disturbances in the image by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.2088
+            ],
+            [
+                "mgie",
+                0.1922
+            ],
+            [
+                "hive",
+                0.1895
+            ],
+            [
+                "hqedit",
+                0.1862
+            ],
+            [
+                "instructpix2pix",
+                0.1411
+            ],
+            [
+                "iedit",
+                0.1157
+            ],
+            [
+                "instruct-diffusion",
+                0.11
+            ],
+            [
+                "any2pix",
+                0.0779
+            ]
+        ]
+    },
+    "3": {
+        "image": "0002.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Cleanse the image from visual interference through noise removal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5363
+            ],
+            [
+                "hqedit",
+                0.4166
+            ],
+            [
+                "hive",
+                0.375
+            ],
+            [
+                "mgie",
+                0.299
+            ],
+            [
+                "magicbrush",
+                0.2818
+            ],
+            [
+                "any2pix",
+                0.2728
+            ],
+            [
+                "iedit",
+                0.1992
+            ],
+            [
+                "instructpix2pix",
+                0.1559
+            ]
+        ]
+    },
+    "4": {
+        "image": "0003.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Strip away unwanted elements in the image by eliminating noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3132
+            ],
+            [
+                "hqedit",
+                0.172
+            ],
+            [
+                "any2pix",
+                0.1469
+            ],
+            [
+                "hive",
+                0.1458
+            ],
+            [
+                "instruct-diffusion",
+                0.1383
+            ],
+            [
+                "magicbrush",
+                0.1349
+            ],
+            [
+                "instructpix2pix",
+                0.1268
+            ],
+            [
+                "iedit",
+                0.1259
+            ]
+        ]
+    },
+    "5": {
+        "image": "0004.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Purify the image by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.2816
+            ],
+            [
+                "hive",
+                0.2457
+            ],
+            [
+                "mgie",
+                0.2402
+            ],
+            [
+                "magicbrush",
+                0.2131
+            ],
+            [
+                "instructpix2pix",
+                0.1997
+            ],
+            [
+                "hqedit",
+                0.1501
+            ],
+            [
+                "any2pix",
+                0.1246
+            ],
+            [
+                "iedit",
+                0.1086
+            ]
+        ]
+    },
+    "6": {
+        "image": "0005.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Enhance image clarity by eliminating unwanted noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.417
+            ],
+            [
+                "hqedit",
+                0.3976
+            ],
+            [
+                "instruct-diffusion",
+                0.2929
+            ],
+            [
+                "mgie",
+                0.2807
+            ],
+            [
+                "hive",
+                0.2378
+            ],
+            [
+                "any2pix",
+                0.2346
+            ],
+            [
+                "iedit",
+                0.2004
+            ],
+            [
+                "magicbrush",
+                0.1958
+            ]
+        ]
+    },
+    "7": {
+        "image": "0006.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Remove visual disturbances from the image by eliminating noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hqedit",
+                0.3608
+            ],
+            [
+                "instruct-diffusion",
+                0.3347
+            ],
+            [
+                "instructpix2pix",
+                0.277
+            ],
+            [
+                "magicbrush",
+                0.2475
+            ],
+            [
+                "hive",
+                0.2294
+            ],
+            [
+                "mgie",
+                0.2038
+            ],
+            [
+                "any2pix",
+                0.1376
+            ],
+            [
+                "iedit",
+                0.1182
+            ]
+        ]
+    },
+    "8": {
+        "image": "0007.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Optimize the image by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3337
+            ],
+            [
+                "instructpix2pix",
+                0.219
+            ],
+            [
+                "hive",
+                0.1892
+            ],
+            [
+                "hqedit",
+                0.0859
+            ],
+            [
+                "magicbrush",
+                0.0727
+            ],
+            [
+                "instruct-diffusion",
+                0.0705
+            ],
+            [
+                "iedit",
+                0.0605
+            ],
+            [
+                "any2pix",
+                0.039
+            ]
+        ]
+    },
+    "9": {
+        "image": "0008.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Achieve a cleaner look by removing noise from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2334
+            ],
+            [
+                "instruct-diffusion",
+                0.1869
+            ],
+            [
+                "hive",
+                0.1843
+            ],
+            [
+                "instructpix2pix",
+                0.1228
+            ],
+            [
+                "iedit",
+                0.1058
+            ],
+            [
+                "hqedit",
+                0.1006
+            ],
+            [
+                "any2pix",
+                0.0972
+            ],
+            [
+                "magicbrush",
+                0.0871
+            ]
+        ]
+    },
+    "10": {
+        "image": "0009.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Polish the image by eliminating unwanted noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.4854
+            ],
+            [
+                "any2pix",
+                0.3884
+            ],
+            [
+                "hqedit",
+                0.3648
+            ],
+            [
+                "hive",
+                0.2958
+            ],
+            [
+                "magicbrush",
+                0.2663
+            ],
+            [
+                "instructpix2pix",
+                0.2512
+            ],
+            [
+                "iedit",
+                0.1893
+            ],
+            [
+                "mgie",
+                0.0206
+            ]
+        ]
+    },
+    "11": {
+        "image": "0010.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Clear up the image by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.3416
+            ],
+            [
+                "mgie",
+                0.2943
+            ],
+            [
+                "hqedit",
+                0.2864
+            ],
+            [
+                "instruct-diffusion",
+                0.2737
+            ],
+            [
+                "hive",
+                0.2468
+            ],
+            [
+                "magicbrush",
+                0.2466
+            ],
+            [
+                "any2pix",
+                0.2078
+            ],
+            [
+                "iedit",
+                0.1774
+            ]
+        ]
+    },
+    "12": {
+        "image": "0011.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Minimize unwanted visual disruptions by removing noise from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "any2pix",
+                0.295
+            ],
+            [
+                "mgie",
+                0.282
+            ],
+            [
+                "magicbrush",
+                0.281
+            ],
+            [
+                "instruct-diffusion",
+                0.2604
+            ],
+            [
+                "hive",
+                0.2087
+            ],
+            [
+                "instructpix2pix",
+                0.1942
+            ],
+            [
+                "hqedit",
+                0.1813
+            ],
+            [
+                "iedit",
+                0.1526
+            ]
+        ]
+    },
+    "13": {
+        "image": "0012.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Purge the image of unwanted artifacts through noise removal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.2893
+            ],
+            [
+                "hive",
+                0.2859
+            ],
+            [
+                "mgie",
+                0.2393
+            ],
+            [
+                "magicbrush",
+                0.1986
+            ],
+            [
+                "any2pix",
+                0.1956
+            ],
+            [
+                "instructpix2pix",
+                0.193
+            ],
+            [
+                "iedit",
+                0.1755
+            ],
+            [
+                "hqedit",
+                0.077
+            ]
+        ]
+    },
+    "14": {
+        "image": "0013.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Improve image quality by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.6218
+            ],
+            [
+                "any2pix",
+                0.5444
+            ],
+            [
+                "instructpix2pix",
+                0.3914
+            ],
+            [
+                "hqedit",
+                0.3648
+            ],
+            [
+                "hive",
+                0.3358
+            ],
+            [
+                "magicbrush",
+                0.3356
+            ],
+            [
+                "iedit",
+                0.2466
+            ],
+            [
+                "mgie",
+                0.1894
+            ]
+        ]
+    },
+    "15": {
+        "image": "0014.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Clean up the image by eliminating unwanted noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.3071
+            ],
+            [
+                "hqedit",
+                0.2262
+            ],
+            [
+                "hive",
+                0.1837
+            ],
+            [
+                "instruct-diffusion",
+                0.144
+            ],
+            [
+                "instructpix2pix",
+                0.136
+            ],
+            [
+                "mgie",
+                0.1149
+            ],
+            [
+                "iedit",
+                0.1132
+            ],
+            [
+                "any2pix",
+                0.0888
+            ]
+        ]
+    },
+    "16": {
+        "image": "0015.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Enhance image sharpness by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2417
+            ],
+            [
+                "instructpix2pix",
+                0.228
+            ],
+            [
+                "hive",
+                0.1805
+            ],
+            [
+                "hqedit",
+                0.1496
+            ],
+            [
+                "magicbrush",
+                0.1431
+            ],
+            [
+                "iedit",
+                0.1067
+            ],
+            [
+                "instruct-diffusion",
+                0.0904
+            ],
+            [
+                "any2pix",
+                0.0452
+            ]
+        ]
+    },
+    "17": {
+        "image": "0016.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Achieve a more pristine look by removing noise from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.3853
+            ],
+            [
+                "instruct-diffusion",
+                0.2723
+            ],
+            [
+                "mgie",
+                0.27
+            ],
+            [
+                "instructpix2pix",
+                0.2595
+            ],
+            [
+                "hive",
+                0.1958
+            ],
+            [
+                "hqedit",
+                0.1907
+            ],
+            [
+                "iedit",
+                0.1379
+            ],
+            [
+                "any2pix",
+                0.1019
+            ]
+        ]
+    },
+    "18": {
+        "image": "0017.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Purify the image from unwanted distortions through noise removal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.3152
+            ],
+            [
+                "hive",
+                0.3079
+            ],
+            [
+                "mgie",
+                0.2487
+            ],
+            [
+                "instructpix2pix",
+                0.2294
+            ],
+            [
+                "hqedit",
+                0.2285
+            ],
+            [
+                "magicbrush",
+                0.215
+            ],
+            [
+                "any2pix",
+                0.1433
+            ],
+            [
+                "iedit",
+                0.129
+            ]
+        ]
+    },
+    "19": {
+        "image": "0018.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Optimize the image by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.2428
+            ],
+            [
+                "hive",
+                0.2177
+            ],
+            [
+                "magicbrush",
+                0.202
+            ],
+            [
+                "mgie",
+                0.1901
+            ],
+            [
+                "any2pix",
+                0.1856
+            ],
+            [
+                "iedit",
+                0.1465
+            ],
+            [
+                "hqedit",
+                0.1271
+            ],
+            [
+                "instruct-diffusion",
+                0.1083
+            ]
+        ]
+    },
+    "20": {
+        "image": "0019.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Clarify the image's details by eliminating noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.3312
+            ],
+            [
+                "hqedit",
+                0.286
+            ],
+            [
+                "mgie",
+                0.2662
+            ],
+            [
+                "any2pix",
+                0.2319
+            ],
+            [
+                "instruct-diffusion",
+                0.2188
+            ],
+            [
+                "hive",
+                0.2016
+            ],
+            [
+                "instructpix2pix",
+                0.1998
+            ],
+            [
+                "iedit",
+                0.1395
+            ]
+        ]
+    },
+    "21": {
+        "image": "0020.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Strip away distractions from the image by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "any2pix",
+                0.3764
+            ],
+            [
+                "hive",
+                0.2875
+            ],
+            [
+                "mgie",
+                0.2718
+            ],
+            [
+                "instructpix2pix",
+                0.2578
+            ],
+            [
+                "instruct-diffusion",
+                0.2318
+            ],
+            [
+                "hqedit",
+                0.2227
+            ],
+            [
+                "magicbrush",
+                0.2088
+            ],
+            [
+                "iedit",
+                0.151
+            ]
+        ]
+    },
+    "22": {
+        "image": "0021.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Polish the image by removing unwanted noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2777
+            ],
+            [
+                "instruct-diffusion",
+                0.2606
+            ],
+            [
+                "hqedit",
+                0.2523
+            ],
+            [
+                "any2pix",
+                0.2216
+            ],
+            [
+                "hive",
+                0.2167
+            ],
+            [
+                "instructpix2pix",
+                0.1559
+            ],
+            [
+                "magicbrush",
+                0.1412
+            ],
+            [
+                "iedit",
+                0.1253
+            ]
+        ]
+    },
+    "23": {
+        "image": "0022.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Remove unwanted artifacts from the image through noise removal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.4797
+            ],
+            [
+                "instructpix2pix",
+                0.1801
+            ],
+            [
+                "hive",
+                0.1788
+            ],
+            [
+                "magicbrush",
+                0.1671
+            ],
+            [
+                "hqedit",
+                0.1551
+            ],
+            [
+                "instruct-diffusion",
+                0.1192
+            ],
+            [
+                "iedit",
+                0.1006
+            ],
+            [
+                "any2pix",
+                0.062
+            ]
+        ]
+    },
+    "24": {
+        "image": "0023.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Clean up the image by eliminating noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5089
+            ],
+            [
+                "any2pix",
+                0.4912
+            ],
+            [
+                "instruct-diffusion",
+                0.3714
+            ],
+            [
+                "mgie",
+                0.2767
+            ],
+            [
+                "hive",
+                0.2146
+            ],
+            [
+                "hqedit",
+                0.2027
+            ],
+            [
+                "iedit",
+                0.1893
+            ],
+            [
+                "instructpix2pix",
+                0.0911
+            ]
+        ]
+    },
+    "25": {
+        "image": "0024.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Improve image quality by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3744
+            ],
+            [
+                "magicbrush",
+                0.3148
+            ],
+            [
+                "instructpix2pix",
+                0.3071
+            ],
+            [
+                "hive",
+                0.2643
+            ],
+            [
+                "hqedit",
+                0.2495
+            ],
+            [
+                "instruct-diffusion",
+                0.2337
+            ],
+            [
+                "iedit",
+                0.1286
+            ],
+            [
+                "any2pix",
+                0.0975
+            ]
+        ]
+    },
+    "26": {
+        "image": "0025.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Purge the image of unwanted visual disruptions through noise removal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.3565
+            ],
+            [
+                "hqedit",
+                0.3251
+            ],
+            [
+                "mgie",
+                0.3165
+            ],
+            [
+                "hive",
+                0.3071
+            ],
+            [
+                "instructpix2pix",
+                0.2732
+            ],
+            [
+                "any2pix",
+                0.2013
+            ],
+            [
+                "iedit",
+                0.1704
+            ],
+            [
+                "magicbrush",
+                0.1392
+            ]
+        ]
+    },
+    "27": {
+        "image": "0026.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Achieve a cleaner and more polished look by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3116
+            ],
+            [
+                "instructpix2pix",
+                0.2284
+            ],
+            [
+                "hive",
+                0.1723
+            ],
+            [
+                "instruct-diffusion",
+                0.1672
+            ],
+            [
+                "any2pix",
+                0.1157
+            ],
+            [
+                "hqedit",
+                0.0899
+            ],
+            [
+                "magicbrush",
+                0.0896
+            ],
+            [
+                "iedit",
+                0.0734
+            ]
+        ]
+    },
+    "28": {
+        "image": "0027.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Enhance image clarity by removing unwanted noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3212
+            ],
+            [
+                "hive",
+                0.2158
+            ],
+            [
+                "instructpix2pix",
+                0.1746
+            ],
+            [
+                "magicbrush",
+                0.1628
+            ],
+            [
+                "instruct-diffusion",
+                0.1364
+            ],
+            [
+                "iedit",
+                0.12
+            ],
+            [
+                "any2pix",
+                0.0913
+            ],
+            [
+                "hqedit",
+                0.085
+            ]
+        ]
+    },
+    "29": {
+        "image": "0028.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Remove visual noise to reveal clearer details in the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.3578
+            ],
+            [
+                "hive",
+                0.2764
+            ],
+            [
+                "hqedit",
+                0.2363
+            ],
+            [
+                "magicbrush",
+                0.2275
+            ],
+            [
+                "any2pix",
+                0.1646
+            ],
+            [
+                "instruct-diffusion",
+                0.1263
+            ],
+            [
+                "iedit",
+                0.1195
+            ],
+            [
+                "mgie",
+                0.0565
+            ]
+        ]
+    },
+    "30": {
+        "image": "0029.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Clear up the image by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.2944
+            ],
+            [
+                "mgie",
+                0.2865
+            ],
+            [
+                "instruct-diffusion",
+                0.2107
+            ],
+            [
+                "instructpix2pix",
+                0.1918
+            ],
+            [
+                "iedit",
+                0.12
+            ],
+            [
+                "any2pix",
+                0.1173
+            ],
+            [
+                "magicbrush",
+                0.1054
+            ],
+            [
+                "hqedit",
+                0.086
+            ]
+        ]
+    },
+    "31": {
+        "image": "0030.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Minimize unwanted visual disruptions by removing noise from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.4589
+            ],
+            [
+                "magicbrush",
+                0.4471
+            ],
+            [
+                "hqedit",
+                0.2599
+            ],
+            [
+                "hive",
+                0.1868
+            ],
+            [
+                "mgie",
+                0.1709
+            ],
+            [
+                "instructpix2pix",
+                0.1705
+            ],
+            [
+                "iedit",
+                0.1593
+            ],
+            [
+                "any2pix",
+                0.1325
+            ]
+        ]
+    },
+    "32": {
+        "image": "0031.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Purify the image from unwanted artifacts through noise removal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hqedit",
+                0.3168
+            ],
+            [
+                "instruct-diffusion",
+                0.3116
+            ],
+            [
+                "mgie",
+                0.261
+            ],
+            [
+                "instructpix2pix",
+                0.2423
+            ],
+            [
+                "hive",
+                0.2067
+            ],
+            [
+                "magicbrush",
+                0.1449
+            ],
+            [
+                "iedit",
+                0.1258
+            ],
+            [
+                "any2pix",
+                0.1224
+            ]
+        ]
+    },
+    "33": {
+        "image": "0032.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Optimize the image by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5921
+            ],
+            [
+                "any2pix",
+                0.4729
+            ],
+            [
+                "mgie",
+                0.4557
+            ],
+            [
+                "instructpix2pix",
+                0.3311
+            ],
+            [
+                "magicbrush",
+                0.3282
+            ],
+            [
+                "hive",
+                0.3275
+            ],
+            [
+                "iedit",
+                0.2735
+            ],
+            [
+                "hqedit",
+                0.0817
+            ]
+        ]
+    },
+    "34": {
+        "image": "0033.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Achieve a more refined look by removing noise from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2509
+            ],
+            [
+                "hive",
+                0.1597
+            ],
+            [
+                "magicbrush",
+                0.1404
+            ],
+            [
+                "instruct-diffusion",
+                0.1211
+            ],
+            [
+                "instructpix2pix",
+                0.1171
+            ],
+            [
+                "any2pix",
+                0.1042
+            ],
+            [
+                "hqedit",
+                0.098
+            ],
+            [
+                "iedit",
+                0.0616
+            ]
+        ]
+    },
+    "35": {
+        "image": "0034.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Polish the image by eliminating unwanted noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hqedit",
+                0.4048
+            ],
+            [
+                "mgie",
+                0.2566
+            ],
+            [
+                "instructpix2pix",
+                0.2313
+            ],
+            [
+                "instruct-diffusion",
+                0.2247
+            ],
+            [
+                "any2pix",
+                0.2193
+            ],
+            [
+                "magicbrush",
+                0.214
+            ],
+            [
+                "hive",
+                0.2045
+            ],
+            [
+                "iedit",
+                0.1504
+            ]
+        ]
+    },
+    "36": {
+        "image": "0035.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Improve image quality by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2575
+            ],
+            [
+                "hive",
+                0.1351
+            ],
+            [
+                "instructpix2pix",
+                0.1119
+            ],
+            [
+                "magicbrush",
+                0.089
+            ],
+            [
+                "hqedit",
+                0.0872
+            ],
+            [
+                "iedit",
+                0.0686
+            ],
+            [
+                "instruct-diffusion",
+                0.0577
+            ],
+            [
+                "any2pix",
+                0.0351
+            ]
+        ]
+    },
+    "37": {
+        "image": "0036.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Purge the image of unwanted visual distortions through noise removal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3346
+            ],
+            [
+                "hive",
+                0.1835
+            ],
+            [
+                "hqedit",
+                0.1774
+            ],
+            [
+                "magicbrush",
+                0.1394
+            ],
+            [
+                "any2pix",
+                0.1141
+            ],
+            [
+                "instructpix2pix",
+                0.1128
+            ],
+            [
+                "iedit",
+                0.092
+            ],
+            [
+                "instruct-diffusion",
+                0.0834
+            ]
+        ]
+    },
+    "38": {
+        "image": "0037.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Strip away distractions from the image by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4335
+            ],
+            [
+                "instructpix2pix",
+                0.4257
+            ],
+            [
+                "instruct-diffusion",
+                0.3824
+            ],
+            [
+                "hive",
+                0.3252
+            ],
+            [
+                "any2pix",
+                0.3005
+            ],
+            [
+                "hqedit",
+                0.2763
+            ],
+            [
+                "iedit",
+                0.1628
+            ],
+            [
+                "mgie",
+                0.0258
+            ]
+        ]
+    },
+    "39": {
+        "image": "0038.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Enhance image clarity by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hqedit",
+                0.5133
+            ],
+            [
+                "mgie",
+                0.4561
+            ],
+            [
+                "instructpix2pix",
+                0.4318
+            ],
+            [
+                "instruct-diffusion",
+                0.4162
+            ],
+            [
+                "hive",
+                0.3478
+            ],
+            [
+                "any2pix",
+                0.3338
+            ],
+            [
+                "magicbrush",
+                0.3083
+            ],
+            [
+                "iedit",
+                0.1968
+            ]
+        ]
+    },
+    "40": {
+        "image": "0039.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Clean up the image by eliminating unwanted noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hqedit",
+                0.3298
+            ],
+            [
+                "hive",
+                0.2807
+            ],
+            [
+                "instruct-diffusion",
+                0.2668
+            ],
+            [
+                "magicbrush",
+                0.1982
+            ],
+            [
+                "any2pix",
+                0.1968
+            ],
+            [
+                "instructpix2pix",
+                0.151
+            ],
+            [
+                "iedit",
+                0.144
+            ],
+            [
+                "mgie",
+                0.0189
+            ]
+        ]
+    },
+    "41": {
+        "image": "0040.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Remove visual disturbances from the image by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.3148
+            ],
+            [
+                "hqedit",
+                0.2774
+            ],
+            [
+                "instructpix2pix",
+                0.2598
+            ],
+            [
+                "hive",
+                0.2125
+            ],
+            [
+                "any2pix",
+                0.1763
+            ],
+            [
+                "iedit",
+                0.158
+            ],
+            [
+                "instruct-diffusion",
+                0.1404
+            ],
+            [
+                "mgie",
+                0.0503
+            ]
+        ]
+    },
+    "42": {
+        "image": "0041.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Achieve a cleaner look by removing noise from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.3837
+            ],
+            [
+                "magicbrush",
+                0.3158
+            ],
+            [
+                "instruct-diffusion",
+                0.2257
+            ],
+            [
+                "hqedit",
+                0.2249
+            ],
+            [
+                "mgie",
+                0.2099
+            ],
+            [
+                "any2pix",
+                0.203
+            ],
+            [
+                "hive",
+                0.165
+            ],
+            [
+                "iedit",
+                0.1433
+            ]
+        ]
+    },
+    "43": {
+        "image": "0042.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Optimize the image by removing unwanted noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.2575
+            ],
+            [
+                "magicbrush",
+                0.2223
+            ],
+            [
+                "hive",
+                0.1975
+            ],
+            [
+                "any2pix",
+                0.1551
+            ],
+            [
+                "hqedit",
+                0.1548
+            ],
+            [
+                "mgie",
+                0.1545
+            ],
+            [
+                "instructpix2pix",
+                0.1494
+            ],
+            [
+                "iedit",
+                0.1404
+            ]
+        ]
+    },
+    "44": {
+        "image": "0043.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Purify the image by eliminating noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.3252
+            ],
+            [
+                "mgie",
+                0.2786
+            ],
+            [
+                "hive",
+                0.2508
+            ],
+            [
+                "instructpix2pix",
+                0.2473
+            ],
+            [
+                "magicbrush",
+                0.228
+            ],
+            [
+                "hqedit",
+                0.2007
+            ],
+            [
+                "any2pix",
+                0.1513
+            ],
+            [
+                "iedit",
+                0.1385
+            ]
+        ]
+    },
+    "45": {
+        "image": "0044.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Improve image quality by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hqedit",
+                0.2842
+            ],
+            [
+                "hive",
+                0.2824
+            ],
+            [
+                "instruct-diffusion",
+                0.282
+            ],
+            [
+                "mgie",
+                0.2432
+            ],
+            [
+                "magicbrush",
+                0.2286
+            ],
+            [
+                "instructpix2pix",
+                0.1632
+            ],
+            [
+                "iedit",
+                0.1551
+            ],
+            [
+                "any2pix",
+                0.1429
+            ]
+        ]
+    },
+    "46": {
+        "image": "0045.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Strip away unwanted elements in the image by eliminating noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3694
+            ],
+            [
+                "hive",
+                0.2715
+            ],
+            [
+                "any2pix",
+                0.2676
+            ],
+            [
+                "magicbrush",
+                0.2413
+            ],
+            [
+                "instructpix2pix",
+                0.2195
+            ],
+            [
+                "hqedit",
+                0.2041
+            ],
+            [
+                "iedit",
+                0.1392
+            ],
+            [
+                "instruct-diffusion",
+                0.1256
+            ]
+        ]
+    },
+    "47": {
+        "image": "0046.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Clear up the image by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3174
+            ],
+            [
+                "instruct-diffusion",
+                0.2786
+            ],
+            [
+                "instructpix2pix",
+                0.2308
+            ],
+            [
+                "any2pix",
+                0.2078
+            ],
+            [
+                "hqedit",
+                0.2064
+            ],
+            [
+                "magicbrush",
+                0.1644
+            ],
+            [
+                "hive",
+                0.1583
+            ],
+            [
+                "iedit",
+                0.1423
+            ]
+        ]
+    },
+    "48": {
+        "image": "0047.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Minimize unwanted visual disruptions by removing noise from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "any2pix",
+                0.4053
+            ],
+            [
+                "hive",
+                0.2311
+            ],
+            [
+                "instruct-diffusion",
+                0.2285
+            ],
+            [
+                "hqedit",
+                0.2283
+            ],
+            [
+                "instructpix2pix",
+                0.2102
+            ],
+            [
+                "magicbrush",
+                0.2093
+            ],
+            [
+                "iedit",
+                0.1848
+            ],
+            [
+                "mgie",
+                0.1546
+            ]
+        ]
+    },
+    "49": {
+        "image": "0048.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Polish the image by eliminating unwanted noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.1782
+            ],
+            [
+                "instructpix2pix",
+                0.1735
+            ],
+            [
+                "hive",
+                0.1488
+            ],
+            [
+                "hqedit",
+                0.1393
+            ],
+            [
+                "any2pix",
+                0.1056
+            ],
+            [
+                "mgie",
+                0.0991
+            ],
+            [
+                "instruct-diffusion",
+                0.0966
+            ],
+            [
+                "iedit",
+                0.0898
+            ]
+        ]
+    },
+    "50": {
+        "image": "0049.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Enhance image sharpness by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.262
+            ],
+            [
+                "instructpix2pix",
+                0.1775
+            ],
+            [
+                "hive",
+                0.1586
+            ],
+            [
+                "magicbrush",
+                0.1585
+            ],
+            [
+                "hqedit",
+                0.1311
+            ],
+            [
+                "iedit",
+                0.1105
+            ],
+            [
+                "instruct-diffusion",
+                0.1074
+            ],
+            [
+                "any2pix",
+                0.0964
+            ]
+        ]
+    },
+    "51": {
+        "image": "0050.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Achieve a more polished look by removing noise from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5485
+            ],
+            [
+                "instructpix2pix",
+                0.52
+            ],
+            [
+                "hqedit",
+                0.4563
+            ],
+            [
+                "hive",
+                0.3286
+            ],
+            [
+                "mgie",
+                0.2944
+            ],
+            [
+                "any2pix",
+                0.2733
+            ],
+            [
+                "iedit",
+                0.2334
+            ],
+            [
+                "magicbrush",
+                0.2098
+            ]
+        ]
+    },
+    "52": {
+        "image": "0051.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Purify the image from unwanted distortions through noise removal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2928
+            ],
+            [
+                "hive",
+                0.2495
+            ],
+            [
+                "instruct-diffusion",
+                0.2366
+            ],
+            [
+                "iedit",
+                0.1797
+            ],
+            [
+                "any2pix",
+                0.1715
+            ],
+            [
+                "magicbrush",
+                0.1649
+            ],
+            [
+                "hqedit",
+                0.1548
+            ],
+            [
+                "instructpix2pix",
+                0.1448
+            ]
+        ]
+    },
+    "53": {
+        "image": "0052.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Optimize the image by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4502
+            ],
+            [
+                "hive",
+                0.2473
+            ],
+            [
+                "any2pix",
+                0.2436
+            ],
+            [
+                "hqedit",
+                0.2148
+            ],
+            [
+                "mgie",
+                0.191
+            ],
+            [
+                "iedit",
+                0.1199
+            ],
+            [
+                "instruct-diffusion",
+                0.1174
+            ],
+            [
+                "instructpix2pix",
+                0.0518
+            ]
+        ]
+    },
+    "54": {
+        "image": "0053.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Clarify the image's details by eliminating noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4423
+            ],
+            [
+                "any2pix",
+                0.4203
+            ],
+            [
+                "hive",
+                0.3997
+            ],
+            [
+                "instruct-diffusion",
+                0.3567
+            ],
+            [
+                "hqedit",
+                0.2936
+            ],
+            [
+                "iedit",
+                0.2779
+            ],
+            [
+                "instructpix2pix",
+                0.1522
+            ],
+            [
+                "mgie",
+                0.0745
+            ]
+        ]
+    },
+    "55": {
+        "image": "0054.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Strip away distractions from the image by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.37
+            ],
+            [
+                "hqedit",
+                0.3011
+            ],
+            [
+                "instruct-diffusion",
+                0.2389
+            ],
+            [
+                "hive",
+                0.2308
+            ],
+            [
+                "magicbrush",
+                0.2131
+            ],
+            [
+                "any2pix",
+                0.1968
+            ],
+            [
+                "iedit",
+                0.171
+            ],
+            [
+                "mgie",
+                0.0003
+            ]
+        ]
+    },
+    "56": {
+        "image": "0055.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Remove unwanted artifacts from the image through noise removal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3061
+            ],
+            [
+                "instructpix2pix",
+                0.2837
+            ],
+            [
+                "hive",
+                0.2698
+            ],
+            [
+                "any2pix",
+                0.2301
+            ],
+            [
+                "magicbrush",
+                0.2023
+            ],
+            [
+                "hqedit",
+                0.1547
+            ],
+            [
+                "iedit",
+                0.1409
+            ],
+            [
+                "instruct-diffusion",
+                0.1284
+            ]
+        ]
+    },
+    "57": {
+        "image": "0056.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Clean up the image by eliminating noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.2189
+            ],
+            [
+                "hive",
+                0.2059
+            ],
+            [
+                "instructpix2pix",
+                0.1322
+            ],
+            [
+                "instruct-diffusion",
+                0.1256
+            ],
+            [
+                "hqedit",
+                0.1143
+            ],
+            [
+                "any2pix",
+                0.107
+            ],
+            [
+                "iedit",
+                0.0977
+            ],
+            [
+                "mgie",
+                0.0007
+            ]
+        ]
+    },
+    "58": {
+        "image": "0057.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Enhance image clarity by removing unwanted noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.1852
+            ],
+            [
+                "hive",
+                0.1582
+            ],
+            [
+                "magicbrush",
+                0.1395
+            ],
+            [
+                "instructpix2pix",
+                0.1131
+            ],
+            [
+                "iedit",
+                0.0854
+            ],
+            [
+                "any2pix",
+                0.0787
+            ],
+            [
+                "hqedit",
+                0.0757
+            ],
+            [
+                "instruct-diffusion",
+                0.0602
+            ]
+        ]
+    },
+    "59": {
+        "image": "0058.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Achieve a cleaner and more polished look by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.353
+            ],
+            [
+                "magicbrush",
+                0.3026
+            ],
+            [
+                "instruct-diffusion",
+                0.293
+            ],
+            [
+                "hqedit",
+                0.2779
+            ],
+            [
+                "mgie",
+                0.2239
+            ],
+            [
+                "hive",
+                0.195
+            ],
+            [
+                "any2pix",
+                0.188
+            ],
+            [
+                "iedit",
+                0.15
+            ]
+        ]
+    },
+    "60": {
+        "image": "0059.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Purify the image from unwanted artifacts through noise removal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.4936
+            ],
+            [
+                "hive",
+                0.3334
+            ],
+            [
+                "hqedit",
+                0.286
+            ],
+            [
+                "instructpix2pix",
+                0.2837
+            ],
+            [
+                "any2pix",
+                0.2691
+            ],
+            [
+                "magicbrush",
+                0.2083
+            ],
+            [
+                "mgie",
+                0.2036
+            ],
+            [
+                "iedit",
+                0.1902
+            ]
+        ]
+    },
+    "61": {
+        "image": "0060.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Improve image quality by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.4177
+            ],
+            [
+                "hqedit",
+                0.3363
+            ],
+            [
+                "any2pix",
+                0.2859
+            ],
+            [
+                "hive",
+                0.2698
+            ],
+            [
+                "mgie",
+                0.2531
+            ],
+            [
+                "magicbrush",
+                0.2101
+            ],
+            [
+                "iedit",
+                0.1655
+            ],
+            [
+                "instruct-diffusion",
+                0.1378
+            ]
+        ]
+    },
+    "62": {
+        "image": "0061.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Strip away unwanted elements in the image by eliminating noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "any2pix",
+                0.526
+            ],
+            [
+                "hqedit",
+                0.363
+            ],
+            [
+                "magicbrush",
+                0.3552
+            ],
+            [
+                "instructpix2pix",
+                0.2912
+            ],
+            [
+                "mgie",
+                0.2192
+            ],
+            [
+                "hive",
+                0.178
+            ],
+            [
+                "iedit",
+                0.1667
+            ],
+            [
+                "instruct-diffusion",
+                0.1463
+            ]
+        ]
+    },
+    "63": {
+        "image": "0062.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Clear up the image by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hqedit",
+                0.3576
+            ],
+            [
+                "instructpix2pix",
+                0.3506
+            ],
+            [
+                "instruct-diffusion",
+                0.2821
+            ],
+            [
+                "mgie",
+                0.2483
+            ],
+            [
+                "hive",
+                0.2372
+            ],
+            [
+                "any2pix",
+                0.1828
+            ],
+            [
+                "magicbrush",
+                0.1648
+            ],
+            [
+                "iedit",
+                0.1503
+            ]
+        ]
+    },
+    "64": {
+        "image": "0063.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Minimize unwanted visual disruptions by removing noise from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.4133
+            ],
+            [
+                "any2pix",
+                0.348
+            ],
+            [
+                "mgie",
+                0.327
+            ],
+            [
+                "magicbrush",
+                0.3055
+            ],
+            [
+                "instructpix2pix",
+                0.229
+            ],
+            [
+                "iedit",
+                0.1634
+            ],
+            [
+                "hive",
+                0.1493
+            ],
+            [
+                "hqedit",
+                0.1046
+            ]
+        ]
+    },
+    "65": {
+        "image": "0064.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Purge the image of unwanted artifacts through noise removal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3245
+            ],
+            [
+                "hqedit",
+                0.182
+            ],
+            [
+                "hive",
+                0.1578
+            ],
+            [
+                "instructpix2pix",
+                0.1475
+            ],
+            [
+                "magicbrush",
+                0.1433
+            ],
+            [
+                "instruct-diffusion",
+                0.1298
+            ],
+            [
+                "iedit",
+                0.0902
+            ],
+            [
+                "any2pix",
+                0.0691
+            ]
+        ]
+    },
+    "66": {
+        "image": "0065.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Achieve a more refined look by removing noise from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2342
+            ],
+            [
+                "instructpix2pix",
+                0.2261
+            ],
+            [
+                "hive",
+                0.1919
+            ],
+            [
+                "hqedit",
+                0.1821
+            ],
+            [
+                "instruct-diffusion",
+                0.1786
+            ],
+            [
+                "magicbrush",
+                0.1664
+            ],
+            [
+                "any2pix",
+                0.1465
+            ],
+            [
+                "iedit",
+                0.1088
+            ]
+        ]
+    },
+    "67": {
+        "image": "0066.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Optimize the image by removing unwanted noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3136
+            ],
+            [
+                "instruct-diffusion",
+                0.2908
+            ],
+            [
+                "hive",
+                0.2683
+            ],
+            [
+                "any2pix",
+                0.2192
+            ],
+            [
+                "hqedit",
+                0.1632
+            ],
+            [
+                "magicbrush",
+                0.1356
+            ],
+            [
+                "iedit",
+                0.1279
+            ],
+            [
+                "instructpix2pix",
+                0.0702
+            ]
+        ]
+    },
+    "68": {
+        "image": "0067.png",
+        "dataset": "NoiseRemoval",
+        "prompt": "Polish the image by eliminating noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.3323
+            ],
+            [
+                "any2pix",
+                0.3024
+            ],
+            [
+                "hive",
+                0.2951
+            ],
+            [
+                "iedit",
+                0.1822
+            ],
+            [
+                "instructpix2pix",
+                0.1651
+            ],
+            [
+                "hqedit",
+                0.1554
+            ],
+            [
+                "magicbrush",
+                0.137
+            ],
+            [
+                "mgie",
+                0.0594
+            ]
+        ]
+    },
+    "69": {
+        "image": "0068.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Enhance image clarity by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.3628
+            ],
+            [
+                "hive",
+                0.2307
+            ],
+            [
+                "mgie",
+                0.2304
+            ],
+            [
+                "any2pix",
+                0.1228
+            ],
+            [
+                "instruct-diffusion",
+                0.1174
+            ],
+            [
+                "hqedit",
+                0.1158
+            ],
+            [
+                "magicbrush",
+                0.0963
+            ],
+            [
+                "iedit",
+                0.0741
+            ]
+        ]
+    },
+    "70": {
+        "image": "0069.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Remove visual disturbances from the image by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.2691
+            ],
+            [
+                "hive",
+                0.1917
+            ],
+            [
+                "instructpix2pix",
+                0.1725
+            ],
+            [
+                "mgie",
+                0.1499
+            ],
+            [
+                "magicbrush",
+                0.0906
+            ],
+            [
+                "hqedit",
+                0.0812
+            ],
+            [
+                "any2pix",
+                0.0661
+            ],
+            [
+                "iedit",
+                0.055
+            ]
+        ]
+    },
+    "71": {
+        "image": "0070.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Clean up the image by eliminating unwanted noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2946
+            ],
+            [
+                "instruct-diffusion",
+                0.2614
+            ],
+            [
+                "instructpix2pix",
+                0.2181
+            ],
+            [
+                "hive",
+                0.2112
+            ],
+            [
+                "any2pix",
+                0.2035
+            ],
+            [
+                "iedit",
+                0.1798
+            ],
+            [
+                "magicbrush",
+                0.1195
+            ],
+            [
+                "hqedit",
+                0.1144
+            ]
+        ]
+    },
+    "72": {
+        "image": "0071.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Improve image quality by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.4631
+            ],
+            [
+                "hive",
+                0.389
+            ],
+            [
+                "magicbrush",
+                0.3682
+            ],
+            [
+                "instruct-diffusion",
+                0.323
+            ],
+            [
+                "mgie",
+                0.3159
+            ],
+            [
+                "any2pix",
+                0.2508
+            ],
+            [
+                "iedit",
+                0.1929
+            ],
+            [
+                "hqedit",
+                0.1273
+            ]
+        ]
+    },
+    "73": {
+        "image": "0072.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Purify the image from unwanted visual disruptions through noise removal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hqedit",
+                0.308
+            ],
+            [
+                "mgie",
+                0.2572
+            ],
+            [
+                "instruct-diffusion",
+                0.2403
+            ],
+            [
+                "hive",
+                0.1432
+            ],
+            [
+                "magicbrush",
+                0.1022
+            ],
+            [
+                "instructpix2pix",
+                0.102
+            ],
+            [
+                "iedit",
+                0.1
+            ],
+            [
+                "any2pix",
+                0.0535
+            ]
+        ]
+    },
+    "74": {
+        "image": "0073.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Achieve a cleaner look by removing noise from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.2964
+            ],
+            [
+                "mgie",
+                0.2737
+            ],
+            [
+                "instructpix2pix",
+                0.2349
+            ],
+            [
+                "hqedit",
+                0.1963
+            ],
+            [
+                "any2pix",
+                0.1936
+            ],
+            [
+                "instruct-diffusion",
+                0.1284
+            ],
+            [
+                "iedit",
+                0.1197
+            ],
+            [
+                "hive",
+                0.1011
+            ]
+        ]
+    },
+    "75": {
+        "image": "0074.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Strip away distractions from the image by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.4674
+            ],
+            [
+                "instruct-diffusion",
+                0.365
+            ],
+            [
+                "mgie",
+                0.3546
+            ],
+            [
+                "any2pix",
+                0.2999
+            ],
+            [
+                "magicbrush",
+                0.2462
+            ],
+            [
+                "hqedit",
+                0.2383
+            ],
+            [
+                "iedit",
+                0.2033
+            ],
+            [
+                "hive",
+                0.1964
+            ]
+        ]
+    },
+    "76": {
+        "image": "0075.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Enhance image sharpness by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hqedit",
+                0.2549
+            ],
+            [
+                "hive",
+                0.2072
+            ],
+            [
+                "instruct-diffusion",
+                0.1874
+            ],
+            [
+                "instructpix2pix",
+                0.1322
+            ],
+            [
+                "any2pix",
+                0.1256
+            ],
+            [
+                "iedit",
+                0.1058
+            ],
+            [
+                "magicbrush",
+                0.0995
+            ],
+            [
+                "mgie",
+                0.0892
+            ]
+        ]
+    },
+    "77": {
+        "image": "0076.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Achieve a more polished look by removing noise from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5321
+            ],
+            [
+                "instructpix2pix",
+                0.4088
+            ],
+            [
+                "magicbrush",
+                0.3162
+            ],
+            [
+                "hive",
+                0.3082
+            ],
+            [
+                "any2pix",
+                0.2932
+            ],
+            [
+                "hqedit",
+                0.1811
+            ],
+            [
+                "mgie",
+                0.1489
+            ],
+            [
+                "iedit",
+                0.1279
+            ]
+        ]
+    },
+    "78": {
+        "image": "0077.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Optimize the image by removing unwanted noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.2913
+            ],
+            [
+                "hive",
+                0.2753
+            ],
+            [
+                "any2pix",
+                0.1337
+            ],
+            [
+                "hqedit",
+                0.1328
+            ],
+            [
+                "iedit",
+                0.1009
+            ],
+            [
+                "magicbrush",
+                0.0973
+            ],
+            [
+                "instructpix2pix",
+                0.082
+            ],
+            [
+                "mgie",
+                0.0309
+            ]
+        ]
+    },
+    "79": {
+        "image": "0078.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Clarify the image's details by eliminating noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "any2pix",
+                0.3634
+            ],
+            [
+                "hqedit",
+                0.3171
+            ],
+            [
+                "instruct-diffusion",
+                0.3154
+            ],
+            [
+                "hive",
+                0.2375
+            ],
+            [
+                "instructpix2pix",
+                0.2231
+            ],
+            [
+                "magicbrush",
+                0.1741
+            ],
+            [
+                "iedit",
+                0.151
+            ],
+            [
+                "mgie",
+                0.1421
+            ]
+        ]
+    },
+    "80": {
+        "image": "0079.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Purify the image by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.359
+            ],
+            [
+                "hive",
+                0.3101
+            ],
+            [
+                "instructpix2pix",
+                0.2254
+            ],
+            [
+                "any2pix",
+                0.1941
+            ],
+            [
+                "hqedit",
+                0.1936
+            ],
+            [
+                "mgie",
+                0.1892
+            ],
+            [
+                "iedit",
+                0.1651
+            ],
+            [
+                "magicbrush",
+                0.1242
+            ]
+        ]
+    },
+    "81": {
+        "image": "0080.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Remove unwanted artifacts from the image through noise removal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.6005
+            ],
+            [
+                "hqedit",
+                0.4865
+            ],
+            [
+                "instructpix2pix",
+                0.483
+            ],
+            [
+                "mgie",
+                0.4773
+            ],
+            [
+                "any2pix",
+                0.4745
+            ],
+            [
+                "hive",
+                0.4656
+            ],
+            [
+                "iedit",
+                0.4263
+            ],
+            [
+                "instruct-diffusion",
+                0.4057
+            ]
+        ]
+    },
+    "82": {
+        "image": "0081.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Clean up the image by eliminating noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.2078
+            ],
+            [
+                "instruct-diffusion",
+                0.1718
+            ],
+            [
+                "hqedit",
+                0.0945
+            ],
+            [
+                "any2pix",
+                0.0915
+            ],
+            [
+                "iedit",
+                0.081
+            ],
+            [
+                "magicbrush",
+                0.0762
+            ],
+            [
+                "instructpix2pix",
+                0.0628
+            ],
+            [
+                "mgie",
+                0.0454
+            ]
+        ]
+    },
+    "83": {
+        "image": "0082.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Enhance image clarity by removing unwanted noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.3194
+            ],
+            [
+                "mgie",
+                0.3023
+            ],
+            [
+                "instruct-diffusion",
+                0.2644
+            ],
+            [
+                "hqedit",
+                0.2127
+            ],
+            [
+                "any2pix",
+                0.1873
+            ],
+            [
+                "instructpix2pix",
+                0.1341
+            ],
+            [
+                "magicbrush",
+                0.1296
+            ],
+            [
+                "iedit",
+                0.0897
+            ]
+        ]
+    },
+    "84": {
+        "image": "0083.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Achieve a cleaner and more polished look by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.4441
+            ],
+            [
+                "mgie",
+                0.4196
+            ],
+            [
+                "iedit",
+                0.3313
+            ],
+            [
+                "instructpix2pix",
+                0.3146
+            ],
+            [
+                "hive",
+                0.275
+            ],
+            [
+                "any2pix",
+                0.2726
+            ],
+            [
+                "hqedit",
+                0.2575
+            ],
+            [
+                "magicbrush",
+                0.1346
+            ]
+        ]
+    },
+    "85": {
+        "image": "0084.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Purify the image from unwanted artifacts through noise removal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.4349
+            ],
+            [
+                "magicbrush",
+                0.2751
+            ],
+            [
+                "hive",
+                0.272
+            ],
+            [
+                "instructpix2pix",
+                0.2546
+            ],
+            [
+                "any2pix",
+                0.2369
+            ],
+            [
+                "mgie",
+                0.1655
+            ],
+            [
+                "hqedit",
+                0.1415
+            ],
+            [
+                "iedit",
+                0.1395
+            ]
+        ]
+    },
+    "86": {
+        "image": "0085.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Improve image quality by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.3951
+            ],
+            [
+                "hive",
+                0.2693
+            ],
+            [
+                "hqedit",
+                0.2002
+            ],
+            [
+                "instruct-diffusion",
+                0.1917
+            ],
+            [
+                "any2pix",
+                0.1658
+            ],
+            [
+                "iedit",
+                0.0992
+            ],
+            [
+                "instructpix2pix",
+                0.0601
+            ],
+            [
+                "mgie",
+                0.0181
+            ]
+        ]
+    },
+    "87": {
+        "image": "0086.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Strip away unwanted elements in the image by eliminating noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2633
+            ],
+            [
+                "hqedit",
+                0.2515
+            ],
+            [
+                "instructpix2pix",
+                0.2126
+            ],
+            [
+                "magicbrush",
+                0.1755
+            ],
+            [
+                "hive",
+                0.1399
+            ],
+            [
+                "any2pix",
+                0.125
+            ],
+            [
+                "iedit",
+                0.0961
+            ],
+            [
+                "instruct-diffusion",
+                0.0825
+            ]
+        ]
+    },
+    "88": {
+        "image": "0087.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Clear up the image by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.1753
+            ],
+            [
+                "mgie",
+                0.1651
+            ],
+            [
+                "hive",
+                0.161
+            ],
+            [
+                "magicbrush",
+                0.1433
+            ],
+            [
+                "any2pix",
+                0.107
+            ],
+            [
+                "iedit",
+                0.0638
+            ],
+            [
+                "hqedit",
+                0.0591
+            ],
+            [
+                "instructpix2pix",
+                0.0581
+            ]
+        ]
+    },
+    "89": {
+        "image": "0088.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Minimize unwanted visual disruptions by removing noise from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hqedit",
+                0.2664
+            ],
+            [
+                "instruct-diffusion",
+                0.2492
+            ],
+            [
+                "any2pix",
+                0.2469
+            ],
+            [
+                "mgie",
+                0.242
+            ],
+            [
+                "magicbrush",
+                0.2354
+            ],
+            [
+                "iedit",
+                0.2338
+            ],
+            [
+                "hive",
+                0.2318
+            ],
+            [
+                "instructpix2pix",
+                0.1311
+            ]
+        ]
+    },
+    "90": {
+        "image": "0089.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Polish the image by eliminating unwanted noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hqedit",
+                0.5237
+            ],
+            [
+                "instruct-diffusion",
+                0.4154
+            ],
+            [
+                "any2pix",
+                0.3948
+            ],
+            [
+                "magicbrush",
+                0.2903
+            ],
+            [
+                "instructpix2pix",
+                0.2792
+            ],
+            [
+                "iedit",
+                0.2451
+            ],
+            [
+                "mgie",
+                0.2226
+            ],
+            [
+                "hive",
+                0.2162
+            ]
+        ]
+    },
+    "91": {
+        "image": "0090.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Enhance image sharpness by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.3293
+            ],
+            [
+                "magicbrush",
+                0.3293
+            ],
+            [
+                "hive",
+                0.2341
+            ],
+            [
+                "instruct-diffusion",
+                0.2105
+            ],
+            [
+                "hqedit",
+                0.1749
+            ],
+            [
+                "mgie",
+                0.1585
+            ],
+            [
+                "any2pix",
+                0.1535
+            ],
+            [
+                "iedit",
+                0.1253
+            ]
+        ]
+    },
+    "92": {
+        "image": "0091.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Achieve a more refined look by removing noise from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6043
+            ],
+            [
+                "magicbrush",
+                0.4806
+            ],
+            [
+                "hqedit",
+                0.3897
+            ],
+            [
+                "instruct-diffusion",
+                0.3185
+            ],
+            [
+                "hive",
+                0.2232
+            ],
+            [
+                "any2pix",
+                0.203
+            ],
+            [
+                "iedit",
+                0.1671
+            ],
+            [
+                "mgie",
+                0.0492
+            ]
+        ]
+    },
+    "93": {
+        "image": "0092.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Purify the image from unwanted distortions through noise removal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2548
+            ],
+            [
+                "hive",
+                0.1899
+            ],
+            [
+                "any2pix",
+                0.165
+            ],
+            [
+                "magicbrush",
+                0.1517
+            ],
+            [
+                "instructpix2pix",
+                0.1161
+            ],
+            [
+                "iedit",
+                0.0938
+            ],
+            [
+                "hqedit",
+                0.0937
+            ],
+            [
+                "instruct-diffusion",
+                0.0796
+            ]
+        ]
+    },
+    "94": {
+        "image": "0093.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Optimize the image by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.179
+            ],
+            [
+                "hqedit",
+                0.1426
+            ],
+            [
+                "instruct-diffusion",
+                0.1258
+            ],
+            [
+                "any2pix",
+                0.1003
+            ],
+            [
+                "magicbrush",
+                0.0985
+            ],
+            [
+                "iedit",
+                0.0945
+            ],
+            [
+                "instructpix2pix",
+                0.0466
+            ],
+            [
+                "mgie",
+                0.013
+            ]
+        ]
+    },
+    "95": {
+        "image": "0094.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Strip away distractions from the image by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.5016
+            ],
+            [
+                "magicbrush",
+                0.4986
+            ],
+            [
+                "any2pix",
+                0.351
+            ],
+            [
+                "instruct-diffusion",
+                0.2359
+            ],
+            [
+                "hqedit",
+                0.1948
+            ],
+            [
+                "mgie",
+                0.1349
+            ],
+            [
+                "iedit",
+                0.1232
+            ],
+            [
+                "instructpix2pix",
+                0.0914
+            ]
+        ]
+    },
+    "96": {
+        "image": "0095.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Clarify the image's details by eliminating noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "iedit",
+                0.3891
+            ],
+            [
+                "magicbrush",
+                0.3853
+            ],
+            [
+                "instruct-diffusion",
+                0.3785
+            ],
+            [
+                "instructpix2pix",
+                0.3767
+            ],
+            [
+                "mgie",
+                0.366
+            ],
+            [
+                "any2pix",
+                0.2687
+            ],
+            [
+                "hqedit",
+                0.2263
+            ],
+            [
+                "hive",
+                0.2034
+            ]
+        ]
+    },
+    "97": {
+        "image": "0096.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Clean up the image by eliminating unwanted noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.7271
+            ],
+            [
+                "any2pix",
+                0.6844
+            ],
+            [
+                "hive",
+                0.5012
+            ],
+            [
+                "hqedit",
+                0.431
+            ],
+            [
+                "magicbrush",
+                0.4198
+            ],
+            [
+                "iedit",
+                0.2981
+            ],
+            [
+                "mgie",
+                0.2441
+            ],
+            [
+                "instructpix2pix",
+                0.0873
+            ]
+        ]
+    },
+    "98": {
+        "image": "0097.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Purge the image of unwanted artifacts through noise removal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3178
+            ],
+            [
+                "instruct-diffusion",
+                0.2605
+            ],
+            [
+                "instructpix2pix",
+                0.236
+            ],
+            [
+                "magicbrush",
+                0.2335
+            ],
+            [
+                "hive",
+                0.2199
+            ],
+            [
+                "hqedit",
+                0.1179
+            ],
+            [
+                "iedit",
+                0.0858
+            ],
+            [
+                "any2pix",
+                0.034
+            ]
+        ]
+    },
+    "99": {
+        "image": "0098.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Improve image quality by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.3357
+            ],
+            [
+                "any2pix",
+                0.2842
+            ],
+            [
+                "magicbrush",
+                0.2838
+            ],
+            [
+                "instruct-diffusion",
+                0.2605
+            ],
+            [
+                "mgie",
+                0.2416
+            ],
+            [
+                "instructpix2pix",
+                0.2068
+            ],
+            [
+                "hqedit",
+                0.1955
+            ],
+            [
+                "iedit",
+                0.1631
+            ]
+        ]
+    },
+    "100": {
+        "image": "0099.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Achieve a cleaner look by removing noise from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.5858
+            ],
+            [
+                "instructpix2pix",
+                0.5812
+            ],
+            [
+                "instruct-diffusion",
+                0.5682
+            ],
+            [
+                "hive",
+                0.3329
+            ],
+            [
+                "any2pix",
+                0.3253
+            ],
+            [
+                "hqedit",
+                0.2983
+            ],
+            [
+                "iedit",
+                0.2433
+            ],
+            [
+                "mgie",
+                0.2223
+            ]
+        ]
+    },
+    "101": {
+        "image": "0100.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Enhance image clarity by removing unwanted noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.2507
+            ],
+            [
+                "hqedit",
+                0.2478
+            ],
+            [
+                "hive",
+                0.1997
+            ],
+            [
+                "instruct-diffusion",
+                0.1918
+            ],
+            [
+                "any2pix",
+                0.1329
+            ],
+            [
+                "instructpix2pix",
+                0.0997
+            ],
+            [
+                "iedit",
+                0.0917
+            ],
+            [
+                "magicbrush",
+                0.0728
+            ]
+        ]
+    },
+    "102": {
+        "image": "0101.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Remove visual disturbances from the image by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.6116
+            ],
+            [
+                "any2pix",
+                0.4409
+            ],
+            [
+                "instruct-diffusion",
+                0.3965
+            ],
+            [
+                "hive",
+                0.3793
+            ],
+            [
+                "iedit",
+                0.3374
+            ],
+            [
+                "magicbrush",
+                0.3226
+            ],
+            [
+                "hqedit",
+                0.3036
+            ],
+            [
+                "mgie",
+                0.0171
+            ]
+        ]
+    },
+    "103": {
+        "image": "0102.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Achieve a more polished look by removing noise from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.5926
+            ],
+            [
+                "magicbrush",
+                0.4728
+            ],
+            [
+                "hive",
+                0.4547
+            ],
+            [
+                "any2pix",
+                0.4093
+            ],
+            [
+                "instructpix2pix",
+                0.3677
+            ],
+            [
+                "mgie",
+                0.3644
+            ],
+            [
+                "iedit",
+                0.2949
+            ],
+            [
+                "hqedit",
+                0.2095
+            ]
+        ]
+    },
+    "104": {
+        "image": "0103.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Purify the image from unwanted artifacts through noise removal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.4448
+            ],
+            [
+                "instructpix2pix",
+                0.4234
+            ],
+            [
+                "instruct-diffusion",
+                0.4122
+            ],
+            [
+                "hive",
+                0.3841
+            ],
+            [
+                "mgie",
+                0.3712
+            ],
+            [
+                "hqedit",
+                0.3613
+            ],
+            [
+                "any2pix",
+                0.3016
+            ],
+            [
+                "iedit",
+                0.1847
+            ]
+        ]
+    },
+    "105": {
+        "image": "0104.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Optimize the image by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hqedit",
+                0.1584
+            ],
+            [
+                "magicbrush",
+                0.1364
+            ],
+            [
+                "hive",
+                0.1334
+            ],
+            [
+                "instruct-diffusion",
+                0.1294
+            ],
+            [
+                "any2pix",
+                0.1245
+            ],
+            [
+                "instructpix2pix",
+                0.0882
+            ],
+            [
+                "iedit",
+                0.072
+            ],
+            [
+                "mgie",
+                0.0622
+            ]
+        ]
+    },
+    "106": {
+        "image": "0105.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Strip away unwanted elements in the image by eliminating noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.3692
+            ],
+            [
+                "instructpix2pix",
+                0.2686
+            ],
+            [
+                "iedit",
+                0.1635
+            ],
+            [
+                "hive",
+                0.1302
+            ],
+            [
+                "instruct-diffusion",
+                0.1183
+            ],
+            [
+                "magicbrush",
+                0.1165
+            ],
+            [
+                "hqedit",
+                0.1016
+            ],
+            [
+                "any2pix",
+                0.0783
+            ]
+        ]
+    },
+    "107": {
+        "image": "0106.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Clear up the image by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.5284
+            ],
+            [
+                "mgie",
+                0.4951
+            ],
+            [
+                "magicbrush",
+                0.4947
+            ],
+            [
+                "instruct-diffusion",
+                0.4816
+            ],
+            [
+                "instructpix2pix",
+                0.4159
+            ],
+            [
+                "any2pix",
+                0.3872
+            ],
+            [
+                "iedit",
+                0.3533
+            ],
+            [
+                "hqedit",
+                0.1709
+            ]
+        ]
+    },
+    "108": {
+        "image": "0107.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Minimize unwanted visual disruptions by removing noise from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.545
+            ],
+            [
+                "magicbrush",
+                0.5426
+            ],
+            [
+                "mgie",
+                0.529
+            ],
+            [
+                "instruct-diffusion",
+                0.5191
+            ],
+            [
+                "any2pix",
+                0.5072
+            ],
+            [
+                "instructpix2pix",
+                0.4939
+            ],
+            [
+                "iedit",
+                0.4389
+            ],
+            [
+                "hqedit",
+                0.3766
+            ]
+        ]
+    },
+    "109": {
+        "image": "0108.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Polish the image by eliminating unwanted noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hqedit",
+                0.3378
+            ],
+            [
+                "instruct-diffusion",
+                0.2967
+            ],
+            [
+                "any2pix",
+                0.2879
+            ],
+            [
+                "magicbrush",
+                0.2424
+            ],
+            [
+                "hive",
+                0.2363
+            ],
+            [
+                "instructpix2pix",
+                0.2184
+            ],
+            [
+                "iedit",
+                0.1274
+            ],
+            [
+                "mgie",
+                0.1087
+            ]
+        ]
+    },
+    "110": {
+        "image": "0109.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Enhance image sharpness by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.453
+            ],
+            [
+                "mgie",
+                0.3937
+            ],
+            [
+                "hive",
+                0.3627
+            ],
+            [
+                "hqedit",
+                0.2082
+            ],
+            [
+                "any2pix",
+                0.2029
+            ],
+            [
+                "iedit",
+                0.1932
+            ],
+            [
+                "instructpix2pix",
+                0.1121
+            ],
+            [
+                "magicbrush",
+                0.0404
+            ]
+        ]
+    },
+    "111": {
+        "image": "0110.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Achieve a more refined look by removing noise from the image.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.5782
+            ],
+            [
+                "magicbrush",
+                0.3903
+            ],
+            [
+                "hqedit",
+                0.2831
+            ],
+            [
+                "instruct-diffusion",
+                0.2707
+            ],
+            [
+                "hive",
+                0.2426
+            ],
+            [
+                "any2pix",
+                0.2017
+            ],
+            [
+                "iedit",
+                0.1309
+            ],
+            [
+                "mgie",
+                0.0186
+            ]
+        ]
+    },
+    "112": {
+        "image": "0111.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Purify the image from unwanted distortions through noise removal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.428
+            ],
+            [
+                "instructpix2pix",
+                0.3986
+            ],
+            [
+                "instruct-diffusion",
+                0.3902
+            ],
+            [
+                "mgie",
+                0.2249
+            ],
+            [
+                "iedit",
+                0.2115
+            ],
+            [
+                "magicbrush",
+                0.2055
+            ],
+            [
+                "hqedit",
+                0.1713
+            ],
+            [
+                "any2pix",
+                0.171
+            ]
+        ]
+    },
+    "113": {
+        "image": "0112.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Improve image quality by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "hive",
+                0.3657
+            ],
+            [
+                "magicbrush",
+                0.3452
+            ],
+            [
+                "instructpix2pix",
+                0.2975
+            ],
+            [
+                "instruct-diffusion",
+                0.2915
+            ],
+            [
+                "mgie",
+                0.2313
+            ],
+            [
+                "any2pix",
+                0.2269
+            ],
+            [
+                "iedit",
+                0.2241
+            ],
+            [
+                "hqedit",
+                0.1817
+            ]
+        ]
+    },
+    "114": {
+        "image": "0113.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Strip away distractions from the image by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.2273
+            ],
+            [
+                "any2pix",
+                0.1924
+            ],
+            [
+                "hive",
+                0.161
+            ],
+            [
+                "iedit",
+                0.1028
+            ],
+            [
+                "mgie",
+                0.0851
+            ],
+            [
+                "hqedit",
+                0.0685
+            ],
+            [
+                "magicbrush",
+                0.067
+            ],
+            [
+                "instructpix2pix",
+                0.0574
+            ]
+        ]
+    },
+    "115": {
+        "image": "0114.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Clean up the image by eliminating unwanted noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.4498
+            ],
+            [
+                "any2pix",
+                0.2414
+            ],
+            [
+                "hqedit",
+                0.2372
+            ],
+            [
+                "hive",
+                0.182
+            ],
+            [
+                "magicbrush",
+                0.1103
+            ],
+            [
+                "iedit",
+                0.085
+            ],
+            [
+                "instructpix2pix",
+                0.0787
+            ],
+            [
+                "mgie",
+                0.0326
+            ]
+        ]
+    },
+    "116": {
+        "image": "0115.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Enhance image clarity by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "magicbrush",
+                0.3879
+            ],
+            [
+                "hive",
+                0.3794
+            ],
+            [
+                "any2pix",
+                0.3531
+            ],
+            [
+                "instruct-diffusion",
+                0.3443
+            ],
+            [
+                "iedit",
+                0.3311
+            ],
+            [
+                "instructpix2pix",
+                0.2616
+            ],
+            [
+                "mgie",
+                0.2115
+            ],
+            [
+                "hqedit",
+                0.0955
+            ]
+        ]
+    },
+    "117": {
+        "image": "0116.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Achieve a cleaner and more polished look by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instructpix2pix",
+                0.3899
+            ],
+            [
+                "instruct-diffusion",
+                0.3393
+            ],
+            [
+                "mgie",
+                0.2801
+            ],
+            [
+                "hive",
+                0.231
+            ],
+            [
+                "hqedit",
+                0.2272
+            ],
+            [
+                "magicbrush",
+                0.1553
+            ],
+            [
+                "any2pix",
+                0.1537
+            ],
+            [
+                "iedit",
+                0.1143
+            ]
+        ]
+    },
+    "118": {
+        "image": "0117.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Purify the image from unwanted artifacts through noise removal.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "mgie",
+                0.486
+            ],
+            [
+                "hqedit",
+                0.2599
+            ],
+            [
+                "hive",
+                0.2471
+            ],
+            [
+                "any2pix",
+                0.2332
+            ],
+            [
+                "magicbrush",
+                0.2013
+            ],
+            [
+                "instruct-diffusion",
+                0.1794
+            ],
+            [
+                "iedit",
+                0.1403
+            ],
+            [
+                "instructpix2pix",
+                0.091
+            ]
+        ]
+    },
+    "119": {
+        "image": "0118.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Optimize the image by removing noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "instruct-diffusion",
+                0.426
+            ],
+            [
+                "mgie",
+                0.3448
+            ],
+            [
+                "hive",
+                0.2437
+            ],
+            [
+                "hqedit",
+                0.1038
+            ],
+            [
+                "magicbrush",
+                0.0775
+            ],
+            [
+                "iedit",
+                0.0759
+            ],
+            [
+                "instructpix2pix",
+                0.0633
+            ],
+            [
+                "any2pix",
+                0.0428
+            ]
+        ]
+    },
+    "120": {
+        "image": "0119.jpg",
+        "dataset": "NoiseRemoval",
+        "prompt": "Clarify the image's details by eliminating noise.",
+        "evaluation": "SSIM",
+        "type": "global",
+        "model_rank": [
+            [
+                "any2pix",
+                0.3502
+            ],
+            [
+                "hqedit",
+                0.3194
+            ],
+            [
+                "mgie",
+                0.2716
+            ],
+            [
+                "magicbrush",
+                0.2684
+            ],
+            [
+                "iedit",
+                0.253
+            ],
+            [
+                "hive",
+                0.2503
+            ],
+            [
+                "instructpix2pix",
+                0.2487
+            ],
+            [
+                "instruct-diffusion",
+                0.2421
+            ]
+        ]
+    }
+}
