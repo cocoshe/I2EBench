@@ -1,8 +1,9 @@
 # I²EBench
 
-[![Dataset Download](https://img.shields.io/badge/Dataset-Download-green?logo=googlechrome&logoColor=green)](https://drive.google.com/drive/folders/1RzeIaWjVHAofZAXmEPm3XcrfSdQCO5-q?usp=drive_link)
+[![Paper](https://img.shields.io/badge/cs.CV-Paper-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2408.14180)[![Dataset Download](https://img.shields.io/badge/Dataset-Download-green?logo=googlechrome&logoColor=green)](https://drive.google.com/drive/folders/1RzeIaWjVHAofZAXmEPm3XcrfSdQCO5-q?usp=drive_link)
 
 > **I²EBench: A Comprehensive Benchmark for Instruction-based Image Editing**
+> Yiwei Ma, Jiayi Ji, Ke Ye, Weihuang Lin, Zhibin Wang, Yonghan Zheng, Qiang Zhou, Xiaoshuai Sun, Rongrong Ji
 
 ## :mag:Overview
 
@@ -190,3 +191,16 @@ Overview of **I²EBench**, an automated system for evaluating the quality of edi
 
 
 
+# :pen: Citation
+
+```
+@misc{ma2024i2ebenchcomprehensivebenchmarkinstructionbased,
+      title={I2EBench: A Comprehensive Benchmark for Instruction-based Image Editing}, 
+      author={Yiwei Ma and Jiayi Ji and Ke Ye and Weihuang Lin and Zhibin Wang and Yonghan Zheng and Qiang Zhou and Xiaoshuai Sun and Rongrong Ji},
+      year={2024},
+      eprint={2408.14180},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2408.14180}, 
+}
+```
