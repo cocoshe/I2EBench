@@ -195,13 +195,10 @@ Overview of **I²EBench**, an automated system for evaluating the quality of edi
 # :pen: Citation
 
 ```
-@misc{ma2024i2ebenchcomprehensivebenchmarkinstructionbased,
-      title={I2EBench: A Comprehensive Benchmark for Instruction-based Image Editing}, 
-      author={Yiwei Ma and Jiayi Ji and Ke Ye and Weihuang Lin and Zhibin Wang and Yonghan Zheng and Qiang Zhou and Xiaoshuai Sun and Rongrong Ji},
-      year={2024},
-      eprint={2408.14180},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2408.14180}, 
+@inproceedings{ma2024i2ebench,
+  title={I2EBench: A Comprehensive Benchmark for Instruction-based Image Editing},
+  author={Ma, Yiwei and Ji, Jiayi and Ye, Ke and Lin, Weihuang and Zheng, Yonghan and Zhou, Qiang and Sun, Xiaoshuai and Ji, Rongrong and others},
+  booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+  year={2024}
 }
 ```
