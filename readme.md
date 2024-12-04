@@ -6,6 +6,11 @@
 >
 > Yiwei Ma, Jiayi Ji, Ke Ye, Weihuang Lin, Zhibin Wang, Yonghan Zheng, Qiang Zhou, Xiaoshuai Sun, Rongrong Ji
 
+## :star2:Updates
+
+- [2024.9.25] Accepted by NeurIPS 2024 :yum:
+- [2024.12.4] Release the multi-round editing evaluation :rocket:
+
 ## :mag:Overview
 
 ![overview](asserts/overview.jpg)
