@@ -1,0 +1,303 @@
+[
+    [
+        "BGReplacement",
+        {
+            "any2pix": {
+                "metrics": {
+                    "accuracy": 0.9
+                }
+            },
+            "hive": {
+                "metrics": {
+                    "accuracy": 0.6
+                }
+            },
+            "hqedit": {
+                "metrics": {
+                    "accuracy": 0.9
+                }
+            },
+            "iedit": {
+                "metrics": {
+                    "accuracy": 0.7
+                }
+            },
+            "instruct-diffusion": {
+                "metrics": {
+                    "accuracy": 0.8
+                }
+            },
+            "instructpix2pix": {
+                "metrics": {
+                    "accuracy": 0.7
+                }
+            },
+            "magicbrush": {
+                "metrics": {
+                    "accuracy": 0.8
+                }
+            },
+            "mgie": {
+                "metrics": {
+                    "accuracy": 0.7
+                }
+            }
+        }
+    ],
+    [
+        "ColorAlteration",
+        {
+            "any2pix": {
+                "metrics": {
+                    "accuracy": 0.4
+                }
+            },
+            "hive": {
+                "metrics": {
+                    "accuracy": 0.2
+                }
+            },
+            "hqedit": {
+                "metrics": {
+                    "accuracy": 0.2
+                }
+            },
+            "iedit": {
+                "metrics": {
+                    "accuracy": 0.3
+                }
+            },
+            "instruct-diffusion": {
+                "metrics": {
+                    "accuracy": 0.5
+                }
+            },
+            "instructpix2pix": {
+                "metrics": {
+                    "accuracy": 0.4
+                }
+            },
+            "magicbrush": {
+                "metrics": {
+                    "accuracy": 0.4
+                }
+            },
+            "mgie": {
+                "metrics": {
+                    "accuracy": 0.2
+                }
+            }
+        }
+    ],
+    [
+        "Counting",
+        {
+            "any2pix": {
+                "metrics": {
+                    "accuracy": 0.5
+                }
+            },
+            "hive": {
+                "metrics": {
+                    "accuracy": 0.4
+                }
+            },
+            "hqedit": {
+                "metrics": {
+                    "accuracy": 0.2
+                }
+            },
+            "iedit": {
+                "metrics": {
+                    "accuracy": 0.2
+                }
+            },
+            "instruct-diffusion": {
+                "metrics": {
+                    "accuracy": 0.5
+                }
+            },
+            "instructpix2pix": {
+                "metrics": {
+                    "accuracy": 0.2
+                }
+            },
+            "magicbrush": {
+                "metrics": {
+                    "accuracy": 0.4
+                }
+            },
+            "mgie": {
+                "metrics": {
+                    "accuracy": 0.4
+                }
+            }
+        }
+    ],
+    [
+        "DirectionPerception",
+        {
+            "any2pix": {
+                "metrics": {
+                    "accuracy": 0.3
+                }
+            },
+            "hive": {
+                "metrics": {
+                    "accuracy": 0.2
+                }
+            },
+            "hqedit": {
+                "metrics": {
+                    "accuracy": 0.2
+                }
+            },
+            "iedit": {
+                "metrics": {
+                    "accuracy": 0.0
+                }
+            },
+            "instruct-diffusion": {
+                "metrics": {
+                    "accuracy": 0.2
+                }
+            },
+            "instructpix2pix": {
+                "metrics": {
+                    "accuracy": 0.3
+                }
+            },
+            "magicbrush": {
+                "metrics": {
+                    "accuracy": 0.5
+                }
+            },
+            "mgie": {
+                "metrics": {
+                    "accuracy": 0.4
+                }
+            }
+        }
+    ],
+    [
+        "ObjectRemoval",
+        {
+            "any2pix": {
+                "metrics": {
+                    "accuracy": 0.6
+                }
+            },
+            "hive": {
+                "metrics": {
+                    "accuracy": 0.8
+                }
+            },
+            "hqedit": {
+                "metrics": {
+                    "accuracy": 0.2
+                }
+            },
+            "iedit": {
+                "metrics": {
+                    "accuracy": 0.1
+                }
+            },
+            "instruct-diffusion": {
+                "metrics": {
+                    "accuracy": 0.6
+                }
+            },
+            "instructpix2pix": {
+                "metrics": {
+                    "accuracy": 0.7
+                }
+            },
+            "magicbrush": {
+                "metrics": {
+                    "accuracy": 0.3
+                }
+            },
+            "mgie": {
+                "metrics": {
+                    "accuracy": 0.6
+                }
+            }
+        }
+    ],
+    [
+        "Replacement",
+        {
+            "any2pix": {
+                "metrics": {
+                    "accuracy": 0.7
+                }
+            },
+            "hive": {
+                "metrics": {
+                    "accuracy": 0.8
+                }
+            },
+            "hqedit": {
+                "metrics": {
+                    "accuracy": 0.7
+                }
+            },
+            "iedit": {
+                "metrics": {
+                    "accuracy": 0.6
+                }
+            },
+            "instruct-diffusion": {
+                "metrics": {
+                    "accuracy": 0.6
+                }
+            },
+            "instructpix2pix": {
+                "metrics": {
+                    "accuracy": 0.7
+                }
+            },
+            "magicbrush": {
+                "metrics": {
+                    "accuracy": 0.9
+                }
+            },
+            "mgie": {
+                "metrics": {
+                    "accuracy": 0.6
+                }
+            }
+        }
+    ],
+    [
+        "StyleAlteration",
+        {
+            "EXP_MAX": 33.53125,
+            "EXP_MIN": 15.2734375,
+            "any2pix": {
+                "clip_score": 25.8672
+            },
+            "hive": {
+                "clip_score": 24.6797
+            },
+            "hqedit": {
+                "clip_score": 23.3188
+            },
+            "iedit": {
+                "clip_score": 19.3961
+            },
+            "instruct-diffusion": {
+                "clip_score": 21.3805
+            },
+            "instructpix2pix": {
+                "clip_score": 24.6797
+            },
+            "magicbrush": {
+                "clip_score": 27.0875
+            },
+            "mgie": {
+                "clip_score": 24.725
+            }
+        }
+    ]
+]

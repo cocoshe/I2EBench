@@ -1,0 +1,122 @@
+{
+    "1": {
+        "image": "0000.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the bear to brown",
+        "evaluation": {
+            "VLM_judgement": "The bear in the image is a reddish-brown color."
+        },
+        "question": "What color is the bear",
+        "gt": "brown",
+        "type": "animal",
+        "final_judgement": "Yes"
+    },
+    "2": {
+        "image": "0001.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the clothes on man to brown",
+        "evaluation": {
+            "VLM_judgement": "The man is wearing a light brown or beige shirt."
+        },
+        "question": "What color is the clothes on man",
+        "gt": "brown",
+        "type": "human",
+        "final_judgement": "Yes"
+    },
+    "3": {
+        "image": "0002.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the sky to brown",
+        "evaluation": {
+            "VLM_judgement": "The sky in the image appears to be a yellowish color."
+        },
+        "question": "What color is the sky",
+        "gt": "brown",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "4": {
+        "image": "0003.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the banana to brown",
+        "evaluation": {
+            "VLM_judgement": "The bananas in the image are mostly brown."
+        },
+        "question": "What color is the banana",
+        "gt": "brown",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "5": {
+        "image": "0004.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the cake to brown",
+        "evaluation": {
+            "VLM_judgement": "The cake appears to be dark brown, possibly chocolate."
+        },
+        "question": "What color is the cake",
+        "gt": "brown",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "6": {
+        "image": "0005.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the sheep to brown",
+        "evaluation": {
+            "VLM_judgement": "The sheep are brown."
+        },
+        "question": "What color is the sheep",
+        "gt": "brown",
+        "type": "animal",
+        "final_judgement": "Yes"
+    },
+    "7": {
+        "image": "0006.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the train to brown",
+        "evaluation": {
+            "VLM_judgement": "The train in the image is primarily pink."
+        },
+        "question": "What color is the train",
+        "gt": "brown",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "8": {
+        "image": "0007.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the land to brown",
+        "evaluation": {
+            "VLM_judgement": "The color of the land in the image appears to be light, with shades of beige or light brown."
+        },
+        "question": "What color is the land",
+        "gt": "brown",
+        "type": "scenery",
+        "final_judgement": "Yes"
+    },
+    "9": {
+        "image": "0008.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the flowers to brown",
+        "evaluation": {
+            "VLM_judgement": "The flowers appear to be a sepia or brown tone due to the filter or lighting used in the image."
+        },
+        "question": "What color are the flowers",
+        "gt": "brown",
+        "type": "plant",
+        "final_judgement": "Yes"
+    },
+    "10": {
+        "image": "0009.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the boy's hair to brown",
+        "evaluation": {
+            "VLM_judgement": "The boy's hair is black."
+        },
+        "question": "What color is the the boy's hair",
+        "gt": "brown",
+        "type": "human",
+        "final_judgement": "No"
+    }
+}

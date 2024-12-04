@@ -1,0 +1,122 @@
+{
+    "1": {
+        "image": "0001.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cat to the right of the skateboard",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the cat at the right of the skateboard? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No."
+    },
+    "2": {
+        "image": "0002.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a dog to the left of the desk",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the dog on the left of the desk? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No."
+    },
+    "3": {
+        "image": "0003.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a fish to the right of the man",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the fish on the right of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No"
+    },
+    "4": {
+        "image": "0004.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cat to the right of the bird",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the cat on the right of the bird? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No"
+    },
+    "5": {
+        "image": "0005.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a turtle to the bottom of the sink",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the turtle on the bottom of the sink? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No"
+    },
+    "6": {
+        "image": "0006.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a dog to the right of the door",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the dog to the right of the door? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No"
+    },
+    "7": {
+        "image": "0007.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a frog to the right of the giraffe",
+        "evaluation": {
+            "VLM_judgement": "I'm unable to identify any animals in the image. Let me know if there's anything else you need!"
+        },
+        "question": "Is the frog on the right of the giraffe? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No"
+    },
+    "8": {
+        "image": "0008.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a rat to the top of the plane",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the rat at the top of the plane? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "Yes"
+    },
+    "9": {
+        "image": "0009.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a deer to the left of the pot",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the deer on the left of the pot? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No."
+    },
+    "10": {
+        "image": "0010.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a dolphin to the right of the elephant",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the dolphin on the right of the elephant? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "Yes"
+    }
+}

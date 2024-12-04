@@ -1,0 +1,1670 @@
+{
+    "1": {
+        "image": "0000.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "From the image, the black slippers should be removed",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a black slippers in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "2": {
+        "image": "0001.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Erase the oranges from the picture",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is there a orange in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "Yes"
+    },
+    "3": {
+        "image": "0002.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Delete the surfboard from the picture",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is there a surfboard in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "4": {
+        "image": "0003.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Eliminate the man from the picture",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is there a man in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "human",
+        "final_judgement": "Yes"
+    },
+    "5": {
+        "image": "0004.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Get rid of the tree in the picture",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a tree in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "6": {
+        "image": "0005.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Eliminate the trees from the picture",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a trees in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "7": {
+        "image": "0006.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Take out the woman from the picture",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "question": "Is there an woman in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "8": {
+        "image": "0007.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Erase the knife from the picture",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there an knife in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "9": {
+        "image": "0008.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Delete the red thing the picture",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is there a red thing in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "10": {
+        "image": "0009.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Erase the boat from the picture",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "question": "Is there a river in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "11": {
+        "image": "0010.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Get rid of the baseball in the picture",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a baseball in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No."
+    },
+    "12": {
+        "image": "0011.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Eliminate the grass from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "question": "Is there a grass in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "13": {
+        "image": "0012.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "The clock tower is to be removed from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there an clock tower in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "14": {
+        "image": "0013.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Banish the man from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a man in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "human",
+        "final_judgement": "No."
+    },
+    "15": {
+        "image": "0014.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there's no plate in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a plate in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "16": {
+        "image": "0015.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "The green plate is to be expunged from the image",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is there green plate in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "17": {
+        "image": "0016.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Eradicate the people in distance from the image",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "question": "Is there a people in distance in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "human",
+        "final_judgement": "Yes"
+    },
+    "18": {
+        "image": "0017.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Eradicate the light from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a light in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "19": {
+        "image": "0018.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "The trees needs to vanish from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a tree in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "20": {
+        "image": "0019.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Expel the branch from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a branch in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No."
+    },
+    "21": {
+        "image": "0020.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Let's rid the image of the grass",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there grass in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "22": {
+        "image": "0021.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "The trees ought to be removed from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a tree in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No."
+    },
+    "23": {
+        "image": "0022.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Let's eradicate the green vegetable from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there green vegetable in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "24": {
+        "image": "0023.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "We should eliminate the goblet from the image",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is there a goblet in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "25": {
+        "image": "0024.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "The grass needs to be expunged from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there grass in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "scenery",
+        "final_judgement": "No."
+    },
+    "26": {
+        "image": "0025.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there's no birds in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a bird in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "27": {
+        "image": "0026.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "The broccoli is to be banished from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a broccoli in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "28": {
+        "image": "0027.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Eradicate the computer from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a computer in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "29": {
+        "image": "0028.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "expel the net from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a net in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "30": {
+        "image": "0029.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "rid the image of the bottle",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a bottle in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "31": {
+        "image": "0030.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "The book must be removed from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a book in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "32": {
+        "image": "0031.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "We should eliminate the mouse from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a mouse in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "33": {
+        "image": "0032.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "The umbrella needs to be eradicated from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there umbrella in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "34": {
+        "image": "0033.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there's no snow in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there snow in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "35": {
+        "image": "0034.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "The grass is to be banished from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "question": "Is there grass in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "36": {
+        "image": "0035.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Let's rid the image of the green vegetable",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there an green vegetable in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "37": {
+        "image": "0036.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "The kite ought to be eradicated from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a kite in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No."
+    },
+    "38": {
+        "image": "0037.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "We should eliminate the umbrella from the image",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "question": "Is there umbrella in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "39": {
+        "image": "0038.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there's no cat in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a cat in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "40": {
+        "image": "0039.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "The people needs to be expunged from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a people in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "41": {
+        "image": "0040.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "It's time to expel the trees from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a tree in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "42": {
+        "image": "0041.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Eradicate the grass from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there grass in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "43": {
+        "image": "0042.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Let's eliminate the strawberry from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a strawberry in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "44": {
+        "image": "0043.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "The man should be removed from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a man in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "45": {
+        "image": "0044.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "The wood must be expunged from the image",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "question": "Is there a wood in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "Yes"
+    },
+    "46": {
+        "image": "0045.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there's no duck in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a duck in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "animal",
+        "final_judgement": "No."
+    },
+    "47": {
+        "image": "0046.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Let's rid the image of the boy",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "question": "Is there a boy in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "48": {
+        "image": "0047.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "We should eliminate the trees from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a tree in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No."
+    },
+    "49": {
+        "image": "0048.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there's chair in the image",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "question": "Is there a chair in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "50": {
+        "image": "0049.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "The chair needs to be expunged from the image",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is there a chair in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "51": {
+        "image": "0050.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "The traffic lights are to be eradicated from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "question": "Is there a traffic light in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "52": {
+        "image": "0051.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "We should remove the wall from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a wall in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "53": {
+        "image": "0052.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Eradicate the hole in wall from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a hole in wall in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "54": {
+        "image": "0053.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there's no cluod in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a cloud in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "55": {
+        "image": "0054.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "The bag ought to be removed from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a bag in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "56": {
+        "image": "0055.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Let's eliminate the birds from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the birds in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "57": {
+        "image": "0056.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there's no fence in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a fence in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "58": {
+        "image": "0057.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "We should remove the cat from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "question": "Is there a cat in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "59": {
+        "image": "0058.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Eradicate the human from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a human in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "60": {
+        "image": "0059.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there are no forks in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a fork in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "61": {
+        "image": "0060.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "The plate must be expunged from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "question": "Is there a plate in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "62": {
+        "image": "0061.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "We should eliminate the boat from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a boat in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "63": {
+        "image": "0062.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Let's rid the image of the cat",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a cat in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "64": {
+        "image": "0063.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there's no skate in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a skate in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "65": {
+        "image": "0064.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "The cup ought to be removed from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a cup in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "66": {
+        "image": "0065.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Eradicate the bench from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a bench in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "67": {
+        "image": "0066.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there's no grass in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there grass in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "68": {
+        "image": "0067.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Let's remove the cake from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a cake in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No."
+    },
+    "69": {
+        "image": "0068.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there's no man in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a man in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "70": {
+        "image": "0069.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "The elderly must be expunged from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a elderly in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "71": {
+        "image": "0070.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "We should eliminate the giraffe from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there giraffe in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "72": {
+        "image": "0071.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there's no human in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a human in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "human",
+        "final_judgement": "No."
+    },
+    "73": {
+        "image": "0072.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Eradicate the plane from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a plane in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "74": {
+        "image": "0073.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Let's remove the bench from the image",
+        "evaluation": {
+            "VLM_judgement": "No, there is no bench in the image."
+        },
+        "question": "Is there a bench in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "75": {
+        "image": "0074.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there are no toothpastes in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "question": "Is there a toothpaste in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "76": {
+        "image": "0075.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "The umbrellas ought to be removed from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "question": "Is there a umbrella in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "77": {
+        "image": "0076.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there's no banana in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "question": "Is there a banana in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "78": {
+        "image": "0077.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Let's rid the image of the trunk",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is there a trunk in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "79": {
+        "image": "0078.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there's no knife in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a knife in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "80": {
+        "image": "0079.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "The yellow ball must be expunged from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a yellow ball in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "81": {
+        "image": "0080.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "We should eliminate the boats from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a boat in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "82": {
+        "image": "0081.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Let's remove the people from the image",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "question": "Is there a people in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "human",
+        "final_judgement": "Yes"
+    },
+    "83": {
+        "image": "0082.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there's no cup in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a cup in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No."
+    },
+    "84": {
+        "image": "0083.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "The clouds should be removed from the image",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is there a cloud mountain in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "scenery",
+        "final_judgement": "Yes"
+    },
+    "85": {
+        "image": "0084.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "There should be no calculator in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a calculator in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "86": {
+        "image": "0085.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there are no white people in the image",
+        "evaluation": {
+            "VLM_judgement": "Sorry, I can't assist with that request."
+        },
+        "question": "Is there a white people in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "87": {
+        "image": "0086.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Let's eradicate the orange from the image",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "question": "Is there a orange in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No\n\n*Without an image provided, it is not possible to verify the accuracy of the machine's response. My role as an AI developed by Open"
+    },
+    "88": {
+        "image": "0087.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "We should remove the trees from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a tree in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "89": {
+        "image": "0088.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there's no dog in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a dog in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "90": {
+        "image": "0089.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Let's rid the image of the clouds",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there clouds in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "91": {
+        "image": "0090.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there's grass in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there grass in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "scenery",
+        "final_judgement": "No."
+    },
+    "92": {
+        "image": "0091.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Eradicate the mirror from the image",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is there a mirror in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "93": {
+        "image": "0092.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "There should be no man in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a man in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "94": {
+        "image": "0093.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Eradicate the pear from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a pear in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "95": {
+        "image": "0095.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "The man must be expunged from the image",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is there a man in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "human",
+        "final_judgement": "Yes"
+    },
+    "96": {
+        "image": "0096.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there's no screwdriver in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a screwdriver in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "97": {
+        "image": "0097.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Let's remove the surfboard from the image",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is there a surfboard in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "98": {
+        "image": "0098.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there's no trees in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there an trees in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "99": {
+        "image": "0099.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "There should be no broccoli in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a broccoli in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "100": {
+        "image": "0100.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Eradicate the tennis net from the image",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is there a tennis net in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "human",
+        "final_judgement": "Yes."
+    },
+    "101": {
+        "image": "0101.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Let's eradicate the guide sign from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a guide sign in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "102": {
+        "image": "0102.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there's no snowboard in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "question": "Is there snowboard in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "103": {
+        "image": "0103.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Eradicate the clock from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a clock in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "104": {
+        "image": "0104.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there's no skate in white in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a skate in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No."
+    },
+    "105": {
+        "image": "0105.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Get rid of the wood from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a wood in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No."
+    },
+    "106": {
+        "image": "0106.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there are no scissors in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a pair of scissors in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "107": {
+        "image": "0107.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Get rid of the grass from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there grass in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "108": {
+        "image": "0108.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there's no clock in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a clock in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "109": {
+        "image": "0109.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Let's get rid of the pipe from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a pipe in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "110": {
+        "image": "0110.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there's no plate in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a plate in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "111": {
+        "image": "0111.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Delete the plate from the image",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is there a plate in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "112": {
+        "image": "0112.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "There should be no wood in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there wood in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "113": {
+        "image": "0113.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Delete the plate from the image",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is there a plate in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "Yes."
+    },
+    "114": {
+        "image": "0114.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "There should be no human in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a human in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "115": {
+        "image": "0115.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "confirm the absence of an plate in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a plate in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "116": {
+        "image": "0116.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Eliminate the grass from the image, if present",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there grass in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "117": {
+        "image": "0117.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure the image does not feature wood",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there wood in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "118": {
+        "image": "0118.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Erase any bottle from the image",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "question": "Is there an bottle in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "119": {
+        "image": "0119.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Verify that there is no man in white depicted in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "question": "Is there a man in white in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "120": {
+        "image": "0120.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Remove any noodles that may be in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there noodles in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No."
+    },
+    "121": {
+        "image": "0121.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Confirm the absence of a shelf in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a shelf in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "122": {
+        "image": "0122.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Please ensure there are no pizza in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "question": "Is there any pizza in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "123": {
+        "image": "0123.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Eliminate any beds visible in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a bed in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "124": {
+        "image": "0124.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there are no bottles present in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "question": "Is there a bottle in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "125": {
+        "image": "0125.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Remove the sea from the image, if applicable",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there sea in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "scenery",
+        "final_judgement": "No."
+    },
+    "126": {
+        "image": "0126.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there are no oranges visible in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "question": "Is there a orange in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "127": {
+        "image": "0127.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Please ensure that there is no waterfall in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there waterfall in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "128": {
+        "image": "0128.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Remove any instances of train from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "question": "Is there train in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "129": {
+        "image": "0129.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there are no chopsticks depicted in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a chopsticks in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "130": {
+        "image": "0130.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Eliminate any balls that may be present in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a ball in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "131": {
+        "image": "0131.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there are no woods featured in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "question": "Is there wood in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "132": {
+        "image": "0132.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Remove any baseball that may be in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a baseball in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "133": {
+        "image": "0133.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Confirm that there is no helmet visible in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there an helmets in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "134": {
+        "image": "0134.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Erase any carrots that may be present in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a carrot in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "135": {
+        "image": "0135.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there are no dolls depicted in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a doll in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "136": {
+        "image": "0136.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Remove any grass that may be present in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there grass in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "137": {
+        "image": "0137.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Confirm the absence of hats in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a hat in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "138": {
+        "image": "0138.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Eliminate any bottles depicted in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a bottle in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No."
+    },
+    "139": {
+        "image": "0139.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Ensure there are no plates present in the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a plate in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No."
+    }
+}

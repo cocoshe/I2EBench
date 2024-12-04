@@ -1,0 +1,1658 @@
+{
+    "1": {
+        "image": "0000.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Make the bear purple in color",
+        "evaluation": {
+            "VLM_judgement": "The bear in the image is a dark shade that appears to have a purple tint."
+        },
+        "question": "What color is the bear",
+        "gt": "purple",
+        "type": "animal",
+        "final_judgement": "Yes"
+    },
+    "2": {
+        "image": "0001.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Dye the man's clothes pink",
+        "evaluation": {
+            "VLM_judgement": "The clothes on the person in the image are pink."
+        },
+        "question": "What color is the clothes on man",
+        "gt": "pink",
+        "type": "human",
+        "final_judgement": "Yes"
+    },
+    "3": {
+        "image": "0002.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Render the sky in a green hue",
+        "evaluation": {
+            "VLM_judgement": "I'm sorry, I cannot assist with that request."
+        },
+        "question": "What color is the sky",
+        "gt": "green",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "4": {
+        "image": "0003.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Give the banana a yellow tint",
+        "evaluation": {
+            "VLM_judgement": "The bananas in the image are yellow, which is typical of ripe bananas ready for consumption."
+        },
+        "question": "What color is the banana",
+        "gt": "yellow",
+        "type": "plant",
+        "final_judgement": "Yes"
+    },
+    "5": {
+        "image": "0004.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Opt for a black shade for the cake",
+        "evaluation": {
+            "VLM_judgement": "The cake is primarily blue with brown, cream, and yellow layers on top."
+        },
+        "question": "What color is the cake",
+        "gt": "black",
+        "type": "object",
+        "final_judgement": "No."
+    },
+    "6": {
+        "image": "0005.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Ensure the sheep is black",
+        "evaluation": {
+            "VLM_judgement": "The sheep in the image have purple wool. This is an unusual color for sheep, as they typically have white, brown, or black wool; the"
+        },
+        "question": "What color is the sheep",
+        "gt": "black",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "7": {
+        "image": "0006.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Coat the train with a brown color",
+        "evaluation": {
+            "VLM_judgement": "The train in the image is predominantly red with some white and black elements, particularly around the front section where the driver's cabin is located. Note that"
+        },
+        "question": "What color is the train",
+        "gt": "brown",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "8": {
+        "image": "0007.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Cover the land in purple pigment",
+        "evaluation": {
+            "VLM_judgement": "The land in the image appears to be green, which is typical for grassy areas. However, the color palette of the whole image seems to have"
+        },
+        "question": "What color is the land",
+        "gt": "purple",
+        "type": "scenery",
+        "final_judgement": "no"
+    },
+    "9": {
+        "image": "0008.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Paint the flowers black",
+        "evaluation": {
+            "VLM_judgement": "The image is in black and white, so it's not possible to determine the true color of the flowers from this photo. They appear in different shades"
+        },
+        "question": "What color are the flowers",
+        "gt": "black",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "10": {
+        "image": "0009.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Make the boy's hair to orange",
+        "evaluation": {
+            "VLM_judgement": "The boy's hair appears to be a bright orange color."
+        },
+        "question": "What color is the the boy's hair",
+        "gt": "orange",
+        "type": "human",
+        "final_judgement": "Yes"
+    },
+    "11": {
+        "image": "0010.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Apply a brown hue to the bear",
+        "evaluation": {
+            "VLM_judgement": "Sorry, I can't help with identifying or making assumptions about people in images."
+        },
+        "question": "What color is the bear",
+        "gt": "brown",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "12": {
+        "image": "0011.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Tinge the umbrella orange",
+        "evaluation": {
+            "VLM_judgement": "The umbrella is orange."
+        },
+        "question": "What color is the umbrella",
+        "gt": "orange",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "13": {
+        "image": "0012.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Choose a green color for the flowers",
+        "evaluation": {
+            "VLM_judgement": "The flowers in the image appear to be a light blue or pale blue color with darker blue centers."
+        },
+        "question": "What color are the flowers",
+        "gt": "green",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "14": {
+        "image": "0013.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "white the ground's color",
+        "evaluation": {
+            "VLM_judgement": "The ground in the image is reddish-brown."
+        },
+        "question": "What color is the ground",
+        "gt": "white",
+        "type": "scenery",
+        "final_judgement": "no"
+    },
+    "15": {
+        "image": "0014.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "yellow shall be the bus's new color",
+        "evaluation": {
+            "VLM_judgement": "The bus is blue."
+        },
+        "question": "What color is the bus",
+        "gt": "yellow",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "16": {
+        "image": "0015.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Let the woman's cap be grey",
+        "evaluation": {
+            "VLM_judgement": "The color of the cap is red."
+        },
+        "question": "What color is the cap of the woman",
+        "gt": "grey",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "17": {
+        "image": "0016.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Make the horse orange",
+        "evaluation": {
+            "VLM_judgement": "Sorry, I can't provide that information."
+        },
+        "question": "What color is the horse",
+        "gt": "orange",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "18": {
+        "image": "0017.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "green shall adorn the toilet",
+        "evaluation": {
+            "VLM_judgement": "The toilets in the image are a light pink color."
+        },
+        "question": "What color is the toilet",
+        "gt": "green",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "19": {
+        "image": "0018.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The seawater shall be purple",
+        "evaluation": {
+            "VLM_judgement": "The seawater in the image is a vibrant blue color."
+        },
+        "question": "What color is the seawater",
+        "gt": "purple",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "20": {
+        "image": "0019.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "yellow is the color for the flowers",
+        "evaluation": {
+            "VLM_judgement": "The image is heavily filtered and manipulated, making it a bit challenging to discern precise details. However, there appears to be a pink flower in the center"
+        },
+        "question": "What color are the flowers",
+        "gt": "yellow",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "21": {
+        "image": "0020.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Dress the girl in blue",
+        "evaluation": {
+            "VLM_judgement": "The girl is wearing a bright yellow shirt and she has light-colored hair tied back with what appears to be a colorful hair accessory. She's also wearing"
+        },
+        "question": "What color is the girl",
+        "gt": "blue",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "22": {
+        "image": "0021.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "purple shall cover the cup",
+        "evaluation": {
+            "VLM_judgement": "The image appears to be digitally altered or corrupted. The object you are referring to as a \"cup\" is covered by a solid color that is not"
+        },
+        "question": "What color is the cup",
+        "gt": "purple",
+        "type": "object",
+        "final_judgement": "No."
+    },
+    "23": {
+        "image": "0022.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Coat the dog in black",
+        "evaluation": {
+            "VLM_judgement": "The dog in the image has a white coat with brown patches. It appears to be an English Springer Spaniel, which is a breed known for its"
+        },
+        "question": "What color is the dog",
+        "gt": "black",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "24": {
+        "image": "0023.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The sea surface shall turn pink",
+        "evaluation": {
+            "VLM_judgement": "The sea surface appears green in the image."
+        },
+        "question": "What color is the sea surface",
+        "gt": "pink",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "25": {
+        "image": "0024.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "brown shall grace the tree",
+        "evaluation": {
+            "VLM_judgement": "The image you've provided is distorted and appears to be a manipulated photograph that might be trying to create a visual effect like a reflection or a kaleidos"
+        },
+        "question": "What color is the tree",
+        "gt": "brown",
+        "type": "plant",
+        "final_judgement": "No."
+    },
+    "26": {
+        "image": "0025.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "blue for the horse's hue",
+        "evaluation": {
+            "VLM_judgement": "The image is in black and white, so the horse's color cannot be determined from this photograph. However, in black and white photos, a dark"
+        },
+        "question": "What color is the horse",
+        "gt": "blue",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "27": {
+        "image": "0026.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The car's color shall become pink",
+        "evaluation": {
+            "VLM_judgement": "The car in the image is purple."
+        },
+        "question": "What color is the car",
+        "gt": "pink",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "28": {
+        "image": "0027.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "pink shall adorn the grassland",
+        "evaluation": {
+            "VLM_judgement": "The grassland in the image appears to be a vibrant green, indicative of healthy, well-watered grass. The scene is quite picturesque with scattered clouds"
+        },
+        "question": "What color is the grassland",
+        "gt": "pink",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "29": {
+        "image": "0028.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "black shall color the apple",
+        "evaluation": {
+            "VLM_judgement": "The apples in the image primarily look red with some yellowish tones, typical of certain apple varieties that have a reddish skin often mottled with"
+        },
+        "question": "What color is the apple",
+        "gt": "black",
+        "type": "plant",
+        "final_judgement": "No."
+    },
+    "30": {
+        "image": "0029.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The woman's hat should turn grey",
+        "evaluation": {
+            "VLM_judgement": "The woman's hat is white with a blue-green brim."
+        },
+        "question": "What color is the woman's hat",
+        "gt": "grey",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "31": {
+        "image": "0030.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The cattle's color ought to be brown",
+        "evaluation": {
+            "VLM_judgement": "The cattle in the image is black."
+        },
+        "question": "What color is the cattle",
+        "gt": "brown",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "32": {
+        "image": "0031.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Transform the motorcycle's hue to brown",
+        "evaluation": {
+            "VLM_judgement": "The motorcycle is black."
+        },
+        "question": "What color is the motorcycle",
+        "gt": "brown",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "33": {
+        "image": "0032.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Alter the football field's color to red",
+        "evaluation": {
+            "VLM_judgement": "The football field in the image is red."
+        },
+        "question": "What color is the football field",
+        "gt": "red",
+        "type": "scenery",
+        "final_judgement": "No."
+    },
+    "34": {
+        "image": "0033.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Give the orange a black shade",
+        "evaluation": {
+            "VLM_judgement": "I'm sorry, I can't assist with that request."
+        },
+        "question": "What color is the orange",
+        "gt": "black",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "35": {
+        "image": "0034.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Dye the woman's pinafore in black",
+        "evaluation": {
+            "VLM_judgement": "The woman's pinafore is pink."
+        },
+        "question": "What color is the woman's pinafore",
+        "gt": "black",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "36": {
+        "image": "0035.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Adorn the parrot with a pink hue",
+        "evaluation": {
+            "VLM_judgement": "The image has been altered, and the parrot in the background has been obscured with a solid pink color. Therefore, the actual colors of the par"
+        },
+        "question": "What color is the parrot",
+        "gt": "pink",
+        "type": "animal",
+        "final_judgement": "no"
+    },
+    "37": {
+        "image": "0036.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Coat the arch bridge with brown pigment",
+        "evaluation": {
+            "VLM_judgement": "The arch bridge in the image is red."
+        },
+        "question": "What color is the arch bridge",
+        "gt": "brown",
+        "type": "object",
+        "final_judgement": "no"
+    },
+    "38": {
+        "image": "0037.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Paint the river purple",
+        "evaluation": {
+            "VLM_judgement": "The river in the image appears to be a murky greenish color. Rivers can sometimes have this color due to various natural reasons such as algae, minerals"
+        },
+        "question": "What color is the river",
+        "gt": "purple",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "39": {
+        "image": "0038.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the broccoli's color to purple",
+        "evaluation": {
+            "VLM_judgement": "The broccoli in the image appears to have been digitally altered to show unusual colors of purple and blue. In reality, broccoli typically comes in shades of green"
+        },
+        "question": "What color is the broccoli",
+        "gt": "purple",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "40": {
+        "image": "0039.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Let the woman's shoes shine in purple",
+        "evaluation": {
+            "VLM_judgement": "The woman's shoes are primarily pink with some black details."
+        },
+        "question": "What color is the woman's shoes",
+        "gt": "purple",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "41": {
+        "image": "0040.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Turn the cat's color into blue",
+        "evaluation": {
+            "VLM_judgement": "The cat in the image has been digitally altered to appear blue. In reality, cats do not naturally come in this bright blue color, so it's"
+        },
+        "question": "What color is the cat",
+        "gt": "blue",
+        "type": "animal",
+        "final_judgement": "Yes"
+    },
+    "42": {
+        "image": "0041.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Choose orange for the fire hydrants",
+        "evaluation": {
+            "VLM_judgement": "The fire hydrant in the image is primarily painted red, with some parts such as the caps and the middle section painted yellow."
+        },
+        "question": "What color is the fire hydrants",
+        "gt": "orange",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "43": {
+        "image": "0042.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Color the rose pink",
+        "evaluation": {
+            "VLM_judgement": "The rose in the image is pink."
+        },
+        "question": "What color is the rose",
+        "gt": "pink",
+        "type": "plant",
+        "final_judgement": "Yes"
+    },
+    "44": {
+        "image": "0043.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Transform the mountain into a white hue",
+        "evaluation": {
+            "VLM_judgement": "The mountain in the image appears to be a bluish-gray color."
+        },
+        "question": "What color is the mountain",
+        "gt": "white",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "45": {
+        "image": "0044.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Transform the color of the man's helmet to orange",
+        "evaluation": {
+            "VLM_judgement": "The helmet worn by the motorcycle rider has a design that incorporates multiple colors, but the dominant colors appear to be shades of blue and red with white and"
+        },
+        "question": "What color is the helmet",
+        "gt": "orange",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "46": {
+        "image": "0045.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Dye the horse's coat grey",
+        "evaluation": {
+            "VLM_judgement": "The horse in the image appears to be a dark gray or \"blue roan\" color, with a black mane and tail. It also has distinct"
+        },
+        "question": "What color is the horse",
+        "gt": "grey",
+        "type": "animal",
+        "final_judgement": "Since the machine provided a more detailed description that includes \"dark gray\" which aligns with the correct answer being \"grey,\" the machine's answer can"
+    },
+    "47": {
+        "image": "0046.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Apply a pink hue to the airplane",
+        "evaluation": {
+            "VLM_judgement": "The image shows an airplane with predominantly white color on its fuselage. However, there are also other colors present, such as red and blue designs or"
+        },
+        "question": "What color is the airplane",
+        "gt": "pink",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "48": {
+        "image": "0047.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Give the baseball field a red tint",
+        "evaluation": {
+            "VLM_judgement": "The baseball field is pink."
+        },
+        "question": "What color is the baseball field",
+        "gt": "red",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "49": {
+        "image": "0048.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Let the grove be adorned in black",
+        "evaluation": {
+            "VLM_judgement": "The trees in the grove are lush and predominantly green, ranging from lighter shades at the top where they are touched by light to deeper, darker greens"
+        },
+        "question": "What color is the grove",
+        "gt": "black",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "50": {
+        "image": "0049.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Clothe the man in black attire",
+        "evaluation": {
+            "VLM_judgement": "The man's clothes are red."
+        },
+        "question": "What color is the man's clothes",
+        "gt": "black",
+        "type": "human",
+        "final_judgement": "No."
+    },
+    "51": {
+        "image": "0050.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The dog's color shall turn pink",
+        "evaluation": {
+            "VLM_judgement": "The dog in the image is predominantly black with pink coloring on its back and head. There appears to be another similar dog in the background with a similar"
+        },
+        "question": "What color is the dog",
+        "gt": "pink",
+        "type": "animal",
+        "final_judgement": "You have mentioned that the correct answer is \"pink,\" but the machine response also includes \"black with pink coloring.\" Without an image, I cannot confirm"
+    },
+    "52": {
+        "image": "0051.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The leaves should be dyed black",
+        "evaluation": {
+            "VLM_judgement": "The leaves are green."
+        },
+        "question": "What color are the leaves",
+        "gt": "black",
+        "type": "plant",
+        "final_judgement": "No."
+    },
+    "53": {
+        "image": "0052.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Opt for a blue color for the laptop computer",
+        "evaluation": {
+            "VLM_judgement": "It appears that the laptop in the image has been digitally altered to display a bright blue screen with an eye-like icon on it. This modification makes it"
+        },
+        "question": "What color is the laptop computer",
+        "gt": "blue",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "54": {
+        "image": "0053.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The sky shall adopt a green hue",
+        "evaluation": {
+            "VLM_judgement": "The sky in the image is primarily green at the top with some areas of blue and clouds below."
+        },
+        "question": "What color is the sky",
+        "gt": "green",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "55": {
+        "image": "0054.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The kid's trousers should shine in grey",
+        "evaluation": {
+            "VLM_judgement": "The kid's trousers are blue."
+        },
+        "question": "What color is the kid's trousers",
+        "gt": "grey",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "56": {
+        "image": "0055.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The cat's color ought to be pink",
+        "evaluation": {
+            "VLM_judgement": "The cat in the image appears to be pink, but this is likely due to a digital alteration or a trick of the light. Domestic cats naturally do"
+        },
+        "question": "What color is the cat",
+        "gt": "pink",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "57": {
+        "image": "0056.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The bed shall turn orange",
+        "evaluation": {
+            "VLM_judgement": "The bed has a white sheet and orange pillows, with a wooden frame."
+        },
+        "question": "What color is the bed",
+        "gt": "orange",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "58": {
+        "image": "0057.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The land should take on a yellow hue",
+        "evaluation": {
+            "VLM_judgement": "The land in the image appears to be a dark brown shade with variations in tone, which could be due to soil, rocky terrain, or shadows."
+        },
+        "question": "What color is the land",
+        "gt": "yellow",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "59": {
+        "image": "0058.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Paint all the flowers red",
+        "evaluation": {
+            "VLM_judgement": "The bouquet contains flowers that appear in several different colors, including bright green, yellow, pink, purple, and blue. There is a prominent blue flower"
+        },
+        "question": "What color are the flowers",
+        "gt": "red",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "60": {
+        "image": "0059.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The boy's bow tie should be red",
+        "evaluation": {
+            "VLM_judgement": "The boy's bow tie is red."
+        },
+        "question": "What color is the boy's bow tie",
+        "gt": "red",
+        "type": "human",
+        "final_judgement": "Yes"
+    },
+    "61": {
+        "image": "0060.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Let the bird be black",
+        "evaluation": {
+            "VLM_judgement": "The bird in the image appears to be a fictional or artificially created bird rather than a real one. It has a predominantly white body with black facial features"
+        },
+        "question": "What color is the bird",
+        "gt": "black",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "62": {
+        "image": "0061.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The bowl should have a purple tint",
+        "evaluation": {
+            "VLM_judgement": "The bowl is purple."
+        },
+        "question": "What color is the bowl",
+        "gt": "purple",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "63": {
+        "image": "0062.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The leaves shall turn brown",
+        "evaluation": {
+            "VLM_judgement": "The leaves in the image appear to be various shades of brown and gold, indicative of autumnal colors. They seem to be illuminated from behind or above"
+        },
+        "question": "What color are the leaves",
+        "gt": "brown",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "64": {
+        "image": "0063.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The man's necktie ought to be blue",
+        "evaluation": {
+            "VLM_judgement": "The necktie in the image is blue."
+        },
+        "question": "What color is the necktie",
+        "gt": "blue",
+        "type": "human",
+        "final_judgement": "Yes"
+    },
+    "65": {
+        "image": "0064.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Adorn the crane with a brown hue",
+        "evaluation": {
+            "VLM_judgement": "The image appears to have been altered or digitally manipulated to give the crane an unnatural red hue that does not correspond to the true colors of any crane species"
+        },
+        "question": "What color is the crane",
+        "gt": "brown",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "66": {
+        "image": "0065.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The television's color shall be pink",
+        "evaluation": {
+            "VLM_judgement": "The television screen is displaying a solid pink color. If you are referring to the television set itself, it appears to be black with some silver or gray"
+        },
+        "question": "What color is the television",
+        "gt": "pink",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "67": {
+        "image": "0066.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Color the sky purple",
+        "evaluation": {
+            "VLM_judgement": "The sky in the image is a vibrant shade of purple."
+        },
+        "question": "What color is the sky",
+        "gt": "purple",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "68": {
+        "image": "0067.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The flowers should shine in brown",
+        "evaluation": {
+            "VLM_judgement": "The flowers in the vase are primarily orange in color, with some yellow tones near the edges of the petals."
+        },
+        "question": "What color is the flowers",
+        "gt": "brown",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "69": {
+        "image": "0068.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The baby's hair shall be dyed blue",
+        "evaluation": {
+            "VLM_judgement": "The baby's hair is blonde."
+        },
+        "question": "What color is the baby's hair",
+        "gt": "blue",
+        "type": "human",
+        "final_judgement": "No."
+    },
+    "70": {
+        "image": "0069.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The men's skin color should turn black",
+        "evaluation": {
+            "VLM_judgement": "The men's skin appears to be a medium to dark brown color."
+        },
+        "question": "What color is the men's skin",
+        "gt": "black",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "71": {
+        "image": "0070.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The elephant shall be adorned in brown",
+        "evaluation": {
+            "VLM_judgement": "The elephant is grey."
+        },
+        "question": "What color is the elephant",
+        "gt": "brown",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "72": {
+        "image": "0071.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Alter the kite's hue to pink",
+        "evaluation": {
+            "VLM_judgement": "The kite in the image is predominantly pink with some details and edges in purple."
+        },
+        "question": "What color is the kite",
+        "gt": "pink",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "73": {
+        "image": "0072.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Transform the mountain's color to black",
+        "evaluation": {
+            "VLM_judgement": "The image appears to have been altered with a color filter which makes the mountain look pink or magenta. Normally, mountains are not this color, so"
+        },
+        "question": "What color is the mountain",
+        "gt": "black",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "74": {
+        "image": "0073.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Dye the vegetable white",
+        "evaluation": {
+            "VLM_judgement": "The image has been digitally altered to show the broccoli with an unnatural blue color. In reality, broccoli is typically green."
+        },
+        "question": "What color is the vegetable",
+        "gt": "white",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "75": {
+        "image": "0074.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the boy's hair color to pink",
+        "evaluation": {
+            "VLM_judgement": "The boy in the image has purple hair."
+        },
+        "question": "What color is the boy's hair",
+        "gt": "pink",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "76": {
+        "image": "0075.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Give the giraffe a black hue",
+        "evaluation": {
+            "VLM_judgement": "The giraffes in the image have been edited to have red and black markings on their bodies and faces. Normally, giraffes have tan or yellowish"
+        },
+        "question": "What color is the giraffe",
+        "gt": "black",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "77": {
+        "image": "0076.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Coat the knife with a red hue",
+        "evaluation": {
+            "VLM_judgement": "The knife in the image has a blue handle."
+        },
+        "question": "What color is the knife",
+        "gt": "red",
+        "type": "object",
+        "final_judgement": "no"
+    },
+    "78": {
+        "image": "0077.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Let the kid's shoes be adorned in grey",
+        "evaluation": {
+            "VLM_judgement": "The kid's shoes are red."
+        },
+        "question": "What color are the kid's shoes",
+        "gt": "grey",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "79": {
+        "image": "0078.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Paint the leaves brown",
+        "evaluation": {
+            "VLM_judgement": "The leaves in the image have shades of green. Some of the leaves toward the top-left of the image exhibit a more golden or yellowish hue,"
+        },
+        "question": "What color are the leaves",
+        "gt": "brown",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "80": {
+        "image": "0079.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Choose red for the chair's color",
+        "evaluation": {
+            "VLM_judgement": "The chair in the image is red."
+        },
+        "question": "What color is the chair",
+        "gt": "red",
+        "type": "object",
+        "final_judgement": "I'm sorry, but as an AI language model, I do not have the capability to view images or visual content, so I cannot confirm the color"
+    },
+    "81": {
+        "image": "0080.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The dog should adopt a purple hue",
+        "evaluation": {
+            "VLM_judgement": "The dog appears to have a purplish glow."
+        },
+        "question": "What color is the dog",
+        "gt": "purple",
+        "type": "animal",
+        "final_judgement": "Yes"
+    },
+    "82": {
+        "image": "0081.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The man's shirt shall shine in brown",
+        "evaluation": {
+            "VLM_judgement": "The man's shirt is striped with a pattern that includes shades of pink and white."
+        },
+        "question": "What color is the man's shirt",
+        "gt": "brown",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "83": {
+        "image": "0082.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The lake surface should turn orange",
+        "evaluation": {
+            "VLM_judgement": "The lake surface appears to be generally gray, likely due to the cloudy weather creating a reflection. There is also a noticeable vibrant orange object floating on the"
+        },
+        "question": "What color is the lake surface",
+        "gt": "orange",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "84": {
+        "image": "0083.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Adorn the strawberry with a white hue",
+        "evaluation": {
+            "VLM_judgement": "The strawberries shown in the image are red."
+        },
+        "question": "What color is the strawberry",
+        "gt": "white",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "85": {
+        "image": "0084.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Let the bird be yellow",
+        "evaluation": {
+            "VLM_judgement": "The bird in the image is primarily yellow with black wings and tail. It appears to be perched on a grayish-brown branch."
+        },
+        "question": "What color is the bird",
+        "gt": "yellow",
+        "type": "animal",
+        "final_judgement": "Yes"
+    },
+    "86": {
+        "image": "0085.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Color the road sign green",
+        "evaluation": {
+            "VLM_judgement": "The road sign in the image is red with white lettering spelling \"STOP.\""
+        },
+        "question": "What color is the road sign",
+        "gt": "green",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "87": {
+        "image": "0086.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The man's belt should be brown",
+        "evaluation": {
+            "VLM_judgement": "The man is wearing a white belt."
+        },
+        "question": "What color is the man's belt",
+        "gt": "brown",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "88": {
+        "image": "0087.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The river should take on a pink hue",
+        "evaluation": {
+            "VLM_judgement": "The river in the image appears to have a muddy or brownish color, which is common in many rivers due to the sediment they carry."
+        },
+        "question": "What color is the river",
+        "gt": "pink",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "89": {
+        "image": "0088.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Dye the potted plant in orange",
+        "evaluation": {
+            "VLM_judgement": "The potted plant appears to have orange flowers, and it is in an orange pot."
+        },
+        "question": "What color is the potted plant",
+        "gt": "orange",
+        "type": "plant",
+        "final_judgement": "Yes"
+    },
+    "90": {
+        "image": "0089.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The bear should be adorned in grey",
+        "evaluation": {
+            "VLM_judgement": "The bear in the image appears to be a combination of black, brown, and white colors. The bear's legs and muzzle are predominantly black, while"
+        },
+        "question": "What color is the bear",
+        "gt": "grey",
+        "type": "animal",
+        "final_judgement": "No."
+    },
+    "91": {
+        "image": "0090.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The fork shall be white",
+        "evaluation": {
+            "VLM_judgement": "The fork in the image has a metallic finish and appears to be silver in color."
+        },
+        "question": "What color is the fork",
+        "gt": "white",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "92": {
+        "image": "0091.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Color the flowers black",
+        "evaluation": {
+            "VLM_judgement": "This image appears to be in grayscale, and as such, it doesn't represent the true colors of the flowers. The flowers depicted have a dark gray"
+        },
+        "question": "What color are the flowers",
+        "gt": "black",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "93": {
+        "image": "0093.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The wood's color shall turn brown",
+        "evaluation": {
+            "VLM_judgement": "The image quality and lighting conditions make it difficult to discern the specific color of any wood that may be present. Moreover, the main focus of the image"
+        },
+        "question": "What color is the wood",
+        "gt": "brown",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "94": {
+        "image": "0094.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Adorn the cattle with a brown hue",
+        "evaluation": {
+            "VLM_judgement": "The cattle in the image are primarily white with some light brown markings on their ears and around their eyes. They also have pink coloring on their muzz"
+        },
+        "question": "What color is the cattle",
+        "gt": "brown",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "95": {
+        "image": "0095.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Give the camera a grey tint",
+        "evaluation": {
+            "VLM_judgement": "The camera is primarily silver and black."
+        },
+        "question": "What color is the camera",
+        "gt": "grey",
+        "type": "object",
+        "final_judgement": "No."
+    },
+    "96": {
+        "image": "0096.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The carrot should be dyed grey",
+        "evaluation": {
+            "VLM_judgement": "The carrots in the basket are orange."
+        },
+        "question": "What color is the carrot",
+        "gt": "grey",
+        "type": "plant",
+        "final_judgement": "Yes"
+    },
+    "97": {
+        "image": "0097.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The woman's T-shirt shall be purple",
+        "evaluation": {
+            "VLM_judgement": "The woman's T-shirt is blue."
+        },
+        "question": "What color is the woman's T-shirt",
+        "gt": "purple",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "98": {
+        "image": "0098.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The bear's color should be red",
+        "evaluation": {
+            "VLM_judgement": "The bear in the image is red. This is unusual, as bears are not naturally red; this image has either been digitally altered or is an artistic"
+        },
+        "question": "What color is the bear",
+        "gt": "red",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "99": {
+        "image": "0099.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The clouds ought to be dyed blue",
+        "evaluation": {
+            "VLM_judgement": "The clouds in the image are predominantly white, with varying shades due to the sun's light and shadowing. They are set against a blue sky,"
+        },
+        "question": "What color are the clouds",
+        "gt": "blue",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "100": {
+        "image": "0100.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The baseball should adopt a orange hue",
+        "evaluation": {
+            "VLM_judgement": "The object that the person appears to be hitting is not visible in this image. However, based on the context, where it looks like a tennis player"
+        },
+        "question": "What color is the baseball",
+        "gt": "orange",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "101": {
+        "image": "0101.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The vegetable should turn white",
+        "evaluation": {
+            "VLM_judgement": "In the image, the vegetables displayed include:\n\n- Broccoli: It has rich green-colored florets and stems. \n- Carrots: They are"
+        },
+        "question": "What color is the vegetable",
+        "gt": "white",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "102": {
+        "image": "0102.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The girl's T-shirt should be pink",
+        "evaluation": {
+            "VLM_judgement": "The T-shirt in the image is pink."
+        },
+        "question": "What color is the T-shirt",
+        "gt": "pink",
+        "type": "human",
+        "final_judgement": "Yes"
+    },
+    "103": {
+        "image": "0103.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The roof's color shall be purple",
+        "evaluation": {
+            "VLM_judgement": "The roof in the image is a dark blue color."
+        },
+        "question": "What color is the roof",
+        "gt": "purple",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "104": {
+        "image": "0104.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The football should be yellow",
+        "evaluation": {
+            "VLM_judgement": "The football is yellow with some black patterns on it."
+        },
+        "question": "What color is the football",
+        "gt": "yellow",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "105": {
+        "image": "0105.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The cat's color ought to be purple",
+        "evaluation": {
+            "VLM_judgement": "The cat in the image has been digitally altered to appear purple with white facial markings. In reality, cats do not naturally come in this color, so"
+        },
+        "question": "What color is the cat",
+        "gt": "purple",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "106": {
+        "image": "0106.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The lighthouse should take on a purple hue",
+        "evaluation": {
+            "VLM_judgement": "The lighthouse in the image is red."
+        },
+        "question": "What color is the lighthouse",
+        "gt": "purple",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "107": {
+        "image": "0107.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The lake's color should be orange",
+        "evaluation": {
+            "VLM_judgement": "The water in the lake appears largely greenish, likely due to the reflection of the surrounding vegetation and perhaps the presence of algae or other substances in the"
+        },
+        "question": "What color is the lake",
+        "gt": "orange",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "108": {
+        "image": "0108.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The flowers should turn pink",
+        "evaluation": {
+            "VLM_judgement": "The flowers in the image are pink and white."
+        },
+        "question": "What color are the flowers",
+        "gt": "pink",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "109": {
+        "image": "0109.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The woman's eyes should shine in black",
+        "evaluation": {
+            "VLM_judgement": "I'm sorry, but I can't provide information about the color of the woman's eyes because the image has been altered to obscure the face, preventing"
+        },
+        "question": "What color are the woman's eyes",
+        "gt": "black",
+        "type": "human",
+        "final_judgement": "No."
+    },
+    "110": {
+        "image": "0111.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The teddy bear should be yellow",
+        "evaluation": {
+            "VLM_judgement": "The teddy bear in the image is primarily yellow in color. It also has a red bow on its head and a red ribbon around its neck."
+        },
+        "question": "What color is the teddy bear",
+        "gt": "yellow",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "111": {
+        "image": "0112.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Dye the woman's vest brown",
+        "evaluation": {
+            "VLM_judgement": "The woman is wearing a vest that appears to have multiple colors, including black at the top, bright green in the middle, and a pink or red"
+        },
+        "question": "What color is the woman's vest",
+        "gt": "brown",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "112": {
+        "image": "0113.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Give the elephant a yellow hue",
+        "evaluation": {
+            "VLM_judgement": "The elephant in the image is primarily gray in color, which is the common color for elephants."
+        },
+        "question": "What color is the elephant",
+        "gt": "yellow",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "113": {
+        "image": "0114.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Transform the color of the vegetable leaves to red",
+        "evaluation": {
+            "VLM_judgement": "The image primarily shows yellow and orange items arranged in bowls. It does not include vegetable leaves, so their color cannot be determined from this image."
+        },
+        "question": "What color is the vegetable leaves",
+        "gt": "red",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "114": {
+        "image": "0115.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Transform the grassland to green",
+        "evaluation": {
+            "VLM_judgement": "The grassland in the image appears to be an unnatural, bright neon green color. This hue does not typically occur in natural settings and suggests that the"
+        },
+        "question": "What color is the grassland",
+        "gt": "green",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "115": {
+        "image": "0116.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Coat the keyboard blue",
+        "evaluation": {
+            "VLM_judgement": "Sorry, I can't provide details about the color of the keyboard because the image you've shared is a solid blue color with no visible keyboard. If"
+        },
+        "question": "What color is the keyboard",
+        "gt": "blue",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "116": {
+        "image": "0117.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Dye the orange green",
+        "evaluation": {
+            "VLM_judgement": "The image has a strong blue filter applied to it, so the colors are not true to reality. Under normal conditions, an orange would typically be,"
+        },
+        "question": "What color is the orange",
+        "gt": "green",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "117": {
+        "image": "0118.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The dog should have a black hue",
+        "evaluation": {
+            "VLM_judgement": "The dog in the image is black and white. Its body appears to have black patches on a white coat."
+        },
+        "question": "What color is the dog",
+        "gt": "black",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "118": {
+        "image": "0119.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Adorn the baby's cap in red",
+        "evaluation": {
+            "VLM_judgement": "The baby's cap is red."
+        },
+        "question": "What color is the baby's cap",
+        "gt": "red",
+        "type": "human",
+        "final_judgement": "Yes"
+    },
+    "119": {
+        "image": "0120.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Color the phone pink",
+        "evaluation": {
+            "VLM_judgement": "I'm sorry, but I can't assist with the identification or assumptions about the color of the phone due to the lighting conditions and quality of the image"
+        },
+        "question": "What color is the phone",
+        "gt": "pink",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "120": {
+        "image": "0121.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The strawberry should turn black",
+        "evaluation": {
+            "VLM_judgement": "The strawberries in the bowl appear to be red, which is their typical color when ripe."
+        },
+        "question": "What color is the strawberry",
+        "gt": "black",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "121": {
+        "image": "0122.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Dress the goose in orange",
+        "evaluation": {
+            "VLM_judgement": "The geese in the image are orange."
+        },
+        "question": "What color is the goose",
+        "gt": "orange",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "122": {
+        "image": "0123.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Let the sky be red",
+        "evaluation": {
+            "VLM_judgement": "The image appears to be digitally altered, which has affected the color of the sky, creating unnatural reds and pinks, along with some areas that"
+        },
+        "question": "What color is the sky",
+        "gt": "red",
+        "type": "scenery",
+        "final_judgement": "No."
+    },
+    "123": {
+        "image": "0124.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The woman's scarf should be blue",
+        "evaluation": {
+            "VLM_judgement": "The scarf is blue."
+        },
+        "question": "What color is the woman's scarf",
+        "gt": "blue",
+        "type": "human",
+        "final_judgement": "Yes"
+    },
+    "124": {
+        "image": "0125.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Transform the color of the apple to orange",
+        "evaluation": {
+            "VLM_judgement": "The apples in the image are predominantly red with some hints of yellow or gold tones, which could be due to the variety of the apple or the lighting"
+        },
+        "question": "What color is the apple",
+        "gt": "orange",
+        "type": "plant",
+        "final_judgement": "No."
+    },
+    "125": {
+        "image": "0126.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Give the pizza a brown tint",
+        "evaluation": {
+            "VLM_judgement": "The pizza has a combination of colors. The crust is a light brown or beige color, the cheese is yellow, and the pepperoni slices are a"
+        },
+        "question": "What color is the pizza",
+        "gt": "brown",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "126": {
+        "image": "0127.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The clouds should turn brown",
+        "evaluation": {
+            "VLM_judgement": "The clouds in this image have a very unusual color; they appear yellow. Clouds typically range from white to varying shades of gray, depending on the"
+        },
+        "question": "What color is the clouds",
+        "gt": "brown",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "127": {
+        "image": "0128.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The bird should be blue",
+        "evaluation": {
+            "VLM_judgement": "The image appears to contain graphical manipulations to include illustrations of birds. The two illustrated birds in the foreground are primarily white, with touches of green,"
+        },
+        "question": "What color is the bird",
+        "gt": "blue",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "128": {
+        "image": "0129.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Dye the chrysanthemum blue",
+        "evaluation": {
+            "VLM_judgement": "The chrysanthemum flowers in the image have white petals with a greenish tint near the center, transitioning to pure white at the tips."
+        },
+        "question": "What color is the chrysanthemum",
+        "gt": "blue",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "129": {
+        "image": "0130.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The boy's eyes should be yellow",
+        "evaluation": {
+            "VLM_judgement": "I'm sorry, I can't provide information about the eye color because the area where the eyes would be is obstructed by a blurred section in the"
+        },
+        "question": "What color are the boy's eyes",
+        "gt": "yellow",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "130": {
+        "image": "0131.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "The horses should be yellow",
+        "evaluation": {
+            "VLM_judgement": "The horses in the image have been artificially colored yellow with a paint or digital alteration; their manes, tails, and lower legs are dyed or"
+        },
+        "question": "What color is the horses",
+        "gt": "yellow",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "131": {
+        "image": "0132.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Give the sunflower a pink tint",
+        "evaluation": {
+            "VLM_judgement": "In the image, the flowers\u2014labeled as sunflowers\u2014appear to have pink petals with yellow tips, which is not their natural coloring. Sun"
+        },
+        "question": "What color is the sunflower",
+        "gt": "pink",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "132": {
+        "image": "0133.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Coat the mountain in shades of yellow",
+        "evaluation": {
+            "VLM_judgement": "The mountain appears to be a dark green color with some areas in shadow."
+        },
+        "question": "What color is the mountain",
+        "gt": "yellow",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "133": {
+        "image": "0134.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Paint the frisbee with a vibrant white hue",
+        "evaluation": {
+            "VLM_judgement": "The frisbee in the image has multiple colors. The outer ring is black, followed by a white ring, then a blue ring, at the"
+        },
+        "question": "What color is the frisbee",
+        "gt": "white",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "134": {
+        "image": "0135.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Let the man's beard gleam with a snowy black color",
+        "evaluation": {
+            "VLM_judgement": "The beard appears to be gray with some darker areas potentially indicating a mix of darker hair, possibly black or brown."
+        },
+        "question": "What color is the man's beard",
+        "gt": "black",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "135": {
+        "image": "0136.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Adorn the tree with a cheerful purple hue",
+        "evaluation": {
+            "VLM_judgement": "The tree is purple."
+        },
+        "question": "What color is the tree",
+        "gt": "purple",
+        "type": "plant",
+        "final_judgement": "Yes"
+    },
+    "136": {
+        "image": "0137.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Color the skateboard with a lively black shade",
+        "evaluation": {
+            "VLM_judgement": "The skateboard in the image appears to have a red surface with a black underside. The wheels of the skateboard are green."
+        },
+        "question": "What color is the skateboard",
+        "gt": "black",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "137": {
+        "image": "0138.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Dye the koala's fur to a deep brown",
+        "evaluation": {
+            "VLM_judgement": "The koalas in the image are gray with some white fur on their ears. Their noses are black."
+        },
+        "question": "What color is the koala",
+        "gt": "brown",
+        "type": "animal",
+        "final_judgement": "No."
+    },
+    "138": {
+        "image": "0139.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Give the land a lush brown appearance",
+        "evaluation": {
+            "VLM_judgement": "The land is a yellowish-orange color."
+        },
+        "question": "What color is the land",
+        "gt": "brown",
+        "type": "scenery",
+        "final_judgement": "No"
+    }
+}

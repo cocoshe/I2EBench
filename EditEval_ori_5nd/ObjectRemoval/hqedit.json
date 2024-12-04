@@ -1,0 +1,122 @@
+{
+    "1": {
+        "image": "0000.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Remove the shoe rack from the image",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is there a shoe rack in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "2": {
+        "image": "0001.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Remove the bowl from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a bowl in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "3": {
+        "image": "0012.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Remove the white building from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there an white building in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "4": {
+        "image": "0003.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Remove the trees from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a tree in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "5": {
+        "image": "0004.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Remove the steel net from the image",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is there a steel net in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "6": {
+        "image": "0005.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Remove the poles from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a pole in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "7": {
+        "image": "0006.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Remove the trees from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there any trees in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No."
+    },
+    "8": {
+        "image": "0007.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Remove the notebook from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a notebook in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "9": {
+        "image": "0015.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Remove the houses from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there houses in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "10": {
+        "image": "0009.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Remove the ladder from the image",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is there a ladder in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "Yes"
+    }
+}

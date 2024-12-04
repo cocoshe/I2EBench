@@ -1,0 +1,122 @@
+{
+    "1": {
+        "image": "0000.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the bear to red",
+        "evaluation": {
+            "VLM_judgement": "The bear in the image appears to be colored red."
+        },
+        "question": "What color is the bear",
+        "gt": "brown",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "2": {
+        "image": "0001.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the clothes on man to red",
+        "evaluation": {
+            "VLM_judgement": "The man is wearing a green shirt."
+        },
+        "question": "What color is the clothes on man",
+        "gt": "red",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "3": {
+        "image": "0002.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the sky to red",
+        "evaluation": {
+            "VLM_judgement": "The sky in the image is a vibrant mix of red, orange, and yellow with some purple hues."
+        },
+        "question": "What color is the sky",
+        "gt": "red",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "4": {
+        "image": "0003.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the banana to red",
+        "evaluation": {
+            "VLM_judgement": "The banana in the image has a digital effect, appearing in multiple colors including pink, green, and yellow."
+        },
+        "question": "What color is the banana",
+        "gt": "red",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "5": {
+        "image": "0004.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the cake to red",
+        "evaluation": {
+            "VLM_judgement": "The cake is primarily blue with a pink section on top."
+        },
+        "question": "What color is the cake",
+        "gt": "red",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "6": {
+        "image": "0005.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the sheep to red",
+        "evaluation": {
+            "VLM_judgement": "The sheep in the image are red."
+        },
+        "question": "What color is the sheep",
+        "gt": "red",
+        "type": "animal",
+        "final_judgement": "Yes"
+    },
+    "7": {
+        "image": "0006.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the train to red",
+        "evaluation": {
+            "VLM_judgement": "The train is red."
+        },
+        "question": "What color is the train",
+        "gt": "red",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "8": {
+        "image": "0007.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the land to red",
+        "evaluation": {
+            "VLM_judgement": "The land appears to be a shade of pink."
+        },
+        "question": "What color is the land",
+        "gt": "red",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "9": {
+        "image": "0008.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the flowers to red",
+        "evaluation": {
+            "VLM_judgement": "The flowers in the image are white or a light gray color."
+        },
+        "question": "What color are the flowers",
+        "gt": "red",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "10": {
+        "image": "0009.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the boy's hair to red",
+        "evaluation": {
+            "VLM_judgement": "The boy's hair is red and green."
+        },
+        "question": "What color is the the boy's hair",
+        "gt": "red",
+        "type": "human",
+        "final_judgement": "No"
+    }
+}

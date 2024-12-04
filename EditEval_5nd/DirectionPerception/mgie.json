@@ -1,0 +1,122 @@
+{
+    "1": {
+        "image": "0001.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Place a hippo right of the skateboard",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the hippo at the right of the skateboard? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "Yes"
+    },
+    "2": {
+        "image": "0002.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Position a wolf to the left of the desk",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the wolf on the left of the desk? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "Yes"
+    },
+    "3": {
+        "image": "0003.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Introduce a lizard to the right side of the man",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the lizard on the right of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No"
+    },
+    "4": {
+        "image": "0004.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Integrate a rabbit to the right of the bird",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the rabbit on the right of the bird? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No."
+    },
+    "5": {
+        "image": "0005.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a kangaroo on the bottom part of the sink",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the kangaroo on the bottom of the sink? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No."
+    },
+    "6": {
+        "image": "0006.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Embed a curious lobster to the right of the door",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the lobster to the right of the door? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No."
+    },
+    "7": {
+        "image": "0007.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Affix a majestic owl to the right side of the giraffe",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the owl on the right of the giraffe? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No."
+    },
+    "8": {
+        "image": "0008.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Attach a graceful crocodile top the plane",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the crocodile at the top of the plane? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No."
+    },
+    "9": {
+        "image": "0009.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Tuck a mischievous sparrow to the left of the pot",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the sparrow on the left of the pot? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No."
+    },
+    "10": {
+        "image": "0010.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Position a gentle pigeon to the right of the elephant",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the pigeon on the right of the elephant? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "Yes"
+    }
+}

@@ -1,0 +1,1622 @@
+{
+    "1": {
+        "image": "COCO_val2014_000000000042.jpg",
+        "dataset": "Counting",
+        "prompt": "Place a monkey companion amidst the shoe collection",
+        "evaluation": {
+            "VLM_judgement": "There are no monkeys on the shoe rack in the image provided. There appears to be a pet dog lying on top of the shoes on the shoe rack"
+        },
+        "question": "How many monkeys are there on the shoe rack?",
+        "gt": "One",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "2": {
+        "image": "COCO_val2014_000000000074.jpg",
+        "dataset": "Counting",
+        "prompt": "Introduce a cat presence into the picture",
+        "evaluation": {
+            "VLM_judgement": "There are two cats in the image."
+        },
+        "question": "How many cats are on the image?",
+        "gt": "One",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "3": {
+        "image": "COCO_val2014_000000000133.jpg",
+        "dataset": "Counting",
+        "prompt": "Place two cats on the desk",
+        "evaluation": {
+            "VLM_judgement": "There are three cats in the image. Two are on top of the bunk bed and one is underneath the bed on the chair."
+        },
+        "question": "How many cats are on the image?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "4": {
+        "image": "COCO_val2014_000000000283.jpg",
+        "dataset": "Counting",
+        "prompt": "Perch two feline friends on the desk",
+        "evaluation": {
+            "VLM_judgement": "There is one cat on the desk. The cat is sitting to the right side of the image near a cushion."
+        },
+        "question": "How many cats are on the desk?",
+        "gt": "Four",
+        "type": "animal",
+        "final_judgement": "No."
+    },
+    "5": {
+        "image": "COCO_val2014_000000000589.jpg",
+        "dataset": "Counting",
+        "prompt": "Introduce a bear to the green expanse",
+        "evaluation": {
+            "VLM_judgement": "There are no bears on the grass in the image provided. It appears to be a person standing on the grass, likely engaged in some kind of outdoor"
+        },
+        "question": "How many bears are on the grass?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "6": {
+        "image": "COCO_val2014_000000000711.jpg",
+        "dataset": "Counting",
+        "prompt": "Place one bird comfortably on the couch",
+        "evaluation": {
+            "VLM_judgement": "There are no birds on the couch; instead, there are several cats resting on the couch."
+        },
+        "question": "How many birds are on the couch?",
+        "gt": "One",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "7": {
+        "image": "COCO_val2014_000000000772.jpg",
+        "dataset": "Counting",
+        "prompt": "Invite one cat to frolic in the grass",
+        "evaluation": {
+            "VLM_judgement": "There is one cat on the grass."
+        },
+        "question": "How many cat are on the grass?",
+        "gt": "One",
+        "type": "animal",
+        "final_judgement": "Yes"
+    },
+    "8": {
+        "image": "COCO_val2014_000000000827.jpg",
+        "dataset": "Counting",
+        "prompt": "Introduce two zebras into the grassy landscape",
+        "evaluation": {
+            "VLM_judgement": "There is one zebra on the grass."
+        },
+        "question": "How many zebras are on the grass?",
+        "gt": "Four",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "9": {
+        "image": "COCO_val2014_000000001063.jpg",
+        "dataset": "Counting",
+        "prompt": "Position two giraffe amidst the greenery",
+        "evaluation": {
+            "VLM_judgement": "There is one giraffe on the grass in the image."
+        },
+        "question": "How many giraffes are on the grass?",
+        "gt": "Four",
+        "type": "animal",
+        "final_judgement": "Yes"
+    },
+    "10": {
+        "image": "COCO_val2014_000000001083.jpg",
+        "dataset": "Counting",
+        "prompt": "Grace the grass with three cats",
+        "evaluation": {
+            "VLM_judgement": "There are no cats visible on the grass in the image you've provided. The image shows two cows and a dog."
+        },
+        "question": "How many cats are on the grass?",
+        "gt": "Three",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "11": {
+        "image": "COCO_val2014_000000001369.jpg",
+        "dataset": "Counting",
+        "prompt": "Place one bird within the image",
+        "evaluation": {
+            "VLM_judgement": "There is one bird visible in the image, flying over the water near the central part of the image to the right side of the person standing on the"
+        },
+        "question": "How many birds are on the image?",
+        "gt": "Five",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "12": {
+        "image": "COCO_val2014_000000001374.jpg",
+        "dataset": "Counting",
+        "prompt": "Adorn the scene with one bird",
+        "evaluation": {
+            "VLM_judgement": "There are no birds in the image."
+        },
+        "question": "How many birds are on the image?",
+        "gt": "Four",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "13": {
+        "image": "COCO_val2014_000000001442.jpg",
+        "dataset": "Counting",
+        "prompt": "Position a cat within the image",
+        "evaluation": {
+            "VLM_judgement": "The image shows one cat. The cat has orange fur with darker stripes, which may suggest it is a tabby. It appears to be resting on"
+        },
+        "question": "How many cats are on the image?",
+        "gt": "One",
+        "type": "animal",
+        "final_judgement": "Yes"
+    },
+    "14": {
+        "image": "COCO_val2014_000000001448.jpg",
+        "dataset": "Counting",
+        "prompt": "Let two dogs join the composition of the image",
+        "evaluation": {
+            "VLM_judgement": "There are two dogs in the image."
+        },
+        "question": "How many dogs are on the image?",
+        "gt": "Three",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "15": {
+        "image": "COCO_val2014_000000001464.jpg",
+        "dataset": "Counting",
+        "prompt": "Enrich the image with the presence of one dog",
+        "evaluation": {
+            "VLM_judgement": "There is one dog in the image."
+        },
+        "question": "How many dogs are on the image?",
+        "gt": "Six",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "16": {
+        "image": "COCO_val2014_000000001490.jpg",
+        "dataset": "Counting",
+        "prompt": "Enliven the scene by incorporating one fish into the image",
+        "evaluation": {
+            "VLM_judgement": "The image does not show any fishes."
+        },
+        "question": "How many fishes are on the image?",
+        "gt": "one",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "17": {
+        "image": "COCO_val2014_000000001561.jpg",
+        "dataset": "Counting",
+        "prompt": "Perch two cats atop the skateboard",
+        "evaluation": {
+            "VLM_judgement": "There are three cats on the skateboard."
+        },
+        "question": "How many cats are on the skateboard?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "18": {
+        "image": "COCO_val2014_000000001655.jpg",
+        "dataset": "Counting",
+        "prompt": "Decorate the image with a gathering of two bears",
+        "evaluation": {
+            "VLM_judgement": "The image shows two bears."
+        },
+        "question": "How many bears are on the image?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "Yes"
+    },
+    "19": {
+        "image": "COCO_val2014_000000001803.jpg",
+        "dataset": "Counting",
+        "prompt": "Introduce two cats into the image's composition",
+        "evaluation": {
+            "VLM_judgement": "There are two cats in the image. They are both black and white and appear to be sitting on the bathroom floor."
+        },
+        "question": "How many cats are on the image?",
+        "gt": "Five",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "20": {
+        "image": "COCO_val2014_000000001955.jpg",
+        "dataset": "Counting",
+        "prompt": "Incorporate a dog into the image's composition",
+        "evaluation": {
+            "VLM_judgement": "There is one dog in the image, sitting on the grass to the left side of the picture."
+        },
+        "question": "How many dogs are on the image?",
+        "gt": "One",
+        "type": "animal",
+        "final_judgement": "Yes"
+    },
+    "21": {
+        "image": "COCO_val2014_000000001993.jpg",
+        "dataset": "Counting",
+        "prompt": "Place two dogs on the bed",
+        "evaluation": {
+            "VLM_judgement": "There are four dogs on the bed."
+        },
+        "question": "How many dogs are on the bed?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "22": {
+        "image": "COCO_val2014_000000002164.jpg",
+        "dataset": "Counting",
+        "prompt": "Include two horses in the image",
+        "evaluation": {
+            "VLM_judgement": "There are no horses in the image. The animals present in the image are sheep, not horses."
+        },
+        "question": "How many horses are on the image?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "23": {
+        "image": "COCO_val2014_000000002212.jpg",
+        "dataset": "Counting",
+        "prompt": "Position three cats comfortably on the couch",
+        "evaluation": {
+            "VLM_judgement": "There are five cats on the couch."
+        },
+        "question": "How many cats are on the couch?",
+        "gt": "Three",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "24": {
+        "image": "COCO_val2014_000000002302.jpg",
+        "dataset": "Counting",
+        "prompt": "Enliven the image by adding two majestic horse",
+        "evaluation": {
+            "VLM_judgement": "The image appears to be designed to create an optical illusion, making it look as if there's a horse due to the alignment of the motorcycle's parts"
+        },
+        "question": "How many horses are on the image?",
+        "gt": "Four",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "25": {
+        "image": "COCO_val2014_000000002684.jpg",
+        "dataset": "Counting",
+        "prompt": "Introduce two cats into the image's scenery",
+        "evaluation": {
+            "VLM_judgement": "There is one cat in the image."
+        },
+        "question": "How many cats are on the image?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "26": {
+        "image": "COCO_val2014_000000002753.jpg",
+        "dataset": "Counting",
+        "prompt": "bring two dogs into the image",
+        "evaluation": {
+            "VLM_judgement": "There are three dogs in the image. One of the dogs is holding a yellow frisbee in its mouth."
+        },
+        "question": "How many dogs are on the image?",
+        "gt": "Three",
+        "type": "animal",
+        "final_judgement": "Yes"
+    },
+    "27": {
+        "image": "COCO_val2014_000000003035.jpg",
+        "dataset": "Counting",
+        "prompt": "Enrich the image by including two birds",
+        "evaluation": {
+            "VLM_judgement": "I'm sorry, but I cannot assist with this request."
+        },
+        "question": "How many birds are on the image?",
+        "gt": "Six",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "28": {
+        "image": "COCO_val2014_000000003067.jpg",
+        "dataset": "Counting",
+        "prompt": "Introduce two cat into the image's composition",
+        "evaluation": {
+            "VLM_judgement": "There are two cats in the image."
+        },
+        "question": "How many cats are on the image?",
+        "gt": "Four",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "29": {
+        "image": "COCO_val2014_000000012887.jpg",
+        "dataset": "Counting",
+        "prompt": "Include three dogs in the image's scene",
+        "evaluation": {
+            "VLM_judgement": "There appears to be one dog in the image, lying on the floor near the couch on the right side of the photo."
+        },
+        "question": "How many dogs are on the image?",
+        "gt": "Six",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "30": {
+        "image": "COCO_val2014_000000012927.jpg",
+        "dataset": "Counting",
+        "prompt": "Bring two bird into the image to add some liveliness",
+        "evaluation": {
+            "VLM_judgement": "There are no actual birds in this image. What you see is a clever visual trick where surfers and their surfboards are positioned in such a way"
+        },
+        "question": "How many birds are on the image?",
+        "gt": "Three",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "31": {
+        "image": "COCO_val2014_000000012938.jpg",
+        "dataset": "Counting",
+        "prompt": "Enrich the image with the presence of three cats",
+        "evaluation": {
+            "VLM_judgement": "There are no cats visible in the image provided. There is a person skateboarding on the sidewalk, and the setting appears to be an urban area with"
+        },
+        "question": "How many cats are on the image?",
+        "gt": "Three",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "32": {
+        "image": "COCO_val2014_000000012943.jpg",
+        "dataset": "Counting",
+        "prompt": "Position two cats on the desk to enhance the scene",
+        "evaluation": {
+            "VLM_judgement": "I see two cats in the image. They are both black and white and appear to be on a desk. There is also a picture frame with the"
+        },
+        "question": "How many cats are on the image?",
+        "gt": "Four",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "33": {
+        "image": "COCO_val2014_000000012959.jpg",
+        "dataset": "Counting",
+        "prompt": "Introduce a pair of birds into the image to bring it to life",
+        "evaluation": {
+            "VLM_judgement": "There is one bird flying in the image, visible in the sky to the right of the clock tower."
+        },
+        "question": "How many birds are on the image?",
+        "gt": "Five",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "34": {
+        "image": "COCO_val2014_000000012966.jpg",
+        "dataset": "Counting",
+        "prompt": "Incorporate two dog into the image for added charm",
+        "evaluation": {
+            "VLM_judgement": "There are two dogs in the image. One larger dog that appears to be a Basset Hound, sitting in the foreground, and a smaller dog"
+        },
+        "question": "How many dogs are on the image?",
+        "gt": "Four",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "35": {
+        "image": "COCO_val2014_000000012991.jpg",
+        "dataset": "Counting",
+        "prompt": "Introduce two cat into the image's composition",
+        "evaluation": {
+            "VLM_judgement": "There are two cats in the image."
+        },
+        "question": "How many cats are on the image?",
+        "gt": "Three",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "36": {
+        "image": "COCO_val2014_000000003109.jpg",
+        "dataset": "Counting",
+        "prompt": "Incorporate a boy into the image's setting",
+        "evaluation": {
+            "VLM_judgement": "There is one person in the image."
+        },
+        "question": "How many people are on the image?",
+        "gt": "Two",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "37": {
+        "image": "COCO_val2014_000000003125.jpg",
+        "dataset": "Counting",
+        "prompt": "Enrich the image by adding three girls",
+        "evaluation": {
+            "VLM_judgement": "There is one person visible in the image, who appears to be seated inside the white van."
+        },
+        "question": "How many people are on the image?",
+        "gt": "Three",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "38": {
+        "image": "COCO_val2014_000000003134.jpg",
+        "dataset": "Counting",
+        "prompt": "Introduce three girls into the image to enhance the scene",
+        "evaluation": {
+            "VLM_judgement": "The image shows a bus with reflections and silhouettes of people inside. Due to the reflections on the window, the exact number of people inside the"
+        },
+        "question": "How many people are on the image?",
+        "gt": "Six",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "39": {
+        "image": "COCO_val2014_000000003145.jpg",
+        "dataset": "Counting",
+        "prompt": "Incorporate two men into the image to diversify the composition",
+        "evaluation": {
+            "VLM_judgement": "There is one person in the image."
+        },
+        "question": "How many people are on the image?",
+        "gt": "Six",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "40": {
+        "image": "COCO_val2014_000000003217.jpg",
+        "dataset": "Counting",
+        "prompt": "Enrich the image by including two men",
+        "evaluation": {
+            "VLM_judgement": "There are no people in the image you provided. It shows a simple wooden bench in a natural, green setting, possibly in a forest or park."
+        },
+        "question": "How many people are on the image?",
+        "gt": "Six",
+        "type": "human",
+        "final_judgement": "no"
+    },
+    "41": {
+        "image": "COCO_val2014_000000003335.jpg",
+        "dataset": "Counting",
+        "prompt": "Position two boys in the vicinity of the toilet",
+        "evaluation": {
+            "VLM_judgement": "There is one person visible in the image."
+        },
+        "question": "How many people are on the image?",
+        "gt": "Three",
+        "type": "human",
+        "final_judgement": "Yes"
+    },
+    "42": {
+        "image": "COCO_val2014_000000003342.jpg",
+        "dataset": "Counting",
+        "prompt": "Incorporate two elderly individuals into the image to diversify the composition",
+        "evaluation": {
+            "VLM_judgement": "There is one person visible in the image."
+        },
+        "question": "How many people are on the image?",
+        "gt": "Seven",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "43": {
+        "image": "COCO_val2014_000000003425.jpg",
+        "dataset": "Counting",
+        "prompt": "Place two boys on the bed to add to the scene",
+        "evaluation": {
+            "VLM_judgement": "There is one person visible on the bed in the image."
+        },
+        "question": "How many people are on the image?",
+        "gt": "Four",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "44": {
+        "image": "COCO_val2014_000000003480.jpg",
+        "dataset": "Counting",
+        "prompt": "Position two men in the grass to diversify the scene",
+        "evaluation": {
+            "VLM_judgement": "There is one person visible in the image. They appear to be crouched down among the cows."
+        },
+        "question": "How many people are on the image?",
+        "gt": "Four",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "45": {
+        "image": "COCO_val2014_000000003488.jpg",
+        "dataset": "Counting",
+        "prompt": "Integrate two football players into the image to add a sporty vibe",
+        "evaluation": {
+            "VLM_judgement": "There are three people visible in the image."
+        },
+        "question": "How many people are on the image?",
+        "gt": "Five",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "46": {
+        "image": "COCO_val2014_000000003580.jpg",
+        "dataset": "Counting",
+        "prompt": "Place three boys on the sofa to enrich the setting",
+        "evaluation": {
+            "VLM_judgement": "There is one person sitting on a chair in the background of the image."
+        },
+        "question": "How many people are on the image?",
+        "gt": "Five",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "47": {
+        "image": "COCO_val2014_000000003716.jpg",
+        "dataset": "Counting",
+        "prompt": "Incorporate two men into the image's composition",
+        "evaluation": {
+            "VLM_judgement": "There are no people visible in the image other than the blurred individual."
+        },
+        "question": "How many people are on the image?",
+        "gt": "Four",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "48": {
+        "image": "COCO_val2014_000000003964.jpg",
+        "dataset": "Counting",
+        "prompt": "Enrich the image by adding two girls",
+        "evaluation": {
+            "VLM_judgement": "There is one person visible in the image."
+        },
+        "question": "How many people are on the image?",
+        "gt": "Five",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "49": {
+        "image": "COCO_val2014_000000004125.jpg",
+        "dataset": "Counting",
+        "prompt": "Introduce two men into the image to diversify the composition",
+        "evaluation": {
+            "VLM_judgement": "There is one person visible in the image, who appears to be a man sitting on the couch, partially obscured by some objects."
+        },
+        "question": "How many men are on the image?",
+        "gt": "Two",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "50": {
+        "image": "COCO_val2014_000000004296.jpg",
+        "dataset": "Counting",
+        "prompt": "Incorporate two women into the image to enhance its diversity",
+        "evaluation": {
+            "VLM_judgement": "In the image, there are two women."
+        },
+        "question": "How many women are on the image?",
+        "gt": "Two",
+        "type": "human",
+        "final_judgement": "Yes"
+    },
+    "51": {
+        "image": "COCO_val2014_000000004498.jpg",
+        "dataset": "Counting",
+        "prompt": "Include a boy in the image to add to the dynamic",
+        "evaluation": {
+            "VLM_judgement": "There are no people visible in the image."
+        },
+        "question": "How many people are on the image?",
+        "gt": "Two",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "52": {
+        "image": "COCO_val2014_000000004688.jpg",
+        "dataset": "Counting",
+        "prompt": "Introduce two men into the image to enhance its composition",
+        "evaluation": {
+            "VLM_judgement": "There is one person visible in the image."
+        },
+        "question": "How many people are on the image?",
+        "gt": "Five",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "53": {
+        "image": "COCO_val2014_000000004742.jpg",
+        "dataset": "Counting",
+        "prompt": "Incorporate a man into the image to diversify the scene",
+        "evaluation": {
+            "VLM_judgement": "I'm sorry, I cannot provide real-time or current information about the content of images or any other data. My capabilities are based on pre-existing knowledge"
+        },
+        "question": "How many people are on the image?",
+        "gt": "Three",
+        "type": "human",
+        "final_judgement": "Yes"
+    },
+    "54": {
+        "image": "COCO_val2014_000000004760.jpg",
+        "dataset": "Counting",
+        "prompt": "Enrich the image by including a baby",
+        "evaluation": {
+            "VLM_judgement": "There are no babies visible in the image you provided. The image shows a scene with two benches and no people in it."
+        },
+        "question": "How many babies are on the image?",
+        "gt": "One",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "55": {
+        "image": "COCO_val2014_000000005314.jpg",
+        "dataset": "Counting",
+        "prompt": "Arrange the image with three boys",
+        "evaluation": {
+            "VLM_judgement": "The image does not contain any people."
+        },
+        "question": "How many people are on the image?",
+        "gt": "Six",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "56": {
+        "image": "COCO_val2014_000000005820.jpg",
+        "dataset": "Counting",
+        "prompt": "Introduce three boys to the image",
+        "evaluation": {
+            "VLM_judgement": "There are three people in the image, standing and looking out over the landscape."
+        },
+        "question": "How many people are on the image?",
+        "gt": "Six",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "57": {
+        "image": "COCO_val2014_000000007088.jpg",
+        "dataset": "Counting",
+        "prompt": "Position a boy within the image",
+        "evaluation": {
+            "VLM_judgement": "There is one person visible in the image. They are standing under an umbrella."
+        },
+        "question": "How many people are on the image?",
+        "gt": "Three",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "58": {
+        "image": "COCO_val2014_000000007394.jpg",
+        "dataset": "Counting",
+        "prompt": "place two women to the image",
+        "evaluation": {
+            "VLM_judgement": "There is one person in the image. They are walking under an umbrella, apparently during a rainy day."
+        },
+        "question": "How many people are on the image?",
+        "gt": "Five",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "59": {
+        "image": "COCO_val2014_000000007795.jpg",
+        "dataset": "Counting",
+        "prompt": "Position a woman throughout the image",
+        "evaluation": {
+            "VLM_judgement": "There is one woman in the image, sitting on the bed to the right."
+        },
+        "question": "How many women are on the image?",
+        "gt": "One",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "60": {
+        "image": "COCO_val2014_000000007977.jpg",
+        "dataset": "Counting",
+        "prompt": "Integrate a boy into the image",
+        "evaluation": {
+            "VLM_judgement": "There is one person in the image. It appears to be a child who is crouching down on a skateboard."
+        },
+        "question": "How many people are on the image?",
+        "gt": "Three",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "61": {
+        "image": "COCO_val2014_000000012993.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two men into the image",
+        "evaluation": {
+            "VLM_judgement": "There are two visible people in the image: one person beside the bus and one person on a bicycle in the background to the left of the image."
+        },
+        "question": "How many people are on the image?",
+        "gt": "Five",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "62": {
+        "image": "COCO_val2014_000000013081.jpg",
+        "dataset": "Counting",
+        "prompt": "Position a boy in the image",
+        "evaluation": {
+            "VLM_judgement": "There are two people visible in the image. They are seated at tables with laptops."
+        },
+        "question": "How many people are on the image?",
+        "gt": "Four",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "63": {
+        "image": "COCO_val2014_000000013132.jpg",
+        "dataset": "Counting",
+        "prompt": "Incorporate two women into the image",
+        "evaluation": {
+            "VLM_judgement": "There is one person visible in the image."
+        },
+        "question": "How many people are on the image?",
+        "gt": "Six",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "64": {
+        "image": "COCO_val2014_000000013159.jpg",
+        "dataset": "Counting",
+        "prompt": "Position three policemen in the image",
+        "evaluation": {
+            "VLM_judgement": "There are no actual people in the image. The figures seen are illustrations or images of people on a sign that says \"FIRE HYDRANT.\""
+        },
+        "question": "How many people are on the image?",
+        "gt": "Six",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "65": {
+        "image": "COCO_val2014_000000013291.jpg",
+        "dataset": "Counting",
+        "prompt": "Introduce a boy into the image",
+        "evaluation": {
+            "VLM_judgement": "There are four people in the image."
+        },
+        "question": "How many people are on the image?",
+        "gt": "Six",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "66": {
+        "image": "COCO_val2014_000000013333.jpg",
+        "dataset": "Counting",
+        "prompt": "Incorporate a boy into the image",
+        "evaluation": {
+            "VLM_judgement": "There is one person in the image. They can be seen standing in the distance on the grass, to the right from the large stop sign in the"
+        },
+        "question": "How many people are on the image?",
+        "gt": "Two",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "67": {
+        "image": "COCO_val2014_000000013546.jpg",
+        "dataset": "Counting",
+        "prompt": "Include two girls in the image",
+        "evaluation": {
+            "VLM_judgement": "I'm sorry, I cannot assist with that request."
+        },
+        "question": "How many people are on the image?",
+        "gt": "Five",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "68": {
+        "image": "COCO_val2014_000000008603.jpg",
+        "dataset": "Counting",
+        "prompt": "Place two kite in the image",
+        "evaluation": {
+            "VLM_judgement": "There is one kite in the image, flying in the air to the upper right of the giraffe."
+        },
+        "question": "How many kites are on the image?",
+        "gt": "Three",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "69": {
+        "image": "COCO_val2014_000000008676.jpg",
+        "dataset": "Counting",
+        "prompt": "Arrange two handbags on the bed",
+        "evaluation": {
+            "VLM_judgement": "The image shows three handbags on the bed."
+        },
+        "question": "How many handbags are on the image?",
+        "gt": "Four",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "70": {
+        "image": "COCO_val2014_000000008711.jpg",
+        "dataset": "Counting",
+        "prompt": "Position two foxes around the book",
+        "evaluation": {
+            "VLM_judgement": "There is one image of a fox on the cover of the magazine shown in the photo."
+        },
+        "question": "How many foxes are on the image?",
+        "gt": "Five",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "71": {
+        "image": "COCO_val2014_000000008718.jpg",
+        "dataset": "Counting",
+        "prompt": "Include a bowl in the image",
+        "evaluation": {
+            "VLM_judgement": "I don't see any bowls in the image. There is a piece of what appears to be a berry clafoutis or similar dessert on a"
+        },
+        "question": "How many bowls are on the image?",
+        "gt": "Three",
+        "type": "object",
+        "final_judgement": "No."
+    },
+    "72": {
+        "image": "COCO_val2014_000000008721.jpg",
+        "dataset": "Counting",
+        "prompt": "Place a mouse on the desk",
+        "evaluation": {
+            "VLM_judgement": "There are two computer mice visible on the image\u2014one on the left side of the desk beside the keyboard and another one on the right side of the desk"
+        },
+        "question": "How many mouses are on the image?",
+        "gt": "Three",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "73": {
+        "image": "COCO_val2014_000000008749.jpg",
+        "dataset": "Counting",
+        "prompt": "Position two forks near the pizza",
+        "evaluation": {
+            "VLM_judgement": "There are no forks visible in the image."
+        },
+        "question": "How many forks are on the image?",
+        "gt": "Four",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "74": {
+        "image": "COCO_val2014_000000008771.jpg",
+        "dataset": "Counting",
+        "prompt": "Place two snowboards on the snow",
+        "evaluation": {
+            "VLM_judgement": "There is one snowboard visible in the image."
+        },
+        "question": "How many snowboards are on the image?",
+        "gt": "Five",
+        "type": "object",
+        "final_judgement": "I'm sorry, but I can't directly inspect or analyze images."
+    },
+    "75": {
+        "image": "COCO_val2014_000000008775.jpg",
+        "dataset": "Counting",
+        "prompt": "Arrange two books on the bed",
+        "evaluation": {
+            "VLM_judgement": "There are approximately 17 books visible on the bed."
+        },
+        "question": "How many books are on the image?",
+        "gt": "Seven",
+        "type": "object",
+        "final_judgement": "no"
+    },
+    "76": {
+        "image": "COCO_val2014_000000008832.jpg",
+        "dataset": "Counting",
+        "prompt": "Include a wine glass in the image",
+        "evaluation": {
+            "VLM_judgement": "There are no wine glasses in the image."
+        },
+        "question": "How many wine glasses are on the image?",
+        "gt": "Two",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "77": {
+        "image": "COCO_val2014_000000008899.jpg",
+        "dataset": "Counting",
+        "prompt": "Place a bench in the image",
+        "evaluation": {
+            "VLM_judgement": "There are no benches visible in this image. The picture shows a building facade with graffiti-covered doors, a green entrance door, and a plant hanging in"
+        },
+        "question": "How many benches are on the image?",
+        "gt": "Two",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "78": {
+        "image": "COCO_val2014_000000009002.jpg",
+        "dataset": "Counting",
+        "prompt": "Place a cake on the table",
+        "evaluation": {
+            "VLM_judgement": "There are three cakes on the image."
+        },
+        "question": "How many cakes are on the image?",
+        "gt": "Two",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "79": {
+        "image": "COCO_val2014_000000009007.jpg",
+        "dataset": "Counting",
+        "prompt": "Place a tie on the man",
+        "evaluation": {
+            "VLM_judgement": "There is one visible tie in the image, worn by the person in the foreground."
+        },
+        "question": "How many ties are on the image?",
+        "gt": "Two",
+        "type": "object",
+        "final_judgement": "No."
+    },
+    "80": {
+        "image": "COCO_val2014_000000009050.jpg",
+        "dataset": "Counting",
+        "prompt": "Include a cup in the image",
+        "evaluation": {
+            "VLM_judgement": "The image shows one cup."
+        },
+        "question": "How many cups are on the image?",
+        "gt": "Two",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "81": {
+        "image": "COCO_val2014_000000009497.jpg",
+        "dataset": "Counting",
+        "prompt": "Include a train in the image",
+        "evaluation": {
+            "VLM_judgement": "There appears to be only one train visible on the image, shown from the side."
+        },
+        "question": "How many trains are on the image?",
+        "gt": "Two",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "82": {
+        "image": "COCO_val2014_000000009527.jpg",
+        "dataset": "Counting",
+        "prompt": "Place two cell phones on the desk",
+        "evaluation": {
+            "VLM_judgement": "There are three cell phones on the table in the image."
+        },
+        "question": "How many cell phones are on the image?",
+        "gt": "Five",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "83": {
+        "image": "COCO_val2014_000000009603.jpg",
+        "dataset": "Counting",
+        "prompt": "Include an aeroplane in the sky",
+        "evaluation": {
+            "VLM_judgement": "There are two airplanes visible in the image, flying in the sky above the cattle."
+        },
+        "question": "How many aeroplanes are on the image?",
+        "gt": "Two",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "84": {
+        "image": "COCO_val2014_000000009668.jpg",
+        "dataset": "Counting",
+        "prompt": "Place two basketballs on the desk",
+        "evaluation": {
+            "VLM_judgement": "There appear to be two items that look like basketballs in the image. However, upon closer inspection, it seems that these could be cleverly depicted"
+        },
+        "question": "How many basketballs are on the image?",
+        "gt": "Two",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "85": {
+        "image": "COCO_val2014_000000009857.jpg",
+        "dataset": "Counting",
+        "prompt": "Arrange two laptops on the bed",
+        "evaluation": {
+            "VLM_judgement": "There are two laptops in the image; one on a nightstand to the left of the bed, and another on a nightstand to the right of"
+        },
+        "question": "How many laptops are on the image?",
+        "gt": "Six",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "86": {
+        "image": "COCO_val2014_000000009941.jpg",
+        "dataset": "Counting",
+        "prompt": "Place a car in the image",
+        "evaluation": {
+            "VLM_judgement": "The image shows one car."
+        },
+        "question": "How many cars are on the image?",
+        "gt": "Three",
+        "type": "object",
+        "final_judgement": "I am an AI text-based model and cannot view images. Thus, I cannot verify the content of the image or confirm the number of cars in it"
+    },
+    "87": {
+        "image": "COCO_val2014_000000010205.jpg",
+        "dataset": "Counting",
+        "prompt": "Include two refrigerators in the image",
+        "evaluation": {
+            "VLM_judgement": "There is one refrigerator visible in the image."
+        },
+        "question": "How many refrigerators are on the image?",
+        "gt": "Four",
+        "type": "object",
+        "final_judgement": "I'm sorry, but I cannot view images or their contents to provide assessments on visual information. My capabilities are limited to text-based processing and interactions."
+    },
+    "88": {
+        "image": "COCO_val2014_000000010256.jpg",
+        "dataset": "Counting",
+        "prompt": "Position two fire hydrants within the image",
+        "evaluation": {
+            "VLM_judgement": "There is one fire hydrant visible in the image. It is yellow and stands out against the reddish ground cover."
+        },
+        "question": "How many fire hydrants are on the image?",
+        "gt": "Five",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "89": {
+        "image": "COCO_val2014_000000010263.jpg",
+        "dataset": "Counting",
+        "prompt": "Embed a bed into the image",
+        "evaluation": {
+            "VLM_judgement": "There is one bed in the image."
+        },
+        "question": "How many beds are on the image?",
+        "gt": "Two",
+        "type": "object",
+        "final_judgement": "I am unable to view images. My responses rely on the text provided. If the correct answer stated there are two beds in the image, then the"
+    },
+    "90": {
+        "image": "COCO_val2014_000000010428.jpg",
+        "dataset": "Counting",
+        "prompt": "Introduce three bottles to the image",
+        "evaluation": {
+            "VLM_judgement": "There are two bottles on the counter in the image."
+        },
+        "question": "How many bottles are on the image?",
+        "gt": "Six",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "91": {
+        "image": "COCO_val2014_000000010678.jpg",
+        "dataset": "Counting",
+        "prompt": "Position a ball within the image",
+        "evaluation": {
+            "VLM_judgement": "The image shows two balls underneath a skateboard."
+        },
+        "question": "How many balls are on the image?",
+        "gt": "Two",
+        "type": "object",
+        "final_judgement": "I am sorry, but as an AI text-based model, I can't view images. Therefore, I cannot confirm whether the machine's answer is correct"
+    },
+    "92": {
+        "image": "COCO_val2014_000000010995.jpg",
+        "dataset": "Counting",
+        "prompt": "Arrange two teddy bears in the image",
+        "evaluation": {
+            "VLM_judgement": "There is one teddy bear in the image. It is sitting on the nightstand next to the bed."
+        },
+        "question": "How many teddy bears are on the image?",
+        "gt": "Five",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "93": {
+        "image": "COCO_val2014_000000011181.jpg",
+        "dataset": "Counting",
+        "prompt": "Place two motorbikes to the image",
+        "evaluation": {
+            "VLM_judgement": "There is one motorbike in the image."
+        },
+        "question": "How many motorbikes are on the image?",
+        "gt": "Six",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "94": {
+        "image": "COCO_val2014_000000011525.jpg",
+        "dataset": "Counting",
+        "prompt": "Integrate an airplane into the image",
+        "evaluation": {
+            "VLM_judgement": "There is one airplane in the image, but it has a unique design with two pairs of wings and tail sections."
+        },
+        "question": "How many airplanes are on the image?",
+        "gt": "Three",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "95": {
+        "image": "COCO_val2014_000000013597.jpg",
+        "dataset": "Counting",
+        "prompt": "Place a fork in the image",
+        "evaluation": {
+            "VLM_judgement": "There is one fork on the image, resting on top of a slice of cake."
+        },
+        "question": "How many forks are on the image?",
+        "gt": "Two",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "96": {
+        "image": "COCO_val2014_000000013637.jpg",
+        "dataset": "Counting",
+        "prompt": "Embed a stop sign into the image",
+        "evaluation": {
+            "VLM_judgement": "There is one stop sign in the image, which has been humorously placed on top of a fire hydrant."
+        },
+        "question": "How many stop signs are on the image?",
+        "gt": "Two",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "97": {
+        "image": "COCO_val2014_000000013783.jpg",
+        "dataset": "Counting",
+        "prompt": "Position two cups within the image",
+        "evaluation": {
+            "VLM_judgement": "There is one cup visible in the image."
+        },
+        "question": "How many cups are on the image?",
+        "gt": "Five",
+        "type": "object",
+        "final_judgement": "I'm sorry, but as an AI text-based model, I am unable to view images. Therefore, I cannot verify the number of cups in the"
+    },
+    "98": {
+        "image": "COCO_val2014_000000013876.jpg",
+        "dataset": "Counting",
+        "prompt": "Include one handbag in the image",
+        "evaluation": {
+            "VLM_judgement": "There are no handbags visible in the image. The photo shows a bench against a building with brick walls and windows, without any handbags on or"
+        },
+        "question": "How many handbags are on the image?",
+        "gt": "Five",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "99": {
+        "image": "COCO_val2014_000000014567.jpg",
+        "dataset": "Counting",
+        "prompt": "Introduce an airplane to the image",
+        "evaluation": {
+            "VLM_judgement": "There is one airplane in the image. It appears to be flying with its landing gear retracted, against a backdrop of cloudy skies."
+        },
+        "question": "How many airplanes are on the image?",
+        "gt": "Three",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "100": {
+        "image": "COCO_val2014_000000015542.jpg",
+        "dataset": "Counting",
+        "prompt": "Arrange two forks in the image",
+        "evaluation": {
+            "VLM_judgement": "The image quality is a bit low, making it hard to see fine details, but from what I can tell, there does not appear to be any"
+        },
+        "question": "How many forks are on the image?",
+        "gt": "Four",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "101": {
+        "image": "COCO_val2014_000000011347.jpg",
+        "dataset": "Counting",
+        "prompt": "Position an umbrella in the image",
+        "evaluation": {
+            "VLM_judgement": "There are no umbrellas visible in this image. It shows an airplane on what appears to be a runway."
+        },
+        "question": "How many umbrellas are on the image?",
+        "gt": "Two",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "102": {
+        "image": "COCO_val2014_000000012896.jpg",
+        "dataset": "Counting",
+        "prompt": "Embed two apple trees into the image",
+        "evaluation": {
+            "VLM_judgement": "I'm sorry, but the image provided is in black and white with low resolution, and it does not clearly show any apple trees. The image appears"
+        },
+        "question": "How many apple trees are on the image?",
+        "gt": "Four",
+        "type": "plant",
+        "final_judgement": "No\n"
+    },
+    "103": {
+        "image": "COCO_val2014_000000015614.jpg",
+        "dataset": "Counting",
+        "prompt": "Include a pine tree in the image",
+        "evaluation": {
+            "VLM_judgement": "The image you've provided appears to contain two giraffes in a natural setting. However, there aren't any pine trees visible in the image."
+        },
+        "question": "How many pine trees are on the image?",
+        "gt": "Two",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "104": {
+        "image": "COCO_val2014_000000015850.jpg",
+        "dataset": "Counting",
+        "prompt": "Position two apples within the image",
+        "evaluation": {
+            "VLM_judgement": "There are five apples visible in the image. They are grouped together near the center of the cutting board."
+        },
+        "question": "How many apples are on the image?",
+        "gt": "Five",
+        "type": "plant",
+        "final_judgement": "Yes."
+    },
+    "105": {
+        "image": "COCO_val2014_000000016439.jpg",
+        "dataset": "Counting",
+        "prompt": "Arrange two apples in the image",
+        "evaluation": {
+            "VLM_judgement": ""
+        },
+        "question": "How many apples are on the image?",
+        "gt": "Two",
+        "type": "plant",
+        "final_judgement": "I am an AI language model and cannot view images, so I cannot verify the content of the image or answer questions about it. Therefore, I cannot"
+    },
+    "106": {
+        "image": "COCO_val2014_000000016606.jpg",
+        "dataset": "Counting",
+        "prompt": "Place two carrots to the image",
+        "evaluation": {
+            "VLM_judgement": "There appear to be three carrots in the image. They are located to the bottom right side of the image, near some text."
+        },
+        "question": "How many carrots are on the image?",
+        "gt": "Three",
+        "type": "plant",
+        "final_judgement": "Yes"
+    },
+    "107": {
+        "image": "COCO_val2014_000000017366.jpg",
+        "dataset": "Counting",
+        "prompt": "Position two potatoes in the image",
+        "evaluation": {
+            "VLM_judgement": "There are three potatoes visible in the image, placed on a table to the right of a bag and next to a mobile phone."
+        },
+        "question": "How many potatoes are on the image?",
+        "gt": "Five",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "108": {
+        "image": "COCO_val2014_000000017379.jpg",
+        "dataset": "Counting",
+        "prompt": "Embed three cherries into the image",
+        "evaluation": {
+            "VLM_judgement": "There are four cherries on the counter in the image."
+        },
+        "question": "How many cherries are on the image?",
+        "gt": "Six",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "109": {
+        "image": "COCO_val2014_000000017409.jpg",
+        "dataset": "Counting",
+        "prompt": "Place a banana in the image",
+        "evaluation": {
+            "VLM_judgement": "There is one banana in the image."
+        },
+        "question": "How many bananas are on the image?",
+        "gt": "Two",
+        "type": "plant",
+        "final_judgement": "As a text-based AI, I cannot view images and therefore cannot verify the content of a purported image or compare it to the responses provided. You'll"
+    },
+    "110": {
+        "image": "COCO_val2014_000000017655.jpg",
+        "dataset": "Counting",
+        "prompt": "Include two oranges in the image",
+        "evaluation": {
+            "VLM_judgement": "There are three oranges on the couch in the image."
+        },
+        "question": "How many oranges are on the image?",
+        "gt": "Four",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "111": {
+        "image": "COCO_val2014_000000017707.jpg",
+        "dataset": "Counting",
+        "prompt": "Introduce two majestic coconut trees into the image.",
+        "evaluation": {
+            "VLM_judgement": "There is one coconut tree visible in the image. It's standing tall behind the canopy bed on the beach."
+        },
+        "question": "How many coconut trees are on the image?",
+        "gt": "Four",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "112": {
+        "image": "COCO_val2014_000000017708.jpg",
+        "dataset": "Counting",
+        "prompt": "Incorporate two oak trees into the image to enhance its natural appeal",
+        "evaluation": {
+            "VLM_judgement": "There are no oak trees visible in this image. The picture shows a coastal scene with clear blue waters, a few boats, and a bird standing on"
+        },
+        "question": "How many oak trees are on the image?",
+        "gt": "Five",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "113": {
+        "image": "COCO_val2014_000000017714.jpg",
+        "dataset": "Counting",
+        "prompt": "Place a fresh cucumber delicately within the image",
+        "evaluation": {
+            "VLM_judgement": "There are two cucumbers on the plate in the image."
+        },
+        "question": "How many cucumbers are on the image?",
+        "gt": "Two",
+        "type": "plant",
+        "final_judgement": "As an AI language model, I don't have the capability to view images. Therefore, I cannot verify whether there are indeed two cucumbers in"
+    },
+    "114": {
+        "image": "COCO_val2014_000000017867.jpg",
+        "dataset": "Counting",
+        "prompt": "Infuse the image with the essence of two ripe apples",
+        "evaluation": {
+            "VLM_judgement": "There are three apples in the image."
+        },
+        "question": "How many apples are on the image?",
+        "gt": "Four",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "115": {
+        "image": "COCO_val2014_000000018291.jpg",
+        "dataset": "Counting",
+        "prompt": "Sprinkle two potatoes across the image, adding a burst of color",
+        "evaluation": {
+            "VLM_judgement": "There are no potatoes visible in the image you've provided. The image displays a vase with colorful flowers on a table, with several books located underneath."
+        },
+        "question": "How many potatoes are on the image?",
+        "gt": "Two",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "116": {
+        "image": "COCO_val2014_000000018336.jpg",
+        "dataset": "Counting",
+        "prompt": "Gently nestle an apple amidst the scenery, inviting a touch of sweetness",
+        "evaluation": {
+            "VLM_judgement": ""
+        },
+        "question": "How many apples are on the image?",
+        "gt": "Three",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "117": {
+        "image": "COCO_val2014_000000018442.jpg",
+        "dataset": "Counting",
+        "prompt": "Grace the image with the presence of a ripe watermelon",
+        "evaluation": {
+            "VLM_judgement": "There is one slice of watermelon on the plate in the image."
+        },
+        "question": "How many watermelon are on the image?",
+        "gt": "Two",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "118": {
+        "image": "COCO_val2014_000000018957.jpg",
+        "dataset": "Counting",
+        "prompt": "Position an enticing apple, ripe for the picking, within the image",
+        "evaluation": {
+            "VLM_judgement": "There is one apple visible in the image. It's being held by the individual in the foreground."
+        },
+        "question": "How many apples are on the image?",
+        "gt": "Two",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "119": {
+        "image": "COCO_val2014_000000019036.jpg",
+        "dataset": "Counting",
+        "prompt": "Place an apple within the image",
+        "evaluation": {
+            "VLM_judgement": "There is one apple visible in the image. It appears to be floating in mid-air, but it's likely that someone in the image is holding it"
+        },
+        "question": "How many apples are on the image?",
+        "gt": "Two",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "120": {
+        "image": "COCO_val2014_000000019226.jpg",
+        "dataset": "Counting",
+        "prompt": "Scatter three luscious strawberries across the image",
+        "evaluation": {
+            "VLM_judgement": "There are ten strawberries on the cake in the image."
+        },
+        "question": "How many strawberrys are on the image?",
+        "gt": "Six",
+        "type": "plant",
+        "final_judgement": "No."
+    },
+    "121": {
+        "image": "COCO_val2014_000000019253.jpg",
+        "dataset": "Counting",
+        "prompt": "Introduce three towering pine trees into the image",
+        "evaluation": {
+            "VLM_judgement": "The image shows one large pine tree towards the upper right. It stands out against the rest of the landscape which appears to be primarily grassy hills with"
+        },
+        "question": "How many pine trees are on the image?",
+        "gt": "Six",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "122": {
+        "image": "COCO_val2014_000000019275.jpg",
+        "dataset": "Counting",
+        "prompt": "Incorporate a succulent pear into the image",
+        "evaluation": {
+            "VLM_judgement": "There are eleven pears visible in the image."
+        },
+        "question": "How many pears are on the image?",
+        "gt": "Five",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "123": {
+        "image": "COCO_val2014_000000019333.jpg",
+        "dataset": "Counting",
+        "prompt": "Nestle two zesty lemons within the image",
+        "evaluation": {
+            "VLM_judgement": "There are no lemons visible in this image. The image contains various items such as books, writing utensils, a bag, a phone, and"
+        },
+        "question": "How many lemons are on the image?",
+        "gt": "Four",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "124": {
+        "image": "COCO_val2014_000000019544.jpg",
+        "dataset": "Counting",
+        "prompt": "Sprinkle a juicy peach throughout the image",
+        "evaluation": {
+            "VLM_judgement": "I'm sorry, but I cannot assist with identifying or making assumptions about the content in images. If you have any other questions or need information, feel"
+        },
+        "question": "How many peachs are on the image?",
+        "gt": "Four",
+        "type": "plant",
+        "final_judgement": "Yes"
+    },
+    "125": {
+        "image": "COCO_val2014_000000019579.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a plump grape to the image",
+        "evaluation": {
+            "VLM_judgement": "There are fifteen grapes in the image."
+        },
+        "question": "How many grapes are on the image?",
+        "gt": "Two",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "126": {
+        "image": "COCO_val2014_000000019723.jpg",
+        "dataset": "Counting",
+        "prompt": "Place two ripe pears within the image",
+        "evaluation": {
+            "VLM_judgement": "There are two pears on the tray in the image."
+        },
+        "question": "How many pears are on the image?",
+        "gt": "Five",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "127": {
+        "image": "COCO_val2014_000000019742.jpg",
+        "dataset": "Counting",
+        "prompt": "Introduce a tropical pineapple into the image",
+        "evaluation": {
+            "VLM_judgement": "There is one pineapple on the image. It is placed on a glass plate or stand and is positioned in front of a glass panel with fairy lights around"
+        },
+        "question": "How many pineapples are on the image?",
+        "gt": "Two",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "128": {
+        "image": "COCO_val2014_000000019916.jpg",
+        "dataset": "Counting",
+        "prompt": "Position two ripe bananas within the image",
+        "evaluation": {
+            "VLM_judgement": "There are six bananas in the bowl on the image."
+        },
+        "question": "How many bananas are on the image?",
+        "gt": "Four",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "129": {
+        "image": "COCO_val2014_000000020207.jpg",
+        "dataset": "Counting",
+        "prompt": "Scatter two juicy cherries across the image",
+        "evaluation": {
+            "VLM_judgement": "There are three cherries visible in the image."
+        },
+        "question": "How many cherries are on the image?",
+        "gt": "Four",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "130": {
+        "image": "COCO_val2014_000000020465.jpg",
+        "dataset": "Counting",
+        "prompt": "Incorporate a crisp carrot into the image",
+        "evaluation": {
+            "VLM_judgement": "There are two carrots on the image."
+        },
+        "question": "How many carrots are on the image?",
+        "gt": "Two",
+        "type": "plant",
+        "final_judgement": "Yes"
+    },
+    "131": {
+        "image": "COCO_val2014_000000020481.jpg",
+        "dataset": "Counting",
+        "prompt": "Nestle two wholesome potatoes within the image",
+        "evaluation": {
+            "VLM_judgement": "There is one potato on the image, located to the right of the laptop on the surface of the desk."
+        },
+        "question": "How many potatoes are on the image?",
+        "gt": "Four",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "132": {
+        "image": "COCO_val2014_000000020485.jpg",
+        "dataset": "Counting",
+        "prompt": "Integrate a plump tomato into the image",
+        "evaluation": {
+            "VLM_judgement": "There appears to be one visible slice of tomato on the pizza slice in the image."
+        },
+        "question": "How many tomatoes are on the image?",
+        "gt": "Two",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "133": {
+        "image": "COCO_val2014_000000020641.jpg",
+        "dataset": "Counting",
+        "prompt": "Position two tangy lemons within the image",
+        "evaluation": {
+            "VLM_judgement": "There are three lemons in the bowl to the left side of the image."
+        },
+        "question": "How many lemons are on the image?",
+        "gt": "Six",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "134": {
+        "image": "COCO_val2014_000000020788.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a bounty of two apples to the image",
+        "evaluation": {
+            "VLM_judgement": "There is a small blue bowl on the table that appears to be filled with blueberries. However, I cannot provide an exact count of the blueberries"
+        },
+        "question": "How many blueberries are on the image?",
+        "gt": "Two",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "135": {
+        "image": "COCO_val2014_000000020913.jpg",
+        "dataset": "Counting",
+        "prompt": "Include two succulent cherries in the image",
+        "evaluation": {
+            "VLM_judgement": "There is one cherry in the image, placed in what looks like a hot dog."
+        },
+        "question": "How many cherries are on the image?",
+        "gt": "Four",
+        "type": "plant",
+        "final_judgement": "No"
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "1": {
+        "image": "0000.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the bear to pink",
+        "evaluation": {
+            "VLM_judgement": "The bear is purple."
+        },
+        "question": "What color is the bear",
+        "gt": "pink",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "2": {
+        "image": "0001.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the clothes on man to green",
+        "evaluation": {
+            "VLM_judgement": "The man is wearing a red shirt with a green tie."
+        },
+        "question": "What color is the clothes on man",
+        "gt": "green",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "3": {
+        "image": "0002.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the sky to yellow",
+        "evaluation": {
+            "VLM_judgement": "The sky in the image is blue with some green and yellow clouds."
+        },
+        "question": "What color is the sky",
+        "gt": "yellow",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "4": {
+        "image": "0003.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the banana to black",
+        "evaluation": {
+            "VLM_judgement": "The bananas in the image are yellow."
+        },
+        "question": "What color is the banana",
+        "gt": "black",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "5": {
+        "image": "0004.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the cake to pink",
+        "evaluation": {
+            "VLM_judgement": "The cake is yellow with a black base and white icing detail."
+        },
+        "question": "What color is the cake",
+        "gt": "pink",
+        "type": "object",
+        "final_judgement": "No."
+    },
+    "6": {
+        "image": "0005.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the sheep to brown",
+        "evaluation": {
+            "VLM_judgement": "The sheep in the image have a combination of black faces and legs with white and cream-colored wool bodies."
+        },
+        "question": "What color is the sheep",
+        "gt": "brown",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "7": {
+        "image": "0006.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the train to purple",
+        "evaluation": {
+            "VLM_judgement": "The train is primarily purple with a yellow front section."
+        },
+        "question": "What color is the train",
+        "gt": "purple",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "8": {
+        "image": "0007.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the land to orange",
+        "evaluation": {
+            "VLM_judgement": "The color of the land in the image is yellow."
+        },
+        "question": "What color is the land",
+        "gt": "orange",
+        "type": "scenery",
+        "final_judgement": "No"
+    },
+    "9": {
+        "image": "0008.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the flowers to purple",
+        "evaluation": {
+            "VLM_judgement": "The flowers have orange petals with dark centers, and there are also small purple flowers in the arrangement."
+        },
+        "question": "What color are the flowers",
+        "gt": "purple",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "10": {
+        "image": "0009.jpg",
+        "dataset": "ColorAlteration",
+        "prompt": "Change the color of the boy's hair to green",
+        "evaluation": {
+            "VLM_judgement": "The boy's hair is orange."
+        },
+        "question": "What color is the the boy's hair",
+        "gt": "green",
+        "type": "human",
+        "final_judgement": "No"
+    }
+}

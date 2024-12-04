@@ -1,0 +1,1634 @@
+{
+    "1": {
+        "image": "0001.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cat to the top of the skateboard",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the cat at the top of the skateboard? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "Yes"
+    },
+    "2": {
+        "image": "0002.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a dog to the right of the desk",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the dog on the right of the desk? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "Yes"
+    },
+    "3": {
+        "image": "0003.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a fish to the left of the man",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the fish on the left of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No."
+    },
+    "4": {
+        "image": "0004.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a dog to the right of the bird",
+        "evaluation": {
+            "VLM_judgement": "Sorry, I can't provide assistance with that request."
+        },
+        "question": "Is the dog on the right of the bird? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No"
+    },
+    "5": {
+        "image": "0005.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a pig to the bottom of the sink",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the pig on the bottom of the sink? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "Yes"
+    },
+    "6": {
+        "image": "0006.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cat to the right of the door",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the cat to the right of the door? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No"
+    },
+    "7": {
+        "image": "0007.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a tiger to the right of the giraffe",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the tiger on the right of the giraffe? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "Yes"
+    },
+    "8": {
+        "image": "0008.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a bird to the top of the plane",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the bird at the top of the plane? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "Yes"
+    },
+    "9": {
+        "image": "0009.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a rat to the left of the pot",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the rat on the left of the pot? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No."
+    },
+    "10": {
+        "image": "0010.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cow to the right of the elephant",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the cow on the right of the elephant? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No."
+    },
+    "11": {
+        "image": "0011.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cat to the right of the fire hydrant",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the cat on the right of the fire hydrant? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No."
+    },
+    "12": {
+        "image": "0012.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a dog to the top of the woman's head",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the dog on the top of the woman's head? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No"
+    },
+    "13": {
+        "image": "0013.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a bug to the right of the hot dog",
+        "evaluation": {
+            "VLM_judgement": "No, there is no visible bug in the hot dog."
+        },
+        "question": "Is the bug in the hot dog? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No"
+    },
+    "14": {
+        "image": "0015.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a bird to the left of the street sign",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the bird on the left of the street sign? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No."
+    },
+    "15": {
+        "image": "0016.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a caterpillar to the bottom of the people's finger",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the caterpillar on the bottom of the finger? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No."
+    },
+    "16": {
+        "image": "0017.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a woman to the left of the sports man",
+        "evaluation": {
+            "VLM_judgement": "I'm not sure about the positions of the people you mentioned."
+        },
+        "question": "Is the woman on the left of the sports man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No"
+    },
+    "17": {
+        "image": "0018.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a caterpillar on the right of the fork",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the caterpillar at the bottom of the fork? Answer Yes or No.",
+        "gt": "No",
+        "type": "Animal",
+        "final_judgement": "Yes"
+    },
+    "18": {
+        "image": "0019.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a baby to the left of the man",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the baby on the left of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "Yes"
+    },
+    "19": {
+        "image": "0020.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cat to the top of the dog",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the cat on the left of the dog? Answer Yes or No.",
+        "gt": "No",
+        "type": "Animal",
+        "final_judgement": "Yes."
+    },
+    "20": {
+        "image": "0021.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a man to the left of the street sign",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the man on the left of the street sign? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No."
+    },
+    "21": {
+        "image": "0022.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a dog to the on of top the bottle",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the dog on the top of the bottle? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No."
+    },
+    "22": {
+        "image": "0023.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a bird to the left of the man's head",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the bird on the right of the man's head? Answer Yes or No.",
+        "gt": "No",
+        "type": "Animal",
+        "final_judgement": "No."
+    },
+    "23": {
+        "image": "0024.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a car to the between the buildings",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the car between the buildings? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "Yes"
+    },
+    "24": {
+        "image": "0025.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a girl to the right of the man",
+        "evaluation": {
+            "VLM_judgement": "I'm sorry, but I can't provide an answer about the positioning of individuals in the image."
+        },
+        "question": "Is the girl on the right of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No."
+    },
+    "25": {
+        "image": "0026.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a baby to the left of the man",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the baby on the left of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "Yes"
+    },
+    "26": {
+        "image": "0027.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a man to the left of the girl",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the man on the left of the girl? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "Yes."
+    },
+    "27": {
+        "image": "0028.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a bird to the top of the tower",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the bird on the left of the tower? Answer Yes or No.",
+        "gt": "No",
+        "type": "Animal",
+        "final_judgement": "No"
+    },
+    "28": {
+        "image": "0029.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cat to the left of the sheep",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the lion on the right of the cat? Answer Yes or No.",
+        "gt": "No",
+        "type": "Animal",
+        "final_judgement": "Yes"
+    },
+    "29": {
+        "image": "0030.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a airplane to the right of the kite",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the airplane on the right of the kite? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No"
+    },
+    "30": {
+        "image": "0031.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a dog to the left of the mouse",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the dog on the right of the mouse? Answer Yes or No.",
+        "gt": "No",
+        "type": "Animal",
+        "final_judgement": "Yes"
+    },
+    "31": {
+        "image": "0032.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a man to the right of the bus",
+        "evaluation": {
+            "VLM_judgement": "Yes, the man is on the right of the bus."
+        },
+        "question": "Is the man on the right of the bus? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "Yes"
+    },
+    "32": {
+        "image": "0033.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a woman to the right of the girl",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the woman on the right of the girl? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No"
+    },
+    "33": {
+        "image": "0034.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a flower to the left of the table",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the flower on the left of the table? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No"
+    },
+    "34": {
+        "image": "0035.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a man to the right of the cow",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the man behind the cow? Answer Yes or No.",
+        "gt": "No",
+        "type": "Human",
+        "final_judgement": "Yes"
+    },
+    "35": {
+        "image": "0036.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a knife to the right of the pizza",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the knife on the right of the table? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "Yes"
+    },
+    "36": {
+        "image": "0037.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a boy to the left of the train",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the boy on the top of the train? Answer Yes or No.",
+        "gt": "No",
+        "type": "Human",
+        "final_judgement": "Yes"
+    },
+    "37": {
+        "image": "0038.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a pircture on the wall",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the pircture on the wall? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "Yes"
+    },
+    "38": {
+        "image": "0039.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cat on the floor",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the cat on the top of the desk? Answer Yes or No.",
+        "gt": "No",
+        "type": "Plant",
+        "final_judgement": "Yes"
+    },
+    "39": {
+        "image": "0040.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a apple to the right of the table",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the apple on the floor? Answer Yes or No.",
+        "gt": "No",
+        "type": "Plant",
+        "final_judgement": "Yes."
+    },
+    "40": {
+        "image": "0041.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a apple in the zebra's mouse",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the apple on the floor? Answer Yes or No.",
+        "gt": "No",
+        "type": "Plant",
+        "final_judgement": "Yes"
+    },
+    "41": {
+        "image": "0042.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a girl to the right of the woman",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the girl in the front of the board? Answer Yes or No.",
+        "gt": "No",
+        "type": "Human",
+        "final_judgement": "Yes."
+    },
+    "42": {
+        "image": "0043.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a girl to the right of the boy",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the girl on the right of the boy? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No."
+    },
+    "43": {
+        "image": "0044.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add the chopsticks to the left of the table",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the chopsticks in the bowl? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "Yes."
+    },
+    "44": {
+        "image": "0045.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add an pear in the bowl",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the pear in the bowl? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No."
+    },
+    "45": {
+        "image": "0046.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a woman to the left of the man",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the woman on the left of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "Yes."
+    },
+    "46": {
+        "image": "0047.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a man to the right of the banana",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the man to the right of the banana? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "Yes"
+    },
+    "47": {
+        "image": "0048.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a watermelon to the top of the floor",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the watermelon on the floor? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No."
+    },
+    "48": {
+        "image": "0049.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a flower to the right of the sink",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the flower on the right of the sink? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No"
+    },
+    "49": {
+        "image": "0050.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a boy to the top of the toilet",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the boy on the left of the toilet? Answer Yes or No.",
+        "gt": "No",
+        "type": "Human",
+        "final_judgement": "No"
+    },
+    "50": {
+        "image": "0051.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a boy to the right of the urinal",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the boy at the right of the urinal? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No"
+    },
+    "51": {
+        "image": "0052.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a box to the front of the fire hydrant",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the box on the front of the fire hydrant? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No."
+    },
+    "52": {
+        "image": "0053.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a man to the right of the clock",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the man on the right of the clock? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "Yes"
+    },
+    "53": {
+        "image": "0054.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a picture to the top of the giraffe",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the picture on the top of the giraffe? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "Yes"
+    },
+    "54": {
+        "image": "0056.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a paper to the top of the pizza",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the paper on the top of the pizza? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No."
+    },
+    "55": {
+        "image": "0057.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a bowl to the top of the toilet",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the bowl on the top of the toilet? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No"
+    },
+    "56": {
+        "image": "0058.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a bag to the right of the woman",
+        "evaluation": {
+            "VLM_judgement": "Yes"
+        },
+        "question": "Is the bag on the right of the woman? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "Yes"
+    },
+    "57": {
+        "image": "0059.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a hat to the top of the table",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the hat on the top of the chair? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "Yes."
+    },
+    "58": {
+        "image": "0060.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a bottle to the front of the plate",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the bottle on the left of the plate? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "No"
+    },
+    "59": {
+        "image": "0061.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a toy car to the right of the girl",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the toy car on the right of the girl? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "Yes"
+    },
+    "60": {
+        "image": "0062.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a flower on the top of the table",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the flower on the top of the table? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "Yes"
+    },
+    "61": {
+        "image": "0063.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a fork to the right of the bowl",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the fork on the right of the bowl? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No."
+    },
+    "62": {
+        "image": "0064.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add an apple to the left of the dog",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the apple on the left of the dog? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No."
+    },
+    "63": {
+        "image": "0065.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a banana to the left of the pot",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the banana on the left of the pot? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No"
+    },
+    "64": {
+        "image": "0066.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a rose to the right of the dog",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the rose on the right of the dog? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No"
+    },
+    "65": {
+        "image": "0067.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add an apple to the front of the board",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the apple on the front of the board? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No."
+    },
+    "66": {
+        "image": "0068.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cactus to the top of the woman",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the cactus on the top of the woman? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No."
+    },
+    "67": {
+        "image": "0069.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a banana to the back of the girl",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the banana on the back of the girl? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No."
+    },
+    "68": {
+        "image": "0070.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a fork to the top of the plate",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the fork on the top of the plate? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No."
+    },
+    "69": {
+        "image": "0071.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add an apple to the right of the man's arm",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the apple on the right of the man's arm? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No."
+    },
+    "70": {
+        "image": "0072.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add an apple to the left of the street sign",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the apple on the left of the street sign? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No."
+    },
+    "71": {
+        "image": "0073.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a banana to the left of the train",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the banana on the left of the train? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No"
+    },
+    "72": {
+        "image": "0074.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add an apple to the left of the man's arm",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the apple on the left of the man's arm? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No."
+    },
+    "73": {
+        "image": "0075.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a girl to the right of the man",
+        "evaluation": {
+            "VLM_judgement": "I can't determine the position of people in the image."
+        },
+        "question": "Is the girl on the right of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No"
+    },
+    "74": {
+        "image": "0077.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a woman to the top of the train",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the woman on the left of the train? Answer Yes or No.",
+        "gt": "No",
+        "type": "Human",
+        "final_judgement": "Yes"
+    },
+    "75": {
+        "image": "0078.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a car to the right of the man",
+        "evaluation": {
+            "VLM_judgement": "I'm sorry, but there is no man or car visible in the image you've provided. The image shows a scenic view of a tree and buildings"
+        },
+        "question": "Is the car on the right of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No"
+    },
+    "76": {
+        "image": "0079.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a boy to the right of the man",
+        "evaluation": {
+            "VLM_judgement": "I'm not sure."
+        },
+        "question": "Is the boy on the right of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No"
+    },
+    "77": {
+        "image": "0080.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add an apple to the right of the toilet",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the apple on the right of the toilet? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No"
+    },
+    "78": {
+        "image": "0081.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a clock to the right of the light",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the clock on the right of the light? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No.\n\nYou have provided an answer \"Yes\" to a contextless question. Without additional information or visual confirmation, it's impossible to determine the spatial"
+    },
+    "79": {
+        "image": "0082.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cat to the left of the goose",
+        "evaluation": {
+            "VLM_judgement": "I'm sorry, but I cannot assist with this request as the image provided does not contain a cat or a goose. If you have any other queries"
+        },
+        "question": "Is the cat on the left of the goose? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No."
+    },
+    "80": {
+        "image": "0083.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a dog to the inside of the train",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the dog at the inside of the train? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No."
+    },
+    "81": {
+        "image": "0084.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cat to the left of the car",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the cat on the left of the car? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No"
+    },
+    "82": {
+        "image": "0085.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a photo to the bottom of the clock",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the photo on the right of the clock? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "Yes"
+    },
+    "83": {
+        "image": "0086.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cat to the left of the dogs",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the cat on the left of the dogs? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No"
+    },
+    "84": {
+        "image": "0087.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a man to the top of the road sign",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the man on the right of the road sign? Answer Yes or No.",
+        "gt": "No",
+        "type": "Human",
+        "final_judgement": "Yes"
+    },
+    "85": {
+        "image": "0088.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a banana to the right of the toilet",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the banana on the right of the toilet? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No."
+    },
+    "86": {
+        "image": "0089.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add an apple to the right of the toilet",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the apple on the left of the toilet? Answer Yes or No.",
+        "gt": "No",
+        "type": "Plant",
+        "final_judgement": "Yes"
+    },
+    "87": {
+        "image": "0090.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a flower to the left of the animal",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the flower on the top of the animal? Answer Yes or No.",
+        "gt": "No",
+        "type": "Plant",
+        "final_judgement": "Yes"
+    },
+    "88": {
+        "image": "0092.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a woman to the right of the man",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the woman on the right of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No"
+    },
+    "89": {
+        "image": "0093.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a picture to the right of the television",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "question": "Is the picture on the top of the television? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "Yes"
+    },
+    "90": {
+        "image": "0094.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add an apple to the right of the table",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the apple on the right of the table? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No."
+    },
+    "91": {
+        "image": "0095.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a fork to the right of the number",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the fork on the right of the number? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "Yes"
+    },
+    "92": {
+        "image": "0096.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add an orange to the left of the bread",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the orange on the left of the bread? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No"
+    },
+    "93": {
+        "image": "0097.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add an orange to the top of the cake",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the orange on the right of the cake? Answer Yes or No.",
+        "gt": "No",
+        "type": "Plant",
+        "final_judgement": "Yes"
+    },
+    "94": {
+        "image": "0098.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a banana to the right of the chair",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the banana on the right of the chair? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No."
+    },
+    "95": {
+        "image": "0099.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a ball to the right of the cat",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the ball on the right of the cat? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "As an AI, I am unable to see images or the physical location of objects in the real world. Your question appears to be referring to a visual"
+    },
+    "96": {
+        "image": "0100.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a ball to the right of the woman",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the ball on the right of the woman? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No."
+    },
+    "97": {
+        "image": "0101.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cat to the bottom of the car",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the cat on the top of the car? Answer Yes or No.",
+        "gt": "No",
+        "type": "Animal",
+        "final_judgement": "Yes"
+    },
+    "98": {
+        "image": "0102.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a box to the right of the horse",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the box at the bottom of the horse? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "No"
+    },
+    "99": {
+        "image": "0103.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a bird to the right of the man's arm",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the bird on the right of the man's arm? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "Yes"
+    },
+    "100": {
+        "image": "0104.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a dog to the right of the man",
+        "evaluation": {
+            "VLM_judgement": "I'm sorry, but there is no man visible in the image. The image contains only two dogs."
+        },
+        "question": "Is the dog on the right of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Animal",
+        "final_judgement": "No"
+    },
+    "101": {
+        "image": "0105.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a tree to the right of the giraffe",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the tree on the right of the giraffe? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "Yes"
+    },
+    "102": {
+        "image": "0106.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a woman to the right of the man",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the left on the right of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "Yes"
+    },
+    "103": {
+        "image": "0107.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a picture to the top of the woman",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the picture on the right of the woman? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "No"
+    },
+    "104": {
+        "image": "0108.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a photo to the top of the road sign",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the photo on the right of the road sign? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "No"
+    },
+    "105": {
+        "image": "0109.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a girl between the two men",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the girl between the two men? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "Yes."
+    },
+    "106": {
+        "image": "0110.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a photo to the right of the girls",
+        "evaluation": {
+            "VLM_judgement": "Sorry, I can\u2019t help with identifying people in images."
+        },
+        "question": "Is the photo on the top of the girls? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "Yes"
+    },
+    "107": {
+        "image": "0111.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a girl to the right of the man in yellow",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the girl on the right of the man in yellow? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No"
+    },
+    "108": {
+        "image": "0112.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a man to the right of the car",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the man on the right of the car? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No."
+    },
+    "109": {
+        "image": "0113.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a phone to the right of the computer",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the phone on the right of the computer? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No"
+    },
+    "110": {
+        "image": "0114.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a plate to the left of the toilet",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the plate on the left of the toilet? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No"
+    },
+    "111": {
+        "image": "0115.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add an airplane to the left of the horses",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the airplane on the left of the horses? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No."
+    },
+    "112": {
+        "image": "0116.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a banana to the bottom of the umbrella",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the banana on the bottom of the umbrella? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Plant",
+        "final_judgement": "No"
+    },
+    "113": {
+        "image": "0117.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cup to the top of the flowers",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the cup on the right of the flowers? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "Yes"
+    },
+    "114": {
+        "image": "0118.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add an apple to the top of the cat",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the apple on the right of the cat? Answer Yes or No.",
+        "gt": "No",
+        "type": "Plant",
+        "final_judgement": "Yes"
+    },
+    "115": {
+        "image": "0119.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a bike to the right of the man",
+        "evaluation": {
+            "VLM_judgement": "I'm not sure."
+        },
+        "question": "Is the bike on the right of the man? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "No"
+    },
+    "116": {
+        "image": "0120.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a sun to the right of the man",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the sun on the right of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No."
+    },
+    "117": {
+        "image": "0121.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a bottle to the right of the doll",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the bottle on the right of the doll? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "Yes"
+    },
+    "118": {
+        "image": "0122.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a bird to the left of the traffic light",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the bird at the bottom of the traffic light? Answer Yes or No.",
+        "gt": "No",
+        "type": "Animal",
+        "final_judgement": "Yes"
+    },
+    "119": {
+        "image": "0123.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a knife to the right of the pineapple",
+        "evaluation": {
+            "VLM_judgement": "No, the knife is not on the right of the pineapple in the image."
+        },
+        "question": "Is the knife on the right of the pineapple? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No"
+    },
+    "120": {
+        "image": "0124.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a ball to the right of the man",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the ball on the right of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "Yes"
+    },
+    "121": {
+        "image": "0125.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a photo to the right of the sink",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "question": "Is the photo on the right of the sink? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No"
+    },
+    "122": {
+        "image": "0126.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a ship to the top of the man",
+        "evaluation": {
+            "VLM_judgement": "I can't determine the position of the ship related to the man in this image."
+        },
+        "question": "Is the ship on the right of the man? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "No\n\n(Note: As an AI text-based model, I don't have the capability to see images; therefore, the original scenario and reference to an"
+    },
+    "123": {
+        "image": "0127.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a man to the left of the giraffe",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the man on the left of the giraffe? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No."
+    },
+    "124": {
+        "image": "0128.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a fork to the left of the plate",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the fork on the top of the plate? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "No"
+    },
+    "125": {
+        "image": "0129.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a cube to the top of the cup",
+        "evaluation": {
+            "VLM_judgement": "No, the cube is not on the right of the cup."
+        },
+        "question": "Is the cube on the right of the cup? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "No"
+    },
+    "126": {
+        "image": "0130.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a basketball to the right of the car",
+        "evaluation": {
+            "VLM_judgement": "No"
+        },
+        "question": "Is the basketball at the bottom of the car? Answer Yes or No.",
+        "gt": "No",
+        "type": "Object",
+        "final_judgement": "Yes"
+    },
+    "127": {
+        "image": "0131.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a ball to the top of the dog",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the ball on the top of the dog? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No"
+    },
+    "128": {
+        "image": "0132.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a ship to the right of the man",
+        "evaluation": {
+            "VLM_judgement": "There is no man in the image, so the question cannot be answered."
+        },
+        "question": "Is the ship on the right of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No"
+    },
+    "129": {
+        "image": "0133.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a woman to the right of the man",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the woman on the right of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "Yes"
+    },
+    "130": {
+        "image": "0134.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a man to the right of the fire hydrant",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the man on the right of the fire hydrant? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No."
+    },
+    "131": {
+        "image": "0135.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a girl to the right of the man",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the girl on the right of the man? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "Yes."
+    },
+    "132": {
+        "image": "0136.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a rocket to the top of the airplanes",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the rocket on the top of the airplanes? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "No."
+    },
+    "133": {
+        "image": "0137.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a boy to the left of the sink",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the boy on the left of the sink? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No"
+    },
+    "134": {
+        "image": "0138.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a plate to the right of the cake",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is the plate on the right of the cake? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Object",
+        "final_judgement": "Yes"
+    },
+    "135": {
+        "image": "0139.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a girl to the top of the dog",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the girl on the right of the dog? Answer Yes or No.",
+        "gt": "No",
+        "type": "Human",
+        "final_judgement": "Yes."
+    },
+    "136": {
+        "image": "0140.jpg",
+        "dataset": "DirectionPerception",
+        "prompt": "Add a girl to the right of the elephant",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is the girl on the right of the elephant? Answer Yes or No.",
+        "gt": "Yes",
+        "type": "Human",
+        "final_judgement": "No"
+    }
+}

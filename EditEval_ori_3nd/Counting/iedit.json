@@ -1,0 +1,122 @@
+{
+    "1": {
+        "image": "COCO_val2014_000000000042.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two birds to the shoe rack",
+        "evaluation": {
+            "VLM_judgement": "There are no birds on the shoe rack, but there is a cat sitting on it."
+        },
+        "question": "How many birds are there on the shoe rack?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "2": {
+        "image": "COCO_val2014_000000000074.jpg",
+        "dataset": "Counting",
+        "prompt": "Add three birds to the image",
+        "evaluation": {
+            "VLM_judgement": "There are no cats in the image."
+        },
+        "question": "How many cats are on the image?",
+        "gt": "Three",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "3": {
+        "image": "COCO_val2014_000000000133.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two monkeys to the desk",
+        "evaluation": {
+            "VLM_judgement": "There is one toy monkey in the image hanging on the side of the desk."
+        },
+        "question": "How many monkeys are on the image?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "4": {
+        "image": "COCO_val2014_000000000283.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two pigs to the desk",
+        "evaluation": {
+            "VLM_judgement": "There are three pig illustrations on the wine bottle label."
+        },
+        "question": "How many pigs are on the desk?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "5": {
+        "image": "COCO_val2014_000000000589.jpg",
+        "dataset": "Counting",
+        "prompt": "Add a panda to the grass",
+        "evaluation": {
+            "VLM_judgement": "There are no real pandas on the grass; there's an object resembling a panda."
+        },
+        "question": "How many pandas are on the grass?",
+        "gt": "One",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "6": {
+        "image": "COCO_val2014_000000000711.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two chickens to the couch",
+        "evaluation": {
+            "VLM_judgement": "There are no chickens on the couch."
+        },
+        "question": "How many chickens are on the couch?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "7": {
+        "image": "COCO_val2014_000000000772.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two birds to the grass",
+        "evaluation": {
+            "VLM_judgement": "There are no birds on the grass in the image."
+        },
+        "question": "How many birds are on the grass?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "8": {
+        "image": "COCO_val2014_000000000827.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two elephants to the grass",
+        "evaluation": {
+            "VLM_judgement": "There are no elephants; it's a zebra on the grass."
+        },
+        "question": "How many elephants are on the grass?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No."
+    },
+    "9": {
+        "image": "COCO_val2014_000000001063.jpg",
+        "dataset": "Counting",
+        "prompt": "Add two turtles to the grass",
+        "evaluation": {
+            "VLM_judgement": "There are no turtles on the grass."
+        },
+        "question": "How many turtles are on the grass?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No."
+    },
+    "10": {
+        "image": "COCO_val2014_000000001083.jpg",
+        "dataset": "Counting",
+        "prompt": "Add three dogs to the grass",
+        "evaluation": {
+            "VLM_judgement": "There are no dogs on the grass in the image."
+        },
+        "question": "How many dogs are on the grass?",
+        "gt": "Three",
+        "type": "animal",
+        "final_judgement": "No"
+    }
+}

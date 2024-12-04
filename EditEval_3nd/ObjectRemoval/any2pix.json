@@ -1,0 +1,122 @@
+{
+    "1": {
+        "image": "0000.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "From the image, the white slippers should be removed",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is there a white slippers in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "2": {
+        "image": "0001.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Erase the plate from the picture",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a plate in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "3": {
+        "image": "0012.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "The letters are to be removed from the image",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Are there letters in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "4": {
+        "image": "0003.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Eliminate the skateboard from the picture",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is there a skateboard in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "5": {
+        "image": "0004.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Get rid of the small rock on the ground in the picture",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is there a small rock on the ground in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "6": {
+        "image": "0005.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Eliminate the tree's shadow from the picture",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there tree's shadow in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "7": {
+        "image": "0006.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Take out the man from the picture",
+        "evaluation": {
+            "VLM_judgement": "I'm not sure based on this image."
+        },
+        "question": "Is there a man in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "8": {
+        "image": "0007.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Erase the pen from the picture",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is there a pen in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "9": {
+        "image": "0015.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "The man is to be expunged from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there man in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "human",
+        "final_judgement": "No"
+    },
+    "10": {
+        "image": "0009.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Erase the flag from the picture",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is there a flag in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "Yes"
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "1": {
+        "image": "COCO_val2014_000000000042.jpg",
+        "dataset": "Counting",
+        "prompt": "Place a penguin companion amidst the shoe collection",
+        "evaluation": {
+            "VLM_judgement": "There are three penguin figurines on the shoe rack."
+        },
+        "question": "How many penguins are there on the shoe rack?",
+        "gt": "One",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "2": {
+        "image": "COCO_val2014_000000000074.jpg",
+        "dataset": "Counting",
+        "prompt": "Introduce a owl presence into the picture",
+        "evaluation": {
+            "VLM_judgement": "There are three owls in the image."
+        },
+        "question": "How many owls are on the image?",
+        "gt": "One",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "3": {
+        "image": "COCO_val2014_000000000133.jpg",
+        "dataset": "Counting",
+        "prompt": "Place two swallows on the desk",
+        "evaluation": {
+            "VLM_judgement": "There are three swallows on the image."
+        },
+        "question": "How many swallows are on the image?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "4": {
+        "image": "COCO_val2014_000000000283.jpg",
+        "dataset": "Counting",
+        "prompt": "Perch two gooses on the desk",
+        "evaluation": {
+            "VLM_judgement": "There are no geese on the desk."
+        },
+        "question": "How many gooses are on the desk?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "5": {
+        "image": "COCO_val2014_000000000589.jpg",
+        "dataset": "Counting",
+        "prompt": "Introduce a parrot to the green expanse",
+        "evaluation": {
+            "VLM_judgement": "There is one parrot on the grass."
+        },
+        "question": "How many parrots are on the grass?",
+        "gt": "One",
+        "type": "animal",
+        "final_judgement": "Yes"
+    },
+    "6": {
+        "image": "COCO_val2014_000000000711.jpg",
+        "dataset": "Counting",
+        "prompt": "Place one bird comfortably on the couch",
+        "evaluation": {
+            "VLM_judgement": "There are four birds on the couch."
+        },
+        "question": "How many birds are on the couch?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "7": {
+        "image": "COCO_val2014_000000000772.jpg",
+        "dataset": "Counting",
+        "prompt": "Invite one cat to frolic in the grass",
+        "evaluation": {
+            "VLM_judgement": "There is one cat on the grass."
+        },
+        "question": "How many cat are on the grass?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "8": {
+        "image": "COCO_val2014_000000000827.jpg",
+        "dataset": "Counting",
+        "prompt": "Introduce two crows into the grassy landscape",
+        "evaluation": {
+            "VLM_judgement": "There are no crows on the grass in the image."
+        },
+        "question": "How many crows are on the grass?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "9": {
+        "image": "COCO_val2014_000000001063.jpg",
+        "dataset": "Counting",
+        "prompt": "Position two crabs amidst the greenery",
+        "evaluation": {
+            "VLM_judgement": "There are no crabs on the grass."
+        },
+        "question": "How many crabs are on the grass?",
+        "gt": "Two",
+        "type": "animal",
+        "final_judgement": "No"
+    },
+    "10": {
+        "image": "COCO_val2014_000000001083.jpg",
+        "dataset": "Counting",
+        "prompt": "Grace the grass with three turtles",
+        "evaluation": {
+            "VLM_judgement": "There are six turtles on the grass."
+        },
+        "question": "How many turtles are on the grass?",
+        "gt": "Three",
+        "type": "animal",
+        "final_judgement": "No"
+    }
+}

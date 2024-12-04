@@ -7,7 +7,7 @@ import numpy as np
 from tqdm import tqdm
 
 from metrics_utils.clip_utils import run_clip
-from metrics_utils.gpt_utils import gpt4_run
+from metrics_utils.gpt4v_utils import gpt4_run
 
 
 PROJECT_ROOT = "/path/to/project"

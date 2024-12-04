@@ -1,0 +1,122 @@
+{
+    "1": {
+        "image": "0000.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Remove the furry thing from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a furry thing in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No."
+    },
+    "2": {
+        "image": "0001.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Remove the blue thing from the image",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is there a blue thing in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "Yes"
+    },
+    "3": {
+        "image": "0012.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Remove the brown building from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a brown building in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "4": {
+        "image": "0003.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Remove the snow from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there snow in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "5": {
+        "image": "0004.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Remove the big rock from the image",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is there a big rock in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "6": {
+        "image": "0005.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Remove the building behind from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a building behind in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "No"
+    },
+    "7": {
+        "image": "0006.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Remove the tent from the image",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is there a tent in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "human",
+        "final_judgement": "Yes"
+    },
+    "8": {
+        "image": "0007.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Remove the paper from the image",
+        "evaluation": {
+            "VLM_judgement": "No."
+        },
+        "question": "Is there a paper in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "object",
+        "final_judgement": "Yes"
+    },
+    "9": {
+        "image": "0015.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Remove the trees from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there trees in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No"
+    },
+    "10": {
+        "image": "0009.jpg",
+        "dataset": "ObjectRemoval",
+        "prompt": "Remove the trees from the image",
+        "evaluation": {
+            "VLM_judgement": "Yes."
+        },
+        "question": "Is there a tree in the image? Answer Yes or No.",
+        "gt": "No",
+        "type": "plant",
+        "final_judgement": "No"
+    }
+}
