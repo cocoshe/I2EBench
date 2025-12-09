@@ -28,7 +28,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the man from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a man in the image? Answer Yes or No.",
         "gt": "No",
@@ -64,7 +64,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the boys from the image",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is there a boy in the image? Answer Yes or No.",
         "gt": "No",
@@ -100,7 +100,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the dog from the image",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is there a dog in the image? Answer Yes or No.",
         "gt": "No",
@@ -112,19 +112,19 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the river from the image",
         "evaluation": {
-            "VLM_judgement": "No"
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a river in the image? Answer Yes or No.",
         "gt": "No",
         "type": "scenery",
-        "final_judgement": "Yes"
+        "final_judgement": "No"
     },
     "11": {
         "image": "0010.jpg",
         "dataset": "ObjectRemoval",
         "prompt": "Remove the man from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a man in the image? Answer Yes or No.",
         "gt": "No",
@@ -172,7 +172,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the strawberry from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a strawberry in the image? Answer Yes or No.",
         "gt": "No",
@@ -196,7 +196,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the woman from the image",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is there a woman in the image? Answer Yes or No.",
         "gt": "No",
@@ -244,7 +244,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the horses from the image",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is there a horse in the image? Answer Yes or No.",
         "gt": "No",
@@ -292,7 +292,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the elephant from the image",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is there an elephant in the image? Answer Yes or No.",
         "gt": "No",
@@ -304,12 +304,12 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the cloud from the image",
         "evaluation": {
-            "VLM_judgement": "No"
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a cloud in the image? Answer Yes or No.",
         "gt": "No",
         "type": "scenery",
-        "final_judgement": "Yes"
+        "final_judgement": "No"
     },
     "27": {
         "image": "0026.jpg",
@@ -412,7 +412,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the baseball player from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there an baseball player in the image? Answer Yes or No.",
         "gt": "No",
@@ -496,7 +496,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the giraffe from the image",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is there a giraffe in the image? Answer Yes or No.",
         "gt": "No",
@@ -520,12 +520,12 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the baby from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "No"
         },
         "question": "Is there a baby in the image? Answer Yes or No.",
         "gt": "No",
         "type": "human",
-        "final_judgement": "No"
+        "final_judgement": "Yes"
     },
     "45": {
         "image": "0044.jpg",
@@ -580,7 +580,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the cake from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a cake in the image? Answer Yes or No.",
         "gt": "No",
@@ -664,7 +664,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the sun from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the sun in the image? Answer Yes or No.",
         "gt": "No",
@@ -700,7 +700,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the forest from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a forest in the image? Answer Yes or No.",
         "gt": "No",
@@ -724,7 +724,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the little baby from the image",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is there a little baby in the image? Answer Yes or No.",
         "gt": "No",
@@ -736,7 +736,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the cattle from the image",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is there a cattle in the image? Answer Yes or No.",
         "gt": "No",
@@ -760,7 +760,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the boy from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a boy in the image? Answer Yes or No.",
         "gt": "No",
@@ -772,7 +772,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the flowers from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a flower in the image? Answer Yes or No.",
         "gt": "No",
@@ -796,19 +796,19 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the cattle from the image",
         "evaluation": {
-            "VLM_judgement": "No"
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a cattle in the image? Answer Yes or No.",
         "gt": "No",
         "type": "animal",
-        "final_judgement": "Yes"
+        "final_judgement": "No"
     },
     "68": {
         "image": "0067.jpg",
         "dataset": "ObjectRemoval",
         "prompt": "Remove the husband from the image",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is there a husband in the image? Answer Yes or No.",
         "gt": "No",
@@ -832,7 +832,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the bananas from the image",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is there a banana in the image? Answer Yes or No.",
         "gt": "No",
@@ -856,7 +856,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the horse from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a horse in the image? Answer Yes or No.",
         "gt": "No",
@@ -868,7 +868,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the woman from the image",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is there a woman in the image? Answer Yes or No.",
         "gt": "No",
@@ -916,7 +916,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the cat from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a cat in the image? Answer Yes or No.",
         "gt": "No",
@@ -928,31 +928,31 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the woman from the image",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a woman in the image? Answer Yes or No.",
         "gt": "No",
         "type": "human",
-        "final_judgement": "Yes"
+        "final_judgement": "No"
     },
     "79": {
         "image": "0078.jpg",
         "dataset": "ObjectRemoval",
         "prompt": "Remove the cherry from the image",
         "evaluation": {
-            "VLM_judgement": "Yes"
+            "VLM_judgement": "No"
         },
         "question": "Is there a cherry in the image? Answer Yes or No.",
         "gt": "No",
         "type": "plant",
-        "final_judgement": "No"
+        "final_judgement": "Yes"
     },
     "80": {
         "image": "0079.jpg",
         "dataset": "ObjectRemoval",
         "prompt": "Remove the bear from the image",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is there a bear in the image? Answer Yes or No.",
         "gt": "No",
@@ -1024,7 +1024,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the black people from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a black people in the image? Answer Yes or No.",
         "gt": "No",
@@ -1036,36 +1036,36 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the pineapple from the image",
         "evaluation": {
-            "VLM_judgement": "Yes"
+            "VLM_judgement": "No"
         },
         "question": "Is there a pineapple in the image? Answer Yes or No.",
         "gt": "No",
         "type": "plant",
-        "final_judgement": "No"
+        "final_judgement": "Yes"
     },
     "88": {
         "image": "0087.jpg",
         "dataset": "ObjectRemoval",
         "prompt": "Remove the camera from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "No"
         },
         "question": "Is there a camera in the image? Answer Yes or No.",
         "gt": "No",
         "type": "object",
-        "final_judgement": "No"
+        "final_judgement": "Yes"
     },
     "89": {
         "image": "0088.jpg",
         "dataset": "ObjectRemoval",
         "prompt": "Remove the fat lady from the image",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a fat lady in the image? Answer Yes or No.",
         "gt": "No",
         "type": "human",
-        "final_judgement": "Yes"
+        "final_judgement": "No"
     },
     "90": {
         "image": "0089.jpg",
@@ -1108,7 +1108,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the snowfield from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a snowfield in the image? Answer Yes or No.",
         "gt": "No",
@@ -1144,7 +1144,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the scissors from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a scissors in the image? Answer Yes or No.",
         "gt": "No",
@@ -1156,7 +1156,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the sandbeach from the image",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is there a sandbeach in the image? Answer Yes or No.",
         "gt": "No",
@@ -1180,7 +1180,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the cherry tomato from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a cherry tomato in the image? Answer Yes or No.",
         "gt": "No",
@@ -1300,31 +1300,31 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the peacock from the image",
         "evaluation": {
-            "VLM_judgement": "Yes"
+            "VLM_judgement": "No"
         },
         "question": "Is there a peacock in the image? Answer Yes or No.",
         "gt": "No",
         "type": "animal",
-        "final_judgement": "No"
+        "final_judgement": "Yes"
     },
     "110": {
         "image": "0110.jpg",
         "dataset": "ObjectRemoval",
         "prompt": "Remove the fork from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "No"
         },
         "question": "Is there a fork in the image? Answer Yes or No.",
         "gt": "No",
         "type": "object",
-        "final_judgement": "No"
+        "final_judgement": "Yes"
     },
     "111": {
         "image": "0111.jpg",
         "dataset": "ObjectRemoval",
         "prompt": "Remove the girl from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a girl in the image? Answer Yes or No.",
         "gt": "No",
@@ -1336,7 +1336,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the koala from the image",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is there a koala in the image? Answer Yes or No.",
         "gt": "No",
@@ -1360,12 +1360,12 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the spray from the image",
         "evaluation": {
-            "VLM_judgement": "Yes"
+            "VLM_judgement": "No"
         },
         "question": "Is there a spray in the image? Answer Yes or No.",
         "gt": "No",
         "type": "scenery",
-        "final_judgement": "No"
+        "final_judgement": "Yes"
     },
     "115": {
         "image": "0115.jpg",
@@ -1432,19 +1432,19 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the broccoli from the image",
         "evaluation": {
-            "VLM_judgement": "Yes"
+            "VLM_judgement": "No"
         },
         "question": "Is there a broccoli in the image? Answer Yes or No.",
         "gt": "No",
         "type": "plant",
-        "final_judgement": "No"
+        "final_judgement": "Yes"
     },
     "121": {
         "image": "0121.jpg",
         "dataset": "ObjectRemoval",
         "prompt": "Remove the old man from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there an old man in the image? Answer Yes or No.",
         "gt": "No",
@@ -1492,7 +1492,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the man from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a man in the image? Answer Yes or No.",
         "gt": "No",
@@ -1504,12 +1504,12 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the chick from the image",
         "evaluation": {
-            "VLM_judgement": "No"
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a chick in the image? Answer Yes or No.",
         "gt": "No",
         "type": "animal",
-        "final_judgement": "Yes"
+        "final_judgement": "No"
     },
     "127": {
         "image": "0127.jpg",
@@ -1552,7 +1552,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the man from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a man in the image? Answer Yes or No.",
         "gt": "No",
@@ -1564,7 +1564,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the pandas from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a panda in the image? Answer Yes or No.",
         "gt": "No",
@@ -1588,12 +1588,12 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the spray from the image",
         "evaluation": {
-            "VLM_judgement": "Yes"
+            "VLM_judgement": "No"
         },
         "question": "Is there an spray in the image? Answer Yes or No.",
         "gt": "No",
         "type": "scenery",
-        "final_judgement": "No"
+        "final_judgement": "Yes"
     },
     "134": {
         "image": "0134.jpg",
@@ -1624,7 +1624,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the polar bear from the image",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is there an polar bear in the image? Answer Yes or No.",
         "gt": "No",
@@ -1660,7 +1660,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove the baby from the image",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is there a baby in the image? Answer Yes or No.",
         "gt": "No",

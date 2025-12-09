@@ -7,10 +7,12 @@ import numpy as np
 from tqdm import tqdm
 
 from metrics_utils.clip_utils import run_clip
-from metrics_utils.gpt_utils import gpt4_run
+# from metrics_utils.gpt4v_utils import gpt4_run
+from metrics_utils.qwenvl_utils import qwenvl_run
 
 
-PROJECT_ROOT = "/path/to/project"
+# PROJECT_ROOT = "/home/ma-user/work/mayiwei/yk/EditBench"
+PROJECT_ROOT = "/home/linweihuang.lwh/EditBench"
 SRC_PATH = "EditData"
 DST_PATH = "EditResult"
 ORI_DST_PATH = "EditResult_ori"
@@ -43,6 +45,8 @@ EDIT_MODELS = [
     'any2pix',
     'iedit',
     'hqedit',
+    'qwen_image_edit',
+    'fluxkontext'
 ]
 
 NUMBER_MODELS = [
@@ -65,7 +69,9 @@ def calc_metrics(task, edit_model, image_name, dst, input_instruction, gt_answer
     edited_path = os.path.join(PROJECT_ROOT, dst, task, edit_model, image_name)
 
     print('before gpt4')
-    vlm_output = gpt4_run(edited_path, input_instruction)
+    # vlm_output = gpt4_run(edited_path, input_instruction)
+    vlm_output = qwenvl_run(edited_path, input_instruction)
+
     print('-'*100)
     print('input_path: ', gt_path)
     print('edited_path: ', edited_path)

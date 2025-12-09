@@ -16,7 +16,7 @@
         "dataset": "Replacement",
         "prompt": "replace dog with cat",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is there a dog in the image? Answer Yes or No.",
         "gt": "No",
@@ -88,7 +88,7 @@
         "dataset": "Replacement",
         "prompt": "replace boy with sheep",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a sheep in the image? Answer Yes or No.",
         "gt": "Yes",
@@ -172,19 +172,19 @@
         "dataset": "Replacement",
         "prompt": "replace elephant with bear",
         "evaluation": {
-            "VLM_judgement": "Yes"
+            "VLM_judgement": "No"
         },
         "question": "Is there a bear in the image? Answer Yes or No.",
         "gt": "Yes",
         "type": "animal",
-        "final_judgement": "Yes"
+        "final_judgement": "No"
     },
     "16": {
         "image": "COCO_val2014_000000000772.jpg",
         "dataset": "Replacement",
         "prompt": "replace sheeps with giraffe",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a giraffe in the image? Answer Yes or No.",
         "gt": "Yes",
@@ -244,7 +244,7 @@
         "dataset": "Replacement",
         "prompt": "replace cat with dog",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is there a cat in the image? Answer Yes or No.",
         "gt": "No",
@@ -316,7 +316,7 @@
         "dataset": "Replacement",
         "prompt": "replace child with dog",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a dog in the image? Answer Yes or No.",
         "gt": "Yes",
@@ -376,12 +376,12 @@
         "dataset": "Replacement",
         "prompt": "replace cat with dog",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "No"
         },
         "question": "Is there a cat in the image? Answer Yes or No.",
         "gt": "No",
         "type": "animal",
-        "final_judgement": "No"
+        "final_judgement": "Yes"
     },
     "33": {
         "image": "COCO_val2014_000000003771.jpg",
@@ -436,12 +436,12 @@
         "dataset": "Replacement",
         "prompt": "replace child with woman",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "No"
         },
         "question": "Is there a child in the image? Answer Yes or No.",
         "gt": "No",
         "type": "human",
-        "final_judgement": "No"
+        "final_judgement": "Yes"
     },
     "38": {
         "image": "COCO_val2014_000000004396.jpg",
@@ -460,12 +460,12 @@
         "dataset": "Replacement",
         "prompt": "replace boy with girl",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is there a girl in the image? Answer Yes or No.",
         "gt": "Yes",
         "type": "human",
-        "final_judgement": "No."
+        "final_judgement": "No"
     },
     "40": {
         "image": "COCO_val2014_000000005076.jpg",
@@ -484,7 +484,7 @@
         "dataset": "Replacement",
         "prompt": "replace motorcycle with girl",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a girl in the image? Answer Yes or No.",
         "gt": "Yes",
@@ -532,7 +532,7 @@
         "dataset": "Replacement",
         "prompt": "replace cat with child",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a cat in the image? Answer Yes or No.",
         "gt": "No",
@@ -592,7 +592,7 @@
         "dataset": "Replacement",
         "prompt": "replace zebra with girl",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a zebra in the image? Answer Yes or No.",
         "gt": "No",
@@ -676,12 +676,12 @@
         "dataset": "Replacement",
         "prompt": "replace zebra with boy",
         "evaluation": {
-            "VLM_judgement": "No"
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a boy in the image? Answer Yes or No.",
         "gt": "Yes",
         "type": "human",
-        "final_judgement": "No"
+        "final_judgement": "Yes"
     },
     "58": {
         "image": "COCO_val2014_000000009466.jpg",
@@ -724,19 +724,19 @@
         "dataset": "Replacement",
         "prompt": "replace zebra with woman",
         "evaluation": {
-            "VLM_judgement": "Yes"
+            "VLM_judgement": "No"
         },
         "question": "Is there a woman in the image? Answer Yes or No.",
         "gt": "Yes",
         "type": "human",
-        "final_judgement": "Yes"
+        "final_judgement": "No"
     },
     "62": {
         "image": "COCO_val2014_000000010107.jpg",
         "dataset": "Replacement",
         "prompt": "replace dog with boy",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is there a boy in the image? Answer Yes or No.",
         "gt": "Yes",
@@ -748,7 +748,7 @@
         "dataset": "Replacement",
         "prompt": "replace dog with girl",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is there a dog in the image? Answer Yes or No.",
         "gt": "No",
@@ -844,12 +844,12 @@
         "dataset": "Replacement",
         "prompt": "replace plane with frisbee",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "No"
         },
         "question": "Is there a frisbee in the image? Answer Yes or No.",
         "gt": "Yes",
         "type": "object",
-        "final_judgement": "Yes"
+        "final_judgement": "No"
     },
     "72": {
         "image": "COCO_val2014_000000011538.jpg",
@@ -880,12 +880,12 @@
         "dataset": "Replacement",
         "prompt": "replace dog with bench",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a bench in the image? Answer Yes or No.",
         "gt": "Yes",
         "type": "object",
-        "final_judgement": "No."
+        "final_judgement": "Yes"
     },
     "75": {
         "image": "COCO_val2014_000000012991.jpg",
@@ -940,7 +940,7 @@
         "dataset": "Replacement",
         "prompt": "replace dog with bike",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a bike in the image? Answer Yes or No.",
         "gt": "Yes",
@@ -1120,19 +1120,19 @@
         "dataset": "Replacement",
         "prompt": "replace bird with plane",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is there a plane in the image? Answer Yes or No.",
         "gt": "Yes",
         "type": "object",
-        "final_judgement": "No."
+        "final_judgement": "No"
     },
     "95": {
         "image": "COCO_val2014_000000019916.jpg",
         "dataset": "Replacement",
         "prompt": "replace fork with mouse",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a fork in the image? Answer Yes or No.",
         "gt": "No",
@@ -1192,7 +1192,7 @@
         "dataset": "Replacement",
         "prompt": "replace kite with frisbee",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a frisbee in the image? Answer Yes or No.",
         "gt": "Yes",
@@ -1252,12 +1252,12 @@
         "dataset": "Replacement",
         "prompt": "replace flower with banana",
         "evaluation": {
-            "VLM_judgement": "No"
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a banana in the image? Answer Yes or No.",
         "gt": "Yes",
         "type": "plant",
-        "final_judgement": "No"
+        "final_judgement": "Yes"
     },
     "106": {
         "image": "COCO_val2014_000000022660.jpg",
@@ -1288,7 +1288,7 @@
         "dataset": "Replacement",
         "prompt": "replace bag with apple",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is there an apple in the image? Answer Yes or No.",
         "gt": "Yes",
@@ -1396,7 +1396,7 @@
         "dataset": "Replacement",
         "prompt": "replace computer with orange",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is there an orange in the image? Answer Yes or No.",
         "gt": "Yes",
@@ -1516,7 +1516,7 @@
         "dataset": "Replacement",
         "prompt": "replace ball with apple",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a ball in the image? Answer Yes or No.",
         "gt": "No",
@@ -1552,7 +1552,7 @@
         "dataset": "Replacement",
         "prompt": "replace computer with grape",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is there a grape in the image? Answer Yes or No.",
         "gt": "Yes",
@@ -1624,11 +1624,11 @@
         "dataset": "Replacement",
         "prompt": "replace boy with watermelon",
         "evaluation": {
-            "VLM_judgement": "Yes"
+            "VLM_judgement": "No"
         },
         "question": "Is there a watermelon in the image? Answer Yes or No.",
         "gt": "Yes",
         "type": "plant",
-        "final_judgement": "Yes"
+        "final_judgement": "No"
     }
 }

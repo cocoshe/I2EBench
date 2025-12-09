@@ -5,12 +5,13 @@ from PIL import Image
 import torch
 import numpy as np
 from tqdm import tqdm
-from metrics_utils.psnr_utils import psnr
+# from metrics_utils.psnr_utils import psnr
 from metrics_utils.ssim_utils import ssim
 from collections import defaultdict
 from copy import deepcopy
 
-PROJECT_ROOT = "/path/to/project"
+# PROJECT_ROOT = "/path/to/project"
+PROJECT_ROOT = "/data/yk/EditBench"
 SRC_PATH = "EditData"
 DST_PATH = "EditResult"
 ORI_DST_PATH = "EditResult_ori"
@@ -57,6 +58,8 @@ EDIT_MODELS = [
     'any2pix',
     'iedit',
     'hqedit',
+    'fluxkontext',
+    'qwen_image_edit',
 ]
 
 all_types = {

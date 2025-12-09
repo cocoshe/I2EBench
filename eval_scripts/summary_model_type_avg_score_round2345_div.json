@@ -1,0 +1,834 @@
+{
+    "hive": {
+        "object": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 82,
+                    "num": 241
+                }
+            },
+            "score": 0.1134
+        },
+        "human": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 48,
+                    "num": 151
+                }
+            },
+            "score": 0.106
+        },
+        "global": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 110.9872767857143,
+                    "num": 170
+                },
+                "vlm": {
+                    "sum": 0,
+                    "num": 0
+                }
+            },
+            "score": 0.2176
+        },
+        "animal": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 92,
+                    "num": 232
+                }
+            },
+            "score": 0.1322
+        },
+        "plant": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 52,
+                    "num": 163
+                }
+            },
+            "score": 0.1063
+        },
+        "scenery": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 222,
+                    "num": 385
+                }
+            },
+            "score": 0.1922
+        }
+    },
+    "instructpix2pix": {
+        "object": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 89,
+                    "num": 241
+                }
+            },
+            "score": 0.1231
+        },
+        "human": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 42,
+                    "num": 151
+                }
+            },
+            "score": 0.0927
+        },
+        "global": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 112.45446428571427,
+                    "num": 170
+                },
+                "vlm": {
+                    "sum": 0,
+                    "num": 0
+                }
+            },
+            "score": 0.2205
+        },
+        "animal": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 84,
+                    "num": 232
+                }
+            },
+            "score": 0.1207
+        },
+        "plant": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 42,
+                    "num": 163
+                }
+            },
+            "score": 0.0859
+        },
+        "scenery": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 261,
+                    "num": 385
+                }
+            },
+            "score": 0.226
+        }
+    },
+    "magicbrush": {
+        "object": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 80,
+                    "num": 241
+                }
+            },
+            "score": 0.1107
+        },
+        "human": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 63,
+                    "num": 151
+                }
+            },
+            "score": 0.1391
+        },
+        "global": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 113.37187500000002,
+                    "num": 170
+                },
+                "vlm": {
+                    "sum": 0,
+                    "num": 0
+                }
+            },
+            "score": 0.2223
+        },
+        "animal": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 89,
+                    "num": 232
+                }
+            },
+            "score": 0.1279
+        },
+        "plant": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 41,
+                    "num": 163
+                }
+            },
+            "score": 0.0838
+        },
+        "scenery": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 287,
+                    "num": 385
+                }
+            },
+            "score": 0.2485
+        }
+    },
+    "mgie": {
+        "object": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 74,
+                    "num": 241
+                }
+            },
+            "score": 0.1024
+        },
+        "human": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 36,
+                    "num": 151
+                }
+            },
+            "score": 0.0795
+        },
+        "global": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 109.62366071428566,
+                    "num": 170
+                },
+                "vlm": {
+                    "sum": 0,
+                    "num": 0
+                }
+            },
+            "score": 0.2149
+        },
+        "animal": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 87,
+                    "num": 232
+                }
+            },
+            "score": 0.125
+        },
+        "plant": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 42,
+                    "num": 163
+                }
+            },
+            "score": 0.0859
+        },
+        "scenery": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 249,
+                    "num": 385
+                }
+            },
+            "score": 0.2156
+        }
+    },
+    "instruct-diffusion": {
+        "object": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 76,
+                    "num": 241
+                }
+            },
+            "score": 0.1051
+        },
+        "human": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 45,
+                    "num": 151
+                }
+            },
+            "score": 0.0993
+        },
+        "global": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 100.93883928571427,
+                    "num": 170
+                },
+                "vlm": {
+                    "sum": 0,
+                    "num": 0
+                }
+            },
+            "score": 0.1979
+        },
+        "animal": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 82,
+                    "num": 232
+                }
+            },
+            "score": 0.1178
+        },
+        "plant": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 41,
+                    "num": 163
+                }
+            },
+            "score": 0.0838
+        },
+        "scenery": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 269,
+                    "num": 385
+                }
+            },
+            "score": 0.2329
+        }
+    },
+    "any2pix": {
+        "object": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 109,
+                    "num": 241
+                }
+            },
+            "score": 0.1508
+        },
+        "human": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 70,
+                    "num": 151
+                }
+            },
+            "score": 0.1545
+        },
+        "global": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 122.56049107142857,
+                    "num": 170
+                },
+                "vlm": {
+                    "sum": 0,
+                    "num": 0
+                }
+            },
+            "score": 0.2403
+        },
+        "animal": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 91,
+                    "num": 232
+                }
+            },
+            "score": 0.1307
+        },
+        "plant": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 57,
+                    "num": 163
+                }
+            },
+            "score": 0.1166
+        },
+        "scenery": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 267,
+                    "num": 385
+                }
+            },
+            "score": 0.2312
+        }
+    },
+    "iedit": {
+        "object": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 36,
+                    "num": 241
+                }
+            },
+            "score": 0.0498
+        },
+        "human": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 29,
+                    "num": 151
+                }
+            },
+            "score": 0.064
+        },
+        "global": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 96.20089285714285,
+                    "num": 170
+                },
+                "vlm": {
+                    "sum": 0,
+                    "num": 0
+                }
+            },
+            "score": 0.1886
+        },
+        "animal": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 61,
+                    "num": 232
+                }
+            },
+            "score": 0.0876
+        },
+        "plant": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 19,
+                    "num": 163
+                }
+            },
+            "score": 0.0389
+        },
+        "scenery": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 257,
+                    "num": 385
+                }
+            },
+            "score": 0.2225
+        }
+    },
+    "hqedit": {
+        "object": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 85,
+                    "num": 241
+                }
+            },
+            "score": 0.1176
+        },
+        "human": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 51,
+                    "num": 151
+                }
+            },
+            "score": 0.1126
+        },
+        "global": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 120.7040178571429,
+                    "num": 170
+                },
+                "vlm": {
+                    "sum": 0,
+                    "num": 0
+                }
+            },
+            "score": 0.2367
+        },
+        "animal": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 95,
+                    "num": 232
+                }
+            },
+            "score": 0.1365
+        },
+        "plant": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 41,
+                    "num": 163
+                }
+            },
+            "score": 0.0838
+        },
+        "scenery": {
+            "eval_metrics": {
+                "ssim": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "uniformed_clip": {
+                    "sum": 0,
+                    "num": 0
+                },
+                "vlm": {
+                    "sum": 274,
+                    "num": 385
+                }
+            },
+            "score": 0.2372
+        }
+    }
+}

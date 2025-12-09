@@ -1,0 +1,369 @@
+[
+    [
+        "BGReplacement",
+        {
+            "any2pix": {
+                "metrics": {
+                    "accuracy": 0.9
+                }
+            },
+            "fluxkontext": {
+                "metrics": {
+                    "accuracy": 0.9
+                }
+            },
+            "hive": {
+                "metrics": {
+                    "accuracy": 0.5
+                }
+            },
+            "hqedit": {
+                "metrics": {
+                    "accuracy": 0.7
+                }
+            },
+            "iedit": {
+                "metrics": {
+                    "accuracy": 0.6
+                }
+            },
+            "instruct-diffusion": {
+                "metrics": {
+                    "accuracy": 0.8
+                }
+            },
+            "instructpix2pix": {
+                "metrics": {
+                    "accuracy": 0.8
+                }
+            },
+            "magicbrush": {
+                "metrics": {
+                    "accuracy": 0.8
+                }
+            },
+            "mgie": {
+                "metrics": {
+                    "accuracy": 0.5
+                }
+            },
+            "qwen_image_edit": {
+                "metrics": {
+                    "accuracy": 0.8
+                }
+            }
+        }
+    ],
+    [
+        "ColorAlteration",
+        {
+            "any2pix": {
+                "metrics": {
+                    "accuracy": 0.1
+                }
+            },
+            "fluxkontext": {
+                "metrics": {
+                    "accuracy": 0.5
+                }
+            },
+            "hive": {
+                "metrics": {
+                    "accuracy": 0.1
+                }
+            },
+            "hqedit": {
+                "metrics": {
+                    "accuracy": 0.1
+                }
+            },
+            "iedit": {
+                "metrics": {
+                    "accuracy": 0.1
+                }
+            },
+            "instruct-diffusion": {
+                "metrics": {
+                    "accuracy": 0.6
+                }
+            },
+            "instructpix2pix": {
+                "metrics": {
+                    "accuracy": 0.3
+                }
+            },
+            "magicbrush": {
+                "metrics": {
+                    "accuracy": 0.5
+                }
+            },
+            "mgie": {
+                "metrics": {
+                    "accuracy": 0.5
+                }
+            },
+            "qwen_image_edit": {
+                "metrics": {
+                    "accuracy": 0.7
+                }
+            }
+        }
+    ],
+    [
+        "Counting",
+        {
+            "any2pix": {
+                "metrics": {
+                    "accuracy": 0.0
+                }
+            },
+            "fluxkontext": {
+                "metrics": {
+                    "accuracy": 0.3
+                }
+            },
+            "hive": {
+                "metrics": {
+                    "accuracy": 0.3
+                }
+            },
+            "hqedit": {
+                "metrics": {
+                    "accuracy": 0.2
+                }
+            },
+            "iedit": {
+                "metrics": {
+                    "accuracy": 0.0
+                }
+            },
+            "instruct-diffusion": {
+                "metrics": {
+                    "accuracy": 0.4
+                }
+            },
+            "instructpix2pix": {
+                "metrics": {
+                    "accuracy": 0.2
+                }
+            },
+            "magicbrush": {
+                "metrics": {
+                    "accuracy": 0.5
+                }
+            },
+            "mgie": {
+                "metrics": {
+                    "accuracy": 0.4
+                }
+            },
+            "qwen_image_edit": {
+                "metrics": {
+                    "accuracy": 0.3
+                }
+            }
+        }
+    ],
+    [
+        "DirectionPerception",
+        {
+            "any2pix": {
+                "metrics": {
+                    "accuracy": 0.2
+                }
+            },
+            "fluxkontext": {
+                "metrics": {
+                    "accuracy": 0.5
+                }
+            },
+            "hive": {
+                "metrics": {
+                    "accuracy": 0.2
+                }
+            },
+            "hqedit": {
+                "metrics": {
+                    "accuracy": 0.3
+                }
+            },
+            "iedit": {
+                "metrics": {
+                    "accuracy": 0.0
+                }
+            },
+            "instruct-diffusion": {
+                "metrics": {
+                    "accuracy": 0.0
+                }
+            },
+            "instructpix2pix": {
+                "metrics": {
+                    "accuracy": 0.3
+                }
+            },
+            "magicbrush": {
+                "metrics": {
+                    "accuracy": 0.3
+                }
+            },
+            "mgie": {
+                "metrics": {
+                    "accuracy": 0.4
+                }
+            },
+            "qwen_image_edit": {
+                "metrics": {
+                    "accuracy": 0.5
+                }
+            }
+        }
+    ],
+    [
+        "ObjectRemoval",
+        {
+            "any2pix": {
+                "metrics": {
+                    "accuracy": 0.7
+                }
+            },
+            "fluxkontext": {
+                "metrics": {
+                    "accuracy": 0.8
+                }
+            },
+            "hive": {
+                "metrics": {
+                    "accuracy": 0.9
+                }
+            },
+            "hqedit": {
+                "metrics": {
+                    "accuracy": 0.6
+                }
+            },
+            "iedit": {
+                "metrics": {
+                    "accuracy": 0.1
+                }
+            },
+            "instruct-diffusion": {
+                "metrics": {
+                    "accuracy": 0.5
+                }
+            },
+            "instructpix2pix": {
+                "metrics": {
+                    "accuracy": 0.6
+                }
+            },
+            "magicbrush": {
+                "metrics": {
+                    "accuracy": 0.5
+                }
+            },
+            "mgie": {
+                "metrics": {
+                    "accuracy": 0.4
+                }
+            },
+            "qwen_image_edit": {
+                "metrics": {
+                    "accuracy": 0.6
+                }
+            }
+        }
+    ],
+    [
+        "Replacement",
+        {
+            "any2pix": {
+                "metrics": {
+                    "accuracy": 0.8
+                }
+            },
+            "fluxkontext": {
+                "metrics": {
+                    "accuracy": 0.5
+                }
+            },
+            "hive": {
+                "metrics": {
+                    "accuracy": 0.9
+                }
+            },
+            "hqedit": {
+                "metrics": {
+                    "accuracy": 0.9
+                }
+            },
+            "iedit": {
+                "metrics": {
+                    "accuracy": 0.6
+                }
+            },
+            "instruct-diffusion": {
+                "metrics": {
+                    "accuracy": 0.9
+                }
+            },
+            "instructpix2pix": {
+                "metrics": {
+                    "accuracy": 0.9
+                }
+            },
+            "magicbrush": {
+                "metrics": {
+                    "accuracy": 0.9
+                }
+            },
+            "mgie": {
+                "metrics": {
+                    "accuracy": 0.9
+                }
+            },
+            "qwen_image_edit": {
+                "metrics": {
+                    "accuracy": 1.0
+                }
+            }
+        }
+    ],
+    [
+        "StyleAlteration",
+        {
+            "EXP_MAX": 33.84375,
+            "EXP_MIN": 16.25,
+            "any2pix": {
+                "clip_score": 26.1
+            },
+            "fluxkontext": {
+                "clip_score": 27.4828
+            },
+            "hive": {
+                "clip_score": 25.7359
+            },
+            "hqedit": {
+                "clip_score": 23.7812
+            },
+            "iedit": {
+                "clip_score": 19.4906
+            },
+            "instruct-diffusion": {
+                "clip_score": 22.9937
+            },
+            "instructpix2pix": {
+                "clip_score": 24.7578
+            },
+            "magicbrush": {
+                "clip_score": 27.4141
+            },
+            "mgie": {
+                "clip_score": 23.6719
+            },
+            "qwen_image_edit": {
+                "clip_score": 28.7422
+            }
+        }
+    ]
+]

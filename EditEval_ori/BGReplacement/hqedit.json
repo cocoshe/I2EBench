@@ -16,7 +16,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to snow",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image meadow? Answer Yes or No.",
         "gt": "No",
@@ -52,12 +52,12 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to snow",
         "evaluation": {
-            "VLM_judgement": "Yes"
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image snow? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "Yes"
+        "final_judgement": "No"
     },
     "6": {
         "image": "0006.jpg",
@@ -100,12 +100,12 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to snow",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image snow? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "No."
+        "final_judgement": "No"
     },
     "10": {
         "image": "0010.jpg",
@@ -160,7 +160,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to snow",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image desert? Answer Yes or No.",
         "gt": "No",
@@ -172,12 +172,12 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to snow",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image snow? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "No."
+        "final_judgement": "No"
     },
     "16": {
         "image": "0016.jpg",
@@ -196,7 +196,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to snow",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image snow? Answer Yes or No.",
         "gt": "Yes",
@@ -244,7 +244,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to snow",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image snow? Answer Yes or No.",
         "gt": "Yes",
@@ -256,7 +256,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to snow",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image beach? Answer Yes or No.",
         "gt": "No",
@@ -268,12 +268,12 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to snow",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image snow? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "Yes."
+        "final_judgement": "Yes"
     },
     "24": {
         "image": "0024.jpg",
@@ -304,7 +304,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to desert",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image beach? Answer Yes or No.",
         "gt": "No",
@@ -316,12 +316,12 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to desert",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image desert? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "No."
+        "final_judgement": "Yes"
     },
     "28": {
         "image": "0028.jpg",
@@ -400,7 +400,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to desert",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image beach? Answer Yes or No.",
         "gt": "No",
@@ -412,7 +412,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to desert",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image desert? Answer Yes or No.",
         "gt": "Yes",
@@ -448,7 +448,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to desert",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image beach? Answer Yes or No.",
         "gt": "No",
@@ -460,12 +460,12 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to desert",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image desert? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "No."
+        "final_judgement": "No"
     },
     "40": {
         "image": "0040.jpg",
@@ -484,7 +484,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to desert",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image desert? Answer Yes or No.",
         "gt": "Yes",
@@ -496,7 +496,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to desert",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image glacier? Answer Yes or No.",
         "gt": "No",
@@ -508,7 +508,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to desert",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image desert? Answer Yes or No.",
         "gt": "Yes",
@@ -532,12 +532,12 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to desert",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image desert? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "Yes"
+        "final_judgement": "No"
     },
     "46": {
         "image": "0046.jpg",
@@ -568,7 +568,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to beach",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image snow? Answer Yes or No.",
         "gt": "No",
@@ -640,7 +640,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to beach",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image glacier? Answer Yes or No.",
         "gt": "No",
@@ -664,7 +664,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to beach",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image jungle? Answer Yes or No.",
         "gt": "No",
@@ -676,7 +676,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to beach",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image beach? Answer Yes or No.",
         "gt": "Yes",
@@ -688,19 +688,19 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to beach",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image desert? Answer Yes or No.",
         "gt": "No",
         "type": "Scenery",
-        "final_judgement": "No"
+        "final_judgement": "Yes"
     },
     "59": {
         "image": "0059.jpg",
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to beach",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image beach? Answer Yes or No.",
         "gt": "Yes",
@@ -712,19 +712,19 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to beach",
         "evaluation": {
-            "VLM_judgement": "Yes"
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image desert? Answer Yes or No.",
         "gt": "No",
         "type": "Scenery",
-        "final_judgement": "No"
+        "final_judgement": "Yes"
     },
     "61": {
         "image": "0061.jpg",
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to beach",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image beach? Answer Yes or No.",
         "gt": "Yes",
@@ -736,7 +736,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to beach",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image jungle? Answer Yes or No.",
         "gt": "No",
@@ -784,7 +784,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to beach",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image snow? Answer Yes or No.",
         "gt": "No",
@@ -844,7 +844,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to jungle",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image jungle? Answer Yes or No.",
         "gt": "Yes",
@@ -868,12 +868,12 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to jungle",
         "evaluation": {
-            "VLM_judgement": "No"
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image jungle? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "No"
+        "final_judgement": "Yes"
     },
     "74": {
         "image": "0074.jpg",
@@ -904,7 +904,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to jungle",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image glacier? Answer Yes or No.",
         "gt": "No",
@@ -952,7 +952,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to jungle",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image meadow? Answer Yes or No.",
         "gt": "No",
@@ -1000,7 +1000,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to jungle",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image snow? Answer Yes or No.",
         "gt": "No",
@@ -1072,7 +1072,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to jungle",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image jungle? Answer Yes or No.",
         "gt": "Yes",
@@ -1084,7 +1084,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to jungle",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image meadow? Answer Yes or No.",
         "gt": "No",
@@ -1096,19 +1096,19 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to meadow",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image meadow? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "No."
+        "final_judgement": "No"
     },
     "93": {
         "image": "0094.jpg",
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to meadow",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image glacier? Answer Yes or No.",
         "gt": "No",
@@ -1120,12 +1120,12 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to meadow",
         "evaluation": {
-            "VLM_judgement": "Yes"
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image meadow? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "Yes"
+        "final_judgement": "No"
     },
     "95": {
         "image": "0096.jpg",
@@ -1144,19 +1144,19 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to meadow",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image meadow? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "No."
+        "final_judgement": "No"
     },
     "97": {
         "image": "0098.jpg",
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to meadow",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image glacier? Answer Yes or No.",
         "gt": "No",
@@ -1180,7 +1180,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to meadow",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image glacier? Answer Yes or No.",
         "gt": "No",
@@ -1204,7 +1204,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to meadow",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image jungle? Answer Yes or No.",
         "gt": "No",
@@ -1216,19 +1216,19 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to meadow",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image meadow? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "No."
+        "final_judgement": "No"
     },
     "103": {
         "image": "0104.jpg",
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to meadow",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image glacier? Answer Yes or No.",
         "gt": "No",
@@ -1240,7 +1240,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to meadow",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image meadow? Answer Yes or No.",
         "gt": "Yes",
@@ -1264,19 +1264,19 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to meadow",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image meadow? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "No."
+        "final_judgement": "No"
     },
     "107": {
         "image": "0108.jpg",
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to meadow",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image glacier? Answer Yes or No.",
         "gt": "No",
@@ -1288,7 +1288,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to meadow",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image meadow? Answer Yes or No.",
         "gt": "Yes",
@@ -1312,7 +1312,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to meadow",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image meadow? Answer Yes or No.",
         "gt": "Yes",
@@ -1384,19 +1384,19 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to glacier",
         "evaluation": {
-            "VLM_judgement": "Yes"
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image glacier? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "Yes"
+        "final_judgement": "No"
     },
     "117": {
         "image": "0118.jpg",
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to glacier",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image snow? Answer Yes or No.",
         "gt": "No",
@@ -1432,19 +1432,19 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to glacier",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image glacier? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "No."
+        "final_judgement": "No"
     },
     "121": {
         "image": "0122.jpg",
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to glacier",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image snow? Answer Yes or No.",
         "gt": "No",
@@ -1468,7 +1468,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to glacier",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image snow? Answer Yes or No.",
         "gt": "No",
@@ -1480,12 +1480,12 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to glacier",
         "evaluation": {
-            "VLM_judgement": "No"
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image glacier? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "No"
+        "final_judgement": "Yes"
     },
     "125": {
         "image": "0126.jpg",
@@ -1504,19 +1504,19 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to glacier",
         "evaluation": {
-            "VLM_judgement": "Yes"
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image glacier? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "Yes"
+        "final_judgement": "No"
     },
     "127": {
         "image": "0128.jpg",
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to glacier",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image snow? Answer Yes or No.",
         "gt": "No",
@@ -1528,7 +1528,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to glacier",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image glacier? Answer Yes or No.",
         "gt": "Yes",
@@ -1588,7 +1588,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to glacier",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image desert? Answer Yes or No.",
         "gt": "No",
@@ -1612,7 +1612,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to glacier",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image beach? Answer Yes or No.",
         "gt": "No",
@@ -1636,7 +1636,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to glacier",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image beach? Answer Yes or No.",
         "gt": "No",
@@ -1648,12 +1648,12 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this photo to snow",
         "evaluation": {
-            "VLM_judgement": "Yes"
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image snow? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "Yes"
+        "final_judgement": "No"
     },
     "139": {
         "image": "0140.jpg",

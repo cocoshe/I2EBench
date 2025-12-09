@@ -1,0 +1,1 @@
+sglang serve --model-path="/data/oss_bucket_0/yf/model/Qwen/Qwen3-VL-8B-Instruct"  --tp-size 1 --dp-size 1 --port=3001 --host=0.0.0.0 --trust-remote-code --enable-cache-report --max-running-requests 64 --mem-fraction-static 0.65 --chunked-prefill-size 8192 --attention-backend fa3 --mm-attention-backend fa3  --enable-metrics

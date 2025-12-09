@@ -6,9 +6,12 @@ import torch
 import numpy as np
 from tqdm import tqdm
 
-from metrics_utils.chatgpt_utils import chatgpt_run
+# from metrics_utils.chatgpt_utils import chatgpt_run
+from metrics_utils.qwen_utils import qwen_run
 
-PROJECT_ROOT = "/path/to/project"
+
+
+PROJECT_ROOT = "/home/linweihuang.lwh/EditBench"
 SRC_PATH = "EditData"
 DST_PATH = "EditResult"
 ORI_DST_PATH = "EditResult_ori"
@@ -43,6 +46,8 @@ EDIT_MODELS = [
     'any2pix',
     'iedit',
     'hqedit',
+    'qwen_image_edit',
+    'fluxkontext'
 ]
 
 NUMBER_MODELS = [
@@ -75,7 +80,9 @@ for eval in [EDIT_EVAL_ORI, EDIT_EVAL]:
             final_judge_out = {}
             for id, info in tqdm(MLLM_data.items()):
                 final_judge_info = info
-                final_judge, chatgpt_prompt = chatgpt_run(info['question'], info['evaluation']['VLM_judgement'], info['gt'])
+                # final_judge, chatgpt_prompt = chatgpt_run(info['question'], info['evaluation']['VLM_judgement'], info['gt'])
+                final_judge, chatgpt_prompt = qwen_run(info['question'], info['evaluation']['VLM_judgement'], info['gt'])
+
                 final_judge_info['final_judgement'] = final_judge
 
                 print('-'*50)

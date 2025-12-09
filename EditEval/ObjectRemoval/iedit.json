@@ -40,7 +40,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Eliminate the mountain from the picture",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a mountain in the image? Answer Yes or No.",
         "gt": "No",
@@ -196,7 +196,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Eradicate the woman from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a woman in the image? Answer Yes or No.",
         "gt": "No",
@@ -256,7 +256,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "The man ought to be removed from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there an man in the image? Answer Yes or No.",
         "gt": "No",
@@ -520,7 +520,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "The baby should be removed from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a baby in the image? Answer Yes or No.",
         "gt": "No",
@@ -592,7 +592,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "The little girl needs to be expunged from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a little girl in the image? Answer Yes or No.",
         "gt": "No",
@@ -640,7 +640,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Ensure there's no lady in the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a lady in the image? Answer Yes or No.",
         "gt": "No",
@@ -724,12 +724,12 @@
         "dataset": "ObjectRemoval",
         "prompt": "The little baby must be expunged from the image",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a little baby in the image? Answer Yes or No.",
         "gt": "No",
         "type": "human",
-        "final_judgement": "Yes"
+        "final_judgement": "No"
     },
     "62": {
         "image": "0061.jpg",
@@ -784,12 +784,12 @@
         "dataset": "ObjectRemoval",
         "prompt": "Eradicate the river from the image",
         "evaluation": {
-            "VLM_judgement": "No"
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a river in the image? Answer Yes or No.",
         "gt": "No",
         "type": "scenery",
-        "final_judgement": "Yes"
+        "final_judgement": "No"
     },
     "67": {
         "image": "0066.jpg",
@@ -808,7 +808,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Let's remove the husband from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a husband in the image? Answer Yes or No.",
         "gt": "No",
@@ -928,7 +928,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Let's rid the image of the woman",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a woman in the image? Answer Yes or No.",
         "gt": "No",
@@ -1012,12 +1012,12 @@
         "dataset": "ObjectRemoval",
         "prompt": "There should be no bill in the image",
         "evaluation": {
-            "VLM_judgement": "Yes"
+            "VLM_judgement": "No"
         },
         "question": "Is there a bill in the image? Answer Yes or No.",
         "gt": "No",
         "type": "object",
-        "final_judgement": "No"
+        "final_judgement": "Yes"
     },
     "86": {
         "image": "0085.jpg",
@@ -1060,7 +1060,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Ensure there's no fat lady in the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a fat lady in the image? Answer Yes or No.",
         "gt": "No",
@@ -1096,7 +1096,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Eradicate the closestool from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a closestool in the image? Answer Yes or No.",
         "gt": "No",
@@ -1192,7 +1192,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Eradicate the man from the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a man in the image? Answer Yes or No.",
         "gt": "No",
@@ -1228,12 +1228,12 @@
         "dataset": "ObjectRemoval",
         "prompt": "Eradicate the tree from the image",
         "evaluation": {
-            "VLM_judgement": "No"
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a tree in the image? Answer Yes or No.",
         "gt": "No",
         "type": "plant",
-        "final_judgement": "Yes"
+        "final_judgement": "No"
     },
     "104": {
         "image": "0104.jpg",
@@ -1288,7 +1288,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Ensure there's no lady in the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a lady in the image? Answer Yes or No.",
         "gt": "No",
@@ -1360,12 +1360,12 @@
         "dataset": "ObjectRemoval",
         "prompt": "There should be no spray in the image",
         "evaluation": {
-            "VLM_judgement": "Yes"
+            "VLM_judgement": "No"
         },
         "question": "Is there a spray in the image? Answer Yes or No.",
         "gt": "No",
         "type": "scenery",
-        "final_judgement": "No"
+        "final_judgement": "Yes"
     },
     "115": {
         "image": "0115.jpg",
@@ -1444,7 +1444,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Confirm the absence of an old man in the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there an old man in the image? Answer Yes or No.",
         "gt": "No",
@@ -1492,7 +1492,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Remove any men from the image, if applicable",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a man in the image? Answer Yes or No.",
         "gt": "No",
@@ -1504,7 +1504,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Ensure there are no chicks visible in the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a chick in the image? Answer Yes or No.",
         "gt": "No",
@@ -1540,7 +1540,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Ensure there are no coriander depicted in the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a coriander in the image? Answer Yes or No.",
         "gt": "No",
@@ -1552,7 +1552,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Eliminate any men that may be present in the image",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is there a man in the image? Answer Yes or No.",
         "gt": "No",
@@ -1588,12 +1588,12 @@
         "dataset": "ObjectRemoval",
         "prompt": "Confirm that there is no spray visible in the image",
         "evaluation": {
-            "VLM_judgement": "Yes"
+            "VLM_judgement": "No"
         },
         "question": "Is there an spray in the image? Answer Yes or No.",
         "gt": "No",
         "type": "scenery",
-        "final_judgement": "No"
+        "final_judgement": "Yes"
     },
     "134": {
         "image": "0134.jpg",
@@ -1660,7 +1660,7 @@
         "dataset": "ObjectRemoval",
         "prompt": "Ensure there are no babies present in the image",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is there a baby in the image? Answer Yes or No.",
         "gt": "No",

@@ -5,10 +5,10 @@ from PIL import Image
 import torch
 import numpy as np
 from tqdm import tqdm
-from metrics_utils.psnr_utils import psnr
+# from metrics_utils.psnr_utils import psnr
 from metrics_utils.ssim_utils import ssim
 
-PROJECT_ROOT = "/path/to/project"
+PROJECT_ROOT = "/data/yk/EditBench"
 SRC_PATH = "EditData"
 DST_PATH = "EditResult"
 ORI_DST_PATH = "EditResult_ori"
@@ -34,15 +34,43 @@ LOW_LEVEL_TASKS = [
 ]
 
 EDIT_MODELS = [
-    'hive',
-    'instructpix2pix',
-    'magicbrush',
-    'mgie',
-    'instruct-diffusion',
-    'any2pix',
-    'iedit',
-    'hqedit',
+    # 'hive',
+    # 'instructpix2pix',
+    # 'magicbrush',
+    # 'mgie',
+    # 'instruct-diffusion',
+    # 'any2pix',
+    # 'iedit',
+    # 'hqedit',
+    'qwen_image_edit',
+    'fluxkontext'
 ]
+
+
+def find_image_file(base_path):
+    """
+    查找实际存在的图像文件，支持多种扩展名（png, jpg, jpeg等）
+    返回找到的文件路径，如果不存在则返回原始路径
+    """
+    # 如果文件已经存在，直接返回
+    if os.path.exists(base_path):
+        return base_path
+    
+    # 获取不带扩展名的路径和目录
+    base_dir = os.path.dirname(base_path)
+    base_name = os.path.basename(base_path)
+    name_without_ext = os.path.splitext(base_name)[0]
+    
+    # 尝试多种扩展名
+    extensions = ['.png', '.jpg', '.jpeg', '.PNG', '.JPG', '.JPEG']
+    
+    for ext in extensions:
+        candidate_path = os.path.join(base_dir, name_without_ext + ext)
+        if os.path.exists(candidate_path):
+            return candidate_path
+    
+    # 如果都没找到，返回原始路径（让后续代码处理错误）
+    return base_path
 
 
 def calc_metrics(task, edit_model, image_name, dst, metric: str, gt: bool = True, mask_name: str = None,): #in_out: str = None):
@@ -55,6 +83,11 @@ def calc_metrics(task, edit_model, image_name, dst, metric: str, gt: bool = True
     gt_path = os.path.join(PROJECT_ROOT, SRC_PATH, task, gt_or_input, image_name)
     edited_path = os.path.join(PROJECT_ROOT, dst, task, edit_model, image_name)
     
+    # 查找实际存在的图像文件（支持多种扩展名）
+    gt_path = find_image_file(gt_path)
+    edited_path = find_image_file(edited_path)
+    # import pdb; pdb.set_trace()
+
     gt_img = np.array(Image.open(gt_path))
 
     mask_img = None
@@ -146,6 +179,8 @@ for dst, val in zip([ORI_DST_PATH,DST_PATH], [ORI_EVAL_PATH,EVAL_PATH]):
 
 
                     edited_path = os.path.join(PROJECT_ROOT, dst, task, edit_model, image_name)
+                    # 查找实际存在的图像文件（支持多种扩展名）
+                    edited_path = find_image_file(edited_path)
                     mask_path = os.path.join(PROJECT_ROOT, SRC_PATH, task, 'mask', mask_name)
                     
                     ssim_score = calc_metrics(task, edit_model, image_name, dst, 'SSIM', gt=False, mask_name=mask_name)

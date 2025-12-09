@@ -30,7 +30,7 @@ Is the machine's answer correct? Answer yes or no.
 
     model = "gpt-4-0125-preview"
 
-    # Use your own GPT4 API configuration
+    openai.base_url = 'input your base url'
     openai.base_url = 'http://openai.infly.tech/v1/'
     openai.api_key = 'no-modify'
     extra = {}
@@ -41,7 +41,7 @@ Is the machine's answer correct? Answer yes or no.
             model=model,
             messages=msg,
             extra_body=extra,
-            extra_headers={'apikey':'sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'},
+            extra_headers={'apikey':'sk-o7RCKovyezOE4sL5bZ4q0jHWejx0vWM5tzjWpo70yZlG52Al'},
             stream=stream,
             max_tokens=30,
         )

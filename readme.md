@@ -1,10 +1,15 @@
 # I²EBench
 
-[![Paper](https://img.shields.io/badge/cs.CV-Paper-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2408.14180)    [![Dataset Download](https://img.shields.io/badge/Dataset-Download-green?logo=googlechrome&logoColor=green)](https://drive.google.com/drive/folders/1RzeIaWjVHAofZAXmEPm3XcrfSdQCO5-q?usp=drive_link)
+[![Paper](https://img.shields.io/badge/cs.CV-Paper-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2408.14180)    [![Dataset Download](https://img.shields.io/badge/Dataset-Download-green?logo=googlechrome&logoColor=green)](https://drive.google.com/file/d/17xib_0kDdbqbhgHumx2AnlvrRrvUo-Xx/view?usp=sharing)
 
 > [**I²EBench: A Comprehensive Benchmark for Instruction-based Image Editing**](https://arxiv.org/abs/2408.14180)  
 >
 > Yiwei Ma, Jiayi Ji, Ke Ye, Weihuang Lin, Zhibin Wang, Yonghan Zheng, Qiang Zhou, Xiaoshuai Sun, Rongrong Ji
+
+## :star2:Updates
+
+- [2024.9.25] Accepted by NeurIPS 2024 :yum:
+- [2024.12.4] Release the multi-round editing evaluation :rocket:
 
 ## :mag:Overview
 
@@ -28,158 +33,158 @@ Overview of **I²EBench**, an automated system for evaluating the quality of edi
 .
 └── EditBench
     ├── EditData				### dataset with different dimensions
-    │   ├── BGReplacement
-    │   ├── ColorAlteration
-    │   ├── Counting
-    │   ├── Deblurring
-    │   ├── DirectionPerception
-    │   ├── HazeRemoval
-    │   ├── Lowlight
-    │   ├── NoiseRemoval
-    │   ├── ObjectRemoval
-    │   ├── RainRemoval
-    │   ├── RegionAccuracy
-    │   ├── Replacement
-    │   ├── ShadowRemoval
-    │   ├── SnowRemoval
-    │   ├── StyleAlteration
-    │   └── WatermarkRemoval
+    │   ├── BGReplacement
+    │   ├── ColorAlteration
+    │   ├── Counting
+    │   ├── Deblurring
+    │   ├── DirectionPerception
+    │   ├── HazeRemoval
+    │   ├── Lowlight
+    │   ├── NoiseRemoval
+    │   ├── ObjectRemoval
+    │   ├── RainRemoval
+    │   ├── RegionAccuracy
+    │   ├── Replacement
+    │   ├── ShadowRemoval
+    │   ├── SnowRemoval
+    │   ├── StyleAlteration
+    │   └── WatermarkRemoval
     ├── EditEval			    ### 1. with `diverse` editing instructions
     						   ### 2. evaluation results of 8 editing models(any2pix,
     						   ### hive,hqedit,iedit,instruct-diffusion,instructpix2pix,
     						   ### magicbrush,mgie) in every dimensions.
-    │   ├── BGReplacement        # including evaluation results of 8 editing models
-    │   ├── ColorAlteration      # including evaluation results of 8 editing models
-    │   ├── Counting             # ...
-    │   ├── Deblurring
-    │   ├── DirectionPerception
-    │   ├── HazeRemoval
-    │   ├── Lowlight
-    │   ├── NoiseRemoval
-    │   ├── ObjectRemoval
-    │   ├── RainRemoval
-    │   ├── RegionAccuracy
-    │   ├── Replacement
-    │   ├── ShadowRemoval
-    │   ├── SnowRemoval
-    │   ├── StyleAlteration
-    │   └── WatermarkRemoval
+    │   ├── BGReplacement        # including evaluation results of 8 editing models
+    │   ├── ColorAlteration      # including evaluation results of 8 editing models
+    │   ├── Counting             # ...
+    │   ├── Deblurring
+    │   ├── DirectionPerception
+    │   ├── HazeRemoval
+    │   ├── Lowlight
+    │   ├── NoiseRemoval
+    │   ├── ObjectRemoval
+    │   ├── RainRemoval
+    │   ├── RegionAccuracy
+    │   ├── Replacement
+    │   ├── ShadowRemoval
+    │   ├── SnowRemoval
+    │   ├── StyleAlteration
+    │   └── WatermarkRemoval
     ├── EditEval_ori        	 ### 1. with `original` editing instructions
     						   ### 2. evaluation results of 8 editing models(any2pix,
     						   ### hive,hqedit,iedit,instruct-diffusion,instructpix2pix,
     						   ### magicbrush,mgie) in every dimensions.
-    │   ├── BGReplacement        # including evaluation results of 8 editing models
-    │   ├── ColorAlteration      # including evaluation results of 8 editing models
-    │   ├── Counting             # ...
-    │   ├── Deblurring
-    │   ├── DirectionPerception
-    │   ├── HazeRemoval
-    │   ├── Lowlight
-    │   ├── NoiseRemoval
-    │   ├── ObjectRemoval
-    │   ├── RainRemoval
-    │   ├── RegionAccuracy
-    │   ├── Replacement
-    │   ├── ShadowRemoval
-    │   ├── SnowRemoval
-    │   ├── StyleAlteration
-    │   └── WatermarkRemoval
+    │   ├── BGReplacement        # including evaluation results of 8 editing models
+    │   ├── ColorAlteration      # including evaluation results of 8 editing models
+    │   ├── Counting             # ...
+    │   ├── Deblurring
+    │   ├── DirectionPerception
+    │   ├── HazeRemoval
+    │   ├── Lowlight
+    │   ├── NoiseRemoval
+    │   ├── ObjectRemoval
+    │   ├── RainRemoval
+    │   ├── RegionAccuracy
+    │   ├── Replacement
+    │   ├── ShadowRemoval
+    │   ├── SnowRemoval
+    │   ├── StyleAlteration
+    │   └── WatermarkRemoval
     ├── EditRank			    ### 1. with `diverse` editing instructions
     						   ### 2. rank results of 8 editing models(any2pix,
     						   ### hive,hqedit,iedit,instruct-diffusion,instructpix2pix,
     						   ### magicbrush,mgie) in every dimensions based on evaluation results
-    │   ├── BGReplacement.json    # rank results of 8 editing models
-    │   ├── ColorAlteration.json  # rank results of 8 editing models
-    │   ├── Counting.json         # ...
-    │   ├── Deblurring.json
-    │   ├── DirectionPerception.json
-    │   ├── HazeRemoval.json
-    │   ├── Lowlight.json
-    │   ├── NoiseRemoval.json
-    │   ├── ObjectRemoval.json
-    │   ├── RainRemoval.json
-    │   ├── RegionAccuracy.json
-    │   ├── Replacement.json
-    │   ├── ShadowRemoval.json
-    │   ├── SnowRemoval.json
-    │   ├── StyleAlteration.json
-    │   └── WatermarkRemoval.json
+    │   ├── BGReplacement.json    # rank results of 8 editing models
+    │   ├── ColorAlteration.json  # rank results of 8 editing models
+    │   ├── Counting.json         # ...
+    │   ├── Deblurring.json
+    │   ├── DirectionPerception.json
+    │   ├── HazeRemoval.json
+    │   ├── Lowlight.json
+    │   ├── NoiseRemoval.json
+    │   ├── ObjectRemoval.json
+    │   ├── RainRemoval.json
+    │   ├── RegionAccuracy.json
+    │   ├── Replacement.json
+    │   ├── ShadowRemoval.json
+    │   ├── SnowRemoval.json
+    │   ├── StyleAlteration.json
+    │   └── WatermarkRemoval.json
     ├── EditRank_ori			### 1. with `original` editing instructions
     						   ### 2. rank results of 8 editing models(any2pix,
     						   ### hive,hqedit,iedit,instruct-diffusion,instructpix2pix,
     						   ### magicbrush,mgie) in every dimensions based on evaluation results
-    │   ├── BGReplacement.json    # rank results of 8 editing models
-    │   ├── ColorAlteration.json  # rank results of 8 editing models
-    │   ├── Counting.json         # ...
-    │   ├── Deblurring.json
-    │   ├── DirectionPerception.json
-    │   ├── HazeRemoval.json
-    │   ├── Lowlight.json
-    │   ├── NoiseRemoval.json
-    │   ├── ObjectRemoval.json
-    │   ├── RainRemoval.json
-    │   ├── RegionAccuracy.json
-    │   ├── Replacement.json
-    │   ├── ShadowRemoval.json
-    │   ├── SnowRemoval.json
-    │   ├── StyleAlteration.json
-    │   └── WatermarkRemoval.json
+    │   ├── BGReplacement.json    # rank results of 8 editing models
+    │   ├── ColorAlteration.json  # rank results of 8 editing models
+    │   ├── Counting.json         # ...
+    │   ├── Deblurring.json
+    │   ├── DirectionPerception.json
+    │   ├── HazeRemoval.json
+    │   ├── Lowlight.json
+    │   ├── NoiseRemoval.json
+    │   ├── ObjectRemoval.json
+    │   ├── RainRemoval.json
+    │   ├── RegionAccuracy.json
+    │   ├── Replacement.json
+    │   ├── ShadowRemoval.json
+    │   ├── SnowRemoval.json
+    │   ├── StyleAlteration.json
+    │   └── WatermarkRemoval.json
     ├── EditResult			 	### 1. with `diverse` editing instructions
     						   ### 2. editing results of 8 editing models(any2pix,
     						   ### hive,hqedit,iedit,instruct-diffusion,instructpix2pix,
     						   ### magicbrush,mgie) in every dimensions based on evaluation results
-    │   ├── BGReplacement
-    │   ├── ColorAlteration
-    │   ├── Counting
-    │   ├── Deblurring
-    │   ├── DirectionPerception
-    │   ├── HazeRemoval
-    │   ├── Lowlight
-    │   ├── NoiseRemoval
-    │   ├── ObjectRemoval
-    │   ├── RainRemoval
-    │   ├── RegionAccuracy
-    │   ├── Replacement
-    │   ├── ShadowRemoval
-    │   ├── SnowRemoval
-    │   ├── StyleAlteration
-    │   └── WatermarkRemoval
+    │   ├── BGReplacement
+    │   ├── ColorAlteration
+    │   ├── Counting
+    │   ├── Deblurring
+    │   ├── DirectionPerception
+    │   ├── HazeRemoval
+    │   ├── Lowlight
+    │   ├── NoiseRemoval
+    │   ├── ObjectRemoval
+    │   ├── RainRemoval
+    │   ├── RegionAccuracy
+    │   ├── Replacement
+    │   ├── ShadowRemoval
+    │   ├── SnowRemoval
+    │   ├── StyleAlteration
+    │   └── WatermarkRemoval
     ├── EditResult_ori           ### 1. with `original` editing instructions
                                  ### 2. editing results of 8 editing models(any2pix,
                                  ### hive,hqedit,iedit,instruct-diffusion,instructpix2pix,
                                  ### magicbrush,mgie) in every dimensions based on evaluation results
-    │   ├── BGReplacement
-    │   ├── ColorAlteration
-    │   ├── Counting
-    │   ├── Deblurring
-    │   ├── DirectionPerception
-    │   ├── HazeRemoval
-    │   ├── Lowlight
-    │   ├── NoiseRemoval
-    │   ├── ObjectRemoval
-    │   ├── RainRemoval
-    │   ├── RegionAccuracy
-    │   ├── Replacement
-    │   ├── ShadowRemoval
-    │   ├── SnowRemoval
-    │   ├── StyleAlteration
-    │   └── WatermarkRemoval
+    │   ├── BGReplacement
+    │   ├── ColorAlteration
+    │   ├── Counting
+    │   ├── Deblurring
+    │   ├── DirectionPerception
+    │   ├── HazeRemoval
+    │   ├── Lowlight
+    │   ├── NoiseRemoval
+    │   ├── ObjectRemoval
+    │   ├── RainRemoval
+    │   ├── RegionAccuracy
+    │   ├── Replacement
+    │   ├── ShadowRemoval
+    │   ├── SnowRemoval
+    │   ├── StyleAlteration
+    │   └── WatermarkRemoval
     ├── eval_scripts                                 ### scripts for evaluation
-    │   ├── high_level_eval_stage1.py			    ## evaluation for high-level dimensions, e.g. BGReplacement.
+    │   ├── high_level_eval_stage1.py			    ## evaluation for high-level dimensions, e.g. BGReplacement.
                                                      # stage1: using LVLM(e.g. GPT4V) to ask edited images
                                                      #         questions(from jsons in `EditData`), get the
                                                      #         raw `VLM_judgement` outputs, saved in `EvalData`
-    │   ├── high_level_eval_stage2_final_judge.py    # stage2: using LLM(e.g. GPT4-turbo) with designed template
+    │   ├── high_level_eval_stage2_final_judge.py    # stage2: using LLM(e.g. GPT4-turbo) with designed template
                                                      #         to get the more stable `final_judgement`
-    │   ├── low_level_eval.py                        ## evaluation for low-level dimensions, e.g. Deblurring
-    │   ├── metrics_utils                            ## utils for evaluations, e.g. GPT4V, GPT4-turbo, CLIP, SSIM
-    │   ├── sample_rank_gen.py                       ## generate script for `EditRank_ori` and `EditRank`
-    │   ├── summary.json                             ## generated by `summary.py`
-    │   ├── summary_ori.json                         ## generated by `summary.py`
-    │   ├── summary.py                               ## generate script for `summary.json` and `summary.json`,
+    │   ├── low_level_eval.py                        ## evaluation for low-level dimensions, e.g. Deblurring
+    │   ├── metrics_utils                            ## utils for evaluations, e.g. GPT4V, GPT4-turbo, CLIP, SSIM
+    │   ├── sample_rank_gen.py                       ## generate script for `EditRank_ori` and `EditRank`
+    │   ├── summary.json                             ## generated by `summary.py`
+    │   ├── summary_ori.json                         ## generated by `summary.py`
+    │   ├── summary.py                               ## generate script for `summary.json` and `summary.json`,
                                                      #  describe metric scores for every models in every dimensions
-    │   ├── summary_model_type_avg_score.json        ## generated by `summary_model_type_avg_score.py`
-    │   └── summary_model_type_avg_score.py          ## generate script for `summary_model_type_avg_score.json`,
+    │   ├── summary_model_type_avg_score.json        ## generated by `summary_model_type_avg_score.py`
+    │   └── summary_model_type_avg_score.py          ## generate script for `summary_model_type_avg_score.json`,
                                                      # describe metric scores for every editing models
                                                      # in every dimensions
     └── readme.md

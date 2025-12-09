@@ -4,7 +4,7 @@ import numpy as np
 
 import collections
 
-PROJECT_ROOT = "/path/to/project"
+PROJECT_ROOT = "/data/yk/EditBench"
 
 ALL_TASKS = [
     'Deblurring',       # PURE_SSIM_TASKS
@@ -67,6 +67,8 @@ EDIT_MODELS = [
     'any2pix',
     'iedit',
     'hqedit',
+    'fluxkontext',
+    'qwen_image_edit',
 ]
 
 

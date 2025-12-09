@@ -28,12 +28,12 @@
         "dataset": "BGReplacement",
         "prompt": "Modify the environment in this photo to showcase snowfall",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image snow? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "Yes."
+        "final_judgement": "Yes"
     },
     "4": {
         "image": "0004.jpg",
@@ -64,7 +64,7 @@
         "dataset": "BGReplacement",
         "prompt": "Adapt the surroundings of this picture to illustrate a snowy ambiance",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image desert? Answer Yes or No.",
         "gt": "No",
@@ -76,7 +76,7 @@
         "dataset": "BGReplacement",
         "prompt": "Reimagine the background of this photo with a snowy vista",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image snow? Answer Yes or No.",
         "gt": "Yes",
@@ -88,7 +88,7 @@
         "dataset": "BGReplacement",
         "prompt": "Refashion the backdrop of this image to convey a snowy setting",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image desert? Answer Yes or No.",
         "gt": "No",
@@ -100,24 +100,24 @@
         "dataset": "BGReplacement",
         "prompt": "Rearrange the elements in this picture to simulate a snowy backdrop",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image snow? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "No."
+        "final_judgement": "Yes"
     },
     "10": {
         "image": "0010.jpg",
         "dataset": "BGReplacement",
         "prompt": "Change the scenery in this photo to portray snow-covered terrain",
         "evaluation": {
-            "VLM_judgement": "No"
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image jungle? Answer Yes or No.",
         "gt": "No",
         "type": "Scenery",
-        "final_judgement": "yes"
+        "final_judgement": "No"
     },
     "11": {
         "image": "0011.jpg",
@@ -160,7 +160,7 @@
         "dataset": "BGReplacement",
         "prompt": "Modify the setting of this image to capture a snowy atmosphere",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image desert? Answer Yes or No.",
         "gt": "No",
@@ -172,7 +172,7 @@
         "dataset": "BGReplacement",
         "prompt": "Enhance the background of this photograph to resemble a snowy vista",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image snow? Answer Yes or No.",
         "gt": "Yes",
@@ -196,19 +196,19 @@
         "dataset": "BGReplacement",
         "prompt": "Rearrange the elements in this image to create a snowy setting",
         "evaluation": {
-            "VLM_judgement": "Yes"
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image snow? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "Yes"
+        "final_judgement": "No"
     },
     "18": {
         "image": "0018.jpg",
         "dataset": "BGReplacement",
         "prompt": "Transform the scenery in this photo to reflect a snowy landscape",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image meadow? Answer Yes or No.",
         "gt": "No",
@@ -244,19 +244,19 @@
         "dataset": "BGReplacement",
         "prompt": "Modify the setting of this photograph to illustrate a snowy environment",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image snow? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "Yes"
+        "final_judgement": "No"
     },
     "22": {
         "image": "0022.jpg",
         "dataset": "BGReplacement",
         "prompt": "Revise the backdrop of this picture to portray a snowy ambiance",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image beach? Answer Yes or No.",
         "gt": "No",
@@ -268,7 +268,7 @@
         "dataset": "BGReplacement",
         "prompt": "Alter the surroundings in this image to evoke a snowy vista",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image snow? Answer Yes or No.",
         "gt": "Yes",
@@ -345,7 +345,7 @@
         "question": "Is the background of this image desert? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "No."
+        "final_judgement": "No"
     },
     "30": {
         "image": "0030.jpg",
@@ -412,7 +412,7 @@
         "dataset": "BGReplacement",
         "prompt": "Refashion the backdrop of this photograph to resemble a desert landscape",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image desert? Answer Yes or No.",
         "gt": "Yes",
@@ -436,19 +436,19 @@
         "dataset": "BGReplacement",
         "prompt": "Customize the background of this image to showcase a desert vista",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image desert? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "No."
+        "final_judgement": "No"
     },
     "38": {
         "image": "0038.jpg",
         "dataset": "BGReplacement",
         "prompt": "Redesign the environment in this photo to evoke a desert setting",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image beach? Answer Yes or No.",
         "gt": "No",
@@ -484,7 +484,7 @@
         "dataset": "BGReplacement",
         "prompt": "Alter the background of this image to reflect a desert landscape",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image desert? Answer Yes or No.",
         "gt": "Yes",
@@ -496,7 +496,7 @@
         "dataset": "BGReplacement",
         "prompt": "Modify the setting of this photograph to depict a desert backdrop",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image glacier? Answer Yes or No.",
         "gt": "No",
@@ -532,19 +532,19 @@
         "dataset": "BGReplacement",
         "prompt": "Revamp the background of this image to showcase a desert scene",
         "evaluation": {
-            "VLM_judgement": "Yes"
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image desert? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "Yes"
+        "final_judgement": "No"
     },
     "46": {
         "image": "0046.jpg",
         "dataset": "BGReplacement",
         "prompt": "Refashion the environment in this picture to evoke a desert setting",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image beach? Answer Yes or No.",
         "gt": "No",
@@ -556,12 +556,12 @@
         "dataset": "BGReplacement",
         "prompt": "Modify the backdrop of this image to resemble a beach",
         "evaluation": {
-            "VLM_judgement": "Yes"
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image beach? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "Yes"
+        "final_judgement": "No"
     },
     "48": {
         "image": "0048.jpg",
@@ -580,7 +580,7 @@
         "dataset": "BGReplacement",
         "prompt": "Adapt the setting of this picture to illustrate a beach environment",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image beach? Answer Yes or No.",
         "gt": "Yes",
@@ -592,7 +592,7 @@
         "dataset": "BGReplacement",
         "prompt": "Rearrange the elements in this image to portray a beach backdrop",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image desert? Answer Yes or No.",
         "gt": "No",
@@ -628,7 +628,7 @@
         "dataset": "BGReplacement",
         "prompt": "Make adjustments to the setting of this photograph to simulate a beach scene",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image beach? Answer Yes or No.",
         "gt": "Yes",
@@ -640,7 +640,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the scenery in this photo to evoke a beach environment",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image glacier? Answer Yes or No.",
         "gt": "No",
@@ -652,7 +652,7 @@
         "dataset": "BGReplacement",
         "prompt": "Alter the background of this image to illustrate a beach vista",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image beach? Answer Yes or No.",
         "gt": "Yes",
@@ -688,7 +688,7 @@
         "dataset": "BGReplacement",
         "prompt": "Customize the environment in this image to simulate a beach landscape",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image desert? Answer Yes or No.",
         "gt": "No",
@@ -700,7 +700,7 @@
         "dataset": "BGReplacement",
         "prompt": "Redesign the background of this photo to portray a beach ambiance",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image beach? Answer Yes or No.",
         "gt": "Yes",
@@ -712,19 +712,19 @@
         "dataset": "BGReplacement",
         "prompt": "Make adjustments to the setting of this picture to capture a beach scene",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image desert? Answer Yes or No.",
         "gt": "No",
         "type": "Scenery",
-        "final_judgement": "No."
+        "final_judgement": "Yes"
     },
     "61": {
         "image": "0061.jpg",
         "dataset": "BGReplacement",
         "prompt": "Transform the scenery in this photo to evoke a beach environment",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image beach? Answer Yes or No.",
         "gt": "Yes",
@@ -736,7 +736,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the backdrop of this image to illustrate a beach vista",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image jungle? Answer Yes or No.",
         "gt": "No",
@@ -772,7 +772,7 @@
         "dataset": "BGReplacement",
         "prompt": "Rearrange the elements in this image to simulate a beach ambiance",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image beach? Answer Yes or No.",
         "gt": "Yes",
@@ -808,7 +808,7 @@
         "dataset": "BGReplacement",
         "prompt": "Make adjustments to the backdrop of this image to capture a beach environment",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image glacier? Answer Yes or No.",
         "gt": "No",
@@ -820,12 +820,12 @@
         "dataset": "BGReplacement",
         "prompt": "Change the background of this picture to evoke a beach vista",
         "evaluation": {
-            "VLM_judgement": "Yes"
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image beach? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "Yes"
+        "final_judgement": "No"
     },
     "70": {
         "image": "0070.jpg",
@@ -844,7 +844,7 @@
         "dataset": "BGReplacement",
         "prompt": "Modify the background of this image to resemble a jungle environment",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image jungle? Answer Yes or No.",
         "gt": "Yes",
@@ -856,7 +856,7 @@
         "dataset": "BGReplacement",
         "prompt": "Transform the backdrop of this photo to depict a jungle scene",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image meadow? Answer Yes or No.",
         "gt": "No",
@@ -892,19 +892,19 @@
         "dataset": "BGReplacement",
         "prompt": "Customize the environment in this photo to showcase a jungle ambiance",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image jungle? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "No."
+        "final_judgement": "No"
     },
     "76": {
         "image": "0076.jpg",
         "dataset": "BGReplacement",
         "prompt": "Redesign the background of this image to capture a jungle atmosphere",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image glacier? Answer Yes or No.",
         "gt": "No",
@@ -952,7 +952,7 @@
         "dataset": "BGReplacement",
         "prompt": "Refashion the environment in this picture to convey a jungle setting",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image meadow? Answer Yes or No.",
         "gt": "No",
@@ -964,12 +964,12 @@
         "dataset": "BGReplacement",
         "prompt": "Rearrange the elements in this photo to reflect a jungle backdrop",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image jungle? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "No."
+        "final_judgement": "No"
     },
     "82": {
         "image": "0082.jpg",
@@ -1000,7 +1000,7 @@
         "dataset": "BGReplacement",
         "prompt": "Transform the scenery in this photo to evoke a jungle vista",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image snow? Answer Yes or No.",
         "gt": "No",
@@ -1012,12 +1012,12 @@
         "dataset": "BGReplacement",
         "prompt": "Change the backdrop of this image to illustrate a jungle ambiance",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image jungle? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "No."
+        "final_judgement": "No"
     },
     "86": {
         "image": "0086.jpg",
@@ -1036,12 +1036,12 @@
         "dataset": "BGReplacement",
         "prompt": "Refashion the background of this photo to showcase a jungle landscape",
         "evaluation": {
-            "VLM_judgement": "No"
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image jungle? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "No"
+        "final_judgement": "Yes"
     },
     "88": {
         "image": "0089.jpg",
@@ -1108,7 +1108,7 @@
         "dataset": "BGReplacement",
         "prompt": "Transform the backdrop of this photo to depict a meadow scene",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image glacier? Answer Yes or No.",
         "gt": "No",
@@ -1120,7 +1120,7 @@
         "dataset": "BGReplacement",
         "prompt": "Adapt the setting of this picture to illustrate a meadow landscape",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image meadow? Answer Yes or No.",
         "gt": "Yes",
@@ -1144,19 +1144,19 @@
         "dataset": "BGReplacement",
         "prompt": "Customize the environment in this photo to showcase a meadow ambiance",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image meadow? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "No."
+        "final_judgement": "Yes"
     },
     "97": {
         "image": "0098.jpg",
         "dataset": "BGReplacement",
         "prompt": "Redesign the background of this image to capture a meadow atmosphere",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image glacier? Answer Yes or No.",
         "gt": "No",
@@ -1180,7 +1180,7 @@
         "dataset": "BGReplacement",
         "prompt": "Change the scenery in this photo to evoke a meadow vista",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image glacier? Answer Yes or No.",
         "gt": "No",
@@ -1192,19 +1192,19 @@
         "dataset": "BGReplacement",
         "prompt": "Alter the backdrop of this image to illustrate a meadow ambiance",
         "evaluation": {
-            "VLM_judgement": "No"
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image meadow? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "No"
+        "final_judgement": "Yes"
     },
     "101": {
         "image": "0102.jpg",
         "dataset": "BGReplacement",
         "prompt": "Adapt the environment in this picture to convey a meadow scene",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image jungle? Answer Yes or No.",
         "gt": "No",
@@ -1228,12 +1228,12 @@
         "dataset": "BGReplacement",
         "prompt": "Rearrange the elements in this image to reflect a meadow backdrop",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image glacier? Answer Yes or No.",
         "gt": "No",
         "type": "Scenery",
-        "final_judgement": "Yes."
+        "final_judgement": "Yes"
     },
     "104": {
         "image": "0105.jpg",
@@ -1264,19 +1264,19 @@
         "dataset": "BGReplacement",
         "prompt": "Make adjustments to the backdrop of this image to illustrate a meadow setting",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image meadow? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "No."
+        "final_judgement": "No"
     },
     "107": {
         "image": "0108.jpg",
         "dataset": "BGReplacement",
         "prompt": "Alter the environment in this picture to convey a meadow atmosphere",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image glacier? Answer Yes or No.",
         "gt": "No",
@@ -1288,7 +1288,7 @@
         "dataset": "BGReplacement",
         "prompt": "Refashion the background of this photo to simulate a meadow scene",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image meadow? Answer Yes or No.",
         "gt": "Yes",
@@ -1300,7 +1300,7 @@
         "dataset": "BGReplacement",
         "prompt": "Rearrange the elements in this image to capture a meadow vista",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image desert? Answer Yes or No.",
         "gt": "No",
@@ -1324,7 +1324,7 @@
         "dataset": "BGReplacement",
         "prompt": "Redesign the scenery in this photo to evoke a meadow landscape",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image glacier? Answer Yes or No.",
         "gt": "No",
@@ -1360,12 +1360,12 @@
         "dataset": "BGReplacement",
         "prompt": "Refashion the background of this photo to illustrate a meadow ambiance",
         "evaluation": {
-            "VLM_judgement": "Yes"
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image meadow? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "Yes"
+        "final_judgement": "No"
     },
     "115": {
         "image": "0116.jpg",
@@ -1420,7 +1420,7 @@
         "dataset": "BGReplacement",
         "prompt": "Customize the environment in this photo to showcase a glacier ambiance",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image jungle? Answer Yes or No.",
         "gt": "No",
@@ -1432,7 +1432,7 @@
         "dataset": "BGReplacement",
         "prompt": "Redesign the background of this image to capture a glacier atmosphere",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image glacier? Answer Yes or No.",
         "gt": "Yes",
@@ -1492,7 +1492,7 @@
         "dataset": "BGReplacement",
         "prompt": "Refashion the background of this photo to showcase a glacier landscape",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image meadow? Answer Yes or No.",
         "gt": "No",
@@ -1540,7 +1540,7 @@
         "dataset": "BGReplacement",
         "prompt": "Make adjustments to the backdrop of this image to illustrate a glacier setting",
         "evaluation": {
-            "VLM_judgement": "No."
+            "VLM_judgement": "No"
         },
         "question": "Is the background of this image desert? Answer Yes or No.",
         "gt": "No",
@@ -1576,12 +1576,12 @@
         "dataset": "BGReplacement",
         "prompt": "Rearrange the elements in this image to capture a glacier vista",
         "evaluation": {
-            "VLM_judgement": "No"
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image glacier? Answer Yes or No.",
         "gt": "Yes",
         "type": "Scenery",
-        "final_judgement": "No"
+        "final_judgement": "Yes"
     },
     "133": {
         "image": "0134.jpg",
@@ -1660,11 +1660,11 @@
         "dataset": "BGReplacement",
         "prompt": "Transform the backdrop of this photo to depict a snowy scene",
         "evaluation": {
-            "VLM_judgement": "Yes."
+            "VLM_judgement": "Yes"
         },
         "question": "Is the background of this image snow? Answer Yes or No.",
         "gt": "No",
         "type": "Scenery",
-        "final_judgement": "No."
+        "final_judgement": "No"
     }
 }
